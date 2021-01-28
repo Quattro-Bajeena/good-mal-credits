@@ -1,4 +1,4 @@
-from muw import app
+from anime_credits_app import app
 
 if __name__ == '__main__':
 	app.run()
