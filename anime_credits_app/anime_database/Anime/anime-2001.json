@@ -1,0 +1,44 @@
+{
+    "mal_id": 2001,
+    "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+    "title": "Tengen Toppa Gurren Lagann",
+    "title_english": "Gurren Lagann",
+    "title_japanese": "天元突破グレンラガン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-01T00:00:00+00:00",
+        "to": "2007-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 1, 2007 to Sep 30, 2007"
+    },
+    "score": 8.67,
+    "scored_by": 659304,
+    "rank": 49,
+    "popularity": 42,
+    "members": 1197116,
+    "favorites": 67300,
+    "premiered": "Spring 2007",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

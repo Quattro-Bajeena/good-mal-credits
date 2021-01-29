@@ -1,0 +1,44 @@
+{
+    "mal_id": 1,
+    "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+    "title": "Cowboy Bebop",
+    "title_english": "Cowboy Bebop",
+    "title_japanese": "カウボーイビバップ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-04-03T00:00:00+00:00",
+        "to": "1999-04-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 1998
+            },
+            "to": {
+                "day": 24,
+                "month": 4,
+                "year": 1999
+            }
+        },
+        "string": "Apr 3, 1998 to Apr 24, 1999"
+    },
+    "score": 8.78,
+    "scored_by": 595723,
+    "rank": 28,
+    "popularity": 38,
+    "members": 1219437,
+    "favorites": 60665,
+    "premiered": "Spring 1998",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

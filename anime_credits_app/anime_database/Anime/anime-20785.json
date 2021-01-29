@@ -1,0 +1,44 @@
+{
+    "mal_id": 20785,
+    "url": "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
+    "title": "Mahouka Koukou no Rettousei",
+    "title_english": "The Irregular at Magic High School",
+    "title_japanese": "魔法科高校の劣等生",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "to": "2014-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Sep 28, 2014"
+    },
+    "score": 7.54,
+    "scored_by": 395737,
+    "rank": 1475,
+    "popularity": 114,
+    "members": 746701,
+    "favorites": 9972,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

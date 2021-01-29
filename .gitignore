@@ -1,5 +1,8 @@
-__pychache__/
+__pycache__/
+#anime_credits_app/__pycache__
+
 .idea/
 muwenv/
 venv/
 .flaskenv
+.vscode/

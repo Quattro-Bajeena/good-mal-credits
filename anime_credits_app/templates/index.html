@@ -1,8 +1,41 @@
-<html>
-    <head>
-        <title>{{ title }} - Anime Credits Sorted Website</title>
-    </head>
-    <body>
-        <h1>Hello there, {{ user.username }}!</h1>
-    </body>
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GMS</title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
+</head>
+<body>
+<div class="header">
+    <h1>good MAL searching</h1>
+</div>
+
+<hr>
+
+<div id="search-box">
+    <form action="/search" method="post">
+        <ul>
+            <li>
+                <input type="text" id="search-bar" name="query">
+            </li>
+            <li>
+                <input type="radio" id="input-anime" name="search-category" value="anime" checked>
+                <label for="input-anime">Anime</label>
+                <input type="radio" id="input-people" name="search-category" value="people">
+                <label for="input-people">People</label>
+            </li>
+            <li>
+                <button type="submit">Search</button>
+            </li>
+        </ul>
+
+    </form>
+</div>
+
+<hr>
+{% block table %}{%endblock%}
+
+
+
+</body>
 </html>

@@ -1,0 +1,23 @@
+{% extends 'index.html' %}
+
+
+{% block table %}
+
+<table id="staff-table" class="content-table">
+    <tr>
+        <th>name</th>
+        <th>position</th>
+    </tr>
+
+    {% for person in staff %}
+    <tr>
+        <td> {{ person.name }} </td>
+        <td> {{ person.position }} </td>
+    </tr>   
+    {% endfor %}
+
+
+</table>
+
+
+{% endblock %}
