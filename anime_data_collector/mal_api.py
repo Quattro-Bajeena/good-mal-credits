@@ -1,9 +1,21 @@
-from anime_credits_app import anime_db_config as conf
 from jikanpy import Jikan
 from pathlib import Path
 import json
 import time
 import functools
+
+# this is relative import, it will only work if this module is imported from somewhre else
+#  like import anime_data_collector.mal_api
+# this wont work if I it's run like python mal_api.py, 
+# for that you have to do absolute import, like import anime_db_config as config
+# but that won't do if you import this package
+
+import anime_data_collector.anime_db_config as config
+
+
+
+
+#print("anieme mal", Path(__name__).resolve())
 
 jikan = Jikan()
 
@@ -50,14 +62,20 @@ def id_from_search(type: str, query: str) -> int:
     return int(results["results"][0]["mal_id"])
 
 @rate_limiter
-def search_options(type: str, query: str):
-    results = jikan.search(search_type=type, query=query)
+def search_options(q_type: str, query: str, number : int):
+    results = jikan.search(search_type=q_type, query=query)
     options = []
-    first_5 = results["results"][0:5]
+    firsts = results["results"][0:number]
 
-    for mal_result in first_5:
+    
+    attributes_to_copy = ["mal_id", "url", "image_url"]
+    if q_type == "anime":
+        attributes_to_copy.append("title")
+    if q_type == "people":
+        attributes_to_copy.append("name")
+
+    for mal_result in firsts:
         result = {}
-        attributes_to_copy = ["mal_id", "title", "url", "image_url"]
         for attr in attributes_to_copy:
             result[attr] = mal_result[attr]
         options.append(result)
@@ -72,7 +90,7 @@ def get_staff_api(mal_id) -> list:
 
 
 def save_staff(mal_id, staff: list):
-    with open(conf.staff_folder / Path(f"staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
+    with open(config.staff_folder / Path(f"staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(staff, f, indent=4, ensure_ascii=False)
 
 # PEOPLE
@@ -91,7 +109,7 @@ def get_person_api(mal_id) -> dict:
 
 def save_person(person):
     mal_id = person["mal_id"]
-    with open(conf.people_folder / Path(f"person-{mal_id}.json"), 'w', encoding='utf-8') as f:
+    with open(config.people_folder / Path(f"person-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(person, f, indent=4, ensure_ascii=False)
 
 # ANIME
@@ -111,14 +129,14 @@ def get_anime_api(mal_id: int):
 
 def save_anime(anime: dict):
     mal_id = anime["mal_id"]
-    with open(conf.anime_folder / Path(f"anime-{mal_id}.json"), 'w', encoding='utf-8') as f:
+    with open(config.anime_folder / Path(f"anime-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(anime, f, indent=4, ensure_ascii=False)
 
 
 #GENERAL
 
 def check_file(resource_type, mal_id : int) -> bool:
-    folder = conf.resource_types[resource_type]
+    folder = config.resource_types[resource_type]
     files = folder.rglob('*.json')
 
     for file in files:
@@ -130,26 +148,20 @@ def check_file(resource_type, mal_id : int) -> bool:
 
 
 def get_data_file(resource_type, id: int):
-    folder = conf.resource_types[resource_type]
+    folder = config.resource_types[resource_type]
 
     files = folder.rglob('*.json')
     for file in files:
         file_id = int(file.stem.split('-')[1])
         if file_id == id:
-            with open(file, 'r') as f:
+            with open(file, 'r', encoding='utf-8') as f:
                 return json.load(f)
     return None
 
 
 
-# save_person(get_person_api(2))
-# save_staff(1, get_staff_api(1))
-# print(get_data_file("anime", 1))
-# save_anime(get_anime_api(1))
 
-# id_from_search("anime", "attack on titan")
-# search_options("anime", "attack on titan")
-
+# just running this file wont work becasue of realtive import
 if __name__ == "__main__":
     id = id_from_search("anime", "guren lagann")
     person = get_anime_api(id)

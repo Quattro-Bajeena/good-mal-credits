@@ -1,0 +1,37 @@
+{
+    "mal_id": 3473,
+    "url": "https://myanimelist.net/anime/3473/Souseiki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/5777.jpg",
+    "title": "Souseiki",
+    "title_english": "The Genesis",
+    "title_japanese": "創世記",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1968-10-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 1968
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 1, 1968"
+    },
+    "score": 5.52,
+    "scored_by": 818,
+    "rank": 9584,
+    "popularity": 9535,
+    "members": 1481,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

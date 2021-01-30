@@ -3,9 +3,9 @@ import json
 from xml.etree import ElementTree
 from pathlib import Path
 
-from anime_credits_app import anime_db_config
+import anime_data_collector.anime_db_config as config
 
-anime_folder = anime_db_config.anime_folder
+
 
 
 def save_report_to_json(data, file_name: str):
@@ -21,7 +21,7 @@ def save_report_to_json(data, file_name: str):
 
     print(data)
 
-    with open(anime_folder / Path(file_name + ".json"), 'w', encoding='utf-8') as f:
+    with open(config.anime_folder / Path(file_name + ".json"), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
@@ -46,7 +46,7 @@ def download_details(id, type="anime"):
 
     #response = requests.get(ann_request)
     #print(response.text)
-    file = open(anime_folder / "anime-4658.xml", encoding='utf-8')
+    file = open(config.anime_folder / "anime-4658.xml", encoding='utf-8')
 
     save_details_json(file.read(), f"{type}-{id}")
 

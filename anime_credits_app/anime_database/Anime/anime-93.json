@@ -1,0 +1,44 @@
+{
+    "mal_id": 93,
+    "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
+    "title": "Mobile Suit Gundam SEED",
+    "title_english": "Mobile Suit Gundam SEED",
+    "title_japanese": "機動戦士ガンダムSEED",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-10-05T00:00:00+00:00",
+        "to": "2003-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2003
+            }
+        },
+        "string": "Oct 5, 2002 to Sep 27, 2003"
+    },
+    "score": 7.79,
+    "scored_by": 78117,
+    "rank": 852,
+    "popularity": 1044,
+    "members": 138905,
+    "favorites": 3571,
+    "premiered": "Fall 2002",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

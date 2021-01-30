@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+
+{% block main %}
+
+<ol>
+{% for result in results %}
+    <li>
+        <img src={{result.image_url}} width="30"> 
+
+        {% if category == "anime" %}
+        <a href={{url_for("anime_staff", mal_id = result.mal_id)}}>{{result.title}}</a>
+        {% elif category == "people" %}
+        <a href={{url_for("person", mal_id = result.mal_id)}}>{{result.name}}</a>
+        {% endif %}
+
+    </li>
+{% endfor %}
+</ol>
+
+{%endblock%}

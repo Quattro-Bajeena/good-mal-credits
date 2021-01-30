@@ -13,7 +13,7 @@
 <hr>
 
 <div id="search-box">
-    <form action="/search" method="post">
+    <form action={{url_for('search_with_options')}} method="post">
         <ul>
             <li>
                 <input type="text" id="search-bar" name="query">
@@ -33,7 +33,7 @@
 </div>
 
 <hr>
-{% block table %}{%endblock%}
+{% block main %}{%endblock%}
 
 
 
