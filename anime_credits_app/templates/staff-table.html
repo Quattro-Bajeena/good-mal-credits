@@ -19,16 +19,18 @@
         <th>picture</th>
         <th>name</th>
         <th>position</th>
+        <th>favorites</th>
+        <th>no. of credits</th>
     </tr>
 
-    {% for person in staff %}
-        {% for position in person.positions %}
-        <tr>
-            <td><img src={{person.image_url}} width="30"> </td>
-            <td><a href={{url_for("person", mal_id=person.mal_id)}}>{{ person.name }} </a></td>
-            <td> {{ position }} </td>
-        </tr>   
-        {% endfor %}
+    {% for member in staff %}
+    <tr>
+        <td><img src={{member.person.image_url}} width="30"> </td>
+        <td><a href={{url_for("person", mal_id=member.person.mal_id)}}>{{ member.person.name }} </a></td>
+        <td> {{ member.position }} </td>
+        <td>{{member.person.member_favorites}}</td>
+        <td>{{ len(member.person.staff_credits) }}</td>
+    </tr>   
     {% endfor %}
 
 

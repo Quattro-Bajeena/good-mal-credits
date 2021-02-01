@@ -1,0 +1,49 @@
+{
+    "mal_id": 25457,
+    "url": "https://myanimelist.net/people/25457/Neko_Oikawa",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/53381.jpg",
+    "name": "Neko Oikawa",
+    "given_name": "眠子",
+    "family_name": "及川",
+    "birthday": "1960-02-10T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 42744,
+                "url": "https://myanimelist.net/anime/42744/Deaerutte_Ii_ne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1005/109000.jpg?s=6602cd8da064121012f2d51dcba591d6",
+                "name": "Deaerutte Ii ne"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 4192,
+                "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg?s=e935c5e7a728837913434494249e6a64",
+                "name": "Hayate no Gotoku!!"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 37991,
+                "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg?s=930384d2ece0ff367d0e03b05fc8e7c4",
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        }
+    ]
+}

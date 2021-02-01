@@ -1,0 +1,445 @@
+{
+    "mal_id": 37253,
+    "url": "https://myanimelist.net/people/37253/Hisaki_Furukawa",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Hisaki Furukawa",
+    "given_name": "尚哉",
+    "family_name": "古川",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 532,
+                "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg?s=19199f1bc070fcbf2eaab8b59083a93b",
+                "name": "Bishoujo Senshi Sailor Moon S"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 996,
+                "url": "https://myanimelist.net/anime/996/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/996.jpg?s=ce739e74f2ecf723743ca8a87408495f",
+                "name": "Bishoujo Senshi Sailor Moon: Sailor Stars"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10490,
+                "url": "https://myanimelist.net/anime/10490/Blood-C",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg?s=a9510442012a71bd55d7139bdd02a206",
+                "name": "Blood-C"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14117,
+                "url": "https://myanimelist.net/anime/14117/Blood-C__Special_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/39001.jpg?s=199a11db6925481fe3a633fff8a3daee",
+                "name": "Blood-C: Special Edition"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8361,
+                "url": "https://myanimelist.net/anime/8361/Crayon_Shin-chan_Movie_07__Bakuhatsu_Onsen_Wakuwaku_Daikessen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22023.jpg?s=e49a44ddeeef507a06071e7b89115f6c",
+                "name": "Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8362,
+                "url": "https://myanimelist.net/anime/8362/Crayon_Shin-chan_Movie_08__Arashi_wo_Yobu_Jungle",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/22024.jpg?s=34942951579e32d0ffcd271b6b333137",
+                "name": "Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5630,
+                "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15033.jpg?s=96e6bb5bb7b5c214a4f320b762c53f9b",
+                "name": "Higashi no Eden"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 5630,
+                "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15033.jpg?s=96e6bb5bb7b5c214a4f320b762c53f9b",
+                "name": "Higashi no Eden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6372,
+                "url": "https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19101.jpg?s=6c0e67ba47711eebc13a64d62f0d679e",
+                "name": "Higashi no Eden Movie I: The King of Eden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6637,
+                "url": "https://myanimelist.net/anime/6637/Higashi_no_Eden_Movie_II__Paradise_Lost",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/26126.jpg?s=ca855a85a98d12be0fc6b160f69e37ff",
+                "name": "Higashi no Eden Movie II: Paradise Lost"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6927,
+                "url": "https://myanimelist.net/anime/6927/Higashi_no_Eden__Air_Communication",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17608.jpg?s=a8575ae02b6ff76055ffdca31e018b01",
+                "name": "Higashi no Eden: Air Communication"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
+                "name": "Kareshi Kanojo no Jijou"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 1566,
+                "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg?s=9d7a4984f673b975f1684e506ec7d0bb",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3447,
+                "url": "https://myanimelist.net/anime/3447/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society_-_Uchikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/5699.jpg?s=3499b67f3537638fd6b3696839eb56a6",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 2449,
+                "url": "https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21835.jpg?s=86e6580877381cba1b3842803fd7ac32",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2449,
+                "url": "https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21835.jpg?s=86e6580877381cba1b3842803fd7ac32",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10948,
+                "url": "https://myanimelist.net/anime/10948/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven_-_Tachikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30204.jpg?s=863c94699cb11d42a647f044eaea6d1a",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 10948,
+                "url": "https://myanimelist.net/anime/10948/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven_-_Tachikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30204.jpg?s=863c94699cb11d42a647f044eaea6d1a",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1138,
+                "url": "https://myanimelist.net/anime/1138/Medarot",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/46699.jpg?s=82e4574fcffa855171fadb03c3f018f7",
+                "name": "Medarot"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1138,
+                "url": "https://myanimelist.net/anime/1138/Medarot",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/46699.jpg?s=82e4574fcffa855171fadb03c3f018f7",
+                "name": "Medarot"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 1138,
+                "url": "https://myanimelist.net/anime/1138/Medarot",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/46699.jpg?s=82e4574fcffa855171fadb03c3f018f7",
+                "name": "Medarot"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1462,
+                "url": "https://myanimelist.net/anime/1462/Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/74781.jpg?s=510c0bebf6c11cfd06bc97bdf82e9075",
+                "name": "Memories"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4191,
+                "url": "https://myanimelist.net/anime/4191/Popolocrois_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/17877.jpg?s=4d4905afc109b42a71b9e630e2cac98d",
+                "name": "Popolocrois Monogatari"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 37442,
+                "url": "https://myanimelist.net/anime/37442/Psycho-Pass__Sinners_of_the_System_Case3_-_Onshuu_no_Kanata_ni＿＿",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1819/97220.jpg?s=949a097c0aed07189f119731038adc1e",
+                "name": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3363,
+                "url": "https://myanimelist.net/anime/3363/RD_Sennou_Chousashitsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/18929.jpg?s=762df5453a9950918e4665c30def400a",
+                "name": "RD Sennou Chousashitsu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1827,
+                "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg?s=a47347ac69684d95630653b00a90facc",
+                "name": "Seirei no Moribito"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 1827,
+                "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg?s=a47347ac69684d95630653b00a90facc",
+                "name": "Seirei no Moribito"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 199,
+                "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                "name": "Sen to Chihiro no Kamikakushi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9745,
+                "url": "https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/50871.jpg?s=a57c2369fe6b5becd957d6b7b1ec0028",
+                "name": "Sengoku Basara Movie: The Last Party"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6973,
+                "url": "https://myanimelist.net/anime/6973/Senkou_no_Night_Raid",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/24229.jpg?s=5f30dddd6ae28dae183c719e5d017030",
+                "name": "Senkou no Night Raid"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12191,
+                "url": "https://myanimelist.net/anime/12191/Smile_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/76179.jpg?s=f9392b08b24c015b6867ff0fa10a8871",
+                "name": "Smile Precure!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3613,
+                "url": "https://myanimelist.net/anime/3613/Toshokan_Sensou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/79595.jpg?s=7722978e032b7fec8a86217c8cd77d07",
+                "name": "Toshokan Sensou"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 3613,
+                "url": "https://myanimelist.net/anime/3613/Toshokan_Sensou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/79595.jpg?s=7722978e032b7fec8a86217c8cd77d07",
+                "name": "Toshokan Sensou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5332,
+                "url": "https://myanimelist.net/anime/5332/Toshokan_Sensou__Koi_no_Shougai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/36961.jpg?s=3a154b5593107caa45ba54dde78e6e6c",
+                "name": "Toshokan Sensou: Koi no Shougai"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 343,
+                "url": "https://myanimelist.net/anime/343/Tsukuyomi__Moon_Phase",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75255.jpg?s=9c2ba5c8acdb38c9b7795bfdf2efd55e",
+                "name": "Tsukuyomi: Moon Phase"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10405,
+                "url": "https://myanimelist.net/anime/10405/Xi_Avant",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/33549.jpg?s=22bb5b6905aaa1cc73c2a28645bad5f9",
+                "name": "Xi Avant"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 10405,
+                "url": "https://myanimelist.net/anime/10405/Xi_Avant",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/33549.jpg?s=22bb5b6905aaa1cc73c2a28645bad5f9",
+                "name": "Xi Avant"
+            }
+        }
+    ]
+}

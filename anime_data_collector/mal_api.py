@@ -34,17 +34,22 @@ def rate_limiter(func_with_api_call):
         global second_limit, second_limit_max, minute_limit, minute_limit_max
         global last_request
 
-        if time.time() - last_request > 1:
-            second_limit = second_limit_max
-        if time.time() - last_request > 60:
-            minute_limit = minute_limit_max
+        print(f"RATE LIMITER: {second_limit} / {minute_limit}: {time.time() - last_request}")
 
-        if second_limit == 0:
-            print("hit second rate limit")
-            time.sleep(1)
-        if minute_limit == 0:
-            print("hit minute rate limit")
-            time.sleep(60 - (time.time() - last_request))
+        if second_limit < 0:
+            print("hit SECOND rate LIMIT")
+            time.sleep(2)
+        if minute_limit < 0:
+            print("hit MINUTE rate LIMIT")
+            #time.sleep(60 - (time.time() - last_request))
+            time.sleep(90)
+
+        if time.time() - last_request > 2:
+            second_limit = second_limit_max
+            print("RESTORED SECOND LIMIT")
+        if time.time() - last_request > 90:
+            minute_limit = minute_limit_max
+            print("RESTORE MINUTE LIMIT")
 
         second_limit -= 1
         minute_limit -= 1
@@ -84,18 +89,30 @@ def search_options(q_type: str, query: str, number : int):
 
 # STAFF
 @rate_limiter
-def get_staff_api(mal_id) -> list:
+def get_staff_api(mal_id : int) -> list:
     characters_staff = jikan.anime(mal_id, extension="characters_staff")
     return {"mal_id": mal_id, "staff": characters_staff["staff"]}
 
 
-def save_staff(mal_id, staff: list):
+def save_staff(mal_id : int, staff: list):
     with open(config.staff_folder / Path(f"staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
+        json.dump(staff, f, indent=4, ensure_ascii=False)
+
+
+# CHARACTERS
+@rate_limiter
+def get_characters_api(mal_id : int) -> list:
+    characters_staff = jikan.anime(mal_id, extension="characters_staff")
+    return {"mal_id": mal_id, "characters": characters_staff["characters"]}
+
+
+def save_characters(mal_id :int, staff: list):
+    with open(config.staff_folder / Path(f"characters-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(staff, f, indent=4, ensure_ascii=False)
 
 # PEOPLE
 @rate_limiter
-def get_person_api(mal_id) -> dict:
+def get_person_api(mal_id:int) -> dict:
     mal_person = jikan.person(mal_id)
     person = {}
     attributes_to_copy = ["mal_id", "url", "image_url", "name", "given_name", "family_name",
@@ -160,10 +177,3 @@ def get_data_file(resource_type, id: int):
 
 
 
-
-# just running this file wont work becasue of realtive import
-if __name__ == "__main__":
-    id = id_from_search("anime", "guren lagann")
-    person = get_anime_api(id)
-    save_anime(person)
-    print(second_limit, minute_limit)

@@ -1,0 +1,31 @@
+{
+    "mal_id": 11779,
+    "url": "https://myanimelist.net/people/11779/Georg_Friedrich_Handel",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10943.jpg",
+    "name": "Georg Friedrich Handel",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 32,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 820,
+                "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg?s=3acfbce7aab5c99baeb4cbcfbe015872",
+                "name": "Ginga Eiyuu Densetsu"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        }
+    ]
+}

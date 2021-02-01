@@ -1,0 +1,652 @@
+{
+    "mal_id": 38759,
+    "url": "https://myanimelist.net/people/38759/Takao_Abo",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Takao Abo",
+    "given_name": "孝雄",
+    "family_name": "阿保",
+    "birthday": null,
+    "member_favorites": 16,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 40148,
+                "url": "https://myanimelist.net/anime/40148/22_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1485/108385.jpg?s=14b7a0d65da1dc20afcd884a808e36e4",
+                "name": "22/7"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2288,
+                "url": "https://myanimelist.net/anime/2288/Akihabara_Dennou-gumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/83429.jpg?s=d000d76d4b917051928f2d09f8094021",
+                "name": "Akihabara Dennou-gumi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1177,
+                "url": "https://myanimelist.net/anime/1177/Alien_9",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/2607.jpg?s=e31fb80b8425dd483c9c597c027e4716",
+                "name": "Alien 9"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3829,
+                "url": "https://myanimelist.net/anime/3829/Anne_no_Nikki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/46771.jpg?s=57d954cbd2bbd559d932136e491ef647",
+                "name": "Anne no Nikki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 1519,
+                "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/83748.jpg?s=95ec215f35c17dc155d893393ca891c3",
+                "name": "Black Lagoon: The Second Barrage"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1519,
+                "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/83748.jpg?s=95ec215f35c17dc155d893393ca891c3",
+                "name": "Black Lagoon: The Second Barrage"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1519,
+                "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/83748.jpg?s=95ec215f35c17dc155d893393ca891c3",
+                "name": "Black Lagoon: The Second Barrage"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 393,
+                "url": "https://myanimelist.net/anime/393/Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/50419.jpg?s=2246032d65ec85d922ada875b7f60488",
+                "name": "Escaflowne"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 19367,
+                "url": "https://myanimelist.net/anime/19367/Galilei_Donna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53239.jpg?s=3b6ce9241a64a325bb69dcf29dc4b248",
+                "name": "Galilei Donna"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 19367,
+                "url": "https://myanimelist.net/anime/19367/Galilei_Donna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53239.jpg?s=3b6ce9241a64a325bb69dcf29dc4b248",
+                "name": "Galilei Donna"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 19367,
+                "url": "https://myanimelist.net/anime/19367/Galilei_Donna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53239.jpg?s=3b6ce9241a64a325bb69dcf29dc4b248",
+                "name": "Galilei Donna"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 29093,
+                "url": "https://myanimelist.net/anime/29093/Grisaia_no_Meikyuu__Caprice_no_Mayu_0",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73152.jpg?s=e406570f69b3ab92f163d2cb3ead7591",
+                "name": "Grisaia no Meikyuu: Caprice no Mayu 0"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3935,
+                "url": "https://myanimelist.net/anime/3935/Karakuri_Kiden__Hiwou_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1511/92811.jpg?s=cb3e49e2202955336d2c46314910f96b",
+                "name": "Karakuri Kiden: Hiwou Senki"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 52,
+                "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/23379.jpg?s=6fa6b2f9c63eaf16fb5085fd32567073",
+                "name": "Kidou Tenshi Angelic Layer"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 52,
+                "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/23379.jpg?s=6fa6b2f9c63eaf16fb5085fd32567073",
+                "name": "Kidou Tenshi Angelic Layer"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 52,
+                "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/23379.jpg?s=6fa6b2f9c63eaf16fb5085fd32567073",
+                "name": "Kidou Tenshi Angelic Layer"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4246,
+                "url": "https://myanimelist.net/anime/4246/Koukyoushihen_Eureka_Seven__Pocket_ga_Niji_de_Ippai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/12896.jpg?s=edeeea40f1456cf93f077fcafa56d41c",
+                "name": "Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 3866,
+                "url": "https://myanimelist.net/anime/3866/Kuro_ga_Ita_Natsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22958.jpg?s=f624d3976ef02d13e6a61416938d7192",
+                "name": "Kuro ga Ita Natsu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 191,
+                "url": "https://myanimelist.net/anime/191/Love_Hina_Christmas_Special__Silent_Eve",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/82467.jpg?s=8dbc4cbda497f427a88dc33dcf82adfb",
+                "name": "Love Hina Christmas Special: Silent Eve"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Assistant Director",
+            "anime": {
+                "mal_id": 15177,
+                "url": "https://myanimelist.net/anime/15177/Macross_FB7__Ore_no_Uta_wo_Kike",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/41111.jpg?s=3a8d5374b7c7ceb68e9ee618872906da",
+                "name": "Macross FB7: Ore no Uta wo Kike!"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 34599,
+                "url": "https://myanimelist.net/anime/34599/Made_in_Abyss",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/86733.jpg?s=2ebe09f92ee0169f16b82f7e7eef674a",
+                "name": "Made in Abyss"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 31452,
+                "url": "https://myanimelist.net/anime/31452/Norn9__Norn_Nonet",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/77974.jpg?s=f2e889f1acc3367ef8bc2767ea7402d0",
+                "name": "Norn9: Norn+Nonet"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 31452,
+                "url": "https://myanimelist.net/anime/31452/Norn9__Norn_Nonet",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/77974.jpg?s=f2e889f1acc3367ef8bc2767ea7402d0",
+                "name": "Norn9: Norn+Nonet"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31452,
+                "url": "https://myanimelist.net/anime/31452/Norn9__Norn_Nonet",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/77974.jpg?s=f2e889f1acc3367ef8bc2767ea7402d0",
+                "name": "Norn9: Norn+Nonet"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5507,
+                "url": "https://myanimelist.net/anime/5507/Senjou_no_Valkyria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/53901.jpg?s=5789349b71b99bc9d9befd07a8da3bc8",
+                "name": "Senjou no Valkyria"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 5507,
+                "url": "https://myanimelist.net/anime/5507/Senjou_no_Valkyria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/53901.jpg?s=5789349b71b99bc9d9befd07a8da3bc8",
+                "name": "Senjou no Valkyria"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 7845,
+                "url": "https://myanimelist.net/anime/7845/Seton_Doubutsuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/19086.jpg?s=6c6523a704d9b1ddfb6511be0b814076",
+                "name": "Seton Doubutsuki"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 33031,
+                "url": "https://myanimelist.net/anime/33031/Shakunetsu_no_Takkyuu_Musume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/80746.jpg?s=b81c5a1048e5ccb0100d7bbd647262ad",
+                "name": "Shakunetsu no Takkyuu Musume"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Assistant Director",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 440,
+                "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=046e4080e152c837557ab7d9c20b3f65",
+                "name": "Shoujo Kakumei Utena"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 440,
+                "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=046e4080e152c837557ab7d9c20b3f65",
+                "name": "Shoujo Kakumei Utena"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 441,
+                "url": "https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1268/107516.jpg?s=f566f14c4ff263499ba61dc036740efb",
+                "name": "Shoujo Kakumei Utena: Adolescence Mokushiroku"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 867,
+                "url": "https://myanimelist.net/anime/867/Slayers_Gorgeous",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34991.jpg?s=7ea60591862e3cb39128cf9c9a9a60cf",
+                "name": "Slayers Gorgeous"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 867,
+                "url": "https://myanimelist.net/anime/867/Slayers_Gorgeous",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/34991.jpg?s=7ea60591862e3cb39128cf9c9a9a60cf",
+                "name": "Slayers Gorgeous"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 35790,
+                "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg?s=e07a91550642fd5448bb6c1f73b3cc96",
+                "name": "Tate no Yuusha no Nariagari"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 35790,
+                "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg?s=e07a91550642fd5448bb6c1f73b3cc96",
+                "name": "Tate no Yuusha no Nariagari"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 35790,
+                "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg?s=e07a91550642fd5448bb6c1f73b3cc96",
+                "name": "Tate no Yuusha no Nariagari"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 35790,
+                "url": "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg?s=e07a91550642fd5448bb6c1f73b3cc96",
+                "name": "Tate no Yuusha no Nariagari"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 10321,
+                "url": "https://myanimelist.net/anime/10321/Uta_no☆Prince-sama♪_Maji_Love_1000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/30248.jpg?s=17754caba71eda993e5291b21005caf0",
+                "name": "Uta no☆Prince-sama♪ Maji Love 1000%"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 10321,
+                "url": "https://myanimelist.net/anime/10321/Uta_no☆Prince-sama♪_Maji_Love_1000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/30248.jpg?s=17754caba71eda993e5291b21005caf0",
+                "name": "Uta no☆Prince-sama♪ Maji Love 1000%"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10321,
+                "url": "https://myanimelist.net/anime/10321/Uta_no☆Prince-sama♪_Maji_Love_1000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/30248.jpg?s=17754caba71eda993e5291b21005caf0",
+                "name": "Uta no☆Prince-sama♪ Maji Love 1000%"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12711,
+                "url": "https://myanimelist.net/anime/12711/Uta_no☆Prince-sama♪_Maji_Love_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/44019.jpg?s=88c636e3c3065727edf897ec12aa8e35",
+                "name": "Uta no☆Prince-sama♪ Maji Love 2000%"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 12711,
+                "url": "https://myanimelist.net/anime/12711/Uta_no☆Prince-sama♪_Maji_Love_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/44019.jpg?s=88c636e3c3065727edf897ec12aa8e35",
+                "name": "Uta no☆Prince-sama♪ Maji Love 2000%"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 12711,
+                "url": "https://myanimelist.net/anime/12711/Uta_no☆Prince-sama♪_Maji_Love_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/44019.jpg?s=88c636e3c3065727edf897ec12aa8e35",
+                "name": "Uta no☆Prince-sama♪ Maji Love 2000%"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 31178,
+                "url": "https://myanimelist.net/anime/31178/Uta_no☆Prince-sama♪_Maji_Love_Legend_Star",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/79194.jpg?s=22c4cbc27531fe603b4e8982769f9159",
+                "name": "Uta no☆Prince-sama♪ Maji Love Legend Star"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21439,
+                "url": "https://myanimelist.net/anime/21439/Uta_no☆Prince-sama♪_Maji_Love_Revolutions",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73328.jpg?s=1d6e5f4f28d9db8e856317f340ff8b6a",
+                "name": "Uta no☆Prince-sama♪ Maji Love Revolutions"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 21439,
+                "url": "https://myanimelist.net/anime/21439/Uta_no☆Prince-sama♪_Maji_Love_Revolutions",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73328.jpg?s=1d6e5f4f28d9db8e856317f340ff8b6a",
+                "name": "Uta no☆Prince-sama♪ Maji Love Revolutions"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2009,
+                "url": "https://myanimelist.net/anime/2009/Yawara__Zutto_Kimi_no_Koto_ga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2125.jpg?s=585e34736ea0226bad242a6bc7ad41b8",
+                "name": "Yawara!: Zutto Kimi no Koto ga..."
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 26165,
+                "url": "https://myanimelist.net/anime/26165/Yuri_Kuma_Arashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/69203.jpg?s=2f1fb736b96c8c4c616899b243abcfee",
+                "name": "Yuri Kuma Arashi"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 26165,
+                "url": "https://myanimelist.net/anime/26165/Yuri_Kuma_Arashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/69203.jpg?s=2f1fb736b96c8c4c616899b243abcfee",
+                "name": "Yuri Kuma Arashi"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 26165,
+                "url": "https://myanimelist.net/anime/26165/Yuri_Kuma_Arashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/69203.jpg?s=2f1fb736b96c8c4c616899b243abcfee",
+                "name": "Yuri Kuma Arashi"
+            }
+        }
+    ]
+}

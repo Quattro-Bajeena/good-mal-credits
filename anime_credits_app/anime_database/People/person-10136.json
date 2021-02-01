@@ -1,0 +1,580 @@
+{
+    "mal_id": 10136,
+    "url": "https://myanimelist.net/people/10136/Nobutake_Itou",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/44418.jpg",
+    "name": "Nobutake Itou",
+    "given_name": "伸高",
+    "family_name": "伊東",
+    "birthday": null,
+    "member_favorites": 20,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2164,
+                "url": "https://myanimelist.net/anime/2164/Dennou_Coil",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.jpg?s=ec079ef573d435f797fe3c09de52f97a",
+                "name": "Dennou Coil"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2164,
+                "url": "https://myanimelist.net/anime/2164/Dennou_Coil",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12844.jpg?s=ec079ef573d435f797fe3c09de52f97a",
+                "name": "Dennou Coil"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 2962,
+                "url": "https://myanimelist.net/anime/2962/Digimon_Adventure_02_Movies",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/82960.jpg?s=2be359aa34bc367c8c91655ea0e18f0f",
+                "name": "Digimon Adventure 02 Movies"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2397,
+                "url": "https://myanimelist.net/anime/2397/Digimon_Adventure__Bokura_no_War_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72451.jpg?s=960aff6abaf0d7486f7e87e1f70b2cf1",
+                "name": "Digimon Adventure: Bokura no War Game!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9314,
+                "url": "https://myanimelist.net/anime/9314/Fractale",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/28197.jpg?s=3a3d0ebb6234a7abac308c4e0293ab5b",
+                "name": "Fractale"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9314,
+                "url": "https://myanimelist.net/anime/9314/Fractale",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/28197.jpg?s=3a3d0ebb6234a7abac308c4e0293ab5b",
+                "name": "Fractale"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1022,
+                "url": "https://myanimelist.net/anime/1022/Generator_Gawl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/19006.jpg?s=4c3dab582ae0d26a9399a47a8eefb034",
+                "name": "Generator Gawl"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1848,
+                "url": "https://myanimelist.net/anime/1848/Haou_Taikei_Ryuu_Knight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1626/92213.jpg?s=d6139b4b5bf198956d243702177eb68f",
+                "name": "Haou Taikei Ryuu Knight"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1977,
+                "url": "https://myanimelist.net/anime/1977/Hijikata_Toshizou__Shiro_no_Kiseki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2252.jpg?s=6f17170ea7f9dda604463c787796134e",
+                "name": "Hijikata Toshizou: Shiro no Kiseki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 39938,
+                "url": "https://myanimelist.net/anime/39938/Inu-Ou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1200/108266.jpg?s=1ac2f91b8773d9ae4dfc1e83a1745f07",
+                "name": "Inu-Ou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3701,
+                "url": "https://myanimelist.net/anime/3701/Kaiba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906d2f6f48527464b10fc4220c7a98e",
+                "name": "Kaiba"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 3701,
+                "url": "https://myanimelist.net/anime/3701/Kaiba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906d2f6f48527464b10fc4220c7a98e",
+                "name": "Kaiba"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3701,
+                "url": "https://myanimelist.net/anime/3701/Kaiba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906d2f6f48527464b10fc4220c7a98e",
+                "name": "Kaiba"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3701,
+                "url": "https://myanimelist.net/anime/3701/Kaiba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13193.jpg?s=d906d2f6f48527464b10fc4220c7a98e",
+                "name": "Kaiba"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
+                "name": "Kareshi Kanojo no Jijou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
+                "name": "Kareshi Kanojo no Jijou"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 1454,
+                "url": "https://myanimelist.net/anime/1454/Kemonozume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=350cd21a158db184d3471d5ff85985f5",
+                "name": "Kemonozume"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1454,
+                "url": "https://myanimelist.net/anime/1454/Kemonozume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=350cd21a158db184d3471d5ff85985f5",
+                "name": "Kemonozume"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1454,
+                "url": "https://myanimelist.net/anime/1454/Kemonozume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=350cd21a158db184d3471d5ff85985f5",
+                "name": "Kemonozume"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 1454,
+                "url": "https://myanimelist.net/anime/1454/Kemonozume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=350cd21a158db184d3471d5ff85985f5",
+                "name": "Kemonozume"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1454,
+                "url": "https://myanimelist.net/anime/1454/Kemonozume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86766.jpg?s=350cd21a158db184d3471d5ff85985f5",
+                "name": "Kemonozume"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1955,
+                "url": "https://myanimelist.net/anime/1955/Kimagure_Robot",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/61851.jpg?s=ecc6801f9e94f96a5dcbf274b5525167",
+                "name": "Kimagure Robot"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 875,
+                "url": "https://myanimelist.net/anime/875/Mind_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1722/96276.jpg?s=2075ad877dbe1e85baf21fcac066b228",
+                "name": "Mind Game"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 96,
+                "url": "https://myanimelist.net/anime/96/Mobile_Fighter_G_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1596/92392.jpg?s=a8f2727c96ac0f5063fd177caa83792e",
+                "name": "Mobile Fighter G Gundam"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 81,
+                "url": "https://myanimelist.net/anime/81/Mobile_Suit_Gundam__The_08th_MS_Team",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75618.jpg?s=0c8d0fdaf26a3a381bb6ca28bb93b91a",
+                "name": "Mobile Suit Gundam: The 08th MS Team"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 89,
+                "url": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg?s=f3069ffa7ff725fb6721e4b8c0d788a0",
+                "name": "Mobile Suit Victory Gundam"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5395,
+                "url": "https://myanimelist.net/anime/5395/Nekketsu_Saikyou_Go-Saurer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg?s=9c99a00a1100dad49f270ef31369b4d3",
+                "name": "Nekketsu Saikyou Go-Saurer"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 5395,
+                "url": "https://myanimelist.net/anime/5395/Nekketsu_Saikyou_Go-Saurer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg?s=9c99a00a1100dad49f270ef31369b4d3",
+                "name": "Nekketsu Saikyou Go-Saurer"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 601,
+                "url": "https://myanimelist.net/anime/601/Nekojiru-sou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/84241.jpg?s=0279c60eb99159b38dc7c50c92c02c88",
+                "name": "Nekojiru-sou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1698,
+                "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=088cee985fab7fb80f17786b41dd6a99",
+                "name": "Nodame Cantabile"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 350,
+                "url": "https://myanimelist.net/anime/350/Ojamajo_Doremi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1719/103416.jpg?s=296cd7323676badff895c4cb58eba2ac",
+                "name": "Ojamajo Doremi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 353,
+                "url": "https://myanimelist.net/anime/353/Ojamajo_Doremi_Dokkaan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/40407.jpg?s=671e70f3d2ab6f1fedcf644cc13a7dbf",
+                "name": "Ojamajo Doremi Dokkaan!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2947,
+                "url": "https://myanimelist.net/anime/2947/Ojamajo_Doremi_Sharp_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/40405.jpg?s=3f3fb221bc36c949600d799f258e2a2f",
+                "name": "Ojamajo Doremi Sharp Movie"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 22135,
+                "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=22692c0148a06779dc0500163c5f7409",
+                "name": "Ping Pong the Animation"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 22135,
+                "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=22692c0148a06779dc0500163c5f7409",
+                "name": "Ping Pong the Animation"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22135,
+                "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=22692c0148a06779dc0500163c5f7409",
+                "name": "Ping Pong the Animation"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 22135,
+                "url": "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/58041.jpg?s=22692c0148a06779dc0500163c5f7409",
+                "name": "Ping Pong the Animation"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 440,
+                "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=046e4080e152c837557ab7d9c20b3f65",
+                "name": "Shoujo Kakumei Utena"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 441,
+                "url": "https://myanimelist.net/anime/441/Shoujo_Kakumei_Utena__Adolescence_Mokushiroku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1268/107516.jpg?s=f566f14c4ff263499ba61dc036740efb",
+                "name": "Shoujo Kakumei Utena: Adolescence Mokushiroku"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1072,
+                "url": "https://myanimelist.net/anime/1072/Sweat_Punch",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10292.jpg?s=485eb6008d767ba860a62dcd3d52e06f",
+                "name": "Sweat Punch"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 34792,
+                "url": "https://myanimelist.net/anime/34792/Yoake_Tsugeru_Lu_no_Uta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/84260.jpg?s=497c1f334d44ded3e6fb19cd4406b216",
+                "name": "Yoake Tsugeru Lu no Uta"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 34792,
+                "url": "https://myanimelist.net/anime/34792/Yoake_Tsugeru_Lu_no_Uta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/84260.jpg?s=497c1f334d44ded3e6fb19cd4406b216",
+                "name": "Yoake Tsugeru Lu no Uta"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 34792,
+                "url": "https://myanimelist.net/anime/34792/Yoake_Tsugeru_Lu_no_Uta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/84260.jpg?s=497c1f334d44ded3e6fb19cd4406b216",
+                "name": "Yoake Tsugeru Lu no Uta"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 7785,
+                "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/50457.jpg?s=d0447f10f7b4515d4f97f96da018bcb9",
+                "name": "Yojouhan Shinwa Taikei"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 7785,
+                "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/50457.jpg?s=d0447f10f7b4515d4f97f96da018bcb9",
+                "name": "Yojouhan Shinwa Taikei"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7785,
+                "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/50457.jpg?s=d0447f10f7b4515d4f97f96da018bcb9",
+                "name": "Yojouhan Shinwa Taikei"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7785,
+                "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/50457.jpg?s=d0447f10f7b4515d4f97f96da018bcb9",
+                "name": "Yojouhan Shinwa Taikei"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 34537,
+                "url": "https://myanimelist.net/anime/34537/Yoru_wa_Mijikashi_Arukeyo_Otome",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/86940.jpg?s=93871f5830ec243b1952b4554cfa05cf",
+                "name": "Yoru wa Mijikashi Arukeyo Otome"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 34537,
+                "url": "https://myanimelist.net/anime/34537/Yoru_wa_Mijikashi_Arukeyo_Otome",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/86940.jpg?s=93871f5830ec243b1952b4554cfa05cf",
+                "name": "Yoru wa Mijikashi Arukeyo Otome"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 34537,
+                "url": "https://myanimelist.net/anime/34537/Yoru_wa_Mijikashi_Arukeyo_Otome",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/86940.jpg?s=93871f5830ec243b1952b4554cfa05cf",
+                "name": "Yoru wa Mijikashi Arukeyo Otome"
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "mal_id": 33431,
+    "url": "https://myanimelist.net/people/33431/Hiromitsu_Narumi",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Hiromitsu Narumi",
+    "given_name": "鳴海",
+    "family_name": "博光",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5593,
+                "url": "https://myanimelist.net/anime/5593/Dogs__Bullets___Carnage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/21098.jpg?s=3da8f52460f17a6ed3f1298e861246b3",
+                "name": "Dogs: Bullets & Carnage"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 88,
+                "url": "https://myanimelist.net/anime/88/Mobile_Suit_Gundam_F91",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1637/95288.jpg?s=8d65ca4993c5437f76b49883bd18ec4c",
+                "name": "Mobile Suit Gundam F91"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 87,
+                "url": "https://myanimelist.net/anime/87/Mobile_Suit_Gundam__Chars_Counterattack",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg?s=e2903b38ee122bcf17544749f6c9a8ac",
+                "name": "Mobile Suit Gundam: Char's Counterattack"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 597,
+                "url": "https://myanimelist.net/anime/597/Neko_no_Ongaeshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/597.jpg?s=0a4d54cb0d9b3948d7a49bc18daa5e60",
+                "name": "Neko no Ongaeshi"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5220,
+                "url": "https://myanimelist.net/anime/5220/Shangri-La",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/77061.jpg?s=de3420b8b2b13dc55ff02f2608c5910b",
+                "name": "Shangri-La"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 6758,
+                "url": "https://myanimelist.net/anime/6758/Tatakau_Shisho__The_Book_of_Bantorra",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/22769.jpg?s=163b8f1933690589958527ea6a0e2fd4",
+                "name": "Tatakau Shisho: The Book of Bantorra"
+            }
+        }
+    ]
+}

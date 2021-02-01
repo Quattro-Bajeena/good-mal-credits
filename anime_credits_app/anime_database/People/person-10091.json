@@ -1,0 +1,103 @@
+{
+    "mal_id": 10091,
+    "url": "https://myanimelist.net/people/10091/Keiichi_Sugiyama",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Keiichi Sugiyama",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1214,
+                "url": "https://myanimelist.net/anime/1214/Binbou_Shimai_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/108682.jpg?s=0cc08320427d347f355dd70c68a7ef4e",
+                "name": "Binbou Shimai Monogatari"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 1214,
+                "url": "https://myanimelist.net/anime/1214/Binbou_Shimai_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/108682.jpg?s=0cc08320427d347f355dd70c68a7ef4e",
+                "name": "Binbou Shimai Monogatari"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2340,
+                "url": "https://myanimelist.net/anime/2340/Gedou_Gakuen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/29826.jpg?s=2b57016be93923701b1fcc5557898be8",
+                "name": "Gedou Gakuen"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1140,
+                "url": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/83824.jpg?s=2b27247cedd1d02f1dfcee905c1aa8f1",
+                "name": "Giniro no Kami no Agito"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1140,
+                "url": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/83824.jpg?s=2b27247cedd1d02f1dfcee905c1aa8f1",
+                "name": "Giniro no Kami no Agito"
+            }
+        },
+        {
+            "position": "Co-Director",
+            "anime": {
+                "mal_id": 6867,
+                "url": "https://myanimelist.net/anime/6867/Halo_Legends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16013.jpg?s=0b6b0dbfc59ba773901acae42eb3c0f5",
+                "name": "Halo Legends"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 321,
+                "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.jpg?s=2fc0012fb028e8cd47b9c099dc241d94",
+                "name": "Najica Dengeki Sakusen"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 573,
+                "url": "https://myanimelist.net/anime/573/Saber_Marionette_J",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1754/97053.jpg?s=8b1e6d6bb177050cf1c4cea42cfe318c",
+                "name": "Saber Marionette J"
+            }
+        }
+    ]
+}

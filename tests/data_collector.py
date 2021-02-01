@@ -19,9 +19,21 @@ test_folder = Path(__file__).parent
 
 
 
-query = "patlabor"
-results = adc.mal.search_options("anime", query, 5)
+# query = "patlabor"
+# results = adc.mal.search_options("anime", query, 5)
 
 
-with open( test_folder / f"search-{query}.json", 'w', encoding='utf-8') as f:
-    json.dump(results, f, indent=4, ensure_ascii=False)
+# with open( test_folder / f"search-{query}.json", 'w', encoding='utf-8') as f:
+#     json.dump(results, f, indent=4, ensure_ascii=False)
+
+
+def download_person(id):
+    person = adc.mal.get_person_api(7998)
+
+    with open( test_folder / f"person-{id}.json", 'w', encoding='utf-8') as f:
+        json.dump(person, f, indent=4, ensure_ascii=False)
+
+
+#download_person(7998)
+
+character = adc.jikan.character()

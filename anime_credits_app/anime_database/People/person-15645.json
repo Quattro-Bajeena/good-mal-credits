@@ -1,0 +1,526 @@
+{
+    "mal_id": 15645,
+    "url": "https://myanimelist.net/people/15645/Kenichi_Konishi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/17069.jpg",
+    "name": "Kenichi Konishi",
+    "given_name": "賢一",
+    "family_name": "小西",
+    "birthday": "1968-06-23T00:00:00+00:00",
+    "member_favorites": 8,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1028,
+                "url": "https://myanimelist.net/anime/1028/Arete_Hime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/4327.jpg?s=17ef5de3c98139f4f0ed08bba06196de",
+                "name": "Arete Hime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 57,
+                "url": "https://myanimelist.net/anime/57/Beck",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/11636.jpg?s=9a04e091d00116a2cbda738665ba65bf",
+                "name": "Beck"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1690,
+                "url": "https://myanimelist.net/anime/1690/Bokura_no",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg?s=07939022029c71b7e78ea8c82c125764",
+                "name": "Bokura no"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4177,
+                "url": "https://myanimelist.net/anime/4177/Bounen_no_Xamdou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23189.jpg?s=04420e347fa1dafc255ab5b981808712",
+                "name": "Bounen no Xamdou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2397,
+                "url": "https://myanimelist.net/anime/2397/Digimon_Adventure__Bokura_no_War_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72451.jpg?s=960aff6abaf0d7486f7e87e1f70b2cf1",
+                "name": "Digimon Adventure: Bokura no War Game!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2656,
+                "url": "https://myanimelist.net/anime/2656/Doraemon_Movie_25__Nobita_no_Wan_Nyan_Jikuuden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/72430.jpg?s=6943005179144f90525d0dab54cf4839",
+                "name": "Doraemon Movie 25: Nobita no Wan Nyan Jikuuden"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2392,
+                "url": "https://myanimelist.net/anime/2392/Doraemon_Movie_26__Nobita_no_Kyouryuu_2006",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72431.jpg?s=13f8bed72485166b6461c37d0778ccfa",
+                "name": "Doraemon Movie 26: Nobita no Kyouryuu 2006"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3784,
+                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
+                "name": "Evangelion: 2.0 You Can (Not) Advance"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2890,
+                "url": "https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/8970.jpg?s=935c455d97d04454056a1bc7d793118f",
+                "name": "Gake no Ue no Ponyo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1829,
+                "url": "https://myanimelist.net/anime/1829/Ged_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73443.jpg?s=11298f6e58c27dd79fbac364e24ab4bb",
+                "name": "Ged Senki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6795,
+                "url": "https://myanimelist.net/anime/6795/Genius_Party_Beyond",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18914.jpg?s=6a2112c4e1ffe2e9b3b69f40745bfb9d",
+                "name": "Genius Party Beyond"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 45620,
+                "url": "https://myanimelist.net/anime/45620/Gyokou_no_Nikuko-chan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1539/111017.jpg?s=a0db4b0b7324ecbab6292883abc705b4",
+                "name": "Gyokou no Nikuko-chan"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 45620,
+                "url": "https://myanimelist.net/anime/45620/Gyokou_no_Nikuko-chan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1539/111017.jpg?s=a0db4b0b7324ecbab6292883abc705b4",
+                "name": "Gyokou no Nikuko-chan"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1030,
+                "url": "https://myanimelist.net/anime/1030/Heisei_Tanuki_Gassen_Ponpoko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75925.jpg?s=ef1bd21c9b365c13ff3f7c3b9eb11ff5",
+                "name": "Heisei Tanuki Gassen Ponpoko"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 431,
+                "url": "https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/75810.jpg?s=2944eeb3e9e4d3efafa98dbc3cd55a5a",
+                "name": "Howl no Ugoku Shiro"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2891,
+                "url": "https://myanimelist.net/anime/2891/Iblard_Jikan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/18420.jpg?s=da90fb67f63b6d53ed08f6386bcb9fc9",
+                "name": "Iblard Jikan"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9001,
+                "url": "https://myanimelist.net/anime/9001/Je_Taime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/104021.jpg?s=4ab6801869f2647f252836cb541cec73",
+                "name": "Je T'aime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 16664,
+                "url": "https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1935/93606.jpg?s=5762193ceab876ffccf4e70e7536ba06",
+                "name": "Kaguya-hime no Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 16664,
+                "url": "https://myanimelist.net/anime/16664/Kaguya-hime_no_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1935/93606.jpg?s=5762193ceab876ffccf4e70e7536ba06",
+                "name": "Kaguya-hime no Monogatari"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 37981,
+                "url": "https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg?s=b7f9c233588137f4904afcd586e46076",
+                "name": "Kaijuu no Kodomo"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 37981,
+                "url": "https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg?s=b7f9c233588137f4904afcd586e46076",
+                "name": "Kaijuu no Kodomo"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 37981,
+                "url": "https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1103/99778.jpg?s=b7f9c233588137f4904afcd586e46076",
+                "name": "Kaijuu no Kodomo"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2895,
+                "url": "https://myanimelist.net/anime/2895/Kujiratori",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/4067.jpg?s=c15463d7c8ffd21e782a484c77b52417",
+                "name": "Kujiratori"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1032,
+                "url": "https://myanimelist.net/anime/1032/Kumo_no_You_ni_Kaze_no_You_ni",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/43205.jpg?s=d163284999adcd25509f8391506deb0d",
+                "name": "Kumo no You ni Kaze no You ni"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 416,
+                "url": "https://myanimelist.net/anime/416/Kurenai_no_Buta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/2878.jpg?s=771577e33922061404b451f47f107ba5",
+                "name": "Kurenai no Buta"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 585,
+                "url": "https://myanimelist.net/anime/585/Mimi_wo_Sumaseba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1899/109259.jpg?s=03ecd7a4584fb8dde92736ded09e4dea",
+                "name": "Mimi wo Sumaseba"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 164,
+                "url": "https://myanimelist.net/anime/164/Mononoke_Hime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75919.jpg?s=a6002f66de4b97fe0c92487da580bf08",
+                "name": "Mononoke Hime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 323,
+                "url": "https://myanimelist.net/anime/323/Mousou_Dairinin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10240.jpg?s=39996fa04c93640bce3bd5c4004d59d4",
+                "name": "Mousou Dairinin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22381,
+                "url": "https://myanimelist.net/anime/22381/Nandaka_Velonica",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/60199.jpg?s=8b2efb3c1373634c182251f7659d66bf",
+                "name": "Nandaka Velonica"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 22381,
+                "url": "https://myanimelist.net/anime/22381/Nandaka_Velonica",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/60199.jpg?s=8b2efb3c1373634c182251f7659d66bf",
+                "name": "Nandaka Velonica"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2144,
+                "url": "https://myanimelist.net/anime/2144/Naruto_Movie_3__Dai_Koufun_Mikazuki_Jima_no_Animaru_Panikku_Dattebayo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/76017.jpg?s=238c4d3b856764e821266636c5b5d1a7",
+                "name": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4437,
+                "url": "https://myanimelist.net/anime/4437/Naruto__Shippuuden_Movie_2_-_Kizuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/17830.jpg?s=60af89ae0d0ad7fef02032547c8cb443",
+                "name": "Naruto: Shippuuden Movie 2 - Kizuna"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 12467,
+                "url": "https://myanimelist.net/anime/12467/Nazo_no_Kanojo_X",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75205.jpg?s=7d2cfb1fce3b623e96d5c25e26ec9e67",
+                "name": "Nazo no Kanojo X"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6219,
+                "url": "https://myanimelist.net/anime/6219/Nijiiro_Hotaru__Eien_no_Natsuyasumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/37541.jpg?s=8f15749f3ee0a3a3e5045e886274b3c3",
+                "name": "Nijiiro Hotaru: Eien no Natsuyasumi"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1029,
+                "url": "https://myanimelist.net/anime/1029/Omoide_Poroporo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75922.jpg?s=749ed659f78d3fdfbcf3f1d5e47e218a",
+                "name": "Omoide Poroporo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/anime/1047/On_Your_Mark",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/81234.jpg?s=b08c59316f63dcd86d75877338e5daa2",
+                "name": "On Your Mark"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1943,
+                "url": "https://myanimelist.net/anime/1943/Paprika",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg?s=23084180e771ed8d0f1038b16f451fa1",
+                "name": "Paprika"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 151,
+                "url": "https://myanimelist.net/anime/151/Re__Cutey_Honey",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/52103.jpg?s=0428ecc9860a67b07cb20505a919f18c",
+                "name": "Re: Cutey Honey"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4618,
+                "url": "https://myanimelist.net/anime/4618/RideBack",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/21745.jpg?s=13eb632beabe90feff4595ee3b3cb9d1",
+                "name": "RideBack"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1508,
+                "url": "https://myanimelist.net/anime/1508/Sci-fi_Harry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57605.jpg?s=ab074adbc7ece344de5226ae74fb7c8a",
+                "name": "Sci-fi Harry"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 199,
+                "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                "name": "Sen to Chihiro no Kamikakushi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1033,
+                "url": "https://myanimelist.net/anime/1033/Sennen_Joyuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg?s=f840b95b19c87f9875aa43516b585e64",
+                "name": "Sennen Joyuu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1033,
+                "url": "https://myanimelist.net/anime/1033/Sennen_Joyuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg?s=f840b95b19c87f9875aa43516b585e64",
+                "name": "Sennen Joyuu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3820,
+                "url": "https://myanimelist.net/anime/3820/Space_Station_No9",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/6817.jpg?s=88f40b4433ee46c15db996df4d649a62",
+                "name": "Space Station No.9"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 759,
+                "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg?s=2b1a4263f38f474170ab01e7b9c843c2",
+                "name": "Tokyo Godfathers"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 759,
+                "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg?s=2b1a4263f38f474170ab01e7b9c843c2",
+                "name": "Tokyo Godfathers"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 759,
+                "url": "https://myanimelist.net/anime/759/Tokyo_Godfathers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg?s=2b1a4263f38f474170ab01e7b9c843c2",
+                "name": "Tokyo Godfathers"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 415,
+                "url": "https://myanimelist.net/anime/415/Tonari_no_Yamada-kun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64545.jpg?s=87e3db379c1019fbd69b435bf225def8",
+                "name": "Tonari no Yamada-kun"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 743,
+                "url": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/52359.jpg?s=5879a027685dc2f7c9dccbc8669b6994",
+                "name": "Umi ga Kikoeru"
+            }
+        }
+    ]
+}

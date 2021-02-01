@@ -1,0 +1,44 @@
+{
+    "mal_id": 838,
+    "url": "https://myanimelist.net/anime/838/Narutaru__Mukuro_Naru_Hoshi_Tama_Taru_Ko",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/12023.jpg",
+    "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko",
+    "title_english": "Shadow Star Narutaru",
+    "title_japanese": "なるたる ～骸なる星・珠たる子～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-07-07T00:00:00+00:00",
+        "to": "2003-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2003
+            }
+        },
+        "string": "Jul 7, 2003 to Sep 29, 2003"
+    },
+    "score": 6.07,
+    "scored_by": 8353,
+    "rank": 7932,
+    "popularity": 3014,
+    "members": 28847,
+    "favorites": 69,
+    "premiered": "Summer 2003",
+    "studios": [
+        {
+            "mal_id": 175,
+            "type": "anime",
+            "name": "Planet",
+            "url": "https://myanimelist.net/anime/producer/175/Planet"
+        }
+    ]
+}

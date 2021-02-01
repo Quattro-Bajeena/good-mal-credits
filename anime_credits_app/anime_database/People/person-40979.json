@@ -1,0 +1,652 @@
+{
+    "mal_id": 40979,
+    "url": "https://myanimelist.net/people/40979/Takeshi_Itou",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Takeshi Itou",
+    "given_name": "岳史",
+    "family_name": "伊藤",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31646,
+                "url": "https://myanimelist.net/anime/31646/3-gatsu_no_Lion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/82898.jpg?s=2c742ae23640c576adcb8dc9e1a216bf",
+                "name": "3-gatsu no Lion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9919,
+                "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg?s=3df6fa77a517d305527ef4f0984fed48",
+                "name": "Ao no Exorcist"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 31050,
+                "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/76057.jpg?s=3c8fd0a229f38eca01b724b24dd7f4da",
+                "name": "Cyborg 009 VS Devilman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31050,
+                "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/76057.jpg?s=3c8fd0a229f38eca01b724b24dd7f4da",
+                "name": "Cyborg 009 VS Devilman"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 31050,
+                "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/76057.jpg?s=3c8fd0a229f38eca01b724b24dd7f4da",
+                "name": "Cyborg 009 VS Devilman"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 31050,
+                "url": "https://myanimelist.net/anime/31050/Cyborg_009_VS_Devilman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/76057.jpg?s=3c8fd0a229f38eca01b724b24dd7f4da",
+                "name": "Cyborg 009 VS Devilman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 393,
+                "url": "https://myanimelist.net/anime/393/Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/50419.jpg?s=2246032d65ec85d922ada875b7f60488",
+                "name": "Escaflowne"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 377,
+                "url": "https://myanimelist.net/anime/377/eX-Driver",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/26197.jpg?s=a692516e6280879bae2240cd2ec9a8be",
+                "name": "eX-Driver"
+            }
+        },
+        {
+            "position": "Layout",
+            "anime": {
+                "mal_id": 377,
+                "url": "https://myanimelist.net/anime/377/eX-Driver",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/26197.jpg?s=a692516e6280879bae2240cd2ec9a8be",
+                "name": "eX-Driver"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 377,
+                "url": "https://myanimelist.net/anime/377/eX-Driver",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/26197.jpg?s=a692516e6280879bae2240cd2ec9a8be",
+                "name": "eX-Driver"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 378,
+                "url": "https://myanimelist.net/anime/378/eX-Driver_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/26195.jpg?s=522c050d63a4800a8592ed05e4298d3a",
+                "name": "eX-Driver the Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 378,
+                "url": "https://myanimelist.net/anime/378/eX-Driver_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/26195.jpg?s=522c050d63a4800a8592ed05e4298d3a",
+                "name": "eX-Driver the Movie"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 378,
+                "url": "https://myanimelist.net/anime/378/eX-Driver_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/26195.jpg?s=522c050d63a4800a8592ed05e4298d3a",
+                "name": "eX-Driver the Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1126,
+                "url": "https://myanimelist.net/anime/1126/Figure_17__Tsubasa___Hikaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/15438.jpg?s=a95cb10d1d076364d8f55b5447c44743",
+                "name": "Figure 17: Tsubasa & Hikaru"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 14131,
+                "url": "https://myanimelist.net/anime/14131/Girls___Panzer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/40969.jpg?s=5db159dd07421768f83b408cd5ac7f7c",
+                "name": "Girls & Panzer"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 14131,
+                "url": "https://myanimelist.net/anime/14131/Girls___Panzer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/40969.jpg?s=5db159dd07421768f83b408cd5ac7f7c",
+                "name": "Girls & Panzer"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14131,
+                "url": "https://myanimelist.net/anime/14131/Girls___Panzer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/40969.jpg?s=5db159dd07421768f83b408cd5ac7f7c",
+                "name": "Girls & Panzer"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 14131,
+                "url": "https://myanimelist.net/anime/14131/Girls___Panzer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/40969.jpg?s=5db159dd07421768f83b408cd5ac7f7c",
+                "name": "Girls & Panzer"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 18617,
+                "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg?s=a50f8d9f0f064b6e9d0bdfd34a4c5284",
+                "name": "Girls & Panzer Movie"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 18617,
+                "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg?s=a50f8d9f0f064b6e9d0bdfd34a4c5284",
+                "name": "Girls & Panzer Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 18617,
+                "url": "https://myanimelist.net/anime/18617/Girls___Panzer_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg?s=a50f8d9f0f064b6e9d0bdfd34a4c5284",
+                "name": "Girls & Panzer Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 18619,
+                "url": "https://myanimelist.net/anime/18619/Girls___Panzer__Kore_ga_Hontou_no_Anzio-sen_Desu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/92804.jpg?s=209fccd0882ebda32f79fa742b66c84c",
+                "name": "Girls & Panzer: Kore ga Hontou no Anzio-sen Desu!"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 18619,
+                "url": "https://myanimelist.net/anime/18619/Girls___Panzer__Kore_ga_Hontou_no_Anzio-sen_Desu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1959/92804.jpg?s=209fccd0882ebda32f79fa742b66c84c",
+                "name": "Girls & Panzer: Kore ga Hontou no Anzio-sen Desu!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4334,
+                "url": "https://myanimelist.net/anime/4334/Heroman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23841.jpg?s=169d1f58cb5a134492476c7cf865b172",
+                "name": "Heroman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3935,
+                "url": "https://myanimelist.net/anime/3935/Karakuri_Kiden__Hiwou_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1511/92811.jpg?s=cb3e49e2202955336d2c46314910f96b",
+                "name": "Karakuri Kiden: Hiwou Senki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 218,
+                "url": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/53955.jpg?s=64450930bd5e97fbe704879dd3308ab3",
+                "name": "Kidou Senkan Nadesico"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31757,
+                "url": "https://myanimelist.net/anime/31757/Kizumonogatari_II__Nekketsu-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/80930.jpg?s=134e5d971c820def084202b7bfce02a7",
+                "name": "Kizumonogatari II: Nekketsu-hen"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 24629,
+                "url": "https://myanimelist.net/anime/24629/Koufuku_Graffiti",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/71963.jpg?s=35e722efb31c15d0e920b17e53708337",
+                "name": "Koufuku Graffiti"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 554,
+                "url": "https://myanimelist.net/anime/554/Koutetsu_Tenshi_Kurumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1036/97570.jpg?s=19b274f0f39ca76ee7f6b73814e04c80",
+                "name": "Koutetsu Tenshi Kurumi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 554,
+                "url": "https://myanimelist.net/anime/554/Koutetsu_Tenshi_Kurumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1036/97570.jpg?s=19b274f0f39ca76ee7f6b73814e04c80",
+                "name": "Koutetsu Tenshi Kurumi"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 555,
+                "url": "https://myanimelist.net/anime/555/Koutetsu_Tenshi_Kurumi_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15907.jpg?s=0bfa81e9873ff0e3189ed55038ebd54a",
+                "name": "Koutetsu Tenshi Kurumi 2"
+            }
+        },
+        {
+            "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 557,
+                "url": "https://myanimelist.net/anime/557/Koutetsu_Tenshi_Kurumi_Encore",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21112.jpg?s=840ddfc4975370319a694390eeabff71",
+                "name": "Koutetsu Tenshi Kurumi Encore"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2157,
+                "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=28263a6da70e370e258924598c2df989",
+                "name": "Koutetsushin Jeeg"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2157,
+                "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=28263a6da70e370e258924598c2df989",
+                "name": "Koutetsushin Jeeg"
+            }
+        },
+        {
+            "position": "Principle Drawing",
+            "anime": {
+                "mal_id": 2157,
+                "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=28263a6da70e370e258924598c2df989",
+                "name": "Koutetsushin Jeeg"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1397,
+                "url": "https://myanimelist.net/anime/1397/Macross_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/22786.jpg?s=822efef25dd4dc56d803b595314d4a47",
+                "name": "Macross 7"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1397,
+                "url": "https://myanimelist.net/anime/1397/Macross_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/22786.jpg?s=822efef25dd4dc56d803b595314d4a47",
+                "name": "Macross 7"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1398,
+                "url": "https://myanimelist.net/anime/1398/Macross_Dynamite_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/15647.jpg?s=39e150697a1961c5ff778b1884a0e9cc",
+                "name": "Macross Dynamite 7"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1398,
+                "url": "https://myanimelist.net/anime/1398/Macross_Dynamite_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/15647.jpg?s=39e150697a1961c5ff778b1884a0e9cc",
+                "name": "Macross Dynamite 7"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 4985,
+                "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg?s=7e60c114591727db47e62341a900f35a",
+                "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9756,
+                "url": "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka★Magica",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/55225.jpg?s=ed1577735b459016ace7de7f2096b85b",
+                "name": "Mahou Shoujo Madoka★Magica"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11981,
+                "url": "https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka★Magica_Movie_3__Hangyaku_no_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/54231.jpg?s=856b8f5deab11083636ec0e96bd13880",
+                "name": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 8666,
+                "url": "https://myanimelist.net/anime/8666/Mazinkaiser_SKL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75427.jpg?s=89aa3febfcab29c75fafdd0752d7220f",
+                "name": "Mazinkaiser SKL"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 8666,
+                "url": "https://myanimelist.net/anime/8666/Mazinkaiser_SKL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75427.jpg?s=89aa3febfcab29c75fafdd0752d7220f",
+                "name": "Mazinkaiser SKL"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21603,
+                "url": "https://myanimelist.net/anime/21603/Mekakucity_Actors",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/61519.jpg?s=45c45a233c17cd156a4c01000a967b56",
+                "name": "Mekakucity Actors"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 17074,
+                "url": "https://myanimelist.net/anime/17074/Monogatari_Series__Second_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/52133.jpg?s=8aa3bcb793d801cc15f56bfec2c4e538",
+                "name": "Monogatari Series: Second Season"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1735,
+                "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/17407.jpg?s=d9e09b9fe2ba80f80fc3907e0704730f",
+                "name": "Naruto: Shippuuden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11597,
+                "url": "https://myanimelist.net/anime/11597/Nisemonogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1044/103654.jpg?s=906d821b41131b834dc1017251687580",
+                "name": "Nisemonogatari"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1792,
+                "url": "https://myanimelist.net/anime/1792/Overman_King_Gainer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/18535.jpg?s=f0946f06ddcb94c6acdb017bcdfc2011",
+                "name": "Overman King Gainer"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14515,
+                "url": "https://myanimelist.net/anime/14515/Sasami-sanGanbaranai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/53951.jpg?s=24e1d3603b5321c5455bb1d791f4cf3b",
+                "name": "Sasami-san@Ganbaranai"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5485,
+                "url": "https://myanimelist.net/anime/5485/Shin_Mazinger_Shougeki_Z-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg?s=4605992daff9096f29c4c39554c25403",
+                "name": "Shin Mazinger Shougeki! Z-hen"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 5485,
+                "url": "https://myanimelist.net/anime/5485/Shin_Mazinger_Shougeki_Z-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg?s=4605992daff9096f29c4c39554c25403",
+                "name": "Shin Mazinger Shougeki! Z-hen"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 817,
+                "url": "https://myanimelist.net/anime/817/Tactical_Roar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/61829.jpg?s=30fe2f959cca5687df58da2fcbd2f705",
+                "name": "Tactical Roar"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 817,
+                "url": "https://myanimelist.net/anime/817/Tactical_Roar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/61829.jpg?s=30fe2f959cca5687df58da2fcbd2f705",
+                "name": "Tactical Roar"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 817,
+                "url": "https://myanimelist.net/anime/817/Tactical_Roar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/61829.jpg?s=30fe2f959cca5687df58da2fcbd2f705",
+                "name": "Tactical Roar"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 182,
+                "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg?s=dec965692399fb8214ba850ed4bcb965",
+                "name": "Tenkuu no Escaflowne"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 472,
+                "url": "https://myanimelist.net/anime/472/To_Heart",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/29922.jpg?s=1173053eb5cf4d8b2a8846ec3fcd7ef1",
+                "name": "To Heart"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 472,
+                "url": "https://myanimelist.net/anime/472/To_Heart",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/29922.jpg?s=1173053eb5cf4d8b2a8846ec3fcd7ef1",
+                "name": "To Heart"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 28025,
+                "url": "https://myanimelist.net/anime/28025/Tsukimonogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/68259.jpg?s=98ba39af18b5f9e913aeaa70e351b5aa",
+                "name": "Tsukimonogatari"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1023,
+                "url": "https://myanimelist.net/anime/1023/Wolfs_Rain_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/22397.jpg?s=edc5971c61818a5af4f7ad30f6aaee15",
+                "name": "Wolf's Rain OVA"
+            }
+        }
+    ]
+}

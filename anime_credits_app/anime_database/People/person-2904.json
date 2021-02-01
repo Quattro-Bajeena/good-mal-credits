@@ -1,0 +1,40 @@
+{
+    "mal_id": 2904,
+    "url": "https://myanimelist.net/people/2904/Yoshitoo_Asari",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5313.jpg",
+    "name": "Yoshitoo Asari",
+    "given_name": "よしとお",
+    "family_name": "あさり",
+    "birthday": "1962-11-20T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 9851,
+                "url": "https://myanimelist.net/anime/9851/O-parts__Oman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/61339.jpg?s=579b373fa709a1c0f3df0bcd332a9e66",
+                "name": "O-parts: Oman"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 4533,
+                "url": "https://myanimelist.net/anime/4533/Uchuu_Kazoku_Carlvinson",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1084/104620.jpg?s=a835c7d352fdbfb290ec827e3eabce18",
+                "name": "Uchuu Kazoku Carlvinson"
+            }
+        }
+    ]
+}

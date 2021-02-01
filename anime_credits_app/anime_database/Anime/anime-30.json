@@ -1,0 +1,50 @@
+{
+    "mal_id": 30,
+    "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+    "title": "Neon Genesis Evangelion",
+    "title_english": "Neon Genesis Evangelion",
+    "title_japanese": "新世紀エヴァンゲリオン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-10-04T00:00:00+00:00",
+        "to": "1996-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 1995
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 1996
+            }
+        },
+        "string": "Oct 4, 1995 to Mar 27, 1996"
+    },
+    "score": 8.32,
+    "scored_by": 643453,
+    "rank": 213,
+    "popularity": 54,
+    "members": 1128676,
+    "favorites": 69431,
+    "premiered": "Fall 1995",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

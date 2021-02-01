@@ -1,0 +1,103 @@
+{
+    "mal_id": 15933,
+    "url": "https://myanimelist.net/people/15933/Susumu_Ueda",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18227.jpg",
+    "name": "Susumu Ueda",
+    "given_name": "益",
+    "family_name": "上田",
+    "birthday": null,
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 8475,
+                "url": "https://myanimelist.net/anime/8475/Asura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/44289.jpg?s=1159b79d6fc3fd1357ec33477973fd07",
+                "name": "Asura"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 819,
+                "url": "https://myanimelist.net/anime/819/Boku_wa_Imouto_ni_Koi_wo_Suru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/819.jpg?s=80ba64e89e7526025e6f96f2f5354c3e",
+                "name": "Boku wa Imouto ni Koi wo Suru"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 5032,
+                "url": "https://myanimelist.net/anime/5032/Cobra_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/18900.jpg?s=38b2e0e964a922a4187bbb77d6ac9a12",
+                "name": "Cobra The Animation"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 838,
+                "url": "https://myanimelist.net/anime/838/Narutaru__Mukuro_Naru_Hoshi_Tama_Taru_Ko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/12023.jpg?s=7826fcbc6e3a006643df960f0dd3d871",
+                "name": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 151,
+                "url": "https://myanimelist.net/anime/151/Re__Cutey_Honey",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/52103.jpg?s=0428ecc9860a67b07cb20505a919f18c",
+                "name": "Re: Cutey Honey"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 23,
+                "url": "https://myanimelist.net/anime/23/Ring_ni_Kakero_1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/53487.jpg?s=b0c4b7920ee73523a2f94b79936cd115",
+                "name": "Ring ni Kakero 1"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 7793,
+                "url": "https://myanimelist.net/anime/7793/Ring_ni_Kakero_1__Kage_Dou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/18864.jpg?s=74ace618cac0a6b833645e92b062f4bf",
+                "name": "Ring ni Kakero 1: Kage Dou-hen"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1771,
+                "url": "https://myanimelist.net/anime/1771/Ring_ni_Kakero_1__Nichibei_Kessen-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1771.jpg?s=2a941dd43f809f2e8601003f62b5cbe8",
+                "name": "Ring ni Kakero 1: Nichibei Kessen-hen"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 10346,
+                "url": "https://myanimelist.net/anime/10346/Ring_ni_Kakero_1__Sekai_Taikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/75841.jpg?s=a001595f4547fb26700f90de9bdcfd52",
+                "name": "Ring ni Kakero 1: Sekai Taikai-hen"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1246,
+                "url": "https://myanimelist.net/anime/1246/Yuugo__Koushounin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/55523.jpg?s=4a34c0138ba167b20859e08ca7e37b0b",
+                "name": "Yuugo: Koushounin"
+            }
+        }
+    ]
+}

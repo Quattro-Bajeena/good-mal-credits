@@ -1,0 +1,44 @@
+{
+    "mal_id": 5,
+    "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg",
+    "title": "Cowboy Bebop: Tengoku no Tobira",
+    "title_english": "Cowboy Bebop: The Movie",
+    "title_japanese": "カウボーイビバップ 天国の扉",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-09-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 1, 2001"
+    },
+    "score": 8.39,
+    "scored_by": 157368,
+    "rank": 162,
+    "popularity": 513,
+    "members": 270550,
+    "favorites": 1160,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

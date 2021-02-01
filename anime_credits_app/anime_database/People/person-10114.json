@@ -1,0 +1,58 @@
+{
+    "mal_id": 10114,
+    "url": "https://myanimelist.net/people/10114/Scott_Matthew",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/37591.jpg",
+    "name": "Scott Matthew",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 5,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 1456,
+                "url": "https://myanimelist.net/anime/1456/L_R__Licensed_by_Royal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/14587.jpg?s=42661bf7ccb4746fd1c2de2d6aa42c51",
+                "name": "L/R: Licensed by Royal"
+            }
+        }
+    ]
+}

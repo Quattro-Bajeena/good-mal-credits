@@ -1,0 +1,785 @@
+{
+    "mal_id": 508,
+    "url": "https://myanimelist.net/people/508/Yoko_Kanno",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/24673.jpg",
+    "name": "Yoko Kanno",
+    "given_name": "よう子",
+    "family_name": "菅野",
+    "birthday": "1963-03-18T00:00:00+00:00",
+    "member_favorites": 10166,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 6795,
+                "url": "https://myanimelist.net/anime/6795/Genius_Party_Beyond",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18914.jpg?s=6a2112c4e1ffe2e9b3b69f40745bfb9d",
+                "name": "Genius Party Beyond"
+            },
+            "character": {
+                "mal_id": 42853,
+                "url": "https://myanimelist.net/character/42853/Kuu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/270525.jpg?s=89f9d995680a91d3900bff4c53a04080",
+                "name": "Kuu"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 30382,
+                "url": "https://myanimelist.net/anime/30382/Aquarion_Logos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/74989.jpg?s=b5836b684dc71096f8a167fdb0939fa5",
+                "name": "Aquarion Logos"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 30382,
+                "url": "https://myanimelist.net/anime/30382/Aquarion_Logos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/74989.jpg?s=b5836b684dc71096f8a167fdb0939fa5",
+                "name": "Aquarion Logos"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 526,
+                "url": "https://myanimelist.net/anime/526/Boku_no_Chikyuu_wo_Mamotte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25035.jpg?s=aa014cdf809907730998b40275bd7626",
+                "name": "Boku no Chikyuu wo Mamotte"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1542,
+                "url": "https://myanimelist.net/anime/1542/Brain_Powerd",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1749/91562.jpg?s=09bdc6b99ec2d0405f9be04c696fa8cf",
+                "name": "Brain Powerd"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 232,
+                "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg?s=ba6394350bfde4e62963b02889694bcb",
+                "name": "Cardcaptor Sakura"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 1312,
+                "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/94093.jpg?s=136aa686f600cc434a6add5f57cabff2",
+                "name": "Chikyuu Bouei Kigyou Dai-Guard"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 812,
+                "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/57253.jpg?s=8322fe675a874100945c02730bd211b2",
+                "name": "Chikyuu Shoujo Arjuna"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 812,
+                "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/57253.jpg?s=8322fe675a874100945c02730bd211b2",
+                "name": "Chikyuu Shoujo Arjuna"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 812,
+                "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/57253.jpg?s=8322fe675a874100945c02730bd211b2",
+                "name": "Chikyuu Shoujo Arjuna"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 8888,
+                "url": "https://myanimelist.net/anime/8888/Code_Geass__Boukoku_no_Akito_1_-_Yokuryuu_wa_Maiorita",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/41401.jpg?s=cc7ce6c7e94048690fe24e7aad6ccd1d",
+                "name": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 15197,
+                "url": "https://myanimelist.net/anime/15197/Code_Geass__Boukoku_no_Akito_2_-_Hikisakareshi_Yokuryuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56243.jpg?s=fd9a949d099d4a5e4d0c50ce623697ba",
+                "name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 15197,
+                "url": "https://myanimelist.net/anime/15197/Code_Geass__Boukoku_no_Akito_2_-_Hikisakareshi_Yokuryuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56243.jpg?s=fd9a949d099d4a5e4d0c50ce623697ba",
+                "name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 15199,
+                "url": "https://myanimelist.net/anime/15199/Code_Geass__Boukoku_no_Akito_3_-_Kagayaku_Mono_Ten_yori_Otsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72698.jpg?s=f66effead742c16faa79cabda82ad6c1",
+                "name": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 15199,
+                "url": "https://myanimelist.net/anime/15199/Code_Geass__Boukoku_no_Akito_3_-_Kagayaku_Mono_Ten_yori_Otsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72698.jpg?s=f66effead742c16faa79cabda82ad6c1",
+                "name": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 15201,
+                "url": "https://myanimelist.net/anime/15201/Code_Geass__Boukoku_no_Akito_4_-_Nikushimi_no_Kioku_kara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74757.jpg?s=1eba80249a2f288fe8eda4ad327f0ce0",
+                "name": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 15201,
+                "url": "https://myanimelist.net/anime/15201/Code_Geass__Boukoku_no_Akito_4_-_Nikushimi_no_Kioku_kara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74757.jpg?s=1eba80249a2f288fe8eda4ad327f0ce0",
+                "name": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 17205,
+                "url": "https://myanimelist.net/anime/17205/Cowboy_Bebop__Ein_no_Natsuyasumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/45947.jpg?s=702d39cd4ebf923b578cbfd4b371b277",
+                "name": "Cowboy Bebop: Ein no Natsuyasumi"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 4037,
+                "url": "https://myanimelist.net/anime/4037/Cowboy_Bebop__Yose_Atsume_Blues",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/54341.jpg?s=1e37f72161308f43f981f9f5e0ba491a",
+                "name": "Cowboy Bebop: Yose Atsume Blues"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 2025,
+                "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg?s=7bfc04d78ec59cca283822cdae1167c1",
+                "name": "Darker than Black: Kuro no Keiyakusha"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 4182,
+                "url": "https://myanimelist.net/anime/4182/Darker_than_Black__Kuro_no_Keiyakusha_-_Sakura_no_Hana_no_Mankai_no_Shita",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/32729.jpg?s=20b16838350e7fa5f1df57a33fc5787d",
+                "name": "Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 393,
+                "url": "https://myanimelist.net/anime/393/Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/50419.jpg?s=2246032d65ec85d922ada875b7f60488",
+                "name": "Escaflowne"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3508,
+                "url": "https://myanimelist.net/anime/3508/Genius_Party",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/20882.jpg?s=9bab1d5e2fe0f194c69c811c97f83088",
+                "name": "Genius Party"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 17897,
+                "url": "https://myanimelist.net/anime/17897/Hana_wa_Saku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/47699.jpg?s=0e3da095a7ec5e32ea3e62f795c632cc",
+                "name": "Hana wa Saku"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 28093,
+                "url": "https://myanimelist.net/anime/28093/Hana_wa_Saku__Touhoku_ni_Saku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/67985.jpg?s=79a1a2e7cdbe6e85b134c85012fa1bad",
+                "name": "Hana wa Saku: Touhoku ni Saku"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 28093,
+                "url": "https://myanimelist.net/anime/28093/Hana_wa_Saku__Touhoku_ni_Saku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/67985.jpg?s=79a1a2e7cdbe6e85b134c85012fa1bad",
+                "name": "Hana wa Saku: Touhoku ni Saku"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 37242,
+                "url": "https://myanimelist.net/anime/37242/Hoshi_to_Tsubasa_no_Paradox",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1666/95134.jpg?s=eaf0d9626a182fbb5126eb0c6dc3953d",
+                "name": "Hoshi to Tsubasa no Paradox"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1566,
+                "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg?s=9d7a4984f673b975f1684e506ec7d0bb",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3447,
+                "url": "https://myanimelist.net/anime/3447/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society_-_Uchikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/5699.jpg?s=3499b67f3537638fd6b3696839eb56a6",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1335,
+                "url": "https://myanimelist.net/anime/1335/Koukaku_Kidoutai__Stand_Alone_Complex_-_Tachikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/4166.jpg?s=d4f1dfdfc28af15979b4d13645e1705e",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 2449,
+                "url": "https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21835.jpg?s=86e6580877381cba1b3842803fd7ac32",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3485,
+                "url": "https://myanimelist.net/anime/3485/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Tachikoma_na_Hibi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/5799.jpg?s=180135ec7dc5757b428c6b833601c33e",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Tachikoma na Hibi"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 206,
+                "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1065/92495.jpg?s=d2864c3a76aa3f3816257e9a58600c22",
+                "name": "Lodoss-tou Senki: Eiyuu Kishi Den"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1397,
+                "url": "https://myanimelist.net/anime/1397/Macross_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/22786.jpg?s=822efef25dd4dc56d803b595314d4a47",
+                "name": "Macross 7"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1399,
+                "url": "https://myanimelist.net/anime/1399/Macross_7_Encore",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1514/96093.jpg?s=c1fca1e30558f43f5f3d55ae96b75d95",
+                "name": "Macross 7 Encore"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1398,
+                "url": "https://myanimelist.net/anime/1398/Macross_Dynamite_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/15647.jpg?s=39e150697a1961c5ff778b1884a0e9cc",
+                "name": "Macross Dynamite 7"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3572,
+                "url": "https://myanimelist.net/anime/3572/Macross_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15648.jpg?s=0b4bccc6238958b16afea696d5b966e3",
+                "name": "Macross F"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 5310,
+                "url": "https://myanimelist.net/anime/5310/Macross_F_Movie_1__Itsuwari_no_Utahime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/76397.jpg?s=f57be30f1bb2ee98639c8d84ad363bac",
+                "name": "Macross F Movie 1: Itsuwari no Utahime"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 7222,
+                "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg?s=a15f1e98d5d51bcfcb3bee7e156e9952",
+                "name": "Macross F Movie 2: Sayonara no Tsubasa"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 4454,
+                "url": "https://myanimelist.net/anime/4454/Macross_F__Close_Encounter_-_Deculture_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/8507.jpg?s=87228c4f60a7912ca5836922ea7eb9cf",
+                "name": "Macross F: Close Encounter - Deculture Edition"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 4454,
+                "url": "https://myanimelist.net/anime/4454/Macross_F__Close_Encounter_-_Deculture_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/8507.jpg?s=87228c4f60a7912ca5836922ea7eb9cf",
+                "name": "Macross F: Close Encounter - Deculture Edition"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 4454,
+                "url": "https://myanimelist.net/anime/4454/Macross_F__Close_Encounter_-_Deculture_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/8507.jpg?s=87228c4f60a7912ca5836922ea7eb9cf",
+                "name": "Macross F: Close Encounter - Deculture Edition"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 474,
+                "url": "https://myanimelist.net/anime/474/Macross_Plus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22779.jpg?s=9a8f7a9f27f78f3254d79d7b4d16f79f",
+                "name": "Macross Plus"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1211,
+                "url": "https://myanimelist.net/anime/1211/Macross_Plus_Movie_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75806.jpg?s=eb54346fa845f51c867f9925858bf69f",
+                "name": "Macross Plus Movie Edition"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1462,
+                "url": "https://myanimelist.net/anime/1462/Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/74781.jpg?s=510c0bebf6c11cfd06bc97bdf82e9075",
+                "name": "Memories"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 1212,
+                "url": "https://myanimelist.net/anime/1212/Oban_Star-Racers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3702.jpg?s=4d0bc378867715c2ce8b18f7f7ffd054",
+                "name": "Oban Star-Racers"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1978,
+                "url": "https://myanimelist.net/anime/1978/Onkyo_Seimeitai_Noiseman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/19521.jpg?s=3b9833160b60c875d2a74cc05bd7c877",
+                "name": "Onkyo Seimeitai Noiseman"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 165,
+                "url": "https://myanimelist.net/anime/165/RahXephon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg?s=1db640b5ce69587dad85609fbc99c60c",
+                "name": "RahXephon"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 758,
+                "url": "https://myanimelist.net/anime/758/RahXephon__Tagen_Hensoukyoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1771/94881.jpg?s=29a7afecb8b7614bf3e26f26b8014063",
+                "name": "RahXephon: Tagen Hensoukyoku"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 7060,
+                "url": "https://myanimelist.net/anime/7060/Ring_of_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/16688.jpg?s=5504b15bd0b0693136b123751d0f5d2f",
+                "name": "Ring of Gundam"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 12531,
+                "url": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/79781.jpg?s=54904fc8abdfb94a275de18de83f7a16",
+                "name": "Sakamichi no Apollon"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 12531,
+                "url": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/79781.jpg?s=54904fc8abdfb94a275de18de83f7a16",
+                "name": "Sakamichi no Apollon"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 12531,
+                "url": "https://myanimelist.net/anime/12531/Sakamichi_no_Apollon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/79781.jpg?s=54904fc8abdfb94a275de18de83f7a16",
+                "name": "Sakamichi no Apollon"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 478,
+                "url": "https://myanimelist.net/anime/478/Sousei_no_Aquarion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg?s=eb926fcb71589396f59b8cfa9289ad32",
+                "name": "Sousei no Aquarion"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 478,
+                "url": "https://myanimelist.net/anime/478/Sousei_no_Aquarion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg?s=eb926fcb71589396f59b8cfa9289ad32",
+                "name": "Sousei no Aquarion"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 478,
+                "url": "https://myanimelist.net/anime/478/Sousei_no_Aquarion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg?s=eb926fcb71589396f59b8cfa9289ad32",
+                "name": "Sousei no Aquarion"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 2170,
+                "url": "https://myanimelist.net/anime/2170/Sousei_no_Aquarion_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/72745.jpg?s=f535a0923e2688174c295b983d967c63",
+                "name": "Sousei no Aquarion OVA"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 20057,
+                "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg?s=27ef910205861d135216623b7ab00429",
+                "name": "Space☆Dandy"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 20057,
+                "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg?s=27ef910205861d135216623b7ab00429",
+                "name": "Space☆Dandy"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 20057,
+                "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg?s=27ef910205861d135216623b7ab00429",
+                "name": "Space☆Dandy"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 182,
+                "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg?s=dec965692399fb8214ba850ed4bcb965",
+                "name": "Tenkuu no Escaflowne"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 95,
+                "url": "https://myanimelist.net/anime/95/Turn_A_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/78330.jpg?s=48034a46c8eda50b9cbc9cdcd6203136",
+                "name": "Turn A Gundam"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3963,
+                "url": "https://myanimelist.net/anime/3963/Turn_A_Gundam_I_Movie__Earth_Light",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7121.jpg?s=f2bc5239d900f3c7e97d842ae5e85b2c",
+                "name": "Turn A Gundam I Movie: Earth Light"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 3964,
+                "url": "https://myanimelist.net/anime/3964/Turn_A_Gundam_II_Movie__Moonlight_Butterfly",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7122.jpg?s=507113d802ba6ce6f2e948261d1c915b",
+                "name": "Turn A Gundam II Movie: Moonlight Butterfly"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 8704,
+                "url": "https://myanimelist.net/anime/8704/Uchuu_Hikoushi_no_Uta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23996.jpg?s=52d86c01f374782a9534f00171f25500",
+                "name": "Uchuu Hikoushi no Uta"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 1023,
+                "url": "https://myanimelist.net/anime/1023/Wolfs_Rain_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/22397.jpg?s=edc5971c61818a5af4f7ad30f6aaee15",
+                "name": "Wolf's Rain OVA"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 23283,
+                "url": "https://myanimelist.net/anime/23283/Zankyou_no_Terror",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/64447.jpg?s=6e567fe2579f9b9d018ec70e73bcb7dd",
+                "name": "Zankyou no Terror"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 23283,
+                "url": "https://myanimelist.net/anime/23283/Zankyou_no_Terror",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/64447.jpg?s=6e567fe2579f9b9d018ec70e73bcb7dd",
+                "name": "Zankyou no Terror"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 23283,
+                "url": "https://myanimelist.net/anime/23283/Zankyou_no_Terror",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/64447.jpg?s=6e567fe2579f9b9d018ec70e73bcb7dd",
+                "name": "Zankyou no Terror"
+            }
+        }
+    ]
+}

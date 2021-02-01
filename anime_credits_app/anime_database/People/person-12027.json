@@ -1,0 +1,22 @@
+{
+    "mal_id": 12027,
+    "url": "https://myanimelist.net/people/12027/Claire",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/11390.jpg",
+    "name": "Claire",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 7,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        }
+    ]
+}

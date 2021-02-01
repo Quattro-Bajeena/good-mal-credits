@@ -1,0 +1,67 @@
+{
+    "mal_id": 8845,
+    "url": "https://myanimelist.net/people/8845/Emily_Bindiger",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6251.jpg",
+    "name": "Emily Bindiger",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1955-05-10T00:00:00+00:00",
+    "member_favorites": 18,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 1487,
+                "url": "https://myanimelist.net/anime/1487/hack__Unison",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23078.jpg?s=d8d73ed64b3243f4abcd0aac3122a322",
+                "name": ".hack//Unison"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 2030,
+                "url": "https://myanimelist.net/anime/2030/El_Cazador_de_la_Bruja",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/19922.jpg?s=8d56fbe18c0aa94f36b97aa7f76d4352",
+                "name": "El Cazador de la Bruja"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 5530,
+                "url": "https://myanimelist.net/anime/5530/Pandora_Hearts",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75535.jpg?s=5b707b9a380673c817c505bc66b44cd1",
+                "name": "Pandora Hearts"
+            }
+        }
+    ]
+}

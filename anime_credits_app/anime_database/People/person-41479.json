@@ -1,0 +1,256 @@
+{
+    "mal_id": 41479,
+    "url": "https://myanimelist.net/people/41479/Keisuke_Masunaga",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Keisuke Masunaga",
+    "given_name": "計介",
+    "family_name": "増永",
+    "birthday": null,
+    "member_favorites": 4,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 530,
+                "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg?s=5692fc50c799c12b675c9a000a9a5970",
+                "name": "Bishoujo Senshi Sailor Moon"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1239,
+                "url": "https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg?s=c847d2cdf5c0856f63cf77b038308e56",
+                "name": "Bishoujo Senshi Sailor Moon SuperS"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1240,
+                "url": "https://myanimelist.net/anime/1240/Bishoujo_Senshi_Sailor_Moon_SuperS__Sailor_9_Senshi_Shuuketsu_Black_Dream_Hole_no_Kiseki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/17831.jpg?s=0df4dfd8c19cc51fa7e221846f00c177",
+                "name": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1676,
+                "url": "https://myanimelist.net/anime/1676/Cosmo_Warrior_Zero",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1254/106173.jpg?s=841f5d6fe092e4c04c6cddead1960ced",
+                "name": "Cosmo Warrior Zero"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7122,
+                "url": "https://myanimelist.net/anime/7122/Dai_Yamato_Zero-gou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16691.jpg?s=d85df971b73bef0fa01ec62acabe2ffb",
+                "name": "Dai Yamato Zero-gou"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 7122,
+                "url": "https://myanimelist.net/anime/7122/Dai_Yamato_Zero-gou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16691.jpg?s=d85df971b73bef0fa01ec62acabe2ffb",
+                "name": "Dai Yamato Zero-gou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7122,
+                "url": "https://myanimelist.net/anime/7122/Dai_Yamato_Zero-gou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16691.jpg?s=d85df971b73bef0fa01ec62acabe2ffb",
+                "name": "Dai Yamato Zero-gou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2961,
+                "url": "https://myanimelist.net/anime/2961/Digimon_Adventure_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72452.jpg?s=3375bd0c35e7e5bec8c4b63993ca5a64",
+                "name": "Digimon Adventure Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1126,
+                "url": "https://myanimelist.net/anime/1126/Figure_17__Tsubasa___Hikaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/15438.jpg?s=a95cb10d1d076364d8f55b5447c44743",
+                "name": "Figure 17: Tsubasa & Hikaru"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 16918,
+                "url": "https://myanimelist.net/anime/16918/Gin_no_Saji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/49237.jpg?s=0ff75d9e602df568b2fef58b1f4e0968",
+                "name": "Gin no Saji"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3602,
+                "url": "https://myanimelist.net/anime/3602/Ginga_Tetsudou_999__Eternal_Fantasy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6083.jpg?s=eb120333bebfb02905c2c89cd3920dfe",
+                "name": "Ginga Tetsudou 999: Eternal Fantasy"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3854,
+                "url": "https://myanimelist.net/anime/3854/Ginga_Tetsudou_Monogatari__Wasurerareta_Toki_no_Wakusei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6905.jpg?s=7ee10cca805418fb299d8d625c8c29dc",
+                "name": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1859,
+                "url": "https://myanimelist.net/anime/1859/Grappler_Baki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/83803.jpg?s=f3b5723258363a7b91c3e6a84bf2e1de",
+                "name": "Grappler Baki"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1706,
+                "url": "https://myanimelist.net/anime/1706/Gun_Frontier",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/15442.jpg?s=cf89cc35870cdc947f665d21a1195d57",
+                "name": "Gun Frontier"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2037,
+                "url": "https://myanimelist.net/anime/2037/Hime-chan_no_Ribbon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1049/111001.jpg?s=5f7c3e531a583f37b1b35ca73ad24b8d",
+                "name": "Hime-chan no Ribbon"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 457,
+                "url": "https://myanimelist.net/anime/457/Mushishi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=aa50ffa32575c50c11cb2828b8776a0f",
+                "name": "Mushishi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1117,
+                "url": "https://myanimelist.net/anime/1117/Pokemon_Movie_02__Maboroshi_no_Pokemon_Lugia_Bakutan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/41801.jpg?s=8686fd8d9da23b2ceba4cb05eb3367ec",
+                "name": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4792,
+                "url": "https://myanimelist.net/anime/4792/Pokemon__Pikachu_Tankentai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1488/97386.jpg?s=c7d734e93a22ef88addea97027fbb80b",
+                "name": "Pokemon: Pikachu Tankentai"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1553,
+                "url": "https://myanimelist.net/anime/1553/Queen_Emeraldas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/21120.jpg?s=2d01d817f5ad9ad32c5b53f042c506e0",
+                "name": "Queen Emeraldas"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 1553,
+                "url": "https://myanimelist.net/anime/1553/Queen_Emeraldas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/21120.jpg?s=2d01d817f5ad9ad32c5b53f042c506e0",
+                "name": "Queen Emeraldas"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 529,
+                "url": "https://myanimelist.net/anime/529/Saishuu_Heiki_Kanojo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/529.jpg?s=909e329e40111fd4a4bf6ee7605d4e4b",
+                "name": "Saishuu Heiki Kanojo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1081,
+                "url": "https://myanimelist.net/anime/1081/Space_Pirate_Captain_Herlock__Outside_Legend_-_The_Endless_Odyssey",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1543/106174.jpg?s=73afce4e7032a59e3f7555980500d4f1",
+                "name": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5681,
+                "url": "https://myanimelist.net/anime/5681/Summer_Wars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/15796.jpg?s=33f10fa8867b315c1c5f1a830d2aead1",
+                "name": "Summer Wars"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2236,
+                "url": "https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2432.jpg?s=57b6bac001444f2f8560a31642c7c1f1",
+                "name": "Toki wo Kakeru Shoujo"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1377,
+                "url": "https://myanimelist.net/anime/1377/Uchuu_Koukyoushi_Maetel__Ginga_Tetsudou_999_Gaiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6787.jpg?s=5efb05a0a42d706982e12fc19244fb2c",
+                "name": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1377,
+                "url": "https://myanimelist.net/anime/1377/Uchuu_Koukyoushi_Maetel__Ginga_Tetsudou_999_Gaiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6787.jpg?s=5efb05a0a42d706982e12fc19244fb2c",
+                "name": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden"
+            }
+        }
+    ]
+}

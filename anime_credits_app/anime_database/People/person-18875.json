@@ -1,0 +1,674 @@
+{
+    "mal_id": 18875,
+    "url": "https://myanimelist.net/people/18875/Thierry_Kazazian",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/30931.jpg",
+    "name": "Thierry Kazazian",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1051,
+                "url": "https://myanimelist.net/anime/1051/Ao_no_6-gou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/20750.jpg?s=cd76e9781c259aed163c7f492c7e9b43",
+                "name": "Ao no 6-gou"
+            },
+            "character": {
+                "mal_id": 8835,
+                "url": "https://myanimelist.net/character/8835/Tetsu_Hayami",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/102591.jpg?s=391c833aab9b7f11851bde49052e0d33",
+                "name": "Hayami, Tetsu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 284,
+                "url": "https://myanimelist.net/anime/284/Area_88_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75571.jpg?s=6e2869df0048db89cd9f01d65912334d",
+                "name": "Area 88 (TV)"
+            },
+            "character": {
+                "mal_id": 38352,
+                "url": "https://myanimelist.net/character/38352/Saki_Vashtal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/187783.jpg?s=bac14d6fcbf49dfc5e3c194cb211d6c4",
+                "name": "Vashtal, Saki"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 492,
+                "url": "https://myanimelist.net/anime/492/Armitage_III__Dual-Matrix",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/2858.jpg?s=a812469d62412954c4f997995f10cf67",
+                "name": "Armitage III: Dual-Matrix"
+            },
+            "character": {
+                "mal_id": 3901,
+                "url": "https://myanimelist.net/character/3901/Ross_Sylibus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/73042.jpg?s=eb1b6d60dd21738779e67baaca5f8ee8",
+                "name": "Sylibus, Ross"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10218,
+                "url": "https://myanimelist.net/anime/10218/Berserk__Ougon_Jidai-hen_I_-_Haou_no_Tamago",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/62179.jpg?s=787de9509fd1413eaa16a2265a686f46",
+                "name": "Berserk: Ougon Jidai-hen I - Haou no Tamago"
+            },
+            "character": {
+                "mal_id": 615,
+                "url": "https://myanimelist.net/character/615/King_of_Midland",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/165489.jpg?s=666ac7cf115fb63bd0bfbc0cc6b38d03",
+                "name": "King of Midland"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            },
+            "character": {
+                "mal_id": 634,
+                "url": "https://myanimelist.net/character/634/Amarao",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/33204.jpg?s=1356113af8eb6e9855159c1f2b7e2f87",
+                "name": "Amarao"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 5411,
+                "url": "https://myanimelist.net/character/5411/Gluttony",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/74580.jpg?s=4da1e3dd1b4c9c40d50bfdeae9b10ea7",
+                "name": "Gluttony"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 5706,
+                "url": "https://myanimelist.net/character/5706/Vato_Falman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/78857.jpg?s=315ae7968cf4c8e250f296fc958a93a2",
+                "name": "Falman, Vato"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 351,
+                "url": "https://myanimelist.net/character/351/Greed",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/284117.jpg?s=0c627ffd8b38177337654781e632866d",
+                "name": "Greed"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 5411,
+                "url": "https://myanimelist.net/character/5411/Gluttony",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/74580.jpg?s=4da1e3dd1b4c9c40d50bfdeae9b10ea7",
+                "name": "Gluttony"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 5706,
+                "url": "https://myanimelist.net/character/5706/Vato_Falman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/78857.jpg?s=315ae7968cf4c8e250f296fc958a93a2",
+                "name": "Falman, Vato"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 351,
+                "url": "https://myanimelist.net/character/351/Greed",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/284117.jpg?s=0c627ffd8b38177337654781e632866d",
+                "name": "Greed"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 5411,
+                "url": "https://myanimelist.net/character/5411/Gluttony",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/74580.jpg?s=4da1e3dd1b4c9c40d50bfdeae9b10ea7",
+                "name": "Gluttony"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            },
+            "character": {
+                "mal_id": 5706,
+                "url": "https://myanimelist.net/character/5706/Vato_Falman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/78857.jpg?s=315ae7968cf4c8e250f296fc958a93a2",
+                "name": "Falman, Vato"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 245,
+                "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/11460.jpg?s=1bfeee9b1d6a6644c06cc1ce65c1146d",
+                "name": "Great Teacher Onizuka"
+            },
+            "character": {
+                "mal_id": 2264,
+                "url": "https://myanimelist.net/character/2264/Ryuuji_Danma",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/203715.jpg?s=831f152bcd48acc3b019dc68ea5f67b4",
+                "name": "Danma, Ryuuji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 270,
+                "url": "https://myanimelist.net/anime/270/Hellsing",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg?s=dbf941b95d794b4bd4033b3a47792f0b",
+                "name": "Hellsing"
+            },
+            "character": {
+                "mal_id": 16046,
+                "url": "https://myanimelist.net/character/16046/Peter_Fargusen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/55351.jpg?s=24854be4b006b60fe802621c40818de0",
+                "name": "Fargusen, Peter"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            },
+            "character": {
+                "mal_id": 1520,
+                "url": "https://myanimelist.net/character/1520/Yousuke_Otoha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/49187.jpg?s=2c601d4766d25855baefeda4ffa75346",
+                "name": "Otoha, Yousuke"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1017,
+                "url": "https://myanimelist.net/anime/1017/Majutsushi_Orphen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/61839.jpg?s=6eedba8749176f3ea6bf62670c73fe6a",
+                "name": "Majutsushi Orphen"
+            },
+            "character": {
+                "mal_id": 5759,
+                "url": "https://myanimelist.net/character/5759/Hartia_Allenford",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/397414.jpg?s=fdbd52b8e99ede3a26322df4733be230",
+                "name": "Allenford, Hartia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            },
+            "character": {
+                "mal_id": 34506,
+                "url": "https://myanimelist.net/character/34506/Arnold_Neumann",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/110421.jpg?s=a46228c9c75b30186f96217182dee860",
+                "name": "Neumann, Arnold"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            },
+            "character": {
+                "mal_id": 34509,
+                "url": "https://myanimelist.net/character/34509/Reverend_Malchio",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/112072.jpg?s=879085d22469409a16b1c1f40cb12fe8",
+                "name": "Malchio, Reverend"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            },
+            "character": {
+                "mal_id": 1267,
+                "url": "https://myanimelist.net/character/1267/Gilbert_Durandal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/30417.jpg?s=5019108e0b77d8aae2b94004af6c904c",
+                "name": "Durandal, Gilbert"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 5750,
+                "url": "https://myanimelist.net/character/5750/Iceburg",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/51467.jpg?s=16be38c6d233ec17921a59b221a807a7",
+                "name": "Iceburg"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 19123,
+                "url": "https://myanimelist.net/anime/19123/One_Piece__Episode_of_Merry_-_Mou_Hitori_no_Nakama_no_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/61015.jpg?s=96382e90def39df87de8ebe0cf0d7bcd",
+                "name": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari"
+            },
+            "character": {
+                "mal_id": 5750,
+                "url": "https://myanimelist.net/character/5750/Iceburg",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/51467.jpg?s=16be38c6d233ec17921a59b221a807a7",
+                "name": "Iceburg"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 329,
+                "url": "https://myanimelist.net/anime/329/Planetes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=a94b01a1e923d7e7f132b827cddd87dc",
+                "name": "Planetes"
+            },
+            "character": {
+                "mal_id": 5105,
+                "url": "https://myanimelist.net/character/5105/Hachirouta_Hoshino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/140123.jpg?s=055512c8eaebfe485f120a3de6ecb2b5",
+                "name": "Hoshino, Hachirouta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 329,
+                "url": "https://myanimelist.net/anime/329/Planetes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/50463.jpg?s=a94b01a1e923d7e7f132b827cddd87dc",
+                "name": "Planetes"
+            },
+            "character": {
+                "mal_id": 7594,
+                "url": "https://myanimelist.net/character/7594/Arvind_Lavie",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/55570.jpg?s=ae19f4838c11544070eb6cd87a67b97a",
+                "name": "Lavie, Arvind"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1954,
+                "url": "https://myanimelist.net/anime/1954/Rayearth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg?s=01b5a8cd828e9dd3f3ebf2c8b0b5bf45",
+                "name": "Rayearth"
+            },
+            "character": {
+                "mal_id": 521,
+                "url": "https://myanimelist.net/character/521/Clef",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/68860.jpg?s=cfd5f98a7977c7f0b380f14b3e9a08d3",
+                "name": "Clef"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1954,
+                "url": "https://myanimelist.net/anime/1954/Rayearth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1824/97041.jpg?s=01b5a8cd828e9dd3f3ebf2c8b0b5bf45",
+                "name": "Rayearth"
+            },
+            "character": {
+                "mal_id": 525,
+                "url": "https://myanimelist.net/character/525/Zagato",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/68908.jpg?s=b521ae1929d0a2061305b692a33f01e3",
+                "name": "Zagato"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 182,
+                "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg?s=dec965692399fb8214ba850ed4bcb965",
+                "name": "Tenkuu no Escaflowne"
+            },
+            "character": {
+                "mal_id": 17014,
+                "url": "https://myanimelist.net/character/17014/Gaddes",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/287490.jpg?s=f8da1df8af82b1897898cee2254ee7bf",
+                "name": "Gaddes"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 51,
+                "url": "https://myanimelist.net/anime/51/Tenshi_Kinryouku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/45208.jpg?s=bc9749626745eb77125da229805b79b2",
+                "name": "Tenshi Kinryouku"
+            },
+            "character": {
+                "mal_id": 4548,
+                "url": "https://myanimelist.net/character/4548/Yue_Katou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/115312.jpg?s=92dee8673070ed168a8a6b9c8554b9a2",
+                "name": "Katou, Yue"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            },
+            "character": {
+                "mal_id": 4961,
+                "url": "https://myanimelist.net/character/4961/Michael_Seebach",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/198437.jpg?s=c431b0f0263535b94f75319a71913c43",
+                "name": "Seebach, Michael"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 47,
+                "url": "https://myanimelist.net/anime/47/Akira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=948835589d4ffaae7a4a975a6c1d61b4",
+                "name": "Akira"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 67,
+                "url": "https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6793.jpg?s=dc4b80823ddc7b378ad0ba24e8a5fc40",
+                "name": "Basilisk: Kouga Ninpou Chou"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 10218,
+                "url": "https://myanimelist.net/anime/10218/Berserk__Ougon_Jidai-hen_I_-_Haou_no_Tamago",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/62179.jpg?s=787de9509fd1413eaa16a2265a686f46",
+                "name": "Berserk: Ougon Jidai-hen I - Haou no Tamago"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 270,
+                "url": "https://myanimelist.net/anime/270/Hellsing",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg?s=dbf941b95d794b4bd4033b3a47792f0b",
+                "name": "Hellsing"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 1566,
+                "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg?s=9d7a4984f673b975f1684e506ec7d0bb",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 1017,
+                "url": "https://myanimelist.net/anime/1017/Majutsushi_Orphen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/61839.jpg?s=6eedba8749176f3ea6bf62670c73fe6a",
+                "name": "Majutsushi Orphen"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 208,
+                "url": "https://myanimelist.net/anime/208/ROD__Read_or_Die",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/208.jpg?s=a499270f9e60345d3adbfe558e8ae20f",
+                "name": "R.O.D: Read or Die"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 165,
+                "url": "https://myanimelist.net/anime/165/RahXephon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg?s=1db640b5ce69587dad85609fbc99c60c",
+                "name": "RahXephon"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 3515,
+                "url": "https://myanimelist.net/anime/3515/Saint_Seiya__Meiou_Hades_Elysion-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/55659.jpg?s=71627781206e6954400b33449832fff3",
+                "name": "Saint Seiya: Meiou Hades Elysion-hen"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 1253,
+                "url": "https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/75732.jpg?s=369813329c900c64fd89ba32caee3c53",
+                "name": "Saint Seiya: Meiou Hades Meikai-hen"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 182,
+                "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg?s=dec965692399fb8214ba850ed4bcb965",
+                "name": "Tenkuu no Escaflowne"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 6,
+                "url": "https://myanimelist.net/anime/6/Trigun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/20310.jpg?s=be98341c3694227037c3aeff67d233ba",
+                "name": "Trigun"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        }
+    ]
+}

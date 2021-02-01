@@ -1,0 +1,76 @@
+{
+    "mal_id": 37094,
+    "url": "https://myanimelist.net/people/37094/Marc_Handler",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/39267.jpg",
+    "name": "Marc Handler",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 2041,
+                "url": "https://myanimelist.net/anime/2041/Ai_to_Yuuki_no_Pig_Girl_Tonde_Buurin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/51421.jpg?s=9ce797b02c2b4e1d056d6a547875e95b",
+                "name": "Ai to Yuuki no Pig Girl Tonde Buurin"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 971,
+                "url": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1611/94026.jpg?s=33a6f008418c06f535b6839e267e0d6f",
+                "name": "Astro Boy: Tetsuwan Atom"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 246,
+                "url": "https://myanimelist.net/anime/246/Groove_Adventure_Rave",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/20134.jpg?s=bd3903c45a77fa56c72030ace1aeef2e",
+                "name": "Groove Adventure Rave"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 1144,
+                "url": "https://myanimelist.net/anime/1144/Tenchi_Muyou_in_Love_2__Haruka_Naru_Omoi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/61773.jpg?s=e2d8a3ad7010aadaceb342fc29abfa86",
+                "name": "Tenchi Muyou! in Love 2: Haruka Naru Omoi"
+            }
+        }
+    ]
+}
