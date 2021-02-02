@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
+from pathlib import Path
 
 import anime_data_collector as adc
 from app_config import Config
@@ -10,6 +11,14 @@ app.config.from_object(Config)
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
-from anime_credits_app import routes, models, config, mal_db
+
+app_root = Path(__file__).parent
+adc.config.config_database(app_root)
+
+from anime_credits_app import routes, models, config, mal_db, log_n_cache
+
+log_n_cache.load_page_visits()
+
+
 
 

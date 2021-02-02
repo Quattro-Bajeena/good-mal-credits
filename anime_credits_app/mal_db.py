@@ -8,29 +8,13 @@ from anime_credits_app.models import Anime, Person, Character, StaffMember, Voic
 
 mal = adc.mal
 
-# returns a list of dict with picture, name, postion
-def update_staff(anime_mal_id : int):
-    
-    
-    if not bool(Anime.query.get(anime_mal_id)):
-        print("anime not in database")
 
-        if not mal.check_file('anime', anime_mal_id):
-            anime = mal.get_anime_api(anime_mal_id)
-            mal.save_anime(anime)
-        else:
-            anime = mal.get_data_file('anime', anime_mal_id)
 
-        if not mal.check_file('staff', anime_mal_id):
-            staff = mal.get_staff_api(anime_mal_id)
-            mal.save_staff(anime_mal_id, staff)
-        else:
-            staff = mal.get_data_file('staff', anime_mal_id)
-        
-    
 
-        anime_db = Anime(
-            mal_id = anime_mal_id,
+def add_anime(anime : dict) -> Anime:
+
+    anime_db = Anime(
+            mal_id = anime['mal_id'],
             url = anime['url'],
             image_url = anime['image_url'],
             title = anime['title'],
@@ -52,88 +36,193 @@ def update_staff(anime_mal_id : int):
             favorites = anime['favorites'],
             premiered = anime['premiered']
         )
-        print(f"new anime db created = {anime['title']}")
-        db.session.add(anime_db)
-        
-    else:
-        print("anime in database")
-        anime = mal.get_data_file('anime', anime_mal_id)
-        staff = mal.get_data_file('staff', anime_mal_id)
-        anime_db = Anime.query.get(anime_mal_id)
+    #print(f"new anime db created = {anime['title']}")
+    db.session.add(anime_db)
+    return anime_db
+
+
+def add_studio(studio : dict) -> Studio:
+    studio_db = Studio(
+        mal_id = studio['mal_id'],
+        work_type = studio['type'],
+        name = studio['name'],
+        url = studio['url']
+    )
+
+    db.session.add(studio_db)
+    #print(f"added new studio - {studio['name']}")
+    return studio_db
+
+def add_person(person : dict) -> Person:
+    person_db = Person(
+        mal_id = person['mal_id'],
+        url = person['url'],
+        image_url = person['image_url'],
+        name = person['name'],
+        given_name = person['given_name'],
+        family_name = person['family_name'],
+        birthday = datetime.datetime.strptime(person['birthday'][:10],'%Y-%m-%d') if person['birthday'] else None,
+        member_favorites = person['member_favorites']
+    )
+
+    db.session.add(person_db)
+    #print(f"added new person - {person['name']}")
+    return person_db
+
+def add_staff_member(staff_id, anime, person, position) -> StaffMember:
+    
+    new_credit = StaffMember(
+        id = staff_id,
+        position = position,
+        person_id = person['mal_id'],
+        anime_id = anime['mal_id']
+    )
+    db.session.add(new_credit)
+    #print(f"added new staff member: {staff_id}")
+    return new_credit
+
+def add_voice_actor(voice_actor_id : int, anime : dict, person : dict, character : dict, role : dict) -> VoiceActor:
+
+    language = None
+    for voice_actor in character['voice_actors']:
+        if voice_actor['mal_id'] == person['mal_id']:
+            language = voice_actor['language']
+            break
+
+    voice_actor_db = VoiceActor(
+        id = voice_actor_id,
+        role = role['role'],
+        language = language,
+        anime_id = anime['mal_id'],
+        person_id = person['mal_id'],
+        character_id = character['mal_id']
+    )
+
+    db.session.add(voice_actor_db)
+    #print(f"added new voice actor {voice_actor_id}")
+    return voice_actor_db
+
+def add_character(character : dict) -> Character:
+    character_db = Character(
+        mal_id = character['mal_id'],
+        url = character['url'],
+        image_url = character['image_url'],
+        name = character['name'],
+        member_favorites = character['member_favorites']
+    )
+
+    db.session.add(character_db)
+    #print(f"added new character: {character['name']}")
+    return character_db
+
+
+
+def acquire_staff(anime_mal_id : int):
+    
+    anime = mal.get_resource('anime', anime_mal_id)
+    staff = mal.get_resource('staff', anime_mal_id) 
+
+    anime_db = Anime.query.get(anime_mal_id)
+
+    if not anime_db:
+        anime_db = add_anime(anime)
 
     print("got anime")
 
     for studio in anime['studios']:
-        if not bool(Studio.query.get(studio['mal_id'])):
-            print("studio not in database")
-            studio_db = Studio(
-                mal_id = studio['mal_id'],
-                work_type = studio['type'],
-                name = studio['name'],
-                url = studio['url']
-            )
 
-            studio_db.anime.append(anime_db)
-            db.session.add(studio_db)
-            print(f"added new studio - {studio['name']}")
+        studio_db = Studio.query.get(studio['mal_id'])
+        if not studio_db:
+            studio_db = add_studio(studio)
 
-        else:
-            print("studio in database")
-            studio_db = Studio.query.get(studio['mal_id'])
-            studio_db.anime.append(anime_db)
+        studio_db.anime.append(anime_db)
 
 
     print("got studios")
 
     for staff_member in staff['staff']:
-        if not Person.query.get(staff_member['mal_id']):
-            
+        person = mal.get_resource('people', staff_member['mal_id'])
 
-            if not mal.check_file('people', staff_member['mal_id']):
-                print("person doesnt exists - downloading")
-                person = mal.get_person_api(staff_member['mal_id'])
-                mal.save_person(person)
-            else:
-                print("person doesnt exists - file already exists")
-                person = mal.get_data_file('people', staff_member['mal_id'])
-           
-            person_db = Person(
-                mal_id = person['mal_id'],
-                url = person['url'],
-                image_url = person['image_url'],
-                name = person['name'],
-                given_name = person['given_name'],
-                family_name = person['family_name'],
-                birthday = datetime.datetime.strptime(person['birthday'][:10],'%Y-%m-%d') if person['birthday'] else None,
-                member_favorites = person['member_favorites']
-            )
-
-            db.session.add(person_db)
-            print(f"added new person - {person['name']}")
-            
-        else:
-            print("person alraedy exists")
-            person_db = Person.query.get(staff_member['mal_id'])
-            person = mal.get_data_file('people', staff_member['mal_id'])
+        person_db = Person.query.get(staff_member['mal_id'])
+        if not person_db:
+            person_db = add_person(person)
 
         for position in staff_member['positions']:
-            
             staff_id = f"{anime['mal_id']}/{person['mal_id']}/{position}"
+
             if not StaffMember.query.get(staff_id):
-                new_credit = StaffMember(
-                    id = staff_id,
-                    position = position,
-                    person_id = person['mal_id'],
-                    anime_id = anime['mal_id']
-                )
-                db.session.add(new_credit)
-                person_db.staff_credits.append(new_credit)
-                anime_db.staff.append(new_credit)
-                print(f"added new staff credit - {staff_id}")
+                staff_member_db = add_staff_member(staff_id, anime, person, position)
+
+                person_db.staff_credits.append(staff_member_db)
+                anime_db.staff.append(staff_member_db)
+                
     
     print("got staff")
 
     db.session.commit()
+
+
+def acquire_person(person_mal_id : int):
+
+    person = mal.get_resource('people', person_mal_id)
+
+    person_db = Person.query.get(person_mal_id)
+
+    if not person_db:
+        person_db = add_person(person)
+
+    print("got person")
+
+    for role in person['voice_acting_roles']:
+        
+        anime = mal.get_resource('anime', role['anime']['mal_id'])
+        anime_db = Anime.query.get(anime['mal_id'])
+        if not anime_db:
+            anime_db = add_anime(anime)
+
+        character = mal.get_resource('characters', role['character']['mal_id'])
+        character_db = Character.query.get(character['mal_id'])
+        if not character_db:
+            character_db = add_character(character)
+
+        anime_db.characters.append(character_db)
+
+
+        voice_actor_id = f"{anime['mal_id']}/{person['mal_id']}/{character['mal_id']}"
+        if not VoiceActor.query.get(voice_actor_id):
+            voice_actor_db = add_voice_actor(voice_actor_id, anime, person,character, role)
+            
+            anime_db.voice_actors.append(voice_actor_db)
+            person_db.voice_acting_roles.append(voice_actor_db)
+            character_db.voice_actors.append(voice_actor_db)
+
+    print("voice rolls")
+
+    for staff_position in person['anime_staff_positions']:
+        anime = mal.get_resource('anime', staff_position['anime']['mal_id'])
+
+        anime_db = Anime.query.get(anime['mal_id'])
+        if not anime_db:
+            anime_db = add_anime(anime)
+
+        position = staff_position['position']
+        staff_id = f"{anime['mal_id']}/{person['mal_id']}/{position}"
+        if not StaffMember.query.get(staff_id):
+            staff_member_db = add_staff_member(staff_id, anime, person,position)
+
+            anime_db.staff.append(staff_member_db)
+            person_db.staff_credits.append(staff_member_db)    
+
+
+    print("got all about person")
+    db.session.commit()
+
+    
+        
+
+
+        
+
 
 
 

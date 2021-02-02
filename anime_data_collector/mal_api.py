@@ -23,7 +23,7 @@ second_limit_max = 2
 minute_limit_max = 30
 
 second_limit = 2
-minute_limit = 30
+minute_limit = 15
 
 last_request = time.time()
 
@@ -34,20 +34,20 @@ def rate_limiter(func_with_api_call):
         global second_limit, second_limit_max, minute_limit, minute_limit_max
         global last_request
 
-        print(f"RATE LIMITER: {second_limit} / {minute_limit}: {time.time() - last_request}")
+        print(f"RATE LIMITER: {second_limit} / {minute_limit}: {round(time.time() - last_request, 3)}")
 
-        if second_limit < 0:
+        if second_limit <= 0:
             print("hit SECOND rate LIMIT")
-            time.sleep(2)
-        if minute_limit < 0:
+            time.sleep(3)
+        if minute_limit <= 0:
             print("hit MINUTE rate LIMIT")
             #time.sleep(60 - (time.time() - last_request))
-            time.sleep(90)
+            time.sleep(70)
 
-        if time.time() - last_request > 2:
+        if time.time() - last_request > 3:
             second_limit = second_limit_max
             print("RESTORED SECOND LIMIT")
-        if time.time() - last_request > 90:
+        if time.time() - last_request > 70:
             minute_limit = minute_limit_max
             print("RESTORE MINUTE LIMIT")
 
@@ -67,10 +67,14 @@ def id_from_search(type: str, query: str) -> int:
     return int(results["results"][0]["mal_id"])
 
 @rate_limiter
-def search_options(q_type: str, query: str, number : int):
-    results = jikan.search(search_type=q_type, query=query)
+def search_options(q_type: str, query: str, number : int = 0):
+    results_api = jikan.search(search_type=q_type, query=query)
     options = []
-    firsts = results["results"][0:number]
+
+    results = results_api["results"]
+
+    if number:
+        results = results[0:number]
 
     
     attributes_to_copy = ["mal_id", "url", "image_url"]
@@ -79,11 +83,13 @@ def search_options(q_type: str, query: str, number : int):
     if q_type == "people":
         attributes_to_copy.append("name")
 
-    for mal_result in firsts:
+    for mal_result in results:
         result = {}
         for attr in attributes_to_copy:
             result[attr] = mal_result[attr]
         options.append(result)
+
+    
 
     return options
 
@@ -94,30 +100,52 @@ def get_staff_api(mal_id : int) -> list:
     return {"mal_id": mal_id, "staff": characters_staff["staff"]}
 
 
-def save_staff(mal_id : int, staff: list):
+def save_staff(staff: list):
+    mal_id = staff['mal_id']
     with open(config.staff_folder / Path(f"staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(staff, f, indent=4, ensure_ascii=False)
 
 
-# CHARACTERS
+# ANIME CHARACTERS
 @rate_limiter
-def get_characters_api(mal_id : int) -> list:
+def get_anime_characters_api(mal_id : int) -> list:
     characters_staff = jikan.anime(mal_id, extension="characters_staff")
     return {"mal_id": mal_id, "characters": characters_staff["characters"]}
 
 
-def save_characters(mal_id :int, staff: list):
-    with open(config.staff_folder / Path(f"characters-{mal_id}.json"), 'w', encoding='utf-8') as f:
+def save_anime_characters(mal_id :int, staff: list):
+    with open(config.anime_characters_folder / Path(f"characters-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(staff, f, indent=4, ensure_ascii=False)
+
+# CHARACTER
+def get_character_api(mal_id : int) -> dict:
+    mal_character = jikan.character(mal_id)
+    character = {}
+    attributes_to_copy = [
+        'mal_id', 'url', 'name', 'name_kanji', 'nicknames', 'member_favorites',
+        'image_url',
+        'animeography', 'mangaography', 'voice_actors'
+    ]
+    for attr in attributes_to_copy:
+        character[attr] = mal_character[attr]
+
+    return character
+
+def save_character(character : dict):
+    mal_id = character['mal_id']
+    with open(config.characters_folder / Path(f"character-{mal_id}.json"), 'w', encoding='utf-8') as f:
+        json.dump(character, f, indent=4, ensure_ascii=False)
 
 # PEOPLE
 @rate_limiter
 def get_person_api(mal_id:int) -> dict:
     mal_person = jikan.person(mal_id)
     person = {}
-    attributes_to_copy = ["mal_id", "url", "image_url", "name", "given_name", "family_name",
-                          "birthday", "member_favorites",
-                          "voice_acting_roles", "anime_staff_positions"]
+    attributes_to_copy = [
+        "mal_id", "url", "image_url", "name", "given_name", "family_name",
+        "birthday", "member_favorites",
+        "voice_acting_roles", "anime_staff_positions"
+        ]
 
     for attr in attributes_to_copy:
         person[attr] = mal_person[attr]
@@ -174,6 +202,37 @@ def get_data_file(resource_type, id: int):
             with open(file, 'r', encoding='utf-8') as f:
                 return json.load(f)
     return None
+
+
+# checks if resource is already downloaded, if not downlaods and saves it
+# if it is, it just loads it from file
+def get_resource(resource_type : str, mal_id : int):
+
+    get_functions = {
+        'anime' : get_anime_api,
+        'people' : get_person_api,
+        'staff' : get_staff_api,
+        'anime_characters' : get_anime_characters_api,
+        'characters' : get_character_api
+    }
+
+    save_functions = {
+        'anime' : save_anime,
+        'people' : save_person,
+        'staff' : save_staff,
+        'anime_characters' : save_anime_characters,
+        'characters' : save_character
+    }
+
+    if not check_file( resource_type, mal_id):
+        #print(f"{resource_type} doesnt exists - downloading")
+        resource = get_functions[resource_type](mal_id)
+        save_functions[resource_type](resource)
+    else:
+        #print(f"{resource_type} already is downloaded")
+        resource = get_data_file(resource_type, mal_id)
+
+    return resource
 
 
 

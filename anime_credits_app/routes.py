@@ -5,7 +5,7 @@ from flask import render_template, request, redirect, url_for
 from anime_credits_app import app, adc, db
 import anime_credits_app.models as models
 import anime_credits_app.mal_db as mal_db
-
+import anime_credits_app.log_n_cache as lnc
 
 
 from pathlib import Path
@@ -33,34 +33,37 @@ def search():
 @app.route('/search/<category>/<query>')
 def search_options(category, query):
     results = adc.mal.search_options(category, query, 10)
+
+    if category == 'people' and len(results) == 0:
+        mal_id = adc.util.search_people_fallback(query)
+        return redirect(url_for('person', mal_id = mal_id))
+
     return render_template('searching.html', results = results, category=category)
 
 
 @app.route('/anime/<int:mal_id>')
 def anime_staff(mal_id):
-    # if adc.mal.check_file("anime", mal_id):
-    #     anime_info = adc.mal.get_data_file("anime", mal_id)
-    #     staff = adc.mal.get_data_file("staff", mal_id)
 
-    #     print("staff was cached")
-    # else:
-    #     anime_info = adc.mal.get_anime_api(mal_id)
-    #     staff = adc.mal.get_staff_api(mal_id)
+    if not lnc.check_page_visit('staff', mal_id):
+        mal_db.acquire_staff(mal_id)
 
-    #     adc.mal.save_anime(anime_info)
-    #     adc.mal.save_staff(mal_id, staff)
-
-    #     print("staff downlaod from API")
-    
-
-    #temp
-    mal_db.update_staff(mal_id)
     anime = models.Anime.query.get(mal_id)
-    staff = anime.staff
-    
-    return render_template("staff-table.html",anime = anime,  staff = staff)
+
+    lnc.register_page_visit('staff', mal_id)
+    lnc.save_page_visits()
+
+    return render_template("staff.html", anime = anime)
 
 
 @app.route('/people/<int:mal_id>')
 def person(mal_id):
-    return f"Person {mal_id}"
+
+    if not lnc.check_page_visit('people', mal_id):
+        mal_db.acquire_person(mal_id)
+
+    person = models.Person.query.get(mal_id)
+
+    lnc.register_page_visit('people', mal_id)
+    lnc.save_page_visits()
+
+    return render_template('person.html', person = person)

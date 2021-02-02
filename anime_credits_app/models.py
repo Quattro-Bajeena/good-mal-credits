@@ -34,7 +34,9 @@ class Anime(db.Model):
     premiered = db.Column(db.String(200))
 
     staff = db.relationship('StaffMember', backref='anime', lazy=True)
+    voice_actors = db.relationship('VoiceActor', backref='anime', lazy=True)
     characters = db.relationship('Character', secondary=characters, lazy='subquery', backref=db.backref('anime', lazy=True))
+    
 
     def __repr__(self):
         return f"Anime: {self.title} - {self.mal_id}"

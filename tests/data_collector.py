@@ -34,6 +34,20 @@ def download_person(id):
         json.dump(person, f, indent=4, ensure_ascii=False)
 
 
-#download_person(7998)
+def search_people(query):
+    results = adc.mal.search_options('people', query, None)
 
-character = adc.jikan.character()
+    with open( test_folder / f"search-test.json", 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=4, ensure_ascii=False)
+
+def save_character(mal_id):
+    character = adc.mal.get_character_api(mal_id)
+
+    with open( test_folder / f"character-test.json", 'w', encoding='utf-8') as f:
+            json.dump(character, f, indent=4, ensure_ascii=False)
+
+
+save_character(140810)
+
+
+
