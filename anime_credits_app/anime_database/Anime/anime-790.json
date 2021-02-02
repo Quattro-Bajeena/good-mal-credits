@@ -1,0 +1,44 @@
+{
+    "mal_id": 790,
+    "url": "https://myanimelist.net/anime/790/Ergo_Proxy",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/6259.jpg",
+    "title": "Ergo Proxy",
+    "title_english": "Ergo Proxy",
+    "title_japanese": "エルゴプラクシー",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 23,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-02-25T00:00:00+00:00",
+        "to": "2006-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2006
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Feb 25, 2006 to Aug 12, 2006"
+    },
+    "score": 7.92,
+    "scored_by": 178073,
+    "rank": 656,
+    "popularity": 249,
+    "members": 474722,
+    "favorites": 10978,
+    "premiered": "Winter 2006",
+    "studios": [
+        {
+            "mal_id": 32,
+            "type": "anime",
+            "name": "Manglobe",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ]
+}

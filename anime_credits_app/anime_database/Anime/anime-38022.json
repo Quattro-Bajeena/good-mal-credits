@@ -1,0 +1,50 @@
+{
+    "mal_id": 38022,
+    "url": "https://myanimelist.net/anime/38022/Monster_Strike_The_Animation",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1415/101689.jpg",
+    "title": "Monster Strike The Animation",
+    "title_english": "Monster Strike the Animation",
+    "title_japanese": "モンスターストライク The Animation",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 63,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-07-08T00:00:00+00:00",
+        "to": "2019-12-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            }
+        },
+        "string": "Jul 8, 2018 to Dec 31, 2019"
+    },
+    "score": 6.6,
+    "scored_by": 493,
+    "rank": 5407,
+    "popularity": 7063,
+    "members": 4002,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 298,
+            "type": "anime",
+            "name": "Anima",
+            "url": "https://myanimelist.net/anime/producer/298/Anima"
+        },
+        {
+            "mal_id": 1169,
+            "type": "anime",
+            "name": "ILCA",
+            "url": "https://myanimelist.net/anime/producer/1169/ILCA"
+        }
+    ]
+}

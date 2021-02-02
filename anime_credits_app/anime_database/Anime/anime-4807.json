@@ -1,0 +1,44 @@
+{
+    "mal_id": 4807,
+    "url": "https://myanimelist.net/anime/4807/Mashin_Eiyuuden_Wataru_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1709/92203.jpg",
+    "title": "Mashin Eiyuuden Wataru 2",
+    "title_english": "Spirit Hero Wataru 2",
+    "title_japanese": "魔神英雄伝ワタル2",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 46,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-03-09T00:00:00+00:00",
+        "to": "1991-03-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 3,
+                "year": 1990
+            },
+            "to": {
+                "day": 8,
+                "month": 3,
+                "year": 1991
+            }
+        },
+        "string": "Mar 9, 1990 to Mar 8, 1991"
+    },
+    "score": 6.78,
+    "scored_by": 282,
+    "rank": 4556,
+    "popularity": 10531,
+    "members": 949,
+    "favorites": 2,
+    "premiered": "Spring 1990",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

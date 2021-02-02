@@ -1,0 +1,44 @@
+{
+    "mal_id": 32151,
+    "url": "https://myanimelist.net/anime/32151/Senki_Zesshou_Symphogear_GX__Senki_Zesshou_Shinai_Symphogear",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/77264.jpg",
+    "title": "Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear",
+    "title_english": null,
+    "title_japanese": "戦姫絶唱シンフォギアGX 戦姫絶唱しないシンフォギア",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-11-25T00:00:00+00:00",
+        "to": "2016-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2015
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 2016
+            }
+        },
+        "string": "Nov 25, 2015 to Feb 24, 2016"
+    },
+    "score": 6.91,
+    "scored_by": 1956,
+    "rank": 3998,
+    "popularity": 6340,
+    "members": 5210,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "mal_id": 102365,
+    "url": "https://myanimelist.net/character/102365/Froese",
+    "name": "Froese",
+    "name_kanji": null,
+    "nicknames": [
+        "Chef Goddess"
+    ],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/238627.jpg",
+    "animeography": [
+        {
+            "mal_id": 10033,
+            "name": "Toriko",
+            "url": "https://myanimelist.net/anime/10033/Toriko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg?s=34a1988db290cffe98dbd61e63651cdc",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 7887,
+            "name": "Toriko",
+            "url": "https://myanimelist.net/manga/7887/Toriko",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/25993.jpg?s=6ba2d96ac233c67c1fd6edf908d5b3ca",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

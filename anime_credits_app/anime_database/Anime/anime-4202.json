@@ -1,0 +1,44 @@
+{
+    "mal_id": 4202,
+    "url": "https://myanimelist.net/anime/4202/Mokke_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/7761.jpg",
+    "title": "Mokke Specials",
+    "title_english": "Mokke Special Episodes",
+    "title_japanese": "もっけ",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-01-25T00:00:00+00:00",
+        "to": "2008-05-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 23,
+                "month": 5,
+                "year": 2008
+            }
+        },
+        "string": "Jan 25, 2008 to May 23, 2008"
+    },
+    "score": 6.92,
+    "scored_by": 719,
+    "rank": 3964,
+    "popularity": 8951,
+    "members": 1877,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

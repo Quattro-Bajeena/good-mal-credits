@@ -1,0 +1,50 @@
+{
+    "mal_id": 1068,
+    "url": "https://myanimelist.net/anime/1068/Chou_Denji_Robo_Combattler_V",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/15513.jpg",
+    "title": "Chou Denji Robo Combattler V",
+    "title_english": null,
+    "title_japanese": "超電磁ロボ コンバトラーＶ",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 54,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1976-04-17T00:00:00+00:00",
+        "to": "1977-05-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 1976
+            },
+            "to": {
+                "day": 28,
+                "month": 5,
+                "year": 1977
+            }
+        },
+        "string": "Apr 17, 1976 to May 28, 1977"
+    },
+    "score": 6.7,
+    "scored_by": 756,
+    "rank": 4901,
+    "popularity": 8174,
+    "members": 2553,
+    "favorites": 11,
+    "premiered": "Spring 1976",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        },
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

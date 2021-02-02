@@ -1,0 +1,44 @@
+{
+    "mal_id": 1916,
+    "url": "https://myanimelist.net/anime/1916/Mobile_Suit_Gundam_MS_IGLOO__Apocalypse_0079",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/11823.jpg",
+    "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+    "title_english": null,
+    "title_japanese": "機動戦士ガンダム MS IGLOO -黙示録0079-",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-26T00:00:00+00:00",
+        "to": "2006-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "Apr 26, 2006 to Aug 25, 2006"
+    },
+    "score": 6.85,
+    "scored_by": 5731,
+    "rank": 4237,
+    "popularity": 4611,
+    "members": 11551,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

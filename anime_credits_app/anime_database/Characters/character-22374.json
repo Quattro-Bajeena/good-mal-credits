@@ -1,0 +1,56 @@
+{
+    "mal_id": 22374,
+    "url": "https://myanimelist.net/character/22374/Taeko_Hirukawa",
+    "name": "Taeko Hirukawa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/53183.jpg",
+    "animeography": [
+        {
+            "mal_id": 323,
+            "name": "Mousou Dairinin",
+            "url": "https://myanimelist.net/anime/323/Mousou_Dairinin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/10240.jpg?s=a0533194b84252b15f5556d27be74c2a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 350,
+            "name": "Wahlgren, Kari",
+            "url": "https://myanimelist.net/people/350/Kari_Wahlgren",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/51461.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6138,
+            "name": "Otto, Ilona",
+            "url": "https://myanimelist.net/people/6138/Ilona_Otto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/2769.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 28313,
+            "name": "Leurquin, Sabrina",
+            "url": "https://myanimelist.net/people/28313/Sabrina_Leurquin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29913.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 42949,
+            "name": "Bismuto, Connie",
+            "url": "https://myanimelist.net/people/42949/Connie_Bismuto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46392.jpg",
+            "language": "Italian"
+        }
+    ]
+}

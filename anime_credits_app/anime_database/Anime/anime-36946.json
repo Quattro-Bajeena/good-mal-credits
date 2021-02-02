@@ -1,0 +1,44 @@
+{
+    "mal_id": 36946,
+    "url": "https://myanimelist.net/anime/36946/Dragon_Ball_Super_Movie__Broly",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1575/93498.jpg",
+    "title": "Dragon Ball Super Movie: Broly",
+    "title_english": "Dragon Ball Super: Broly",
+    "title_japanese": "ドラゴンボール超（スーパー） ブロリー",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-12-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 12,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 14, 2018"
+    },
+    "score": 8.11,
+    "scored_by": 127365,
+    "rank": 399,
+    "popularity": 744,
+    "members": 198682,
+    "favorites": 1544,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

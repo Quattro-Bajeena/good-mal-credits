@@ -1,0 +1,44 @@
+{
+    "mal_id": 36023,
+    "url": "https://myanimelist.net/anime/36023/Persona_5_the_Animation",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg",
+    "title": "Persona 5 the Animation",
+    "title_english": "Persona 5 The Animation",
+    "title_japanese": "TVアニメ「ペルソナ５」",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-04-08T00:00:00+00:00",
+        "to": "2018-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 8, 2018 to Sep 30, 2018"
+    },
+    "score": 6.48,
+    "scored_by": 51198,
+    "rank": 5969,
+    "popularity": 845,
+    "members": 175737,
+    "favorites": 678,
+    "premiered": "Spring 2018",
+    "studios": [
+        {
+            "mal_id": 1835,
+            "type": "anime",
+            "name": "CloverWorks",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ]
+}

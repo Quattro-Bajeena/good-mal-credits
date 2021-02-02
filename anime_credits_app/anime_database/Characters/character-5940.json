@@ -1,0 +1,92 @@
+{
+    "mal_id": 5940,
+    "url": "https://myanimelist.net/character/5940/Alicia_Testarossa",
+    "name": "Alicia Testarossa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 17,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/226571.jpg",
+    "animeography": [
+        {
+            "mal_id": 76,
+            "name": "Mahou Shoujo Lyrical Nanoha",
+            "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.jpg?s=082f97fb2a171bd86ca52cdf47c64546",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 77,
+            "name": "Mahou Shoujo Lyrical Nanoha A's",
+            "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/6767.jpg?s=52ed94d2cdee440511ee144700dd27da",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4985,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+            "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg?s=8f6e07c4f95d6fe4f87950c39fa59365",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10153,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+            "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1511/94432.jpg?s=1576b3deaa5131c629fb4fc1c92fe6b7",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 3236,
+            "name": "Mahou Shoujo Lyrical Nanoha A's",
+            "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33371.jpg?s=4a59270ce69d97f5e5f861f818dda6fe",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 16872,
+            "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+            "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/30053.jpg?s=32665d95c181f702d7bb1c2de995322b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 42129,
+            "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+            "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/100787.jpg?s=1411c29ce872bc5a15c0de2c85dfe3b1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 50595,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+            "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/89397.jpg?s=2d0bd4f90ceca36d7055ffa57b4fd4b3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 88984,
+            "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+            "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/174526.jpg?s=6119de59ec5e0614e4be0447d3400e57",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6869,
+            "name": "Alyx, Jennifer",
+            "url": "https://myanimelist.net/people/6869/Jennifer_Alyx",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/19435.jpg",
+            "language": "English"
+        }
+    ]
+}

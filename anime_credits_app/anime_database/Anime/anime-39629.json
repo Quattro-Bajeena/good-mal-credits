@@ -1,0 +1,44 @@
+{
+    "mal_id": 39629,
+    "url": "https://myanimelist.net/anime/39629/Aihime_Megohime",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1370/102722.jpg",
+    "title": "Aihime Megohime",
+    "title_english": null,
+    "title_japanese": "愛姫MEGOHIME",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-03-29T00:00:00+00:00",
+        "to": "2020-02-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2019
+            },
+            "to": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            }
+        },
+        "string": "Mar 29, 2019 to Feb 29, 2020"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 13179,
+    "popularity": 13172,
+    "members": 328,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1314,
+            "type": "anime",
+            "name": "Gaina",
+            "url": "https://myanimelist.net/anime/producer/1314/Gaina"
+        }
+    ]
+}

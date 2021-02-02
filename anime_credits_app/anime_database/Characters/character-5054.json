@@ -1,0 +1,35 @@
+{
+    "mal_id": 5054,
+    "url": "https://myanimelist.net/character/5054/Krone",
+    "name": "Krone",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/66319.jpg",
+    "animeography": [
+        {
+            "mal_id": 2719,
+            "name": "MapleStory",
+            "url": "https://myanimelist.net/anime/2719/MapleStory",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/4868.jpg?s=aa2c07272ffc2383d887b1a554d7aa93",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14851,
+            "name": "Bae, Jeong Mi",
+            "url": "https://myanimelist.net/people/14851/Jeong_Mi_Bae",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15423.jpg",
+            "language": "Korean"
+        }
+    ]
+}

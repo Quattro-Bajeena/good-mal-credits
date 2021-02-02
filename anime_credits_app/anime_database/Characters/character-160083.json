@@ -1,0 +1,28 @@
+{
+    "mal_id": 160083,
+    "url": "https://myanimelist.net/character/160083/The_Princess",
+    "name": "The Princess",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 25049,
+            "name": "Sushi Ninja",
+            "url": "https://myanimelist.net/anime/25049/Sushi_Ninja",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/64109.jpg?s=f2ed588f6aa5a746d4f7be635ad8f10c",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

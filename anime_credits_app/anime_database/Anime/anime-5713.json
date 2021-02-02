@@ -1,0 +1,44 @@
+{
+    "mal_id": 5713,
+    "url": "https://myanimelist.net/anime/5713/Minami-ke_Betsubara",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/25454.jpg",
+    "title": "Minami-ke Betsubara",
+    "title_english": null,
+    "title_japanese": "みなみけ べつばら",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-06-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 23, 2009"
+    },
+    "score": 7.51,
+    "scored_by": 14276,
+    "rank": 1553,
+    "popularity": 3130,
+    "members": 27025,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 163,
+            "type": "anime",
+            "name": "Asread",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2795,
+    "url": "https://myanimelist.net/anime/2795/Dragonaut__The_Resonance",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/28917.jpg",
+    "title": "Dragonaut: The Resonance",
+    "title_english": "Dragonaut - The Resonance",
+    "title_japanese": "ドラゴノーツ-ザ・レソナンス-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-10-04T00:00:00+00:00",
+        "to": "2008-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Oct 4, 2007 to Mar 27, 2008"
+    },
+    "score": 6.66,
+    "scored_by": 27908,
+    "rank": 5091,
+    "popularity": 1852,
+    "members": 66167,
+    "favorites": 108,
+    "premiered": "Fall 2007",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

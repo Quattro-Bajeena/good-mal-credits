@@ -1,0 +1,44 @@
+{
+    "mal_id": 1133,
+    "url": "https://myanimelist.net/anime/1133/Tenchi_Muyou_GXP",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/20295.jpg",
+    "title": "Tenchi Muyou! GXP",
+    "title_english": null,
+    "title_japanese": "天地無用! GXP",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-04-02T00:00:00+00:00",
+        "to": "2002-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2002
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2002
+            }
+        },
+        "string": "Apr 2, 2002 to Sep 25, 2002"
+    },
+    "score": 7.18,
+    "scored_by": 12045,
+    "rank": 2845,
+    "popularity": 3197,
+    "members": 25976,
+    "favorites": 134,
+    "premiered": "Spring 2002",
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

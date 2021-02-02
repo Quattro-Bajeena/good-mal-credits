@@ -1,0 +1,44 @@
+{
+    "mal_id": 908,
+    "url": "https://myanimelist.net/anime/908/Fullmetal_Alchemist__Premium_Collection",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/18689.jpg",
+    "title": "Fullmetal Alchemist: Premium Collection",
+    "title_english": "Fullmetal Alchemist: Premium OVA Collection",
+    "title_japanese": "鋼の錬金術師 PREMIUM COLLECTION",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-03-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 3,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 29, 2006"
+    },
+    "score": 7.35,
+    "scored_by": 30460,
+    "rank": 2108,
+    "popularity": 1974,
+    "members": 60698,
+    "favorites": 111,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

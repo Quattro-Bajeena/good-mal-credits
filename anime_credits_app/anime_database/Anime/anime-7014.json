@@ -1,0 +1,44 @@
+{
+    "mal_id": 7014,
+    "url": "https://myanimelist.net/anime/7014/Tezuka_Osamu_no_Buddha__Akai_Sabaku_yo_Utsukushiku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/39437.jpg",
+    "title": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
+    "title_english": "Buddha: The Great Departure",
+    "title_japanese": "手塚治虫のブッダ－赤い砂漠よ！美しく－",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-05-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 28, 2011"
+    },
+    "score": 6.99,
+    "scored_by": 2567,
+    "rank": 3684,
+    "popularity": 5414,
+    "members": 7693,
+    "favorites": 18,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

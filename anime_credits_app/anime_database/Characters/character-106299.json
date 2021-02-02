@@ -1,0 +1,36 @@
+{
+    "mal_id": 106299,
+    "url": "https://myanimelist.net/character/106299/Kichou",
+    "name": "Kichou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/253963.jpg",
+    "animeography": [
+        {
+            "mal_id": 24135,
+            "name": "Nobunaga Concerto",
+            "url": "https://myanimelist.net/anime/24135/Nobunaga_Concerto",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/64519.jpg?s=0619780bc88a040536877d60f82fc497",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 34169,
+            "name": "Nobunaga Concerto",
+            "url": "https://myanimelist.net/manga/34169/Nobunaga_Concerto",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/62217.jpg?s=dcc81f9d8c1db6a5eb108583eb47a100",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 15688,
+    "url": "https://myanimelist.net/character/15688/Neju_Na_Melmas",
+    "name": "Neju Na Melmas",
+    "name_kanji": null,
+    "nicknames": [
+        "Nejuu Na Melmas"
+    ],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/420882.jpg",
+    "animeography": [
+        {
+            "mal_id": 1133,
+            "name": "Tenchi Muyou! GXP",
+            "url": "https://myanimelist.net/anime/1133/Tenchi_Muyou_GXP",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/20295.jpg?s=6fc9a7e24a4568b5e4ef7665f2faa30a",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 830,
+            "name": "Fox, Sandy",
+            "url": "https://myanimelist.net/people/830/Sandy_Fox",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40012.jpg",
+            "language": "English"
+        }
+    ]
+}

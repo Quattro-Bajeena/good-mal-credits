@@ -1,0 +1,98 @@
+{
+    "mal_id": 6917,
+    "url": "https://myanimelist.net/character/6917/Wrath",
+    "name": "Wrath",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 128,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/76637.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 430,
+            "name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=1f633bb6f8633a021999c1b2f84813a8",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 664,
+            "name": "Fullmetal Alchemist: Reflections",
+            "url": "https://myanimelist.net/anime/664/Fullmetal_Alchemist__Reflections",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/18690.jpg?s=7619dcb9f869bff02a97570f3719d73a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 908,
+            "name": "Fullmetal Alchemist: Premium Collection",
+            "url": "https://myanimelist.net/anime/908/Fullmetal_Alchemist__Premium_Collection",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/18689.jpg?s=1ea275a09aca953cfc61d94de705afc3",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 189,
+            "name": "Christian, Luci",
+            "url": "https://myanimelist.net/people/189/Luci_Christian",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49236.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1108,
+            "name": "Lucindo, Fábio",
+            "url": "https://myanimelist.net/people/1108/Fábio_Lucindo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/29361.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 6851,
+            "name": "Escobar, Francoise",
+            "url": "https://myanimelist.net/people/6851/Francoise_Escobar",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29159.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 11919,
+            "name": "Mottola, Patrizia",
+            "url": "https://myanimelist.net/people/11919/Patrizia_Mottola",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46797.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 12320,
+            "name": "Maurer, Hannes",
+            "url": "https://myanimelist.net/people/12320/Hannes_Maurer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/55487.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 20062,
+            "name": "Berkes, Bence",
+            "url": "https://myanimelist.net/people/20062/Bence_Berkes",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/23126.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 35181,
+            "name": "Indriago, Héctor",
+            "url": "https://myanimelist.net/people/35181/Héctor_Indriago",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/36637.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

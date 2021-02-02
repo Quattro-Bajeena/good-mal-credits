@@ -1,0 +1,50 @@
+{
+    "mal_id": 89,
+    "url": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg",
+    "title": "Mobile Suit Victory Gundam",
+    "title_english": "Mobile Suit V Gundam",
+    "title_japanese": "機動戦士Vガンダム",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-04-02T00:00:00+00:00",
+        "to": "1994-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 1993
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 1994
+            }
+        },
+        "string": "Apr 2, 1993 to Mar 25, 1994"
+    },
+    "score": 6.76,
+    "scored_by": 7591,
+    "rank": 4656,
+    "popularity": 3584,
+    "members": 20579,
+    "favorites": 91,
+    "premiered": "Spring 1993",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        },
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

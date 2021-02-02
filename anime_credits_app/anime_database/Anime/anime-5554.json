@@ -1,0 +1,44 @@
+{
+    "mal_id": 5554,
+    "url": "https://myanimelist.net/anime/5554/Eguchi_Hisashi_no_Nantoka_Narudesho",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/58919.jpg",
+    "title": "Eguchi Hisashi no Nantoka Narudesho!",
+    "title_english": null,
+    "title_japanese": "江口寿史のNANTOKA NARUDESHO!",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 1990"
+    },
+    "score": 5.08,
+    "scored_by": 373,
+    "rank": 10467,
+    "popularity": 9926,
+    "members": 1241,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

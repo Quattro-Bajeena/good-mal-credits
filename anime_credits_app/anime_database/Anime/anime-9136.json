@@ -1,0 +1,44 @@
+{
+    "mal_id": 9136,
+    "url": "https://myanimelist.net/anime/9136/Kuroshitsuji_II_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/26664.jpg",
+    "title": "Kuroshitsuji II Specials",
+    "title_english": "Black Butler II Specials",
+    "title_japanese": "黒執事II: シエル・イン・ワンダーランド",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-27T00:00:00+00:00",
+        "to": "2011-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 2011
+            }
+        },
+        "string": "Oct 27, 2010 to May 25, 2011"
+    },
+    "score": 7.48,
+    "scored_by": 50322,
+    "rank": 1653,
+    "popularity": 1385,
+    "members": 99710,
+    "favorites": 499,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

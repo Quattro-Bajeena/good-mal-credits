@@ -1,0 +1,44 @@
+{
+    "mal_id": 24135,
+    "url": "https://myanimelist.net/anime/24135/Nobunaga_Concerto",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/64519.jpg",
+    "title": "Nobunaga Concerto",
+    "title_english": null,
+    "title_japanese": "信長協奏曲〈コンツェルト〉",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-12T00:00:00+00:00",
+        "to": "2014-09-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 12, 2014 to Sep 20, 2014"
+    },
+    "score": 7.61,
+    "scored_by": 18547,
+    "rank": 1257,
+    "popularity": 2329,
+    "members": 46890,
+    "favorites": 260,
+    "premiered": "Summer 2014",
+    "studios": [
+        {
+            "mal_id": 169,
+            "type": "anime",
+            "name": "Fuji TV",
+            "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+        }
+    ]
+}

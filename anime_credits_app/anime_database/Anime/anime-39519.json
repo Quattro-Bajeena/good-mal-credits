@@ -1,0 +1,44 @@
+{
+    "mal_id": 39519,
+    "url": "https://myanimelist.net/anime/39519/Dragons_Dogma",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1519/109068.jpg",
+    "title": "Dragon's Dogma",
+    "title_english": null,
+    "title_japanese": "ドラゴンズドグマ",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-09-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 9,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 17, 2020"
+    },
+    "score": 5.96,
+    "scored_by": 6428,
+    "rank": 8346,
+    "popularity": 4344,
+    "members": 13502,
+    "favorites": 15,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1892,
+            "type": "anime",
+            "name": "Sublimation",
+            "url": "https://myanimelist.net/anime/producer/1892/Sublimation"
+        }
+    ]
+}

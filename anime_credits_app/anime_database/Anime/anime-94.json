@@ -1,0 +1,44 @@
+{
+    "mal_id": 94,
+    "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg",
+    "title": "Mobile Suit Gundam SEED Destiny",
+    "title_english": null,
+    "title_japanese": "機動戦士ガンダムSEED DESTINY",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-10-09T00:00:00+00:00",
+        "to": "2005-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2005
+            }
+        },
+        "string": "Oct 9, 2004 to Oct 1, 2005"
+    },
+    "score": 7.23,
+    "scored_by": 53938,
+    "rank": 2663,
+    "popularity": 1525,
+    "members": 89593,
+    "favorites": 1206,
+    "premiered": "Fall 2004",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

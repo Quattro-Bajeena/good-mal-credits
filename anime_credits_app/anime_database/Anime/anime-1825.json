@@ -1,0 +1,44 @@
+{
+    "mal_id": 1825,
+    "url": "https://myanimelist.net/anime/1825/Hadashi_no_Gen_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1825.jpg",
+    "title": "Hadashi no Gen 2",
+    "title_english": "Barefoot Gen 2",
+    "title_japanese": "はだしのゲン　２",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-06-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 6,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 14, 1986"
+    },
+    "score": 7.37,
+    "scored_by": 4074,
+    "rank": 2028,
+    "popularity": 5072,
+    "members": 9121,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1371,
+    "url": "https://myanimelist.net/anime/1371/Hi_no_Tori",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/3622.jpg",
+    "title": "Hi no Tori",
+    "title_english": "Bird of Fire",
+    "title_japanese": "火の鳥",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-03-21T00:00:00+00:00",
+        "to": "2004-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 3,
+                "year": 2004
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2004
+            }
+        },
+        "string": "Mar 21, 2004 to Jun 27, 2004"
+    },
+    "score": 7.11,
+    "scored_by": 1897,
+    "rank": 3157,
+    "popularity": 5514,
+    "members": 7390,
+    "favorites": 28,
+    "premiered": "Spring 2004",
+    "studios": [
+        {
+            "mal_id": 200,
+            "type": "anime",
+            "name": "Tezuka Productions",
+            "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+        }
+    ]
+}

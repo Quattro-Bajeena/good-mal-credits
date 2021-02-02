@@ -1,0 +1,44 @@
+{
+    "mal_id": 9759,
+    "url": "https://myanimelist.net/anime/9759/Future_GPX_Cyber_Formula_Graffiti",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/31699.jpg",
+    "title": "Future GPX Cyber Formula Graffiti",
+    "title_english": null,
+    "title_japanese": "新世紀GPXサイバーフォーミュラ グラフィティ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-08-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 8,
+                "year": 1992
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 5, 1992"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 13983,
+    "popularity": 12294,
+    "members": 461,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

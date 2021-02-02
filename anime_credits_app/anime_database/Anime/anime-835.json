@@ -1,0 +1,44 @@
+{
+    "mal_id": 835,
+    "url": "https://myanimelist.net/anime/835/Sister_Princess__Re_Pure",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/25293.jpg",
+    "title": "Sister Princess: Re Pure",
+    "title_english": null,
+    "title_japanese": "シスター・プリンセス ～リピュア～",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-10-04T00:00:00+00:00",
+        "to": "2002-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2002
+            }
+        },
+        "string": "Oct 4, 2002 to Dec 25, 2002"
+    },
+    "score": 6.26,
+    "scored_by": 2639,
+    "rank": 7043,
+    "popularity": 5381,
+    "members": 7812,
+    "favorites": 13,
+    "premiered": "Fall 2002",
+    "studios": [
+        {
+            "mal_id": 218,
+            "type": "anime",
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ]
+}

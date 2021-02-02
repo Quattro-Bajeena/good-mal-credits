@@ -1,0 +1,44 @@
+{
+    "mal_id": 1472,
+    "url": "https://myanimelist.net/anime/1472/City_Hunter_3",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1147/94393.jpg",
+    "title": "City Hunter 3",
+    "title_english": null,
+    "title_japanese": "シティーハンター3",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-10-15T00:00:00+00:00",
+        "to": "1990-01-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 10,
+                "year": 1989
+            },
+            "to": {
+                "day": 21,
+                "month": 1,
+                "year": 1990
+            }
+        },
+        "string": "Oct 15, 1989 to Jan 21, 1990"
+    },
+    "score": 7.82,
+    "scored_by": 6405,
+    "rank": 792,
+    "popularity": 4181,
+    "members": 14568,
+    "favorites": 32,
+    "premiered": "Fall 1989",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

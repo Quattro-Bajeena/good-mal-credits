@@ -1,0 +1,44 @@
+{
+    "mal_id": 1471,
+    "url": "https://myanimelist.net/anime/1471/City_Hunter_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/50523.jpg",
+    "title": "City Hunter 2",
+    "title_english": null,
+    "title_japanese": "シティーハンター2",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 63,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-04-02T00:00:00+00:00",
+        "to": "1989-07-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 1988
+            },
+            "to": {
+                "day": 14,
+                "month": 7,
+                "year": 1989
+            }
+        },
+        "string": "Apr 2, 1988 to Jul 14, 1989"
+    },
+    "score": 8.06,
+    "scored_by": 7861,
+    "rank": 469,
+    "popularity": 3764,
+    "members": 18440,
+    "favorites": 113,
+    "premiered": "Spring 1988",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

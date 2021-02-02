@@ -1,0 +1,35 @@
+{
+    "mal_id": 3779,
+    "url": "https://myanimelist.net/character/3779/Kururu",
+    "name": "Kururu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/5336.jpg",
+    "animeography": [
+        {
+            "mal_id": 348,
+            "name": "Binzume Yousei",
+            "url": "https://myanimelist.net/anime/348/Binzume_Yousei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/16917.jpg?s=737b3612696e54aaee6144e06ae8eb82",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 830,
+            "name": "Fox, Sandy",
+            "url": "https://myanimelist.net/people/830/Sandy_Fox",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40012.jpg",
+            "language": "English"
+        }
+    ]
+}

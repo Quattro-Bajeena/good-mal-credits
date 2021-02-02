@@ -1,0 +1,44 @@
+{
+    "mal_id": 3625,
+    "url": "https://myanimelist.net/anime/3625/Battle_Royal_High_School",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/6209.jpg",
+    "title": "Battle Royal High School",
+    "title_english": "Battle Royal High School",
+    "title_japanese": "真魔神伝　バトルロイヤルハイスクール",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-12-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 12,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 10, 1987"
+    },
+    "score": 5.57,
+    "scored_by": 2329,
+    "rank": 9458,
+    "popularity": 6070,
+    "members": 5779,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

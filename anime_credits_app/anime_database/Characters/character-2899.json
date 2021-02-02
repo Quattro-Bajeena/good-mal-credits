@@ -1,0 +1,88 @@
+{
+    "mal_id": 2899,
+    "url": "https://myanimelist.net/character/2899/Colette_Brunel",
+    "name": "Colette Brunel",
+    "name_kanji": null,
+    "nicknames": [
+        "Collet",
+        "Chosen One"
+    ],
+    "member_favorites": 139,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/73937.jpg",
+    "animeography": [
+        {
+            "mal_id": 1731,
+            "name": "Tales of Symphonia The Animation: Sylvarant-hen",
+            "url": "https://myanimelist.net/anime/1731/Tales_of_Symphonia_The_Animation__Sylvarant-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/77063.jpg?s=482e008c17757d6f2587c18c5d3d4379",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3954,
+            "name": "Tales of Symphonia The Animation: Kratos-sensei no Private Lesson",
+            "url": "https://myanimelist.net/anime/3954/Tales_of_Symphonia_The_Animation__Kratos-sensei_no_Private_Lesson",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/24936.jpg?s=e3237e54b7e09bb7d99bad944bdc3f3c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 5306,
+            "name": "Tales of Symphonia The Animation: Tethe'alla-hen",
+            "url": "https://myanimelist.net/anime/5306/Tales_of_Symphonia_The_Animation__Tethealla-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/23211.jpg?s=e42a4802992ec7ff26a6acdeef0db1a2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8908,
+            "name": "Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson",
+            "url": "https://myanimelist.net/anime/8908/Tales_of_Symphonia_The_Animation__Kaette_Kita_Kratos-sensei_no_Private_Lesson",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/63491.jpg?s=287b2abe3655d1f61138ae2a266863cf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8909,
+            "name": "Tales of Symphonia The Animation: Tethe'alla-hen Specials",
+            "url": "https://myanimelist.net/anime/8909/Tales_of_Symphonia_The_Animation__Tethealla-hen_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/60787.jpg?s=b5927a46f7ff22c51740a1b533fd6bd5",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8995,
+            "name": "Tales of Symphonia The Animation: Sekai Tougou-hen",
+            "url": "https://myanimelist.net/anime/8995/Tales_of_Symphonia_The_Animation__Sekai_Tougou-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/35809.jpg?s=3c6b92a20406bfddeea2ba212f74359f",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1255,
+            "name": "Tales of Symphonia",
+            "url": "https://myanimelist.net/manga/1255/Tales_of_Symphonia",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/19070.jpg?s=15d0e798f61130980d65bd9d2a70338f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 7199,
+            "name": "Tales of Symphonia: Extra Load",
+            "url": "https://myanimelist.net/manga/7199/Tales_of_Symphonia__Extra_Load",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/10971.jpg?s=01279bc01878d8b4978c5fcc6b42de84",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6117,
+            "name": "Werner, Rieke",
+            "url": "https://myanimelist.net/people/6117/Rieke_Werner",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/51063.jpg",
+            "language": "German"
+        }
+    ]
+}

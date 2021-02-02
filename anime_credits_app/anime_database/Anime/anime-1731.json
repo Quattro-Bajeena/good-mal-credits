@@ -1,0 +1,44 @@
+{
+    "mal_id": 1731,
+    "url": "https://myanimelist.net/anime/1731/Tales_of_Symphonia_The_Animation__Sylvarant-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/77063.jpg",
+    "title": "Tales of Symphonia The Animation: Sylvarant-hen",
+    "title_english": null,
+    "title_japanese": "テイルズオブシンフォニア THE ANIMATION シルヴァラント編",
+    "type": "OVA",
+    "source": "Game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-06-08T00:00:00+00:00",
+        "to": "2007-12-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 6,
+                "year": 2007
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Jun 8, 2007 to Dec 21, 2007"
+    },
+    "score": 7.18,
+    "scored_by": 20843,
+    "rank": 2844,
+    "popularity": 2326,
+    "members": 47016,
+    "favorites": 161,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 43,
+            "type": "anime",
+            "name": "ufotable",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ]
+}

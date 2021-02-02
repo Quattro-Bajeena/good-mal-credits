@@ -1,0 +1,44 @@
+{
+    "mal_id": 20221,
+    "url": "https://myanimelist.net/anime/20221/Minami-ke_Natsuyasumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/64505.jpg",
+    "title": "Minami-ke Natsuyasumi",
+    "title_english": null,
+    "title_japanese": "みなみけ 夏やすみ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-08-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 8,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 6, 2013"
+    },
+    "score": 7.39,
+    "scored_by": 7563,
+    "rank": 1948,
+    "popularity": 4050,
+    "members": 15687,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 91,
+            "type": "anime",
+            "name": "feel.",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ]
+}

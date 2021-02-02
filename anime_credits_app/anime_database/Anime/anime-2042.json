@@ -1,0 +1,44 @@
+{
+    "mal_id": 2042,
+    "url": "https://myanimelist.net/anime/2042/Five_Star_Stories",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/76054.jpg",
+    "title": "Five Star Stories",
+    "title_english": "The Five Star Stories",
+    "title_japanese": "ファイブスター物語",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-03-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 3,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 11, 1989"
+    },
+    "score": 6.6,
+    "scored_by": 3991,
+    "rank": 5394,
+    "popularity": 4866,
+    "members": 10031,
+    "favorites": 31,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

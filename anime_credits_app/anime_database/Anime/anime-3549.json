@@ -1,0 +1,44 @@
+{
+    "mal_id": 3549,
+    "url": "https://myanimelist.net/anime/3549/Allison_to_Lillia",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/50491.jpg",
+    "title": "Allison to Lillia",
+    "title_english": "Allison & Lillia",
+    "title_japanese": "アリソンとリリア",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-03T00:00:00+00:00",
+        "to": "2008-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 2,
+                "month": 10,
+                "year": 2008
+            }
+        },
+        "string": "Apr 3, 2008 to Oct 2, 2008"
+    },
+    "score": 7.35,
+    "scored_by": 12651,
+    "rank": 2099,
+    "popularity": 2595,
+    "members": 38080,
+    "favorites": 168,
+    "premiered": "Spring 2008",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

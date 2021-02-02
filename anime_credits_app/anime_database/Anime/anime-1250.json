@@ -1,0 +1,44 @@
+{
+    "mal_id": 1250,
+    "url": "https://myanimelist.net/anime/1250/Erementar_Gerad",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/79163.jpg",
+    "title": "Erementar Gerad",
+    "title_english": "Elemental Gelade",
+    "title_japanese": "エレメンタルジェレイド",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-04-05T00:00:00+00:00",
+        "to": "2005-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Apr 5, 2005 to Sep 27, 2005"
+    },
+    "score": 7.3,
+    "scored_by": 38973,
+    "rank": 2357,
+    "popularity": 1577,
+    "members": 84923,
+    "favorites": 495,
+    "premiered": "Spring 2005",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

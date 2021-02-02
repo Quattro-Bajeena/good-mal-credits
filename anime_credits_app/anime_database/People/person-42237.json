@@ -1,0 +1,382 @@
+{
+    "mal_id": 42237,
+    "url": "https://myanimelist.net/people/42237/Atsushi_Satomi",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Atsushi Satomi",
+    "given_name": "篤",
+    "family_name": "里見",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 11755,
+                "url": "https://myanimelist.net/anime/11755/009_Re_Cyborg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/40189.jpg?s=da05a4e914e5fad72939c1e4152cc2fe",
+                "name": "009 Re:Cyborg"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 889,
+                "url": "https://myanimelist.net/anime/889/Black_Lagoon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/25596.jpg?s=f31fbd58d0fc2ed2e82cea0ef72067a2",
+                "name": "Black Lagoon"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 35610,
+                "url": "https://myanimelist.net/anime/35610/Chizu_no_Nai_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/85826.jpg?s=afb740b5b8267d428c9416cb3497eb44",
+                "name": "Chizu no Nai Bouken"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 4789,
+                "url": "https://myanimelist.net/anime/4789/ef__A_Tale_of_Melodies",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/50519.jpg?s=17eadbfbcc65a81a54758ae236ec425a",
+                "name": "ef: A Tale of Melodies."
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 384,
+                "url": "https://myanimelist.net/anime/384/Gantz",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5998.jpg?s=ceb3b3f32cd70bac946e9c35ade768e7",
+                "name": "Gantz"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 395,
+                "url": "https://myanimelist.net/anime/395/Gantz_2nd_Stage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23247.jpg?s=5800de405591ca82d0f8e90b1e4a82f6",
+                "name": "Gantz 2nd Stage"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 385,
+                "url": "https://myanimelist.net/anime/385/Gilgamesh",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6640.jpg?s=97d00a34fc29170eb1d0bd620ddebbb5",
+                "name": "Gilgamesh"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 918,
+                "url": "https://myanimelist.net/anime/918/Gintama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg?s=9f6be74bce91c5bf28b77d27bc0acf48",
+                "name": "Gintama"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 6867,
+                "url": "https://myanimelist.net/anime/6867/Halo_Legends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16013.jpg?s=0b6b0dbfc59ba773901acae42eb3c0f5",
+                "name": "Halo Legends"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 649,
+                "url": "https://myanimelist.net/anime/649/Hanaukyou_Maid-tai__La_Verite",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/10518.jpg?s=6e975c3aa66e34f8d76888d72e824367",
+                "name": "Hanaukyou Maid-tai: La Verite"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 31109,
+                "url": "https://myanimelist.net/anime/31109/Hatsukoi_Monster",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/80182.jpg?s=cd4efe7effceda7ec5233e7567fe677e",
+                "name": "Hatsukoi Monster"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2002,
+                "url": "https://myanimelist.net/anime/2002/Heroic_Age",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/50435.jpg?s=c3027b1933d4487b478d53433ab7adac",
+                "name": "Heroic Age"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5998,
+                "url": "https://myanimelist.net/anime/5998/Hottarake_no_Shima__Haruka_to_Mahou_no_Kagami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22255.jpg?s=4a3089cac4e5c41b60ac9ccfb9df4d7d",
+                "name": "Hottarake no Shima: Haruka to Mahou no Kagami"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3270,
+                "url": "https://myanimelist.net/anime/3270/IGPX__Immortal_Grand_Prix_2005",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/5176.jpg?s=e903d154ad1a4fa756d648c99348c63a",
+                "name": "IGPX: Immortal Grand Prix (2005)"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 588,
+                "url": "https://myanimelist.net/anime/588/Itsudatte_My_Santa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/2902.jpg?s=79d0035843f34607c16fccbbc7595427",
+                "name": "Itsudatte My Santa!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3503,
+                "url": "https://myanimelist.net/anime/3503/Kanokon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/9490.jpg?s=d2f65c1fa279cab304675220a76fe47d",
+                "name": "Kanokon"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 31804,
+                "url": "https://myanimelist.net/anime/31804/Kuma_Miko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/78863.jpg?s=74d6b078c2142de518621b3d4028f692",
+                "name": "Kuma Miko"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 4903,
+                "url": "https://myanimelist.net/anime/4903/Kyou_no_5_no_2_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/21096.jpg?s=ff0f2c6116f0d83784d070d5ef4bb35b",
+                "name": "Kyou no 5 no 2 (TV)"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 23321,
+                "url": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/68097.jpg?s=c935ce3035a1975a27c613cb1c85bdf8",
+                "name": "Log Horizon 2nd Season"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5029,
+                "url": "https://myanimelist.net/anime/5029/Major_Movie__Yuujou_no_Winning_Shot",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75221.jpg?s=7becb4addccfa2db3f1c2c2e195f6dca",
+                "name": "Major Movie: Yuujou no Winning Shot"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1546,
+                "url": "https://myanimelist.net/anime/1546/Negima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/73997.jpg?s=8bf7a4e1fe444b04cdbb164a84bded48",
+                "name": "Negima!?"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1619,
+                "url": "https://myanimelist.net/anime/1619/Negima_Haru_Special",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/23632.jpg?s=0306460e6a02c9a8da907b716b7e209b",
+                "name": "Negima!? Haru Special!?"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 32668,
+                "url": "https://myanimelist.net/anime/32668/Noblesse__Awakening",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/78406.jpg?s=08670679f7ee6dba28f0a900ceb54d65",
+                "name": "Noblesse: Awakening"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2966,
+                "url": "https://myanimelist.net/anime/2966/Ookami_to_Koushinryou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59401.jpg?s=99f8d9b6fc8d6a12e6e521c1c8a052ff",
+                "name": "Ookami to Koushinryou"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 35905,
+                "url": "https://myanimelist.net/anime/35905/Ryuuou_no_Oshigoto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/89979.jpg?s=113b0427c80bccd09c4b78409e5dfdf1",
+                "name": "Ryuuou no Oshigoto!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 6171,
+                "url": "https://myanimelist.net/anime/6171/Saint_Seiya__The_Lost_Canvas_-_Meiou_Shinwa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75546.jpg?s=6aba2596b6720b9fb8781ecad8a01c3c",
+                "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 12477,
+                "url": "https://myanimelist.net/anime/12477/Sakasama_no_Patema",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/52415.jpg?s=08719e8d9ef870cfd08d35c2d2f7c3ad",
+                "name": "Sakasama no Patema"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5507,
+                "url": "https://myanimelist.net/anime/5507/Senjou_no_Valkyria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/53901.jpg?s=5789349b71b99bc9d9befd07a8da3bc8",
+                "name": "Senjou no Valkyria"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8017,
+                "url": "https://myanimelist.net/anime/8017/Soukou_Kihei_Votoms__Genei-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19559.jpg?s=b0a5e871a3fdcb5736207b15f7278618",
+                "name": "Soukou Kihei Votoms: Genei-hen"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8250,
+                "url": "https://myanimelist.net/anime/8250/Soukou_Kihei_Votoms__Koei_Futatabi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/82162.jpg?s=a19ec25f78ed0630a18bbcb83cac853f",
+                "name": "Soukou Kihei Votoms: Koei Futatabi"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 32309,
+                "url": "https://myanimelist.net/anime/32309/Tabi_Machi_Late_Show",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/78140.jpg?s=7f1cfb6b328a2e75149fb3a4b2ff98e1",
+                "name": "Tabi Machi Late Show"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 28861,
+                "url": "https://myanimelist.net/anime/28861/Takamiya_Nasuno_Desu__Teekyuu_Spin-off",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73473.jpg?s=935aa381b5f13785461e842387fad396",
+                "name": "Takamiya Nasuno Desu!: Teekyuu Spin-off"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 30911,
+                "url": "https://myanimelist.net/anime/30911/Tales_of_Zestiria_the_Cross",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/79271.jpg?s=f1a840e2a561674c66540981ff1a61dd",
+                "name": "Tales of Zestiria the Cross"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 31440,
+                "url": "https://myanimelist.net/anime/31440/Teekyuu_6",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76645.jpg?s=88c84c0cb3eb16c0877b4c411de7e813",
+                "name": "Teekyuu 6"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=3c34e61559518b54fbfff73c7ee5ad76",
+                "name": "Tengen Toppa Gurren Lagann"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 4565,
+                "url": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.jpg?s=f3aa8f06eada2d05bdb406a1c0d1a49e",
+                "name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1911,
+                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
+                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
+            }
+        },
+        {
+            "position": "Setting",
+            "anime": {
+                "mal_id": 19023,
+                "url": "https://myanimelist.net/anime/19023/Wake_Up_Girls",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/58971.jpg?s=cf6ede10ca537d39c46def37222e012f",
+                "name": "Wake Up, Girls!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 878,
+                "url": "https://myanimelist.net/anime/878/Zegapain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/76949.jpg?s=b54fd3b06dae3d277f97e3ea247619bd",
+                "name": "Zegapain"
+            }
+        }
+    ]
+}

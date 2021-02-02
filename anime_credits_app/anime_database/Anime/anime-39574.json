@@ -1,0 +1,44 @@
+{
+    "mal_id": 39574,
+    "url": "https://myanimelist.net/anime/39574/Levius",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1964/106222.jpg",
+    "title": "Levius",
+    "title_english": null,
+    "title_japanese": "Levius -レビウス-",
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-11-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 28, 2019"
+    },
+    "score": 7.25,
+    "scored_by": 5729,
+    "rank": 2578,
+    "popularity": 4295,
+    "members": 13808,
+    "favorites": 38,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 4511,
+    "url": "https://myanimelist.net/anime/4511/Hoero_Bun_Bun",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28908.jpg",
+    "title": "Hoero! Bun Bun",
+    "title_english": null,
+    "title_japanese": "ほえろブンブン",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1980-10-09T00:00:00+00:00",
+        "to": "1981-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 1980
+            },
+            "to": {
+                "day": 9,
+                "month": 7,
+                "year": 1981
+            }
+        },
+        "string": "Oct 9, 1980 to Jul 9, 1981"
+    },
+    "score": 6.36,
+    "scored_by": 159,
+    "rank": 6602,
+    "popularity": 11406,
+    "members": 658,
+    "favorites": 2,
+    "premiered": "Fall 1980",
+    "studios": []
+}

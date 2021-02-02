@@ -1,0 +1,44 @@
+{
+    "mal_id": 35964,
+    "url": "https://myanimelist.net/anime/35964/Basilisk__Ouka_Ninpouchou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/88384.jpg",
+    "title": "Basilisk: Ouka Ninpouchou",
+    "title_english": "Basilisk: The Ouka Ninja Scrolls",
+    "title_japanese": "バジリスク ～桜花忍法帖～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-01-09T00:00:00+00:00",
+        "to": "2018-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 9, 2018 to Jun 19, 2018"
+    },
+    "score": 5.47,
+    "scored_by": 6103,
+    "rank": 9714,
+    "popularity": 3003,
+    "members": 29180,
+    "favorites": 32,
+    "premiered": "Winter 2018",
+    "studios": [
+        {
+            "mal_id": 1569,
+            "type": "anime",
+            "name": "Seven Arcs Pictures",
+            "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+        }
+    ]
+}

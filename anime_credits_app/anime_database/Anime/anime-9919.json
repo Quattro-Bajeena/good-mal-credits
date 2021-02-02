@@ -1,0 +1,44 @@
+{
+    "mal_id": 9919,
+    "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+    "title": "Ao no Exorcist",
+    "title_english": "Blue Exorcist",
+    "title_japanese": "青の祓魔師(エクソシスト)",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-17T00:00:00+00:00",
+        "to": "2011-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 2,
+                "month": 10,
+                "year": 2011
+            }
+        },
+        "string": "Apr 17, 2011 to Oct 2, 2011"
+    },
+    "score": 7.6,
+    "scored_by": 826178,
+    "rank": 1286,
+    "popularity": 24,
+    "members": 1392932,
+    "favorites": 16709,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

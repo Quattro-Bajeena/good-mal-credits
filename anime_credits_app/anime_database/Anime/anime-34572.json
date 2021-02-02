@@ -1,0 +1,44 @@
+{
+    "mal_id": 34572,
+    "url": "https://myanimelist.net/anime/34572/Black_Clover",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+    "title": "Black Clover",
+    "title_english": "Black Clover",
+    "title_japanese": "ブラッククローバー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "2017-10-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 3, 2017 to ?"
+    },
+    "score": 7.35,
+    "scored_by": 343292,
+    "rank": 2101,
+    "popularity": 99,
+    "members": 812652,
+    "favorites": 17731,
+    "premiered": "Fall 2017",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 430,
+    "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg",
+    "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+    "title_english": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+    "title_japanese": "劇場版 鋼の錬金術師 シャンバラを征く者",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 23, 2005"
+    },
+    "score": 7.57,
+    "scored_by": 177128,
+    "rank": 1368,
+    "popularity": 501,
+    "members": 277909,
+    "favorites": 698,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

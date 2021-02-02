@@ -1,0 +1,44 @@
+{
+    "mal_id": 584,
+    "url": "https://myanimelist.net/anime/584/Noein__Mou_Hitori_no_Kimi_e",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/584.jpg",
+    "title": "Noein: Mou Hitori no Kimi e",
+    "title_english": "Noein: to your other self",
+    "title_japanese": "ノエイン もうひとりの君へ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-12T00:00:00+00:00",
+        "to": "2006-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Oct 12, 2005 to Mar 29, 2006"
+    },
+    "score": 7.62,
+    "scored_by": 25606,
+    "rank": 1219,
+    "popularity": 1679,
+    "members": 78165,
+    "favorites": 745,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

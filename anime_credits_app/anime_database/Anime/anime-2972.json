@@ -1,0 +1,44 @@
+{
+    "mal_id": 2972,
+    "url": "https://myanimelist.net/anime/2972/Kindan_no_Mokushiroku__Crystal_Triangle",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/34825.jpg",
+    "title": "Kindan no Mokushiroku: Crystal Triangle",
+    "title_english": "Crystal Triangle",
+    "title_japanese": "禁断の黙示録 クリスタルトライアングル",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-07-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 22, 1987"
+    },
+    "score": 4.62,
+    "scored_by": 681,
+    "rank": 10832,
+    "popularity": 9053,
+    "members": 1813,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 155,
+            "type": "anime",
+            "name": "animate Film",
+            "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+        }
+    ]
+}

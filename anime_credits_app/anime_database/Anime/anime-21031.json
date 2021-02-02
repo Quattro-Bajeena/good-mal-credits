@@ -1,0 +1,44 @@
+{
+    "mal_id": 21031,
+    "url": "https://myanimelist.net/anime/21031/Precure_All_Stars_Movie_New_Stage_3__Eien_no_Tomodachi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1923/109733.jpg",
+    "title": "Precure All Stars Movie New Stage 3: Eien no Tomodachi",
+    "title_english": null,
+    "title_japanese": "映画プリキュアオールスターズNew Stage3 永遠のともだち",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-03-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 15, 2014"
+    },
+    "score": 7.28,
+    "scored_by": 1318,
+    "rank": 2426,
+    "popularity": 7608,
+    "members": 3216,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

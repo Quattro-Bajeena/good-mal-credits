@@ -1,0 +1,60 @@
+{
+    "mal_id": 43575,
+    "url": "https://myanimelist.net/character/43575/Najimi_Ajimu",
+    "name": "Najimi Ajimu",
+    "name_kanji": null,
+    "nicknames": [
+        "Anshin'in",
+        "The Non-Human Who Is Just Impartial"
+    ],
+    "member_favorites": 407,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/202249.jpg",
+    "animeography": [
+        {
+            "mal_id": 14527,
+            "name": "Medaka Box Abnormal",
+            "url": "https://myanimelist.net/anime/14527/Medaka_Box_Abnormal",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/62919.jpg?s=e3caeb79eb9e78de10067b453571914f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13949,
+            "name": "Medaka Box",
+            "url": "https://myanimelist.net/manga/13949/Medaka_Box",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/50353.jpg?s=c01606232e55d95f1b8cc40bea5bd5ba",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 42569,
+            "name": "Medaka Box Gaiden: Good Loser Kumagawa",
+            "url": "https://myanimelist.net/manga/42569/Medaka_Box_Gaiden__Good_Loser_Kumagawa",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/207004.jpg?s=fa09e9bb608c11508df2bfd478595edf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 73711,
+            "name": "Medaka Box: Juvenile - Shousetsu-ban",
+            "url": "https://myanimelist.net/manga/73711/Medaka_Box__Juvenile_-_Shousetsu-ban",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/127871.jpg?s=ecd1d45106259f1649332877dd95117a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 414,
+            "name": "Karbowski, Brittney",
+            "url": "https://myanimelist.net/people/414/Brittney_Karbowski",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/34809.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 349,
+    "url": "https://myanimelist.net/anime/349/Magical_Canan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75560.jpg",
+    "title": "Magical Canan",
+    "title_english": "Magical Kanan",
+    "title_japanese": "まじかるカナン",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-01-01T00:00:00+00:00",
+        "to": "2005-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2005
+            }
+        },
+        "string": "Jan 1, 2005 to Mar 26, 2005"
+    },
+    "score": 6.2,
+    "scored_by": 1120,
+    "rank": 7356,
+    "popularity": 6773,
+    "members": 4418,
+    "favorites": 5,
+    "premiered": "Winter 2005",
+    "studios": [
+        {
+            "mal_id": 88,
+            "type": "anime",
+            "name": "AIC ASTA",
+            "url": "https://myanimelist.net/anime/producer/88/AIC_ASTA"
+        }
+    ]
+}

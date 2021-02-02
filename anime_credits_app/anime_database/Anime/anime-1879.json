@@ -1,0 +1,44 @@
+{
+    "mal_id": 1879,
+    "url": "https://myanimelist.net/anime/1879/Midnight_Eye__Gokuu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1699/106790.jpg",
+    "title": "Midnight Eye: Gokuu",
+    "title_english": "Goku: Midnight Eye",
+    "title_japanese": "MIDNIGHT EYE　ゴクウ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-01-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 27, 1989"
+    },
+    "score": 6.48,
+    "scored_by": 3005,
+    "rank": 6028,
+    "popularity": 5469,
+    "members": 7545,
+    "favorites": 15,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

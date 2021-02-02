@@ -1,0 +1,71 @@
+{
+    "mal_id": 21937,
+    "url": "https://myanimelist.net/character/21937/Erina_Pendleton",
+    "name": "Erina Pendleton",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 31,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/251705.jpg",
+    "animeography": [
+        {
+            "mal_id": 3603,
+            "name": "JoJo no Kimyou na Bouken: Phantom Blood",
+            "url": "https://myanimelist.net/anime/3603/JoJo_no_Kimyou_na_Bouken__Phantom_Blood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/50055.jpg?s=fecd98b26da1f0daccc3e703e30e3329",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14719,
+            "name": "JoJo no Kimyou na Bouken (TV)",
+            "url": "https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/40409.jpg?s=6fdb3db2b18b0fb9bb695e3185268568",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1517,
+            "name": "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
+            "url": "https://myanimelist.net/manga/1517/JoJo_no_Kimyou_na_Bouken_Part_1__Phantom_Blood",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/198213.jpg?s=34abb815acc75aca3eff56d637ccaf01",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1630,
+            "name": "JoJo no Kimyou na Bouken Part 2: Sentou Chuuryuu",
+            "url": "https://myanimelist.net/manga/1630/JoJo_no_Kimyou_na_Bouken_Part_2__Sentou_Chuuryuu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/1630.jpg?s=010c95dd6fbf728b970dbc9577c0ff26",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32347,
+            "name": "JoJo's Bizarre Adventure: Over Heaven",
+            "url": "https://myanimelist.net/manga/32347/JoJos_Bizarre_Adventure__Over_Heaven",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/59297.jpg?s=59b693da3cd946ad6a1ce05e7f1eb2e0",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 13,
+            "name": "Kawasumi, Ayako",
+            "url": "https://myanimelist.net/people/13/Ayako_Kawasumi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/49118.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 85,
+            "name": "Ruff, Michelle",
+            "url": "https://myanimelist.net/people/85/Michelle_Ruff",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/14799.jpg",
+            "language": "English"
+        }
+    ]
+}

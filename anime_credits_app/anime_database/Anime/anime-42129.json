@@ -1,0 +1,44 @@
+{
+    "mal_id": 42129,
+    "url": "https://myanimelist.net/anime/42129/Bem_Movie__Become_Human",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1078/108925.jpg",
+    "title": "Bem Movie: Become Human",
+    "title_english": null,
+    "title_japanese": "劇場版BEM 〜BECOME HUMAN〜",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-10-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 2, 2020"
+    },
+    "score": 6.83,
+    "scored_by": 1048,
+    "rank": 4302,
+    "popularity": 6135,
+    "members": 5625,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

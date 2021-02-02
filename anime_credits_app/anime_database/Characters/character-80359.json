@@ -1,0 +1,43 @@
+{
+    "mal_id": 80359,
+    "url": "https://myanimelist.net/character/80359/Kriemhild",
+    "name": "Kriemhild",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/223841.jpg",
+    "animeography": [
+        {
+            "mal_id": 16668,
+            "name": "Kakumeiki Valvrave",
+            "url": "https://myanimelist.net/anime/16668/Kakumeiki_Valvrave",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/49251.jpg?s=30292af850de24679bd40a3124d69fa2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 18295,
+            "name": "Kakumeiki Valvrave 2nd Season",
+            "url": "https://myanimelist.net/anime/18295/Kakumeiki_Valvrave_2nd_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/56573.jpg?s=c72e9fdca65d87734ef68deff2086693",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 58631,
+            "name": "Kakumeiki Valvrave: Uragiri no Rakuin",
+            "url": "https://myanimelist.net/manga/58631/Kakumeiki_Valvrave__Uragiri_no_Rakuin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/113789.jpg?s=b31ea4b3ce914f9ea191fc3efc4d8ad3",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

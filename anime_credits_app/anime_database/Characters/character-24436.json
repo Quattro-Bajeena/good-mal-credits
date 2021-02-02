@@ -1,0 +1,57 @@
+{
+    "mal_id": 24436,
+    "url": "https://myanimelist.net/character/24436/Kanden_Yamaneko",
+    "name": "Kanden Yamaneko",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/98692.jpg",
+    "animeography": [
+        {
+            "mal_id": 6205,
+            "name": "Kämpfer",
+            "url": "https://myanimelist.net/anime/6205/Kämpfer",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/35423.jpg?s=cb0cdb58918782748e5f38d624a5ef4e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7782,
+            "name": "Kämpfer Picture Drama",
+            "url": "https://myanimelist.net/anime/7782/Kämpfer_Picture_Drama",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/25042.jpg?s=3856d18982efd4650bea724c46b6a9ef",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10076,
+            "name": "Kämpfer für die Liebe",
+            "url": "https://myanimelist.net/anime/10076/Kämpfer_für_die_Liebe",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/29811.jpg?s=6b411a3ae9dfb653b28ab64e6a92dc1d",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 11606,
+            "name": "Kämpfer",
+            "url": "https://myanimelist.net/manga/11606/Kämpfer",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/95765.jpg?s=ae111bdd1391f2e69fd013e423927a38",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 10711,
+            "name": "Rybiczka, Anja",
+            "url": "https://myanimelist.net/people/10711/Anja_Rybiczka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59385.jpg",
+            "language": "German"
+        }
+    ]
+}

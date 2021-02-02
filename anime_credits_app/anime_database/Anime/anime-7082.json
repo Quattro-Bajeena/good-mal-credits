@@ -1,0 +1,44 @@
+{
+    "mal_id": 7082,
+    "url": "https://myanimelist.net/anime/7082/Shugo_Chara_Party",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/17170.jpg",
+    "title": "Shugo Chara! Party!",
+    "title_english": null,
+    "title_japanese": "しゅごキャラ！パーティー！",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "to": "2010-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2009 to Mar 27, 2010"
+    },
+    "score": 6.62,
+    "scored_by": 28837,
+    "rank": 5281,
+    "popularity": 1968,
+    "members": 61151,
+    "favorites": 277,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

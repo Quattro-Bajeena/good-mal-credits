@@ -1,0 +1,44 @@
+{
+    "mal_id": 5755,
+    "url": "https://myanimelist.net/anime/5755/Aoki_Ryuusei_SPT_Layzner_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/53335.jpg",
+    "title": "Aoki Ryuusei SPT Layzner OVA",
+    "title_english": "Blue Comet SPT Layzner",
+    "title_japanese": "蒼き流星SPTレイズナー",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-08-21T00:00:00+00:00",
+        "to": "1986-10-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 1986
+            },
+            "to": {
+                "day": 21,
+                "month": 10,
+                "year": 1986
+            }
+        },
+        "string": "Aug 21, 1986 to Oct 21, 1986"
+    },
+    "score": 6.79,
+    "scored_by": 528,
+    "rank": 4464,
+    "popularity": 9520,
+    "members": 1492,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

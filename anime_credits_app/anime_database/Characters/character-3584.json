@@ -1,0 +1,57 @@
+{
+    "mal_id": 3584,
+    "url": "https://myanimelist.net/character/3584/Cisqua",
+    "name": "Cisqua",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 52,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/45681.jpg",
+    "animeography": [
+        {
+            "mal_id": 1250,
+            "name": "Erementar Gerad",
+            "url": "https://myanimelist.net/anime/1250/Erementar_Gerad",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/79163.jpg?s=89d26be9bb3b4a2680f5e0252b5a56e2",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 114,
+            "name": "Erementar Gerad",
+            "url": "https://myanimelist.net/manga/114/Erementar_Gerad",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/55581.jpg?s=7aee8422aaeca5c5332c376bb6be2282",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5574,
+            "name": "Carter, Alexandra",
+            "url": "https://myanimelist.net/people/5574/Alexandra_Carter",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/40286.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5681,
+            "name": "Volpe, Isabelle",
+            "url": "https://myanimelist.net/people/5681/Isabelle_Volpe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22469.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 8812,
+            "name": "Jeong, Mi Sook",
+            "url": "https://myanimelist.net/people/8812/Mi_Sook_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25851.jpg",
+            "language": "Korean"
+        }
+    ]
+}

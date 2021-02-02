@@ -1,0 +1,44 @@
+{
+    "mal_id": 15793,
+    "url": "https://myanimelist.net/anime/15793/Senki_Zesshou_Symphogear_G",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/86630.jpg",
+    "title": "Senki Zesshou Symphogear G",
+    "title_english": "Symphogear G",
+    "title_japanese": "戦姫絶唱シンフォギアG",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-05T00:00:00+00:00",
+        "to": "2013-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 5, 2013 to Sep 27, 2013"
+    },
+    "score": 7.46,
+    "scored_by": 22980,
+    "rank": 1696,
+    "popularity": 2264,
+    "members": 49013,
+    "favorites": 572,
+    "premiered": "Summer 2013",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

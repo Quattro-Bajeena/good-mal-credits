@@ -1,0 +1,44 @@
+{
+    "mal_id": 3889,
+    "url": "https://myanimelist.net/anime/3889/Junk_Boy",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/41467.jpg",
+    "title": "Junk Boy",
+    "title_english": "Junk Boy",
+    "title_japanese": "ジャンクボーイ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-12-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 12,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 16, 1987"
+    },
+    "score": 5.99,
+    "scored_by": 2991,
+    "rank": 8243,
+    "popularity": 5856,
+    "members": 6368,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

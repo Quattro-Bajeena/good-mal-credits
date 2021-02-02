@@ -1,0 +1,44 @@
+{
+    "mal_id": 35984,
+    "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1084/93086.jpg",
+    "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
+    "title_english": null,
+    "title_japanese": "魔法少女リリカルなのは Detonation",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 19, 2018"
+    },
+    "score": 7.52,
+    "scored_by": 1821,
+    "rank": 1532,
+    "popularity": 5813,
+    "members": 6493,
+    "favorites": 28,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1569,
+            "type": "anime",
+            "name": "Seven Arcs Pictures",
+            "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+        }
+    ]
+}

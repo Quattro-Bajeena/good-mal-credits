@@ -1,0 +1,44 @@
+{
+    "mal_id": 4876,
+    "url": "https://myanimelist.net/anime/4876/Hashire_Melos_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/18077.jpg",
+    "title": "Hashire Melos (Movie)",
+    "title_english": "Run Melos!",
+    "title_japanese": "走れメロス",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 1992
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 1992"
+    },
+    "score": 6.88,
+    "scored_by": 1160,
+    "rank": 4126,
+    "popularity": 6662,
+    "members": 4611,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 246,
+            "type": "anime",
+            "name": "Visual 80",
+            "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "mal_id": 54237,
+    "url": "https://myanimelist.net/character/54237/Victini",
+    "name": "Victini",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/197181.jpg",
+    "animeography": [
+        {
+            "mal_id": 9917,
+            "name": "Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom",
+            "url": "https://myanimelist.net/anime/9917/Pokemon_Movie_14_White__Victini_to_Kuroki_Eiyuu_Zekrom",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/29620.jpg?s=165370bf3cc63340171bb1cd7f590045",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10740,
+            "name": "Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram",
+            "url": "https://myanimelist.net/anime/10740/Pokemon_Movie_14_Black__Victini_to_Shiroki_Eiyuu_Reshiram",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/29621.jpg?s=4767c4933f08a296e5fc87cf53ec04d6",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

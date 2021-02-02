@@ -1,0 +1,44 @@
+{
+    "mal_id": 23931,
+    "url": "https://myanimelist.net/anime/23931/Uchuu_Senkan_Yamato_2199__Tsuioku_no_Koukai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/62689.jpg",
+    "title": "Uchuu Senkan Yamato 2199: Tsuioku no Koukai",
+    "title_english": null,
+    "title_japanese": "宇宙戦艦ヤマト2199 追憶の航海",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 11, 2014"
+    },
+    "score": 6.75,
+    "scored_by": 479,
+    "rank": 4695,
+    "popularity": 8753,
+    "members": 2024,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

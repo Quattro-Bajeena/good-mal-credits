@@ -1,0 +1,44 @@
+{
+    "mal_id": 642,
+    "url": "https://myanimelist.net/anime/642/Ichigo_100__Koi_ga_Hajimaru_Satsuei_Gasshuku_-_Yureru_Kokoro_ga_Higashi_e_Nishi_e",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/5228.jpg",
+    "title": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+    "title_english": null,
+    "title_japanese": "いちご100% 恋が始まる!? 撮影合宿 〜ゆれるココロが東へ西へ〜",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-09-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 9,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 23, 2004"
+    },
+    "score": 6.9,
+    "scored_by": 9103,
+    "rank": 4047,
+    "popularity": 3915,
+    "members": 16955,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

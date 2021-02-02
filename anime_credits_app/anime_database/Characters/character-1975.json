@@ -1,0 +1,71 @@
+{
+    "mal_id": 1975,
+    "url": "https://myanimelist.net/character/1975/Yui_Minamito",
+    "name": "Yui Minamito",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/52108.jpg",
+    "animeography": [
+        {
+            "mal_id": 248,
+            "name": "Ichigo 100%",
+            "url": "https://myanimelist.net/anime/248/Ichigo_100",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/20036.jpg?s=af9181d3400c15e7275cdfa1ac4ffa4e",
+            "role": "Main"
+        },
+        {
+            "mal_id": 641,
+            "name": "Ichigo 100% Special 2",
+            "url": "https://myanimelist.net/anime/641/Ichigo_100_Special_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/5229.jpg?s=f1b62d09a445f310785fb69399fd33c2",
+            "role": "Main"
+        },
+        {
+            "mal_id": 642,
+            "name": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+            "url": "https://myanimelist.net/anime/642/Ichigo_100__Koi_ga_Hajimaru_Satsuei_Gasshuku_-_Yureru_Kokoro_ga_Higashi_e_Nishi_e",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/5228.jpg?s=4e9237d24cd340b88ac1d8b070bc3f91",
+            "role": "Main"
+        },
+        {
+            "mal_id": 981,
+            "name": "Ichigo 100% OVA",
+            "url": "https://myanimelist.net/anime/981/Ichigo_100_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/23595.jpg?s=eb64d050661f64bfb8c2a09361e55d76",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 45,
+            "name": "Ichigo 100%",
+            "url": "https://myanimelist.net/manga/45/Ichigo_100",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/51695.jpg?s=a4573eebe90a430c0ebd8cc9cbaf2f40",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14865,
+            "name": "Soyeon",
+            "url": "https://myanimelist.net/people/14865/Soyeon",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15463.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 26417,
+            "name": "Vandroux, Sandra",
+            "url": "https://myanimelist.net/people/26417/Sandra_Vandroux",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47785.jpg",
+            "language": "French"
+        }
+    ]
+}

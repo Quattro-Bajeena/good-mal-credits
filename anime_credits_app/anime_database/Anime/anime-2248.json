@@ -1,0 +1,44 @@
+{
+    "mal_id": 2248,
+    "url": "https://myanimelist.net/anime/2248/Naruto__Dai_Katsugeki_Yuki_Hime_Shinobu_Houjou_Dattebayo_-_Konoha_no_Sato_no_Dai_Undoukai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/2473.jpg",
+    "title": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai",
+    "title_english": "Hidden Leaf Village Grand Sports Festival",
+    "title_japanese": "木ノ葉の里と大うん動会",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-08-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 21, 2004"
+    },
+    "score": 6.87,
+    "scored_by": 36843,
+    "rank": 4164,
+    "popularity": 1908,
+    "members": 63886,
+    "favorites": 120,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

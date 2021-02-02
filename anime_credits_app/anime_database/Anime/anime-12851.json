@@ -1,0 +1,37 @@
+{
+    "mal_id": 12851,
+    "url": "https://myanimelist.net/anime/12851/Ultraman_USA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/36055.jpg",
+    "title": "Ultraman USA",
+    "title_english": null,
+    "title_japanese": "ウルトラマンUSA",
+    "type": "Movie",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-04-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 15, 1989"
+    },
+    "score": 5.63,
+    "scored_by": 253,
+    "rank": 9310,
+    "popularity": 10756,
+    "members": 855,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

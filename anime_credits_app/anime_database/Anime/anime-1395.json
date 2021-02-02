@@ -1,0 +1,44 @@
+{
+    "mal_id": 1395,
+    "url": "https://myanimelist.net/anime/1395/Future_GPX_Cyber_Formula_Sin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/29342.jpg",
+    "title": "Future GPX Cyber Formula Sin",
+    "title_english": null,
+    "title_japanese": "新世紀ＧＰＸサイバーフォーミュラＳＩＮ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-12-21T00:00:00+00:00",
+        "to": "2000-03-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 1998
+            },
+            "to": {
+                "day": 17,
+                "month": 3,
+                "year": 2000
+            }
+        },
+        "string": "Dec 21, 1998 to Mar 17, 2000"
+    },
+    "score": 7.49,
+    "scored_by": 747,
+    "rank": 1602,
+    "popularity": 8909,
+    "members": 1904,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

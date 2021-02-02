@@ -1,0 +1,44 @@
+{
+    "mal_id": 38083,
+    "url": "https://myanimelist.net/anime/38083/Ken_En_Ken__Aoki_Kagayaki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1339/95573.jpg",
+    "title": "Ken En Ken: Aoki Kagayaki",
+    "title_english": "Xuan Yuan Sword Luminary",
+    "title_japanese": "軒轅剣・蒼き曜",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-02T00:00:00+00:00",
+        "to": "2018-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 2, 2018 to Dec 25, 2018"
+    },
+    "score": 6.06,
+    "scored_by": 3531,
+    "rank": 7977,
+    "popularity": 4317,
+    "members": 13482,
+    "favorites": 17,
+    "premiered": "Fall 2018",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

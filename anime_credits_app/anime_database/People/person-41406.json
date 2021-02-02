@@ -1,0 +1,40 @@
+{
+    "mal_id": 41406,
+    "url": "https://myanimelist.net/people/41406/Daisuke_Onizuka",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/43670.jpg",
+    "name": "Daisuke Onizuka",
+    "given_name": "大輔",
+    "family_name": "鬼塚",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3784,
+                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
+                "name": "Evangelion: 2.0 You Can (Not) Advance"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 28149,
+                "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/71901.jpg?s=8e55c2cd9afe9385cf2d91389f42724a",
+                "name": "Nihon Animator Mihonichi"
+            }
+        }
+    ]
+}

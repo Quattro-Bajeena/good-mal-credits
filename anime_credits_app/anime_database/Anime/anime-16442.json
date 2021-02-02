@@ -1,0 +1,44 @@
+{
+    "mal_id": 16442,
+    "url": "https://myanimelist.net/anime/16442/Precure_All_Stars_Movie_New_Stage_2__Kokoro_no_Tomodachi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/44386.jpg",
+    "title": "Precure All Stars Movie New Stage 2: Kokoro no Tomodachi",
+    "title_english": null,
+    "title_japanese": "映画 プリキュアオールスターズ New Stage2 こころのともだち",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-03-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 16, 2013"
+    },
+    "score": 7.13,
+    "scored_by": 1506,
+    "rank": 3087,
+    "popularity": 7328,
+    "members": 3612,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 23755,
+    "url": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+    "title": "Nanatsu no Taizai",
+    "title_english": "The Seven Deadly Sins",
+    "title_japanese": "七つの大罪",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-05T00:00:00+00:00",
+        "to": "2015-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 5, 2014 to Mar 29, 2015"
+    },
+    "score": 7.9,
+    "scored_by": 869545,
+    "rank": 682,
+    "popularity": 26,
+    "members": 1372574,
+    "favorites": 22140,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

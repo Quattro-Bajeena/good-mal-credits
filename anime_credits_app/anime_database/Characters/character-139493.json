@@ -1,0 +1,36 @@
+{
+    "mal_id": 139493,
+    "url": "https://myanimelist.net/character/139493/Kisaki_Kondou",
+    "name": "Kisaki Kondou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 8,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/311104.jpg",
+    "animeography": [
+        {
+            "mal_id": 33094,
+            "name": "WWW.Working!!",
+            "url": "https://myanimelist.net/anime/33094/WWWWorking",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/82287.jpg?s=5ca00168c0cd5cd57933c621ae34ab57",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 91866,
+            "name": "Working!! Web-ban",
+            "url": "https://myanimelist.net/manga/91866/Working_Web-ban",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188977.jpg?s=d5baeeb2a16b00812397f13217fd7b07",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

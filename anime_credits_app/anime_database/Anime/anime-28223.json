@@ -1,0 +1,44 @@
+{
+    "mal_id": 28223,
+    "url": "https://myanimelist.net/anime/28223/Death_Parade",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+    "title": "Death Parade",
+    "title_english": "Death Parade",
+    "title_japanese": "デス・パレード",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-01-10T00:00:00+00:00",
+        "to": "2015-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 10, 2015 to Mar 28, 2015"
+    },
+    "score": 8.2,
+    "scored_by": 671821,
+    "rank": 312,
+    "popularity": 47,
+    "members": 1185890,
+    "favorites": 21875,
+    "premiered": "Winter 2015",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

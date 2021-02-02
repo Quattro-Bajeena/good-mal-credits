@@ -1,0 +1,50 @@
+{
+    "mal_id": 1089,
+    "url": "https://myanimelist.net/anime/1089/Macross__Do_You_Remember_Love",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1080/107017.jpg",
+    "title": "Macross: Do You Remember Love?",
+    "title_english": null,
+    "title_japanese": "超時空要塞マクロス -愛・おぼえていますか-",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1984-07-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 1984
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 7, 1984"
+    },
+    "score": 7.97,
+    "scored_by": 17510,
+    "rank": 578,
+    "popularity": 2674,
+    "members": 36099,
+    "favorites": 629,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Artland",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        },
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

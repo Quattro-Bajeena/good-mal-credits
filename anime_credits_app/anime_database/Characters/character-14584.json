@@ -1,0 +1,50 @@
+{
+    "mal_id": 14584,
+    "url": "https://myanimelist.net/character/14584/Lydia_Carlton",
+    "name": "Lydia Carlton",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 140,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/38954.jpg",
+    "animeography": [
+        {
+            "mal_id": 4551,
+            "name": "Hakushaku to Yousei",
+            "url": "https://myanimelist.net/anime/4551/Hakushaku_to_Yousei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/21898.jpg?s=d37cb5b18a9096634f7aaaf1428cb03f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 7083,
+            "name": "Hakushaku to Yousei Specials",
+            "url": "https://myanimelist.net/anime/7083/Hakushaku_to_Yousei_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/59963.jpg?s=883852e85c9b722855a2f9498424eb83",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 8418,
+            "name": "Hakushaku to Yousei",
+            "url": "https://myanimelist.net/manga/8418/Hakushaku_to_Yousei",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/15760.jpg?s=0f4d85126a9da4590c497271bf9cf7dc",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11597,
+            "name": "Hakushaku to Yousei",
+            "url": "https://myanimelist.net/manga/11597/Hakushaku_to_Yousei",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/144283.jpg?s=cad881327faa3836215aa4735abacec0",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

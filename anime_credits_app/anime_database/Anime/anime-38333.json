@@ -1,0 +1,44 @@
+{
+    "mal_id": 38333,
+    "url": "https://myanimelist.net/anime/38333/Gochuumon_wa_Usagi_Desu_ka__Sing_for_You",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1684/101030.jpg",
+    "title": "Gochuumon wa Usagi Desu ka??: Sing for You",
+    "title_english": "Is the Order a Rabbit?? OVA",
+    "title_japanese": "ご注文はうさぎですか?? ~Sing For You~",
+    "type": "OVA",
+    "source": "4-koma manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-09-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 9,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 26, 2019"
+    },
+    "score": 7.74,
+    "scored_by": 5987,
+    "rank": 948,
+    "popularity": 4107,
+    "members": 15347,
+    "favorites": 70,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1669,
+            "type": "anime",
+            "name": "production doA",
+            "url": "https://myanimelist.net/anime/producer/1669/production_doA"
+        }
+    ]
+}

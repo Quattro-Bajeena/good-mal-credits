@@ -1,0 +1,64 @@
+{
+    "mal_id": 12513,
+    "url": "https://myanimelist.net/character/12513/Sylvette_Suede",
+    "name": "Sylvette Suede",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 28,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/77872.jpg",
+    "animeography": [
+        {
+            "mal_id": 6444,
+            "name": "Tegamibachi",
+            "url": "https://myanimelist.net/anime/6444/Tegamibachi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/71808.jpg?s=f717865d6ec0ce9bd45cde50dbc56204",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8022,
+            "name": "Tegamibachi Gakuen",
+            "url": "https://myanimelist.net/anime/8022/Tegamibachi_Gakuen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/19573.jpg?s=3e563f7db77ed44beb088b810b46ac44",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8311,
+            "name": "Tegamibachi Reverse",
+            "url": "https://myanimelist.net/anime/8311/Tegamibachi_Reverse",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/26472.jpg?s=1d7c0fa1469f48c2d02ec9845e3a6a5c",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1709,
+            "name": "Tegamibachi",
+            "url": "https://myanimelist.net/manga/1709/Tegamibachi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/154448.jpg?s=f7ea9fe6a0933d0bf24ca8118a5b4246",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14993,
+            "name": "Lee, Ji Yeong",
+            "url": "https://myanimelist.net/people/14993/Ji_Yeong_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15825.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 25721,
+            "name": "Hostekint, Justine",
+            "url": "https://myanimelist.net/people/25721/Justine_Hostekint",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28523.jpg",
+            "language": "French"
+        }
+    ]
+}

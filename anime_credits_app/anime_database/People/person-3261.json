@@ -1,0 +1,58 @@
+{
+    "mal_id": 3261,
+    "url": "https://myanimelist.net/people/3261/Jouji_Manabe",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58564.jpg",
+    "name": "Jouji Manabe",
+    "given_name": "譲治",
+    "family_name": "真鍋",
+    "birthday": "1964-12-18T00:00:00+00:00",
+    "member_favorites": 62,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 2053,
+                "url": "https://myanimelist.net/anime/2053/Capricorn",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/2954.jpg?s=d6948ca4f84e66a8d7272af4f9a76c71",
+                "name": "Capricorn"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 2053,
+                "url": "https://myanimelist.net/anime/2053/Capricorn",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/2954.jpg?s=d6948ca4f84e66a8d7272af4f9a76c71",
+                "name": "Capricorn"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 3907,
+                "url": "https://myanimelist.net/anime/3907/Ginga_Sengoku_Gunyuuden_Rai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/30829.jpg?s=58bce43fb05bd39b6509416c2abdf0ab",
+                "name": "Ginga Sengoku Gunyuuden Rai"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1940,
+                "url": "https://myanimelist.net/anime/1940/Outlanders",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1396/94529.jpg?s=98bdd439505549d54c5b82c455a45842",
+                "name": "Outlanders"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 1940,
+                "url": "https://myanimelist.net/anime/1940/Outlanders",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1396/94529.jpg?s=98bdd439505549d54c5b82c455a45842",
+                "name": "Outlanders"
+            }
+        }
+    ]
+}

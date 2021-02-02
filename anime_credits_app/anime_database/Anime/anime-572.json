@@ -1,0 +1,44 @@
+{
+    "mal_id": 572,
+    "url": "https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausicaä",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75914.jpg",
+    "title": "Kaze no Tani no Nausicaä",
+    "title_english": "Nausicaä of the Valley of the Wind",
+    "title_japanese": "風の谷のナウシカ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1984-03-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 3,
+                "year": 1984
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 11, 1984"
+    },
+    "score": 8.41,
+    "scored_by": 170915,
+    "rank": 149,
+    "popularity": 505,
+    "members": 274592,
+    "favorites": 3898,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 363,
+            "type": "anime",
+            "name": "Topcraft",
+            "url": "https://myanimelist.net/anime/producer/363/Topcraft"
+        }
+    ]
+}

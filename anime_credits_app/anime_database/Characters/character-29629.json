@@ -1,0 +1,56 @@
+{
+    "mal_id": 29629,
+    "url": "https://myanimelist.net/character/29629/Pino_Graham",
+    "name": "Pino Graham",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/77059.jpg",
+    "animeography": [
+        {
+            "mal_id": 154,
+            "name": "Shaman King",
+            "url": "https://myanimelist.net/anime/154/Shaman_King",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/18990.jpg?s=62d19c0d5b8522ba47a9d018fc37b3f6",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 260,
+            "name": "Chiba, Susumu",
+            "url": "https://myanimelist.net/people/260/Susumu_Chiba",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55045.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1438,
+            "name": "Kromer, Christopher",
+            "url": "https://myanimelist.net/people/1438/Christopher_Kromer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/39813.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11681,
+            "name": "Carrassi, Ryan",
+            "url": "https://myanimelist.net/people/11681/Ryan_Carrassi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15645.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 33343,
+            "name": "Röth, Frank",
+            "url": "https://myanimelist.net/people/33343/Frank_Röth",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/34311.jpg",
+            "language": "German"
+        }
+    ]
+}

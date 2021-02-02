@@ -1,0 +1,50 @@
+{
+    "mal_id": 37433,
+    "url": "https://myanimelist.net/anime/37433/Wakaokami_wa_Shougakusei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1825/94402.jpg",
+    "title": "Wakaokami wa Shougakusei!",
+    "title_english": "Okko's Inn",
+    "title_japanese": "若おかみは小学生！",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-04-08T00:00:00+00:00",
+        "to": "2018-09-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 8, 2018 to Sep 23, 2018"
+    },
+    "score": 6.56,
+    "scored_by": 966,
+    "rank": 5572,
+    "popularity": 6384,
+    "members": 5129,
+    "favorites": 1,
+    "premiered": "Spring 2018",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 276,
+            "type": "anime",
+            "name": "DLE",
+            "url": "https://myanimelist.net/anime/producer/276/DLE"
+        }
+    ]
+}

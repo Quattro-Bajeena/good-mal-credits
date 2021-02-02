@@ -1,0 +1,44 @@
+{
+    "mal_id": 9098,
+    "url": "https://myanimelist.net/anime/9098/Mobile_Suit_SD_Gundam_Festival",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/25192.jpg",
+    "title": "Mobile Suit SD Gundam Festival",
+    "title_english": "Mobile Suit SD Gundam Festival",
+    "title_japanese": "機動戦士SDガンダムまつり",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-03-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 13, 1993"
+    },
+    "score": 5.96,
+    "scored_by": 348,
+    "rank": 8356,
+    "popularity": 9389,
+    "members": 1582,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

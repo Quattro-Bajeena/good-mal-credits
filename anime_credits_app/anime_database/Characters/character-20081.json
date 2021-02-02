@@ -1,0 +1,50 @@
+{
+    "mal_id": 20081,
+    "url": "https://myanimelist.net/character/20081/Misaya_Ouji",
+    "name": "Misaya Ouji",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/165507.jpg",
+    "animeography": [
+        {
+            "mal_id": 5204,
+            "name": "Kara no Kyoukai 6: Boukyaku Rokuon",
+            "url": "https://myanimelist.net/anime/5204/Kara_no_Kyoukai_6__Boukyaku_Rokuon",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/21739.jpg?s=88789c87c51bdac507412749222d335d",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 2062,
+            "name": "Kara no Kyoukai: The Garden of Sinners",
+            "url": "https://myanimelist.net/manga/2062/Kara_no_Kyoukai__The_Garden_of_Sinners",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/45015.jpg?s=d0ef31320410cb8553aff241177abcc5",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 84999,
+            "name": "Kara no Kyoukai: Shuumatsu Rokuon/The Garden of Oblivion",
+            "url": "https://myanimelist.net/manga/84999/Kara_no_Kyoukai__Shuumatsu_Rokuon_The_Garden_of_Oblivion",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/147355.jpg?s=67f6d75c65056810c5d8e88eca33c486",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 24243,
+            "name": "Barrier, Jessica",
+            "url": "https://myanimelist.net/people/24243/Jessica_Barrier",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26999.jpg",
+            "language": "French"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 20057,
+    "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg",
+    "title": "Space☆Dandy",
+    "title_english": "Space Dandy",
+    "title_japanese": "スペース☆ダンディ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-01-05T00:00:00+00:00",
+        "to": "2014-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 5, 2014 to Mar 27, 2014"
+    },
+    "score": 7.88,
+    "scored_by": 111645,
+    "rank": 697,
+    "popularity": 532,
+    "members": 264657,
+    "favorites": 4284,
+    "premiered": "Winter 2014",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

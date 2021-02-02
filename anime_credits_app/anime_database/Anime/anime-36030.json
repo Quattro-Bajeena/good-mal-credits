@@ -1,0 +1,44 @@
+{
+    "mal_id": 36030,
+    "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1918/93715.jpg",
+    "title": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)",
+    "title_english": null,
+    "title_japanese": "よい子のれきしアニメ おおきなカブ(株)",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-11-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 11,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 23, 2016"
+    },
+    "score": 6.04,
+    "scored_by": 147,
+    "rank": 8049,
+    "popularity": 12601,
+    "members": 406,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 47,
+            "type": "anime",
+            "name": "Khara",
+            "url": "https://myanimelist.net/anime/producer/47/Khara"
+        }
+    ]
+}

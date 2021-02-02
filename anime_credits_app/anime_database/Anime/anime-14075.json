@@ -1,0 +1,44 @@
+{
+    "mal_id": 14075,
+    "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg",
+    "title": "Zetsuen no Tempest",
+    "title_english": "Blast of Tempest",
+    "title_japanese": "絶園のテンペスト",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-05T00:00:00+00:00",
+        "to": "2013-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 5, 2012 to Mar 29, 2013"
+    },
+    "score": 8,
+    "scored_by": 211726,
+    "rank": 546,
+    "popularity": 246,
+    "members": 478106,
+    "favorites": 6282,
+    "premiered": "Fall 2012",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

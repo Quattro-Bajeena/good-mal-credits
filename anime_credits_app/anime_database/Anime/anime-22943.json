@@ -1,0 +1,44 @@
+{
+    "mal_id": 22943,
+    "url": "https://myanimelist.net/anime/22943/Mugen_Senshi_Valis",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/59529.jpg",
+    "title": "Mugen Senshi Valis",
+    "title_english": "Valis: The Fantasm Soldier",
+    "title_japanese": "夢幻戦士ヴァリス",
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "1987"
+    },
+    "score": 5.61,
+    "scored_by": 260,
+    "rank": 9355,
+    "popularity": 11711,
+    "members": 584,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

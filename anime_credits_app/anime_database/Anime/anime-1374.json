@@ -1,0 +1,44 @@
+{
+    "mal_id": 1374,
+    "url": "https://myanimelist.net/anime/1374/Kyoushoku_Soukou_Guyver_2005",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/3697.jpg",
+    "title": "Kyoushoku Soukou Guyver (2005)",
+    "title_english": null,
+    "title_japanese": "強殖装甲ガイバー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-08-06T00:00:00+00:00",
+        "to": "2006-02-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": 18,
+                "month": 2,
+                "year": 2006
+            }
+        },
+        "string": "Aug 6, 2005 to Feb 18, 2006"
+    },
+    "score": 7.26,
+    "scored_by": 7681,
+    "rank": 2553,
+    "popularity": 3775,
+    "members": 18311,
+    "favorites": 157,
+    "premiered": "Summer 2005",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

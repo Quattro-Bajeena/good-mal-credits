@@ -1,0 +1,56 @@
+{
+    "mal_id": 3276,
+    "url": "https://myanimelist.net/character/3276/Roya",
+    "name": "Roya",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 30,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/55704.jpg",
+    "animeography": [
+        {
+            "mal_id": 845,
+            "name": "Kiba",
+            "url": "https://myanimelist.net/anime/845/Kiba",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/11099.jpg?s=1e8ad2f4410736e49c9a0cf2c33cf7c0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 414,
+            "name": "Karbowski, Brittney",
+            "url": "https://myanimelist.net/people/414/Brittney_Karbowski",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/34809.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14927,
+            "name": "Kim, Seon Hye",
+            "url": "https://myanimelist.net/people/14927/Seon_Hye_Kim",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15627.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 22675,
+            "name": "Gómez, Dilma",
+            "url": "https://myanimelist.net/people/22675/Dilma_Gómez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/26015.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 36970,
+            "name": "Turlet, Aurélie",
+            "url": "https://myanimelist.net/people/36970/Aurélie_Turlet",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/39128.jpg",
+            "language": "French"
+        }
+    ]
+}

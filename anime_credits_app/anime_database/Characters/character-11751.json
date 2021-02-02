@@ -1,0 +1,42 @@
+{
+    "mal_id": 11751,
+    "url": "https://myanimelist.net/character/11751/Marinia",
+    "name": "Marinia",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66300.jpg",
+    "animeography": [
+        {
+            "mal_id": 833,
+            "name": "Choujuushin Gravion",
+            "url": "https://myanimelist.net/anime/833/Choujuushin_Gravion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/75166.jpg?s=264a3ccb617cdf824f96f8f545da4994",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1149,
+            "name": "Choujuushin Gravion Zwei",
+            "url": "https://myanimelist.net/anime/1149/Choujuushin_Gravion_Zwei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/75167.jpg?s=4ffab52a102c01a29d42964b0b2bca7e",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 159,
+            "name": "Rial, Monica",
+            "url": "https://myanimelist.net/people/159/Monica_Rial",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37923.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 23767,
+    "url": "https://myanimelist.net/anime/23767/Yamiyo_no_Jidaigeki_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/61539.jpg",
+    "title": "Yamiyo no Jidaigeki (OVA)",
+    "title_english": null,
+    "title_japanese": "闇夜の時代劇",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 1995"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12903,
+    "popularity": 14496,
+    "members": 220,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

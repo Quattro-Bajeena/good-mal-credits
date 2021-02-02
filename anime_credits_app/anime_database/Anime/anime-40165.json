@@ -1,0 +1,44 @@
+{
+    "mal_id": 40165,
+    "url": "https://myanimelist.net/anime/40165/Listeners",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+    "title": "Listeners",
+    "title_english": "Listeners",
+    "title_japanese": "LISTENERS リスナーズ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-04-04T00:00:00+00:00",
+        "to": "2020-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2020
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2020
+            }
+        },
+        "string": "Apr 4, 2020 to Jun 20, 2020"
+    },
+    "score": 5.39,
+    "scored_by": 11944,
+    "rank": 9912,
+    "popularity": 2283,
+    "members": 48622,
+    "favorites": 53,
+    "premiered": "Spring 2020",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

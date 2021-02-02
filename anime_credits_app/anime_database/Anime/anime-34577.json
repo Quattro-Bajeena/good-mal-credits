@@ -1,0 +1,44 @@
+{
+    "mal_id": 34577,
+    "url": "https://myanimelist.net/anime/34577/Nanatsu_no_Taizai__Imashime_no_Fukkatsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/90089.jpg",
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "title_english": "The Seven Deadly Sins: Revival of the Commandments",
+    "title_japanese": "七つの大罪 戒めの復活",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-01-13T00:00:00+00:00",
+        "to": "2018-06-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Jan 13, 2018 to Jun 30, 2018"
+    },
+    "score": 7.86,
+    "scored_by": 420865,
+    "rank": 733,
+    "popularity": 117,
+    "members": 733231,
+    "favorites": 6555,
+    "premiered": "Winter 2018",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

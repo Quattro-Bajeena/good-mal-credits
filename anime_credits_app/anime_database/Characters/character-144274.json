@@ -1,0 +1,42 @@
+{
+    "mal_id": 144274,
+    "url": "https://myanimelist.net/character/144274/Mother_Sakurauchi",
+    "name": "Mother Sakurauchi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/330101.jpg",
+    "animeography": [
+        {
+            "mal_id": 32526,
+            "name": "Love Live! Sunshine!!",
+            "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.jpg?s=10dafb07e2015afe15522a660ddb4d12",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34973,
+            "name": "Love Live! Sunshine!! 2nd Season",
+            "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/88322.jpg?s=4924d4fd3500bae1b16dc2a0c0825601",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37027,
+            "name": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+            "url": "https://myanimelist.net/anime/37027/Love_Live_Sunshine_The_School_Idol_Movie__Over_the_Rainbow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1859/100474.jpg?s=db5a6e901285464ed37d19f37085fe69",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

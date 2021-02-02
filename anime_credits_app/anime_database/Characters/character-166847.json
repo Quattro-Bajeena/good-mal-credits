@@ -1,0 +1,36 @@
+{
+    "mal_id": 166847,
+    "url": "https://myanimelist.net/character/166847/Komurasaki",
+    "name": "Komurasaki",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 13,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/429059.jpg",
+    "animeography": [
+        {
+            "mal_id": 21,
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=f3fe2e381fd21074b2bcee020c0fc4bf",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13,
+            "name": "One Piece",
+            "url": "https://myanimelist.net/manga/13/One_Piece",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/55539.jpg?s=1a567bf94a06971dafd06df0a47b6f2b",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

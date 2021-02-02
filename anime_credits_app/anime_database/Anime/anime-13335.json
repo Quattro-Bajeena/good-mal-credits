@@ -1,0 +1,44 @@
+{
+    "mal_id": 13335,
+    "url": "https://myanimelist.net/anime/13335/Fuse__Teppou_Musume_no_Torimonochou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/37313.jpg",
+    "title": "Fuse: Teppou Musume no Torimonochou",
+    "title_english": "Fusé: Memoirs of a Huntress",
+    "title_japanese": "伏 鉄砲娘の捕物帳",
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 20, 2012"
+    },
+    "score": 7.36,
+    "scored_by": 10255,
+    "rank": 2081,
+    "popularity": 3115,
+    "members": 27254,
+    "favorites": 104,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

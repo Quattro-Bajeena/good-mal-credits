@@ -1,0 +1,38 @@
+{
+    "mal_id": 68417,
+    "url": "https://myanimelist.net/character/68417/Evangeline_Yamamoto",
+    "name": "Evangeline Yamamoto",
+    "name_kanji": null,
+    "nicknames": [
+        "Fraulein Yamamoto"
+    ],
+    "member_favorites": 43,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/223377.jpg",
+    "animeography": [
+        {
+            "mal_id": 14075,
+            "name": "Zetsuen no Tempest",
+            "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=4a4744f7240ad67bec275e15870675e5",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 15205,
+            "name": "Zetsuen no Tempest",
+            "url": "https://myanimelist.net/manga/15205/Zetsuen_no_Tempest",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/76945.jpg?s=74b8427eb043a939abcf82afbd1d6e45",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

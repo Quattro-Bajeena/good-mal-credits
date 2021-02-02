@@ -1,0 +1,44 @@
+{
+    "mal_id": 23765,
+    "url": "https://myanimelist.net/anime/23765/Yamiyo_no_Jidaigeki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/61537.jpg",
+    "title": "Yamiyo no Jidaigeki",
+    "title_english": null,
+    "title_japanese": "闇夜の時代劇",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-02-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 2,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 19, 1995"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12902,
+    "popularity": 13821,
+    "members": 267,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

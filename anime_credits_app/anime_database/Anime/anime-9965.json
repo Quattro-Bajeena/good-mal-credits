@@ -1,0 +1,44 @@
+{
+    "mal_id": 9965,
+    "url": "https://myanimelist.net/anime/9965/Soukou_Kyojin_Z-Knight",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/27552.jpg",
+    "title": "Soukou Kyojin Z-Knight",
+    "title_english": null,
+    "title_japanese": "装甲巨神Zナイト",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-12-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 12,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 30, 1991"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12150,
+    "popularity": 13909,
+    "members": 260,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

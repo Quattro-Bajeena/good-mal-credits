@@ -1,0 +1,50 @@
+{
+    "mal_id": 151,
+    "url": "https://myanimelist.net/anime/151/Re__Cutey_Honey",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/52103.jpg",
+    "title": "Re: Cutey Honey",
+    "title_english": null,
+    "title_japanese": "Re:キューティーハニー",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-07-24T00:00:00+00:00",
+        "to": "2004-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 2004
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Jul 24, 2004 to Sep 25, 2004"
+    },
+    "score": 7.12,
+    "scored_by": 8699,
+    "rank": 3105,
+    "popularity": 3419,
+    "members": 22582,
+    "favorites": 132,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "mal_id": 9481,
+    "url": "https://myanimelist.net/people/9481/Fumiko_Ueda",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Fumiko Ueda",
+    "given_name": "二三子",
+    "family_name": "植田",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Sound Effects",
+            "anime": {
+                "mal_id": 454,
+                "url": "https://myanimelist.net/anime/454/hack__Gift",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23085.jpg?s=b9d383aa4902669ca3d431ee20e209c4",
+                "name": ".hack//Gift"
+            }
+        },
+        {
+            "position": "Sound Effects",
+            "anime": {
+                "mal_id": 299,
+                "url": "https://myanimelist.net/anime/299/hack__Liminality",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/23079.jpg?s=194636af5cf82924f002d81240265dcd",
+                "name": ".hack//Liminality"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 67,
+                "url": "https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6793.jpg?s=dc4b80823ddc7b378ad0ba24e8a5fc40",
+                "name": "Basilisk: Kouga Ninpou Chou"
+            }
+        },
+        {
+            "position": "Sound Effects",
+            "anime": {
+                "mal_id": 348,
+                "url": "https://myanimelist.net/anime/348/Binzume_Yousei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16917.jpg?s=837df1d63e1dfe46233820e881cee7ca",
+                "name": "Binzume Yousei"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 833,
+                "url": "https://myanimelist.net/anime/833/Choujuushin_Gravion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75166.jpg?s=b9fbd5ea2466100781707725339d552f",
+                "name": "Choujuushin Gravion"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 271,
+                "url": "https://myanimelist.net/anime/271/Gad_Guard",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12863.jpg?s=6f3cce2513f36bdfcd5034f1a99abc1f",
+                "name": "Gad Guard"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 598,
+                "url": "https://myanimelist.net/anime/598/Jinzou_Ningen_Kikaider_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75542.jpg?s=c7f84883e2d64a1de50258190514a233",
+                "name": "Jinzou Ningen Kikaider The Animation"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9834,
+                "url": "https://myanimelist.net/anime/9834/Level_E",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29668.jpg?s=887acdbd091a6f889ded824655d5896b",
+                "name": "Level E"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 321,
+                "url": "https://myanimelist.net/anime/321/Najica_Dengeki_Sakusen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/22210.jpg?s=2fc0012fb028e8cd47b9c099dc241d94",
+                "name": "Najica Dengeki Sakusen"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 420,
+                "url": "https://myanimelist.net/anime/420/Spriggan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1398/95001.jpg?s=e4df7e1098044e031ae5de5767bf3063",
+                "name": "Spriggan"
+            }
+        }
+    ]
+}

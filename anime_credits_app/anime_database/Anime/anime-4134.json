@@ -1,0 +1,44 @@
+{
+    "mal_id": 4134,
+    "url": "https://myanimelist.net/anime/4134/Naruto__Shippuuden_-_Shippuu_Konoha_Gakuen_Den",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/51895.jpg",
+    "title": "Naruto: Shippuuden - Shippuu! \"Konoha Gakuen\" Den",
+    "title_english": "Naruto Shippuden: Konoha Gakuen - Special",
+    "title_japanese": "NARUTO 疾風伝「疾風! \"木ノ葉学園\"伝」",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-02-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 2,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 6, 2008"
+    },
+    "score": 7.15,
+    "scored_by": 25783,
+    "rank": 3003,
+    "popularity": 2195,
+    "members": 51859,
+    "favorites": 328,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

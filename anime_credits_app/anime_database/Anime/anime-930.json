@@ -1,0 +1,44 @@
+{
+    "mal_id": 930,
+    "url": "https://myanimelist.net/anime/930/Densetsu_Kyojin_Ideon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/77068.jpg",
+    "title": "Densetsu Kyojin Ideon",
+    "title_english": "Space Runaway Ideon",
+    "title_japanese": "伝説巨神イデオン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1980-05-08T00:00:00+00:00",
+        "to": "1981-01-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 5,
+                "year": 1980
+            },
+            "to": {
+                "day": 30,
+                "month": 1,
+                "year": 1981
+            }
+        },
+        "string": "May 8, 1980 to Jan 30, 1981"
+    },
+    "score": 6.98,
+    "scored_by": 2476,
+    "rank": 3715,
+    "popularity": 4596,
+    "members": 11617,
+    "favorites": 77,
+    "premiered": "Spring 1980",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

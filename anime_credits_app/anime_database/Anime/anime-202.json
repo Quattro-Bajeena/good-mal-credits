@@ -1,0 +1,44 @@
+{
+    "mal_id": 202,
+    "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+    "title": "Wolf's Rain",
+    "title_english": "Wolf's Rain",
+    "title_japanese": "ウルフズレイン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-01-07T00:00:00+00:00",
+        "to": "2003-07-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": 29,
+                "month": 7,
+                "year": 2003
+            }
+        },
+        "string": "Jan 7, 2003 to Jul 29, 2003"
+    },
+    "score": 7.82,
+    "scored_by": 108834,
+    "rank": 789,
+    "popularity": 519,
+    "members": 269158,
+    "favorites": 5689,
+    "premiered": "Winter 2003",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

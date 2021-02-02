@@ -1,0 +1,44 @@
+{
+    "mal_id": 940,
+    "url": "https://myanimelist.net/anime/940/Inukami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg",
+    "title": "Inukami!",
+    "title_english": null,
+    "title_japanese": "いぬかみっ!",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-06T00:00:00+00:00",
+        "to": "2006-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 6, 2006 to Sep 28, 2006"
+    },
+    "score": 7.28,
+    "scored_by": 25189,
+    "rank": 2455,
+    "popularity": 1940,
+    "members": 62456,
+    "favorites": 229,
+    "premiered": "Spring 2006",
+    "studios": [
+        {
+            "mal_id": 35,
+            "type": "anime",
+            "name": "Seven Arcs",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ]
+}

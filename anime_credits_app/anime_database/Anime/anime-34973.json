@@ -1,0 +1,44 @@
+{
+    "mal_id": 34973,
+    "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/88322.jpg",
+    "title": "Love Live! Sunshine!! 2nd Season",
+    "title_english": "Love Live! Sunshine!! Season 2",
+    "title_japanese": "ラブライブ！サンシャイン!! 第2期",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-10-07T00:00:00+00:00",
+        "to": "2017-12-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 7, 2017 to Dec 30, 2017"
+    },
+    "score": 7.58,
+    "scored_by": 38737,
+    "rank": 1355,
+    "popularity": 1591,
+    "members": 84130,
+    "favorites": 1232,
+    "premiered": "Fall 2017",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

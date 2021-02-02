@@ -1,0 +1,44 @@
+{
+    "mal_id": 1107,
+    "url": "https://myanimelist.net/anime/1107/Youjuu_Toshi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/50021.jpg",
+    "title": "Youjuu Toshi",
+    "title_english": "Wicked City",
+    "title_japanese": "妖獣都市",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-04-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 25, 1987"
+    },
+    "score": 6.44,
+    "scored_by": 13243,
+    "rank": 6202,
+    "popularity": 2880,
+    "members": 31561,
+    "favorites": 136,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

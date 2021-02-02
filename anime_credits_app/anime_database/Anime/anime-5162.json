@@ -1,0 +1,44 @@
+{
+    "mal_id": 5162,
+    "url": "https://myanimelist.net/anime/5162/Minami-ke_Okaeri",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/11458.jpg",
+    "title": "Minami-ke Okaeri",
+    "title_english": null,
+    "title_japanese": "みなみけ おかえり",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-01-05T00:00:00+00:00",
+        "to": "2009-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Jan 5, 2009 to Mar 30, 2009"
+    },
+    "score": 7.58,
+    "scored_by": 31471,
+    "rank": 1357,
+    "popularity": 1999,
+    "members": 59509,
+    "favorites": 62,
+    "premiered": "Winter 2009",
+    "studios": [
+        {
+            "mal_id": 163,
+            "type": "anime",
+            "name": "Asread",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ]
+}

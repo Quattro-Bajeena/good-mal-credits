@@ -1,0 +1,44 @@
+{
+    "mal_id": 5460,
+    "url": "https://myanimelist.net/anime/5460/Detective_Conan_Movie_13__The_Raven_Chaser",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/22558.jpg",
+    "title": "Detective Conan Movie 13: The Raven Chaser",
+    "title_english": "Detective Conan: The Jet Black Chaser",
+    "title_japanese": "名探偵コナン漆黒の追跡者(チェイサー)",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 18, 2009"
+    },
+    "score": 8.24,
+    "scored_by": 25132,
+    "rank": 267,
+    "popularity": 2385,
+    "members": 44769,
+    "favorites": 75,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+        }
+    ]
+}

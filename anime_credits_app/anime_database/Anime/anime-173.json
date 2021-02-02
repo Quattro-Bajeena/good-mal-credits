@@ -1,0 +1,44 @@
+{
+    "mal_id": 173,
+    "url": "https://myanimelist.net/anime/173/Tactics",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/37549.jpg",
+    "title": "Tactics",
+    "title_english": null,
+    "title_japanese": "タクティクス",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-10-06T00:00:00+00:00",
+        "to": "2005-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2005
+            }
+        },
+        "string": "Oct 6, 2004 to Mar 30, 2005"
+    },
+    "score": 7.23,
+    "scored_by": 11984,
+    "rank": 2677,
+    "popularity": 2659,
+    "members": 36397,
+    "favorites": 184,
+    "premiered": "Fall 2004",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

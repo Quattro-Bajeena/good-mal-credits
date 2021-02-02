@@ -1,0 +1,50 @@
+{
+    "mal_id": 4200,
+    "url": "https://myanimelist.net/anime/4200/Dirty_Pair_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/61127.jpg",
+    "title": "Dirty Pair OVA",
+    "title_english": null,
+    "title_japanese": "ダーティペア (1987)",
+    "type": "OVA",
+    "source": "Light novel",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-12-21T00:00:00+00:00",
+        "to": "1988-04-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 1987
+            },
+            "to": {
+                "day": 21,
+                "month": 4,
+                "year": 1988
+            }
+        },
+        "string": "Dec 21, 1987 to Apr 21, 1988"
+    },
+    "score": 7.11,
+    "scored_by": 2041,
+    "rank": 3149,
+    "popularity": 6205,
+    "members": 5467,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        },
+        {
+            "mal_id": 477,
+            "type": "anime",
+            "name": "Kino Production",
+            "url": "https://myanimelist.net/anime/producer/477/Kino_Production"
+        }
+    ]
+}

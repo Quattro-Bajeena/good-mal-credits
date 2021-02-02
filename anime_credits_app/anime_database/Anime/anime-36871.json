@@ -1,0 +1,50 @@
+{
+    "mal_id": 36871,
+    "url": "https://myanimelist.net/anime/36871/Ultraman",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1936/99009.jpg",
+    "title": "Ultraman",
+    "title_english": "Ultraman",
+    "title_japanese": "ULTRAMAN",
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 2019"
+    },
+    "score": 6.77,
+    "scored_by": 7592,
+    "rank": 4604,
+    "popularity": 3878,
+    "members": 17555,
+    "favorites": 58,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 1189,
+            "type": "anime",
+            "name": "Sola Digital Arts",
+            "url": "https://myanimelist.net/anime/producer/1189/Sola_Digital_Arts"
+        }
+    ]
+}

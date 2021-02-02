@@ -1,0 +1,44 @@
+{
+    "mal_id": 14513,
+    "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg",
+    "title": "Magi: The Labyrinth of Magic",
+    "title_english": "Magi: The Labyrinth of Magic",
+    "title_japanese": "マギ The labyrinth of magic",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-07T00:00:00+00:00",
+        "to": "2013-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 7, 2012 to Mar 31, 2013"
+    },
+    "score": 8.08,
+    "scored_by": 399942,
+    "rank": 450,
+    "popularity": 109,
+    "members": 761669,
+    "favorites": 8206,
+    "premiered": "Fall 2012",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

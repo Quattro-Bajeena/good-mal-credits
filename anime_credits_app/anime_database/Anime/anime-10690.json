@@ -1,0 +1,44 @@
+{
+    "mal_id": 10690,
+    "url": "https://myanimelist.net/anime/10690/Magic_Tree_House",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/34487.jpg",
+    "title": "Magic Tree House",
+    "title_english": null,
+    "title_japanese": "マジック・ツリーハウス",
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-01-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 7, 2012"
+    },
+    "score": 6.97,
+    "scored_by": 2100,
+    "rank": 3752,
+    "popularity": 5957,
+    "members": 6059,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

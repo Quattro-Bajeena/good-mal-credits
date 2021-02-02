@@ -1,0 +1,186 @@
+{
+    "mal_id": 1896,
+    "url": "https://myanimelist.net/character/1896/Fate_Testarossa",
+    "name": "Fate Testarossa",
+    "name_kanji": null,
+    "nicknames": [
+        "Fate T. Harlaown",
+        "Har"
+    ],
+    "member_favorites": 2327,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/226585.jpg",
+    "animeography": [
+        {
+            "mal_id": 76,
+            "name": "Mahou Shoujo Lyrical Nanoha",
+            "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.jpg?s=082f97fb2a171bd86ca52cdf47c64546",
+            "role": "Main"
+        },
+        {
+            "mal_id": 77,
+            "name": "Mahou Shoujo Lyrical Nanoha A's",
+            "url": "https://myanimelist.net/anime/77/Mahou_Shoujo_Lyrical_Nanoha_As",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/6767.jpg?s=52ed94d2cdee440511ee144700dd27da",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1915,
+            "name": "Mahou Shoujo Lyrical Nanoha StrikerS",
+            "url": "https://myanimelist.net/anime/1915/Mahou_Shoujo_Lyrical_Nanoha_StrikerS",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/14190.jpg?s=b1595bcd12bb8449b16cf40d68f74709",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4985,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st",
+            "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg?s=8f6e07c4f95d6fe4f87950c39fa59365",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10153,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+            "url": "https://myanimelist.net/anime/10153/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1511/94432.jpg?s=1576b3deaa5131c629fb4fc1c92fe6b7",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17947,
+            "name": "Mahou Shoujo Lyrical Nanoha: Reflection",
+            "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/88348.jpg?s=caa7eba05a6d07870e2c1483148185f8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25939,
+            "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+            "url": "https://myanimelist.net/anime/25939/Mahou_Shoujo_Lyrical_Nanoha_ViVid",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/72718.jpg?s=61dc48fd7d0a86a609e18971ec31f056",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31137,
+            "name": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+            "url": "https://myanimelist.net/anime/31137/Mahou_Shoujo_Lyrical_Nanoha_ViVid__Special_Program",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/74785.jpg?s=c162fb34a1996e356732250ee2c00021",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 35984,
+            "name": "Mahou Shoujo Lyrical Nanoha: Detonation",
+            "url": "https://myanimelist.net/anime/35984/Mahou_Shoujo_Lyrical_Nanoha__Detonation",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1084/93086.jpg?s=4063ebc723c3e29580b23cd57168b6bd",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1231,
+            "name": "Mahou Shoujo Lyrical Nanoha StrikerS THE COMICS",
+            "url": "https://myanimelist.net/manga/1231/Mahou_Shoujo_Lyrical_Nanoha_StrikerS_THE_COMICS",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/30379.jpg?s=c1a544fe2db6a4de255680629ce9a137",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3236,
+            "name": "Mahou Shoujo Lyrical Nanoha A's",
+            "url": "https://myanimelist.net/manga/3236/Mahou_Shoujo_Lyrical_Nanoha_As",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/33371.jpg?s=4a59270ce69d97f5e5f861f818dda6fe",
+            "role": "Main"
+        },
+        {
+            "mal_id": 13268,
+            "name": "Mahou Senki Lyrical Nanoha Force",
+            "url": "https://myanimelist.net/manga/13268/Mahou_Senki_Lyrical_Nanoha_Force",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27278.jpg?s=de426a8ff10ee3cde8342b84d093c97c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14238,
+            "name": "Mahou Shoujo Lyrical Nanoha ViVid",
+            "url": "https://myanimelist.net/manga/14238/Mahou_Shoujo_Lyrical_Nanoha_ViVid",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/202273.jpg?s=f753e84dea2fe32b3bc564fb2df09a66",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 16872,
+            "name": "Mahou Shoujo Lyrical Nanoha: Movie 1st the Comics",
+            "url": "https://myanimelist.net/manga/16872/Mahou_Shoujo_Lyrical_Nanoha__Movie_1st_the_Comics",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/30053.jpg?s=32665d95c181f702d7bb1c2de995322b",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25218,
+            "name": "Mahou Shoujo Lyrical Nanoha: Comic à la carte",
+            "url": "https://myanimelist.net/manga/25218/Mahou_Shoujo_Lyrical_Nanoha__Comic_à_la_carte",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/40603.jpg?s=f79dde80672757954915b6f27f25cf34",
+            "role": "Main"
+        },
+        {
+            "mal_id": 34299,
+            "name": "Mahou Shoujo Lyrical Nanoha A's Portable: The Gears of Destiny - Material Musume.",
+            "url": "https://myanimelist.net/manga/34299/Mahou_Shoujo_Lyrical_Nanoha_As_Portable__The_Gears_of_Destiny_-_Material_Musume",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/71079.jpg?s=c5d93e0245fbf05e71ca266ccb9ff8c2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 42129,
+            "name": "Mahou Shoujo Lyrical Nanoha Innocent",
+            "url": "https://myanimelist.net/manga/42129/Mahou_Shoujo_Lyrical_Nanoha_Innocent",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/100787.jpg?s=1411c29ce872bc5a15c0de2c85dfe3b1",
+            "role": "Main"
+        },
+        {
+            "mal_id": 50595,
+            "name": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics",
+            "url": "https://myanimelist.net/manga/50595/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_2nd_As_-_Tribute_Comics",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/89397.jpg?s=2d0bd4f90ceca36d7055ffa57b4fd4b3",
+            "role": "Main"
+        },
+        {
+            "mal_id": 63901,
+            "name": "Original Chronicle Mahou Shoujo Lyrical Nanoha The 1st",
+            "url": "https://myanimelist.net/manga/63901/Original_Chronicle_Mahou_Shoujo_Lyrical_Nanoha_The_1st",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128047.jpg?s=e440b3d7c4f74f9e971c63fe33212682",
+            "role": "Main"
+        },
+        {
+            "mal_id": 88984,
+            "name": "Mahou Shoujo Lyrical Nanoha InnocentS",
+            "url": "https://myanimelist.net/manga/88984/Mahou_Shoujo_Lyrical_Nanoha_InnocentS",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/174526.jpg?s=6119de59ec5e0614e4be0447d3400e57",
+            "role": "Main"
+        },
+        {
+            "mal_id": 109515,
+            "name": "Mahou Shoujo Lyrical Nanoha: Reflection the Comics",
+            "url": "https://myanimelist.net/manga/109515/Mahou_Shoujo_Lyrical_Nanoha__Reflection_the_Comics",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/211398.jpg?s=f8f1ecb8a10ccd360d9c24fd8d820400",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6869,
+            "name": "Alyx, Jennifer",
+            "url": "https://myanimelist.net/people/6869/Jennifer_Alyx",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/19435.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14993,
+            "name": "Lee, Ji Yeong",
+            "url": "https://myanimelist.net/people/14993/Ji_Yeong_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15825.jpg",
+            "language": "Korean"
+        }
+    ]
+}

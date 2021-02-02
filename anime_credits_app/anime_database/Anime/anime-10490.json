@@ -1,0 +1,44 @@
+{
+    "mal_id": 10490,
+    "url": "https://myanimelist.net/anime/10490/Blood-C",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg",
+    "title": "Blood-C",
+    "title_english": "BLOOD-C",
+    "title_japanese": "ブラッドシー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "to": "2011-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Sep 30, 2011"
+    },
+    "score": 6.56,
+    "scored_by": 107163,
+    "rank": 5582,
+    "popularity": 573,
+    "members": 250083,
+    "favorites": 828,
+    "premiered": "Summer 2011",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 9288,
+    "url": "https://myanimelist.net/anime/9288/Heartcatch_Precure_Movie__Hana_no_Miyako_de_Fashion_Show_Desu_ka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/25737.jpg",
+    "title": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?",
+    "title_english": null,
+    "title_japanese": "映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 30, 2010"
+    },
+    "score": 7.59,
+    "scored_by": 2893,
+    "rank": 1309,
+    "popularity": 6106,
+    "members": 5688,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

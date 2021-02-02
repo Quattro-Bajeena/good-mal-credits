@@ -1,0 +1,44 @@
+{
+    "mal_id": 2335,
+    "url": "https://myanimelist.net/anime/2335/Kenyuu_Densetsu_Yaiba",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/71953.jpg",
+    "title": "Kenyuu Densetsu Yaiba",
+    "title_english": "Legendary Brave Swordsman Yaiba",
+    "title_japanese": "剣勇伝説ＹＡＩＢＡ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-04-09T00:00:00+00:00",
+        "to": "1994-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 1993
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 1994
+            }
+        },
+        "string": "Apr 9, 1993 to Apr 1, 1994"
+    },
+    "score": 7.13,
+    "scored_by": 3389,
+    "rank": 3075,
+    "popularity": 5470,
+    "members": 7525,
+    "favorites": 44,
+    "premiered": "Spring 1993",
+    "studios": [
+        {
+            "mal_id": 413,
+            "type": "anime",
+            "name": "Pastel",
+            "url": "https://myanimelist.net/anime/producer/413/Pastel"
+        }
+    ]
+}

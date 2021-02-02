@@ -1,0 +1,44 @@
+{
+    "mal_id": 7193,
+    "url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+    "title": "Aoi Bungaku Series",
+    "title_english": null,
+    "title_japanese": "青い文学シリーズ",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-11T00:00:00+00:00",
+        "to": "2009-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 11, 2009 to Dec 27, 2009"
+    },
+    "score": 7.75,
+    "scored_by": 49305,
+    "rank": 920,
+    "popularity": 873,
+    "members": 167063,
+    "favorites": 1359,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

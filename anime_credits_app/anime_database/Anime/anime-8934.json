@@ -1,0 +1,44 @@
+{
+    "mal_id": 8934,
+    "url": "https://myanimelist.net/anime/8934/Star_Driver__Kagayaki_no_Takuto",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/25953.jpg",
+    "title": "Star Driver: Kagayaki no Takuto",
+    "title_english": "Star Driver",
+    "title_japanese": "STAR DRIVER 輝きのタクト",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-03T00:00:00+00:00",
+        "to": "2011-04-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Oct 3, 2010 to Apr 3, 2011"
+    },
+    "score": 7.23,
+    "scored_by": 37466,
+    "rank": 2674,
+    "popularity": 1399,
+    "members": 97671,
+    "favorites": 594,
+    "premiered": "Fall 2010",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

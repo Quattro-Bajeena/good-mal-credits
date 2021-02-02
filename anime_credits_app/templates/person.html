@@ -1,0 +1,121 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>gMs - {{person.name}}</title>
+{% endblock %}
+
+
+
+{% block main %}
+
+<div id="person-info">
+    <b>Name: </b>{{person.name}} 
+    <b>Birthday: </b>{{person.birthday | format_date}} 
+    <br>
+    <img src={{person.image_url}} width="50">
+
+
+</div>
+
+<hr>
+
+{% if len(person.staff_credits) > 0 %}
+
+<table id="person-staff" class="content-table" style="margin-left: auto; margin-right: auto; text-align: center;">
+    <tr>
+        <th></th>
+        <th>title</th>
+        <th>position</th>
+
+        <th>members</th>
+        <th>popularity</th>
+
+        <th>score</th>
+        <th>rank</th>
+
+        <th>aired</th>
+        <th>age when aired</th>
+
+    </tr>
+
+    {% for credit in person.staff_credits %}
+
+    <tr>
+        <td><img src={{credit.anime.image_url}} width="50"></td>
+        <td><a href={{url_for('anime_staff', mal_id=credit.anime.mal_id)}} >{{credit.anime.title}}</a></td>
+        <td>{{credit.position}}</td>
+
+        <td>{{credit.anime.members}}</td>
+        <td>{{credit.anime.popularity}}</td>
+
+        <td>{{credit.anime.score}}</td>
+        <td>{{credit.anime.rank}}</td>
+        
+        <td>{{credit.anime.aired_from | format_date}}</td>
+        <td>{{ staff_age( credit.anime.aired_from, person.birthday) }}</td>
+
+    </tr>
+
+    {% endfor %}
+    
+</table>
+
+<hr>
+
+{% else %}
+<p><b>No anime staff credits</b></p>
+{% endif %}
+
+{% if len(person.voice_acting_roles) > 0 %}
+
+<table id="person-voice-acting" class="content-table" style="margin-left: auto; margin-right: auto; text-align: center;">
+    <tr>
+        <th></th>
+        <th>anime</th>
+
+        <th></th>
+        <th>character</th>
+        <th>character favourites</th>
+
+        <th>anime members</th>
+        <th>popularity</th>
+
+        <th>score</th>
+        <th>rank</th>
+        
+        <th>aired</th>
+        <th>age when aired</th>
+        
+    </tr>
+
+
+    {% for role in person.voice_acting_roles %}
+
+    <tr>
+        <td><img src={{role.anime.image_url}} width="50"></td>
+        <td><a href={{url_for('anime_staff', mal_id=role.anime.mal_id)}} >{{role.anime.title}}</a></td>
+        <td><img src={{role.character.image_url}} width="50"></td>
+        <td>{{role.character.name}}</td>
+        <td>{{role.character.member_favorites}}</td>
+
+        <td>{{role.anime.members}}</td>
+        <td>{{role.anime.popularity}}</td>
+
+        <td>{{role.anime.score}}</td>
+        <td>{{role.anime.rank}}</td>
+        
+        <td>{{role.anime.aired_from | format_date}}</td>
+        <td>{{staff_age( role.anime.aired_from, person.birthday)}}</td>
+    </tr>
+
+    {% endfor %}
+
+</table>
+
+{% else %}
+
+<p><b>No acting roles</b></p>
+
+{% endif %}
+
+{% endblock %}

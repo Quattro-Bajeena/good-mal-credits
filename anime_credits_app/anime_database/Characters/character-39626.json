@@ -1,0 +1,51 @@
+{
+    "mal_id": 39626,
+    "url": "https://myanimelist.net/character/39626/Ricotta_Elmar",
+    "name": "Ricotta Elmar",
+    "name_kanji": null,
+    "nicknames": [
+        "Rico"
+    ],
+    "member_favorites": 57,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/113962.jpg",
+    "animeography": [
+        {
+            "mal_id": 10155,
+            "name": "Dog Days",
+            "url": "https://myanimelist.net/anime/10155/Dog_Days",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/75378.jpg?s=4a93faa65c5c70fe9802832512f32354",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 11783,
+            "name": "Dog Days'",
+            "url": "https://myanimelist.net/anime/11783/Dog_Days",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/42105.jpg?s=3a65121167e361e6b1ced227b0cd731e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 16385,
+            "name": "Dog Days''",
+            "url": "https://myanimelist.net/anime/16385/Dog_Days",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/70709.jpg?s=f8a0cfa269f0d3216a1d64915d2334d3",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14837,
+            "name": "Lee, Gye Yun",
+            "url": "https://myanimelist.net/people/14837/Gye_Yun_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15409.jpg",
+            "language": "Korean"
+        }
+    ]
+}

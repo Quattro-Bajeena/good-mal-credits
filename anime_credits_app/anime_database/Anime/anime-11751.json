@@ -1,0 +1,50 @@
+{
+    "mal_id": 11751,
+    "url": "https://myanimelist.net/anime/11751/Senki_Zesshou_Symphogear",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75580.jpg",
+    "title": "Senki Zesshou Symphogear",
+    "title_english": "Symphogear",
+    "title_japanese": "戦姫絶唱シンフォギア",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-01-06T00:00:00+00:00",
+        "to": "2012-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Jan 6, 2012 to Mar 30, 2012"
+    },
+    "score": 7.03,
+    "scored_by": 35631,
+    "rank": 3551,
+    "popularity": 1438,
+    "members": 95345,
+    "favorites": 1046,
+    "premiered": "Winter 2012",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 354,
+            "type": "anime",
+            "name": "Encourage Films",
+            "url": "https://myanimelist.net/anime/producer/354/Encourage_Films"
+        }
+    ]
+}

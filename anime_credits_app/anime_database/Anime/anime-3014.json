@@ -1,0 +1,50 @@
+{
+    "mal_id": 3014,
+    "url": "https://myanimelist.net/anime/3014/Ginga_Eiyuu_Densetsu__Waga_Yuku_wa_Hoshi_no_Taikai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/51345.jpg",
+    "title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+    "title_english": null,
+    "title_japanese": "銀河英雄伝説: わが征くは星の大海",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-02-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 2,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 6, 1988"
+    },
+    "score": 7.95,
+    "scored_by": 17187,
+    "rank": 600,
+    "popularity": 2952,
+    "members": 30006,
+    "favorites": 45,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Artland",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        },
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

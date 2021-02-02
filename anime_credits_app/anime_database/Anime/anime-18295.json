@@ -1,0 +1,44 @@
+{
+    "mal_id": 18295,
+    "url": "https://myanimelist.net/anime/18295/Kakumeiki_Valvrave_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/56573.jpg",
+    "title": "Kakumeiki Valvrave 2nd Season",
+    "title_english": "Valvrave the Liberator 2nd Season",
+    "title_japanese": "革命機ヴァルヴレイヴ　2ndシーズン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-10-10T00:00:00+00:00",
+        "to": "2013-12-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 12,
+                "year": 2013
+            }
+        },
+        "string": "Oct 10, 2013 to Dec 27, 2013"
+    },
+    "score": 7.3,
+    "scored_by": 46448,
+    "rank": 2367,
+    "popularity": 1623,
+    "members": 81268,
+    "favorites": 223,
+    "premiered": "Fall 2013",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

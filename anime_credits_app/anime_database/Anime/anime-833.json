@@ -1,0 +1,44 @@
+{
+    "mal_id": 833,
+    "url": "https://myanimelist.net/anime/833/Choujuushin_Gravion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75166.jpg",
+    "title": "Choujuushin Gravion",
+    "title_english": "Super Heavy God Gravion",
+    "title_japanese": "超重神グラヴィオン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-10-07T00:00:00+00:00",
+        "to": "2002-12-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 16,
+                "month": 12,
+                "year": 2002
+            }
+        },
+        "string": "Oct 7, 2002 to Dec 16, 2002"
+    },
+    "score": 6.4,
+    "scored_by": 4071,
+    "rank": 6405,
+    "popularity": 4650,
+    "members": 11302,
+    "favorites": 20,
+    "premiered": "Fall 2002",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

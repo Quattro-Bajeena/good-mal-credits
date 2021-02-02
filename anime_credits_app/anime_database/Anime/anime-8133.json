@@ -1,0 +1,44 @@
+{
+    "mal_id": 8133,
+    "url": "https://myanimelist.net/anime/8133/Precure_All_Stars_Movie_DX2__Kibou_no_Hikari☆Rainbow_Jewel_wo_Mamore",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/20237.jpg",
+    "title": "Precure All Stars Movie DX2: Kibou no Hikari☆Rainbow Jewel wo Mamore!",
+    "title_english": "Pretty Cure All Stars DX2: Light of Hope - Protect the Rainbow Jewel!",
+    "title_japanese": "映画 プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ!",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-03-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 20, 2010"
+    },
+    "score": 7.13,
+    "scored_by": 2250,
+    "rank": 3086,
+    "popularity": 6391,
+    "members": 5102,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

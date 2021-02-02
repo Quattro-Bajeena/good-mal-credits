@@ -1,0 +1,36 @@
+{
+    "mal_id": 1183,
+    "url": "https://myanimelist.net/character/1183/Morinas",
+    "name": "Morinas",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 13,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/84165.jpg",
+    "animeography": [
+        {
+            "mal_id": 879,
+            "name": "Simoun",
+            "url": "https://myanimelist.net/anime/879/Simoun",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/29109.jpg?s=1a64875c0be5c805e7e77faffccd4019",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 3193,
+            "name": "Simoun",
+            "url": "https://myanimelist.net/manga/3193/Simoun",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/3496.jpg?s=3fbcd2b961814e268c1b0279169a7bca",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2963,
+    "url": "https://myanimelist.net/anime/2963/Minami-ke",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75279.jpg",
+    "title": "Minami-ke",
+    "title_english": null,
+    "title_japanese": "みなみけ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-10-08T00:00:00+00:00",
+        "to": "2007-12-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            }
+        },
+        "string": "Oct 8, 2007 to Dec 31, 2007"
+    },
+    "score": 7.69,
+    "scored_by": 62227,
+    "rank": 1063,
+    "popularity": 972,
+    "members": 149954,
+    "favorites": 1165,
+    "premiered": "Fall 2007",
+    "studios": [
+        {
+            "mal_id": 39,
+            "type": "anime",
+            "name": "Daume",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ]
+}

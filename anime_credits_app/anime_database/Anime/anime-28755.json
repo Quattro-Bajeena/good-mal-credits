@@ -1,0 +1,44 @@
+{
+    "mal_id": 28755,
+    "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
+    "title": "Boruto: Naruto the Movie",
+    "title_english": "Boruto: Naruto the Movie",
+    "title_japanese": "BORUTO -NARUTO THE MOVIE-",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-08-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 7, 2015"
+    },
+    "score": 7.51,
+    "scored_by": 199681,
+    "rank": 1539,
+    "popularity": 431,
+    "members": 313155,
+    "favorites": 998,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

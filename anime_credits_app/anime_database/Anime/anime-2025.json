@@ -1,0 +1,44 @@
+{
+    "mal_id": 2025,
+    "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
+    "title": "Darker than Black: Kuro no Keiyakusha",
+    "title_english": "Darker than Black",
+    "title_japanese": "Darker than BLACK -黒の契約者-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-06T00:00:00+00:00",
+        "to": "2007-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 6, 2007 to Sep 28, 2007"
+    },
+    "score": 8.12,
+    "scored_by": 357636,
+    "rank": 391,
+    "popularity": 111,
+    "members": 751955,
+    "favorites": 16318,
+    "premiered": "Spring 2007",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

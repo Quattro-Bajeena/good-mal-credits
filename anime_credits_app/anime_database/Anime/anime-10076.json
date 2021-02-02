@@ -1,0 +1,44 @@
+{
+    "mal_id": 10076,
+    "url": "https://myanimelist.net/anime/10076/Kämpfer_für_die_Liebe",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/29811.jpg",
+    "title": "Kämpfer für die Liebe",
+    "title_english": "Kämpfer für die Liebe",
+    "title_japanese": "けんぷファー für die Liebe",
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-03-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 6, 2011"
+    },
+    "score": 6.5,
+    "scored_by": 29545,
+    "rank": 5915,
+    "popularity": 2181,
+    "members": 52494,
+    "favorites": 41,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 70,
+            "type": "anime",
+            "name": "Nomad",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ]
+}

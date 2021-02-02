@@ -1,0 +1,76 @@
+{
+    "mal_id": 6331,
+    "url": "https://myanimelist.net/people/6331/Mika_Nakashima",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10070.jpg",
+    "name": "Mika Nakashima",
+    "given_name": "美嘉",
+    "family_name": "中島",
+    "birthday": "1983-02-19T00:00:00+00:00",
+    "member_favorites": 243,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 150,
+                "url": "https://myanimelist.net/anime/150/Blood_",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=f0a6eb5df371dd4f2840cfa6265964fa",
+                "name": "Blood+"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 35849,
+                "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg?s=d3142c1e0379f16b66e58c0724836855",
+                "name": "Darling in the FranXX"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1371,
+                "url": "https://myanimelist.net/anime/1371/Hi_no_Tori",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/3622.jpg?s=7a6c7cea32f38867c24b85e5a3e48b59",
+                "name": "Hi no Tori"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 30015,
+                "url": "https://myanimelist.net/anime/30015/ReLIFE",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/82149.jpg?s=c608471d4b688064062e79e886c79993",
+                "name": "ReLIFE"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 12029,
+                "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s=cb23ccc1827c6154951f7145e51d318f",
+                "name": "Uchuu Senkan Yamato 2199"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 12029,
+                "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s=cb23ccc1827c6154951f7145e51d318f",
+                "name": "Uchuu Senkan Yamato 2199"
+            }
+        }
+    ]
+}

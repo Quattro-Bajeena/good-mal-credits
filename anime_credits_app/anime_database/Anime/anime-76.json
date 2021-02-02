@@ -1,0 +1,44 @@
+{
+    "mal_id": 76,
+    "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.jpg",
+    "title": "Mahou Shoujo Lyrical Nanoha",
+    "title_english": "Magical Girl Lyrical Nanoha",
+    "title_japanese": "魔法少女リリカルなのは",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-10-03T00:00:00+00:00",
+        "to": "2004-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2004
+            }
+        },
+        "string": "Oct 3, 2004 to Dec 26, 2004"
+    },
+    "score": 7.42,
+    "scored_by": 36137,
+    "rank": 1861,
+    "popularity": 1537,
+    "members": 88429,
+    "favorites": 1031,
+    "premiered": "Fall 2004",
+    "studios": [
+        {
+            "mal_id": 35,
+            "type": "anime",
+            "name": "Seven Arcs",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ]
+}

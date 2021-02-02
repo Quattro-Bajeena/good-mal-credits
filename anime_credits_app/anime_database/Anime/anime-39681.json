@@ -1,0 +1,44 @@
+{
+    "mal_id": 39681,
+    "url": "https://myanimelist.net/anime/39681/D4DJ__First_Mix",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1765/109713.jpg",
+    "title": "D4DJ: First Mix",
+    "title_english": "D4DJ First Mix",
+    "title_japanese": "D4DJ First Mix",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-10-23T00:00:00+00:00",
+        "to": "2021-01-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 10,
+                "year": 2020
+            },
+            "to": {
+                "day": 29,
+                "month": 1,
+                "year": 2021
+            }
+        },
+        "string": "Oct 23, 2020 to Jan 29, 2021"
+    },
+    "score": 7.72,
+    "scored_by": 2975,
+    "rank": 981,
+    "popularity": 4727,
+    "members": 10827,
+    "favorites": 155,
+    "premiered": "Fall 2020",
+    "studios": [
+        {
+            "mal_id": 537,
+            "type": "anime",
+            "name": "SANZIGEN",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        }
+    ]
+}

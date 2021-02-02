@@ -1,0 +1,44 @@
+{
+    "mal_id": 37435,
+    "url": "https://myanimelist.net/anime/37435/Carole___Tuesday",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1611/96157.jpg",
+    "title": "Carole & Tuesday",
+    "title_english": null,
+    "title_japanese": "キャロル&チューズデイ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-04-11T00:00:00+00:00",
+        "to": "2019-10-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": 3,
+                "month": 10,
+                "year": 2019
+            }
+        },
+        "string": "Apr 11, 2019 to Oct 3, 2019"
+    },
+    "score": 7.96,
+    "scored_by": 86951,
+    "rank": 591,
+    "popularity": 641,
+    "members": 224531,
+    "favorites": 2286,
+    "premiered": "Spring 2019",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

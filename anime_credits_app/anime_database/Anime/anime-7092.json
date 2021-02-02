@@ -1,0 +1,44 @@
+{
+    "mal_id": 7092,
+    "url": "https://myanimelist.net/anime/7092/Shoujo_Fight__Norainu-tachi_no_Odekake",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/16630.jpg",
+    "title": "Shoujo Fight: Norainu-tachi no Odekake",
+    "title_english": null,
+    "title_japanese": "少女ファイト 野良犬たちのおでかけ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 23, 2009"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11992,
+    "popularity": 11435,
+    "members": 647,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

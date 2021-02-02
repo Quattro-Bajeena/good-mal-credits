@@ -1,0 +1,94 @@
+{
+    "mal_id": 9342,
+    "url": "https://myanimelist.net/people/9342/See-Saw",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/6944.jpg",
+    "name": "See-Saw",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 29,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 454,
+                "url": "https://myanimelist.net/anime/454/hack__Gift",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23085.jpg?s=b9d383aa4902669ca3d431ee20e209c4",
+                "name": ".hack//Gift"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 299,
+                "url": "https://myanimelist.net/anime/299/hack__Liminality",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/23079.jpg?s=194636af5cf82924f002d81240265dcd",
+                "name": ".hack//Liminality"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 298,
+                "url": "https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/78321.jpg?s=f3087a9d1d85a2c5c5176c947c3f6c58",
+                "name": ".hack//Tasogare no Udewa Densetsu"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1487,
+                "url": "https://myanimelist.net/anime/1487/hack__Unison",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23078.jpg?s=d8d73ed64b3243f4abcd0aac3122a322",
+                "name": ".hack//Unison"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 2294,
+                "url": "https://myanimelist.net/anime/2294/Mobile_Suit_Gundam_SEED_Destiny_Special_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/18686.jpg?s=66abfb395c5f96fbe1d5ce0a0ab3224f",
+                "name": "Mobile Suit Gundam SEED Destiny Special Edition"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 2269,
+                "url": "https://myanimelist.net/anime/2269/Mobile_Suit_Gundam_SEED_Special_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2503.jpg?s=1762e6ecc59c7908a6a0c866319d6bb3",
+                "name": "Mobile Suit Gundam SEED Special Edition"
+            }
+        }
+    ]
+}

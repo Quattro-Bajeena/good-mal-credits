@@ -1,0 +1,50 @@
+{
+    "mal_id": 168225,
+    "url": "https://myanimelist.net/character/168225/Mio",
+    "name": "Mio",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 173,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/373500.jpg",
+    "animeography": [
+        {
+            "mal_id": 5760,
+            "name": "Dororo to Hyakkimaru",
+            "url": "https://myanimelist.net/anime/5760/Dororo_to_Hyakkimaru",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/12061.jpg?s=d9f14f45f7c263d5a843957cea6edfbd",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37520,
+            "name": "Dororo",
+            "url": "https://myanimelist.net/anime/37520/Dororo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg?s=746146bd8c6f785ef092d1b5823d25e0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1658,
+            "name": "Dororo",
+            "url": "https://myanimelist.net/manga/1658/Dororo",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175740.jpg?s=4633927331f3e2a70018666a274c52d4",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1250,
+            "name": "Mutou, Reiko",
+            "url": "https://myanimelist.net/people/1250/Reiko_Mutou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43969.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

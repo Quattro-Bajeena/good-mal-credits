@@ -1,0 +1,36 @@
+{
+    "mal_id": 175033,
+    "url": "https://myanimelist.net/character/175033/Utano_Tadano",
+    "name": "Utano Tadano",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/403368.jpg",
+    "animeography": [
+        {
+            "mal_id": 40620,
+            "name": "Uramichi Oniisan",
+            "url": "https://myanimelist.net/anime/40620/Uramichi_Oniisan",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1528/103665.jpg?s=77b06b2504786f01f558287ddcd7a916",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 109910,
+            "name": "Uramichi Oniisan",
+            "url": "https://myanimelist.net/manga/109910/Uramichi_Oniisan",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/201611.jpg?s=68d5221309da08eb4b41cf0d95c2c331",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

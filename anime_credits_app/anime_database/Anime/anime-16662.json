@@ -1,0 +1,44 @@
+{
+    "mal_id": 16662,
+    "url": "https://myanimelist.net/anime/16662/Kaze_Tachinu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/52353.jpg",
+    "title": "Kaze Tachinu",
+    "title_english": "The Wind Rises",
+    "title_japanese": "風立ちぬ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 20, 2013"
+    },
+    "score": 8.13,
+    "scored_by": 114408,
+    "rank": 382,
+    "popularity": 709,
+    "members": 203929,
+    "favorites": 1852,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

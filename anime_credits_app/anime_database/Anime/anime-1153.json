@@ -1,0 +1,44 @@
+{
+    "mal_id": 1153,
+    "url": "https://myanimelist.net/anime/1153/Crying_Freeman",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/37721.jpg",
+    "title": "Crying Freeman",
+    "title_english": null,
+    "title_japanese": "Cryingフリーマン",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-11-25T00:00:00+00:00",
+        "to": "1994-02-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 1988
+            },
+            "to": {
+                "day": 25,
+                "month": 2,
+                "year": 1994
+            }
+        },
+        "string": "Nov 25, 1988 to Feb 25, 1994"
+    },
+    "score": 6.48,
+    "scored_by": 2862,
+    "rank": 5999,
+    "popularity": 5227,
+    "members": 8420,
+    "favorites": 43,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

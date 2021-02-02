@@ -1,0 +1,49 @@
+{
+    "mal_id": 15800,
+    "url": "https://myanimelist.net/character/15800/Kusachiho",
+    "name": "Kusachiho",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/32059.jpg",
+    "animeography": [
+        {
+            "mal_id": 348,
+            "name": "Binzume Yousei",
+            "url": "https://myanimelist.net/anime/348/Binzume_Yousei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/16917.jpg?s=737b3612696e54aaee6144e06ae8eb82",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 28,
+            "name": "Horie, Yui",
+            "url": "https://myanimelist.net/people/28/Yui_Horie",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55669.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 32,
+            "name": "Nonaka, Ai",
+            "url": "https://myanimelist.net/people/32/Ai_Nonaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/55312.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 78,
+            "name": "Nazuka, Kaori",
+            "url": "https://myanimelist.net/people/78/Kaori_Nazuka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54652.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

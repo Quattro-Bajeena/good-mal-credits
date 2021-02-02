@@ -1,0 +1,40 @@
+{
+    "mal_id": 2756,
+    "url": "https://myanimelist.net/people/2756/Satoshi_Yamamoto",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/45370.jpg",
+    "name": "Satoshi Yamamoto",
+    "given_name": "サトシ",
+    "family_name": "山本",
+    "birthday": null,
+    "member_favorites": 28,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=3c34e61559518b54fbfff73c7ee5ad76",
+                "name": "Tengen Toppa Gurren Lagann"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1587,
+                "url": "https://myanimelist.net/anime/1587/Tenpou_Ibun__Ayakashi_Ayashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4452.jpg?s=5ff46bd54183e9d4479be8d0006807be",
+                "name": "Tenpou Ibun: Ayakashi Ayashi"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 3044,
+                "url": "https://myanimelist.net/anime/3044/Tetsuwan_Atom_1980",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/57325.jpg?s=4bb823b1f53ae52812dfec56d6b62771",
+                "name": "Tetsuwan Atom (1980)"
+            }
+        }
+    ]
+}

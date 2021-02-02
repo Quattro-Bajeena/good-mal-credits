@@ -1,0 +1,44 @@
+{
+    "mal_id": 7083,
+    "url": "https://myanimelist.net/anime/7083/Hakushaku_to_Yousei_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/59963.jpg",
+    "title": "Hakushaku to Yousei Specials",
+    "title_english": null,
+    "title_japanese": "伯爵と妖精",
+    "type": "Special",
+    "source": "Light novel",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-12-29T00:00:00+00:00",
+        "to": "2009-08-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Dec 29, 2008 to Aug 19, 2009"
+    },
+    "score": 6.42,
+    "scored_by": 2312,
+    "rank": 6318,
+    "popularity": 5439,
+    "members": 7629,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Artland",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+    ]
+}

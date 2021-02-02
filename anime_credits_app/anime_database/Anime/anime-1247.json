@@ -1,0 +1,44 @@
+{
+    "mal_id": 1247,
+    "url": "https://myanimelist.net/anime/1247/Project_BLUE_Chikyuu_SOS",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/34565.jpg",
+    "title": "Project BLUE Chikyuu SOS",
+    "title_english": "Project Blue Earth SOS",
+    "title_japanese": "Project BLUE 地球SOS",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-02T00:00:00+00:00",
+        "to": "2006-12-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": 3,
+                "month": 12,
+                "year": 2006
+            }
+        },
+        "string": "Jul 2, 2006 to Dec 3, 2006"
+    },
+    "score": 6.67,
+    "scored_by": 884,
+    "rank": 5051,
+    "popularity": 7837,
+    "members": 2933,
+    "favorites": 5,
+    "premiered": "Summer 2006",
+    "studios": [
+        {
+            "mal_id": 179,
+            "type": "anime",
+            "name": "A.C.G.T.",
+            "url": "https://myanimelist.net/anime/producer/179/ACGT"
+        }
+    ]
+}

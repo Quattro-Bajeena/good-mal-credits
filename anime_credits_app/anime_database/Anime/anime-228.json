@@ -1,0 +1,44 @@
+{
+    "mal_id": 228,
+    "url": "https://myanimelist.net/anime/228/Jigoku_Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/71958.jpg",
+    "title": "Jigoku Shoujo",
+    "title_english": "Hell Girl",
+    "title_japanese": "地獄少女",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-05T00:00:00+00:00",
+        "to": "2006-04-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 5,
+                "month": 4,
+                "year": 2006
+            }
+        },
+        "string": "Oct 5, 2005 to Apr 5, 2006"
+    },
+    "score": 7.65,
+    "scored_by": 103712,
+    "rank": 1159,
+    "popularity": 487,
+    "members": 284641,
+    "favorites": 3274,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

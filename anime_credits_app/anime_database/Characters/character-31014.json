@@ -1,0 +1,38 @@
+{
+    "mal_id": 31014,
+    "url": "https://myanimelist.net/character/31014/Félicitation_du_Dracoon",
+    "name": "Félicitation du Dracoon",
+    "name_kanji": null,
+    "nicknames": [
+        "Shion"
+    ],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/82644.jpg",
+    "animeography": [
+        {
+            "mal_id": 5710,
+            "name": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!",
+            "url": "https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/84853.jpg?s=9c7494c2e330a4c87273abcecc43c4a1",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 390,
+            "name": "Keroro Gunsou",
+            "url": "https://myanimelist.net/manga/390/Keroro_Gunsou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/152242.jpg?s=8b77321fbd5e51fa4093aeb264940474",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

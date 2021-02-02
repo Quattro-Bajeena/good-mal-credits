@@ -1,0 +1,44 @@
+{
+    "mal_id": 8022,
+    "url": "https://myanimelist.net/anime/8022/Tegamibachi_Gakuen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/19573.jpg",
+    "title": "Tegamibachi Gakuen",
+    "title_english": "Letter Bee Academy",
+    "title_japanese": "テガミバチ学園",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-01-27T00:00:00+00:00",
+        "to": "2010-07-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 23,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Jan 27, 2010 to Jul 23, 2010"
+    },
+    "score": 7.28,
+    "scored_by": 2302,
+    "rank": 2436,
+    "popularity": 5080,
+    "members": 9044,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 37281,
+    "url": "https://myanimelist.net/anime/37281/Joshiochi__2-kai_kara_Onnanoko_ga_Futtekita",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1716/93151.jpg",
+    "title": "Joshiochi!: 2-kai kara Onnanoko ga... Futtekita!?",
+    "title_english": null,
+    "title_japanese": "じょしおちっ！～2階から女の子が…降ってきた！？～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-07-02T00:00:00+00:00",
+        "to": "2018-08-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 8,
+                "year": 2018
+            }
+        },
+        "string": "Jul 2, 2018 to Aug 27, 2018"
+    },
+    "score": 6.39,
+    "scored_by": 13204,
+    "rank": 6439,
+    "popularity": 2571,
+    "members": 38907,
+    "favorites": 193,
+    "premiered": "Summer 2018",
+    "studios": [
+        {
+            "mal_id": 2020,
+            "type": "anime",
+            "name": "Ark",
+            "url": "https://myanimelist.net/anime/producer/2020/Ark"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 8909,
+    "url": "https://myanimelist.net/anime/8909/Tales_of_Symphonia_The_Animation__Tethealla-hen_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/60787.jpg",
+    "title": "Tales of Symphonia The Animation: Tethe'alla-hen Specials",
+    "title_english": null,
+    "title_japanese": "テイルズオブシンフォニア テセアラ編 また会えたね～笑撃のジャッジメント！～",
+    "type": "Special",
+    "source": "Game",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-03-25T00:00:00+00:00",
+        "to": "2011-02-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 2,
+                "year": 2011
+            }
+        },
+        "string": "Mar 25, 2010 to Feb 25, 2011"
+    },
+    "score": 7.09,
+    "scored_by": 2633,
+    "rank": 3276,
+    "popularity": 5688,
+    "members": 6886,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 43,
+            "type": "anime",
+            "name": "ufotable",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ]
+}

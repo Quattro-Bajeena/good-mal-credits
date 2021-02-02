@@ -1,0 +1,44 @@
+{
+    "mal_id": 32245,
+    "url": "https://myanimelist.net/anime/32245/Kuromukuro",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/82281.jpg",
+    "title": "Kuromukuro",
+    "title_english": "Kuromukuro",
+    "title_japanese": "クロムクロ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-04-07T00:00:00+00:00",
+        "to": "2016-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Apr 7, 2016 to Sep 29, 2016"
+    },
+    "score": 7.21,
+    "scored_by": 44659,
+    "rank": 2732,
+    "popularity": 1286,
+    "members": 109721,
+    "favorites": 377,
+    "premiered": "Spring 2016",
+    "studios": [
+        {
+            "mal_id": 132,
+            "type": "anime",
+            "name": "P.A. Works",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ]
+}

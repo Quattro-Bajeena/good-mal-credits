@@ -1,0 +1,44 @@
+{
+    "mal_id": 12979,
+    "url": "https://myanimelist.net/anime/12979/Naruto_SD__Rock_Lee_no_Seishun_Full-Power_Ninden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/36475.jpg",
+    "title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+    "title_english": "NARUTO Spin-Off: Rock Lee & His Ninja Pals",
+    "title_japanese": "ナルトSD ロック・リーの青春フルパワー忍伝",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-03T00:00:00+00:00",
+        "to": "2013-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Apr 3, 2012 to Mar 26, 2013"
+    },
+    "score": 7.14,
+    "scored_by": 27527,
+    "rank": 3018,
+    "popularity": 1904,
+    "members": 64178,
+    "favorites": 321,
+    "premiered": "Spring 2012",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

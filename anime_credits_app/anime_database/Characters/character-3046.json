@@ -1,0 +1,92 @@
+{
+    "mal_id": 3046,
+    "url": "https://myanimelist.net/character/3046/Mizuki_Segawa",
+    "name": "Mizuki Segawa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/220131.jpg",
+    "animeography": [
+        {
+            "mal_id": 1336,
+            "name": "Kyoushoku Soukou Guyver II",
+            "url": "https://myanimelist.net/anime/1336/Kyoushoku_Soukou_Guyver_II",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1833/92279.jpg?s=22079026f1cac4a8a2ed8994d1a877f2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1374,
+            "name": "Kyoushoku Soukou Guyver (2005)",
+            "url": "https://myanimelist.net/anime/1374/Kyoushoku_Soukou_Guyver_2005",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/3697.jpg?s=2b1379ae5263459239c322ff84b80259",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2293,
+            "name": "Kyoushoku Soukou Guyver",
+            "url": "https://myanimelist.net/anime/2293/Kyoushoku_Soukou_Guyver",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1833/94524.jpg?s=976757618fbf0f552ce886c82c2d9f03",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6016,
+            "name": "Kyoushoku Soukou Guyver (1989)",
+            "url": "https://myanimelist.net/anime/6016/Kyoushoku_Soukou_Guyver_1989",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/13102.jpg?s=373419e150c8c44120571dd3550937ea",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1608,
+            "name": "Kyoushoku Soukou Guyver",
+            "url": "https://myanimelist.net/manga/1608/Kyoushoku_Soukou_Guyver",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/196745.jpg?s=4c2f348624e92fd4ad692eda468d041e",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 189,
+            "name": "Christian, Luci",
+            "url": "https://myanimelist.net/people/189/Luci_Christian",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49236.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 437,
+            "name": "Tomizawa, Michie",
+            "url": "https://myanimelist.net/people/437/Michie_Tomizawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/31367.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 452,
+            "name": "Fahn, Melissa",
+            "url": "https://myanimelist.net/people/452/Melissa_Fahn",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29855.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 485,
+            "name": "Mizutani, Yuuko",
+            "url": "https://myanimelist.net/people/485/Yuuko_Mizutani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44380.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9076,
+            "name": "Kahana, Tanya",
+            "url": "https://myanimelist.net/people/9076/Tanya_Kahana",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/36879.jpg",
+            "language": "German"
+        }
+    ]
+}

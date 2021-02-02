@@ -1,0 +1,35 @@
+{
+    "mal_id": 15162,
+    "url": "https://myanimelist.net/character/15162/Yayoi",
+    "name": "Yayoi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/229525.jpg",
+    "animeography": [
+        {
+            "mal_id": 618,
+            "name": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+            "url": "https://myanimelist.net/anime/618/Juubee_Ninpuuchou__Ryuuhougyoku-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1898/103439.jpg?s=95e28f1a29cea174a4f70ed5ee5e76be",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 43070,
+            "name": "Piovani, Tosawi",
+            "url": "https://myanimelist.net/people/43070/Tosawi_Piovani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46567.jpg",
+            "language": "Italian"
+        }
+    ]
+}

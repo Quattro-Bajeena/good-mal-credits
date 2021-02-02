@@ -1,0 +1,119 @@
+{
+    "mal_id": 5549,
+    "url": "https://myanimelist.net/people/5549/Nami_Tamaki",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54119.jpg",
+    "name": "Nami Tamaki",
+    "given_name": "成実",
+    "family_name": "玉置",
+    "birthday": "1988-06-01T00:00:00+00:00",
+    "member_favorites": 203,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 244,
+                "url": "https://myanimelist.net/anime/244/Agatha_Christie_no_Meitantei_Poirot_to_Marple",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/3149.jpg?s=c19bf326ee662e5ca59f977ae16ed4b2",
+                "name": "Agatha Christie no Meitantei Poirot to Marple"
+            },
+            "character": {
+                "mal_id": 114501,
+                "url": "https://myanimelist.net/character/114501/Bridget",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/261001.jpg?s=a6016a94fbdb5f8eb6ae68bb1ad5300f",
+                "name": "Bridget"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 41137,
+                "url": "https://myanimelist.net/anime/41137/Battle_Spirits__Kakumei_no_Galette",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1703/108504.jpg?s=06c22197c405d65a1aefb56d07317efa",
+                "name": "Battle Spirits: Kakumei no Galette"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 32313,
+                "url": "https://myanimelist.net/anime/32313/Concrete_Revolutio__Choujin_Gensou_-_The_Last_Song",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/80050.jpg?s=483cd83d25b8edfc5355afc133062b26",
+                "name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1482,
+                "url": "https://myanimelist.net/anime/1482/DGray-man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg?s=a6ae4013fa2a159c58193a41d5b798d3",
+                "name": "D.Gray-man"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 845,
+                "url": "https://myanimelist.net/anime/845/Kiba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/11099.jpg?s=db2280d12d71194fd5626d798738fb28",
+                "name": "Kiba"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 2294,
+                "url": "https://myanimelist.net/anime/2294/Mobile_Suit_Gundam_SEED_Destiny_Special_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/18686.jpg?s=66abfb395c5f96fbe1d5ce0a0ab3224f",
+                "name": "Mobile Suit Gundam SEED Destiny Special Edition"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 23325,
+                "url": "https://myanimelist.net/anime/23325/Shirogane_no_Ishi__Argevollen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64453.jpg?s=40b735f156b5723f3bf9a6c8bb19ee23",
+                "name": "Shirogane no Ishi: Argevollen"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 28929,
+                "url": "https://myanimelist.net/anime/28929/Vampire_Holmes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/74765.jpg?s=2b8a7b0a3a5fa21118f853864ee8f46d",
+                "name": "Vampire Holmes"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 3295,
+                "url": "https://myanimelist.net/anime/3295/Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg?s=45802a9cdd3922cf107ac985e6ac89c3",
+                "name": "Yatterman"
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3508,
+    "url": "https://myanimelist.net/anime/3508/Genius_Party",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/20882.jpg",
+    "title": "Genius Party",
+    "title_english": null,
+    "title_japanese": "ジーニアスパーティー",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-07-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 7, 2007"
+    },
+    "score": 7.21,
+    "scored_by": 10610,
+    "rank": 2724,
+    "popularity": 2920,
+    "members": 30544,
+    "favorites": 67,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Studio 4°C",
+            "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+        }
+    ]
+}

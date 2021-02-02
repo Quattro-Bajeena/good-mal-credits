@@ -1,0 +1,44 @@
+{
+    "mal_id": 121,
+    "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+    "title": "Fullmetal Alchemist",
+    "title_english": "Fullmetal Alchemist",
+    "title_japanese": "鋼の錬金術師",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-10-04T00:00:00+00:00",
+        "to": "2004-10-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 2,
+                "month": 10,
+                "year": 2004
+            }
+        },
+        "string": "Oct 4, 2003 to Oct 2, 2004"
+    },
+    "score": 8.17,
+    "scored_by": 682636,
+    "rank": 338,
+    "popularity": 52,
+    "members": 1141445,
+    "favorites": 26439,
+    "premiered": "Fall 2003",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

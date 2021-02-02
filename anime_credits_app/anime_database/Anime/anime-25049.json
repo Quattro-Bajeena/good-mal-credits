@@ -1,0 +1,37 @@
+{
+    "mal_id": 25049,
+    "url": "https://myanimelist.net/anime/25049/Sushi_Ninja",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/64109.jpg",
+    "title": "Sushi Ninja",
+    "title_english": null,
+    "title_japanese": "スシニンジャ",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-03T00:00:00+00:00",
+        "to": "2014-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 2014
+            }
+        },
+        "string": "Jul 3, 2014 to Nov 28, 2014"
+    },
+    "score": 5.3,
+    "scored_by": 166,
+    "rank": 10084,
+    "popularity": 11840,
+    "members": 546,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

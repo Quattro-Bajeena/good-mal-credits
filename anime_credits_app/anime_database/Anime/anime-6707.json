@@ -1,0 +1,44 @@
+{
+    "mal_id": 6707,
+    "url": "https://myanimelist.net/anime/6707/Kuroshitsuji_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50499.jpg",
+    "title": "Kuroshitsuji II",
+    "title_english": "Black Butler II",
+    "title_japanese": "黒執事II",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-07-02T00:00:00+00:00",
+        "to": "2010-09-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Jul 2, 2010 to Sep 17, 2010"
+    },
+    "score": 7.23,
+    "scored_by": 243421,
+    "rank": 2653,
+    "popularity": 294,
+    "members": 430404,
+    "favorites": 4045,
+    "premiered": "Summer 2010",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

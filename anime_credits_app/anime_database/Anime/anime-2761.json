@@ -1,0 +1,44 @@
+{
+    "mal_id": 2761,
+    "url": "https://myanimelist.net/anime/2761/Densetsu_Kyojin_Ideon__Hatsudou-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1146/91266.jpg",
+    "title": "Densetsu Kyojin Ideon: Hatsudou-hen",
+    "title_english": "The Ideon: Be Invoked",
+    "title_japanese": "伝説巨神イデオン 発動篇",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-07-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 1982
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 10, 1982"
+    },
+    "score": 7.82,
+    "scored_by": 2387,
+    "rank": 794,
+    "popularity": 5820,
+    "members": 6466,
+    "favorites": 128,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

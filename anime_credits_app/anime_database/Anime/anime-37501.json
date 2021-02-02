@@ -1,0 +1,44 @@
+{
+    "mal_id": 37501,
+    "url": "https://myanimelist.net/anime/37501/Hug_tto_Precure♡Futari_wa_Precure_Movie__All_Stars_Memories",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1538/93935.jpg",
+    "title": "Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories",
+    "title_english": null,
+    "title_japanese": "映画 HUGっと！プリキュア♡ふたりはプリキュア オールスターズメモリーズ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 27, 2018"
+    },
+    "score": 7.47,
+    "scored_by": 848,
+    "rank": 1672,
+    "popularity": 8259,
+    "members": 2496,
+    "favorites": 18,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

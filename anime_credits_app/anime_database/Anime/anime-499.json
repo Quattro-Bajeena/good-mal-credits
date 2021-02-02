@@ -1,0 +1,44 @@
+{
+    "mal_id": 499,
+    "url": "https://myanimelist.net/anime/499/Makai_Toshi_Shinjuku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/25337.jpg",
+    "title": "Makai Toshi Shinjuku",
+    "title_english": "Demon City Shinjuku",
+    "title_japanese": "魔界都市〈新宿〉",
+    "type": "OVA",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-10-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 25, 1988"
+    },
+    "score": 6.17,
+    "scored_by": 6659,
+    "rank": 7483,
+    "popularity": 4156,
+    "members": 14757,
+    "favorites": 35,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 31064,
+    "url": "https://myanimelist.net/anime/31064/Gunslinger_Stratos_The_Animation__Kikan_Kaze_no_Yukue",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/74745.jpg",
+    "title": "Gunslinger Stratos The Animation: Kikan/Kaze no Yukue",
+    "title_english": null,
+    "title_japanese": "ガンスリンガー ストラトス -THE ANIMATION- 帰還／風の行方",
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-06-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 20, 2015"
+    },
+    "score": 6.08,
+    "scored_by": 701,
+    "rank": 7889,
+    "popularity": 8051,
+    "members": 2679,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

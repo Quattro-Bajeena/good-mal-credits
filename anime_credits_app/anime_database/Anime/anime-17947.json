@@ -1,0 +1,44 @@
+{
+    "mal_id": 17947,
+    "url": "https://myanimelist.net/anime/17947/Mahou_Shoujo_Lyrical_Nanoha__Reflection",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/88348.jpg",
+    "title": "Mahou Shoujo Lyrical Nanoha: Reflection",
+    "title_english": "Magical Girl Lyrical Nanoha Reflection",
+    "title_japanese": "魔法少女リリカルなのは Reflection",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-07-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 22, 2017"
+    },
+    "score": 7.46,
+    "scored_by": 3049,
+    "rank": 1724,
+    "popularity": 4660,
+    "members": 11230,
+    "favorites": 33,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1569,
+            "type": "anime",
+            "name": "Seven Arcs Pictures",
+            "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+        }
+    ]
+}

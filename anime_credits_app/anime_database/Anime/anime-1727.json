@@ -1,0 +1,44 @@
+{
+    "mal_id": 1727,
+    "url": "https://myanimelist.net/anime/1727/Shinkyoku_Soukai_Polyphonica",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg",
+    "title": "Shinkyoku Soukai Polyphonica",
+    "title_english": "Polyphonica",
+    "title_japanese": "神曲奏界ポリフォニカ",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-04T00:00:00+00:00",
+        "to": "2007-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2007
+            }
+        },
+        "string": "Apr 4, 2007 to Jun 20, 2007"
+    },
+    "score": 6.84,
+    "scored_by": 9208,
+    "rank": 4264,
+    "popularity": 3009,
+    "members": 28993,
+    "favorites": 47,
+    "premiered": "Spring 2007",
+    "studios": [
+        {
+            "mal_id": 176,
+            "type": "anime",
+            "name": "Ginga Ya",
+            "url": "https://myanimelist.net/anime/producer/176/Ginga_Ya"
+        }
+    ]
+}

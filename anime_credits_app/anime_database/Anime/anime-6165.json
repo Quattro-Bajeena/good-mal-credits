@@ -1,0 +1,44 @@
+{
+    "mal_id": 6165,
+    "url": "https://myanimelist.net/anime/6165/White_Album_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/43541.jpg",
+    "title": "White Album 2nd Season",
+    "title_english": "White Album Season 2",
+    "title_japanese": "WHITE ALBUM 第2期",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "to": "2009-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 3, 2009 to Dec 24, 2009"
+    },
+    "score": 6.85,
+    "scored_by": 16487,
+    "rank": 4256,
+    "popularity": 2517,
+    "members": 40072,
+    "favorites": 54,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 35,
+            "type": "anime",
+            "name": "Seven Arcs",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ]
+}

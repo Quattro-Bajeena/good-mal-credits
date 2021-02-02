@@ -1,0 +1,43 @@
+{
+    "mal_id": 142223,
+    "url": "https://myanimelist.net/character/142223/Isaki_Kudou",
+    "name": "Isaki Kudou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/361870.jpg",
+    "animeography": [
+        {
+            "mal_id": 38080,
+            "name": "Kono Oto Tomare!",
+            "url": "https://myanimelist.net/anime/38080/Kono_Oto_Tomare",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg?s=048890e57142e59e7067c85142cf8332",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 38889,
+            "name": "Kono Oto Tomare! 2nd Season",
+            "url": "https://myanimelist.net/anime/38889/Kono_Oto_Tomare_2nd_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1737/110191.jpg?s=2f87692855df79553a3e24059af3a16e",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 45143,
+            "name": "Kono Oto Tomare!",
+            "url": "https://myanimelist.net/manga/45143/Kono_Oto_Tomare",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/116653.jpg?s=288e9980224a591dbc5088b72bb5bb0d",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

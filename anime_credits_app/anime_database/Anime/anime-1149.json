@@ -1,0 +1,44 @@
+{
+    "mal_id": 1149,
+    "url": "https://myanimelist.net/anime/1149/Choujuushin_Gravion_Zwei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75167.jpg",
+    "title": "Choujuushin Gravion Zwei",
+    "title_english": "Super Heavy God Gravion Zwei",
+    "title_japanese": "超重神グラヴィオンツヴァイ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-01-08T00:00:00+00:00",
+        "to": "2004-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Jan 8, 2004 to Mar 25, 2004"
+    },
+    "score": 6.65,
+    "scored_by": 3111,
+    "rank": 5116,
+    "popularity": 5446,
+    "members": 7612,
+    "favorites": 14,
+    "premiered": "Winter 2004",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

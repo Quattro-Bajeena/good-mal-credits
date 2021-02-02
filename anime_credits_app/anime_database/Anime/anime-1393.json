@@ -1,0 +1,44 @@
+{
+    "mal_id": 1393,
+    "url": "https://myanimelist.net/anime/1393/Future_GPX_Cyber_Formula_Zero",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/4085.jpg",
+    "title": "Future GPX Cyber Formula Zero",
+    "title_english": null,
+    "title_japanese": "新世紀ＧＰＸサイバーフォーミュラＺＥＲＯ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-04-01T00:00:00+00:00",
+        "to": "1995-02-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1994
+            },
+            "to": {
+                "day": 1,
+                "month": 2,
+                "year": 1995
+            }
+        },
+        "string": "Apr 1, 1994 to Feb 1, 1995"
+    },
+    "score": 7.41,
+    "scored_by": 845,
+    "rank": 1870,
+    "popularity": 8818,
+    "members": 1973,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 6444,
+    "url": "https://myanimelist.net/anime/6444/Tegamibachi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/71808.jpg",
+    "title": "Tegamibachi",
+    "title_english": "Tegami Bachi: Letter Bee",
+    "title_japanese": "テガミバチ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "to": "2010-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2009 to Mar 27, 2010"
+    },
+    "score": 7.66,
+    "scored_by": 37056,
+    "rank": 1127,
+    "popularity": 1344,
+    "members": 103232,
+    "favorites": 783,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

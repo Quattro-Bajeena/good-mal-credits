@@ -1,0 +1,44 @@
+{
+    "mal_id": 36692,
+    "url": "https://myanimelist.net/anime/36692/Senki_Zesshou_Symphogear_AXZ__Senki_Zesshou_Shinai_Symphogear",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/89564.jpg",
+    "title": "Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear",
+    "title_english": null,
+    "title_japanese": "戦姫絶唱シンフォギアAXZ 戦姫絶唱しないシンフォギア",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-11-29T00:00:00+00:00",
+        "to": "2018-02-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 11,
+                "year": 2017
+            },
+            "to": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            }
+        },
+        "string": "Nov 29, 2017 to Feb 28, 2018"
+    },
+    "score": 6.87,
+    "scored_by": 1098,
+    "rank": 4175,
+    "popularity": 7419,
+    "members": 3496,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

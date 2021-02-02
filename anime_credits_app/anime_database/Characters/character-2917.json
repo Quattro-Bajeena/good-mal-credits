@@ -1,0 +1,45 @@
+{
+    "mal_id": 2917,
+    "url": "https://myanimelist.net/character/2917/Perserte_Yugiri",
+    "name": "Perserte Yugiri",
+    "name_kanji": null,
+    "nicknames": [
+        "Perse"
+    ],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/55604.jpg",
+    "animeography": [
+        {
+            "mal_id": 1727,
+            "name": "Shinkyoku Soukai Polyphonica",
+            "url": "https://myanimelist.net/anime/1727/Shinkyoku_Soukai_Polyphonica",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1610/95574.jpg?s=f4c7349ba35b2a2a96bc7568cb7e01e3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5504,
+            "name": "Shinkyoku Soukai Polyphonica Crimson S",
+            "url": "https://myanimelist.net/anime/5504/Shinkyoku_Soukai_Polyphonica_Crimson_S",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1550/95575.jpg?s=189236ceb891d75eb6e66858b682acda",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 11193,
+            "name": "Shinkyoku Soukai Polyphonica Crimson",
+            "url": "https://myanimelist.net/manga/11193/Shinkyoku_Soukai_Polyphonica_Crimson",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/158362.jpg?s=36afa798609cd2a4d09ff367b318939a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

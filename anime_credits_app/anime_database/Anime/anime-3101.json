@@ -1,0 +1,44 @@
+{
+    "mal_id": 3101,
+    "url": "https://myanimelist.net/anime/3101/F-Zero__Falcon_Densetsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1569/95419.jpg",
+    "title": "F-Zero: Falcon Densetsu",
+    "title_english": "F-Zero: GP Legend",
+    "title_japanese": "F-ZERO ファルコン伝説",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-10-07T00:00:00+00:00",
+        "to": "2004-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Oct 7, 2003 to Sep 28, 2004"
+    },
+    "score": 6.42,
+    "scored_by": 1800,
+    "rank": 6310,
+    "popularity": 5542,
+    "members": 7284,
+    "favorites": 54,
+    "premiered": "Fall 2003",
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

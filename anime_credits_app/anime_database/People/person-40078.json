@@ -1,0 +1,931 @@
+{
+    "mal_id": 40078,
+    "url": "https://myanimelist.net/people/40078/Junichi_Uematsu",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Junichi Uematsu",
+    "given_name": "淳一",
+    "family_name": "植松",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 7669,
+                "url": "https://myanimelist.net/anime/7669/Bungaku_Shoujo_Kyou_no_Oyatsu__Hatsukoi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/79900.jpg?s=0c25865ea5420a949c37a80fd444d9b4",
+                "name": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 8481,
+                "url": "https://myanimelist.net/anime/8481/Bungaku_Shoujo_Memoire",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/26770.jpg?s=44a90cc153d1505d7482182cb574d785",
+                "name": "\"Bungaku Shoujo\" Memoire"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6408,
+                "url": "https://myanimelist.net/anime/6408/Bungaku_Shoujo_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/81162.jpg?s=a31241e3c8a8c3544e85250e5ef9be70",
+                "name": "\"Bungaku Shoujo\" Movie"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 9737,
+                "url": "https://myanimelist.net/anime/9737/Appleseed_XIII",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/28796.jpg?s=08173b72823149cf67c6810d83ab2690",
+                "name": "Appleseed XIII"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10689,
+                "url": "https://myanimelist.net/anime/10689/Appleseed_XIII_Remix_Movie_1__Yuigon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64539.jpg?s=1460fe446699781189d066bbf1208a13",
+                "name": "Appleseed XIII Remix Movie 1: Yuigon"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10693,
+                "url": "https://myanimelist.net/anime/10693/Appleseed_XIII_Remix_Movie_2__Yogen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/37085.jpg?s=875e396c593e5fb55e52d7025d54e4fd",
+                "name": "Appleseed XIII Remix Movie 2: Yogen"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5168,
+                "url": "https://myanimelist.net/anime/5168/Asience__Kami_wa_Onna_no_Inochi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/10308.jpg?s=03fe3ae5c7c8f998bc17585d1fa66c5b",
+                "name": "Asience: Kami wa Onna no Inochi"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 32827,
+                "url": "https://myanimelist.net/anime/32827/B__The_Beginning",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg?s=2f9d27907b6a6ee5d1b59f8d42b7f58d",
+                "name": "B: The Beginning"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 39195,
+                "url": "https://myanimelist.net/anime/39195/Beastars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1234/102008.jpg?s=ed9512fc4960bd003effb562998d96b8",
+                "name": "Beastars"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2889,
+                "url": "https://myanimelist.net/anime/2889/Bleach_Movie_2__The_DiamondDust_Rebellion_-_Mou_Hitotsu_no_Hyourinmaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7499.jpg?s=0628d1a0a102f86ab92bc36de2b15701",
+                "name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4835,
+                "url": "https://myanimelist.net/anime/4835/Bleach_Movie_3__Fade_to_Black_-_Kimi_no_Na_wo_Yobu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64689.jpg?s=f0d9eefd5ee69c56ff6b3a867858cf3d",
+                "name": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 8247,
+                "url": "https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/26792.jpg?s=4912725a9feba1cdd3532c866f9febed",
+                "name": "Bleach Movie 4: Jigoku-hen"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10490,
+                "url": "https://myanimelist.net/anime/10490/Blood-C",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg?s=a9510442012a71bd55d7139bdd02a206",
+                "name": "Blood-C"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3962,
+                "url": "https://myanimelist.net/anime/3962/Chocolate_Underground",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/12400.jpg?s=ce5412a5827cc9de59332fdb1faee4dc",
+                "name": "Chocolate Underground"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5238,
+                "url": "https://myanimelist.net/anime/5238/Chocolate_Underground__Bokura_no_Chocolate_Sensou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1006/95712.jpg?s=4873929e85bced3decfba10e80f0231f",
+                "name": "Chocolate Underground: Bokura no Chocolate Sensou"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 15109,
+                "url": "https://myanimelist.net/anime/15109/Cuticle_Tantei_Inaba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73934.jpg?s=b84494355306a385c5b8aa2e6ccdd40d",
+                "name": "Cuticle Tantei Inaba"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 992,
+                "url": "https://myanimelist.net/anime/992/Dual_Parallel_Lun-Lun_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/31223.jpg?s=515ea6c797a92a06e39134d4b183c3f7",
+                "name": "Dual! Parallel Lun-Lun Monogatari"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5689,
+                "url": "https://myanimelist.net/anime/5689/Eien_no_Filena",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/11803.jpg?s=319e0e93c9edf689c9571168130ec88d",
+                "name": "Eien no Filena"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 1524,
+                "url": "https://myanimelist.net/anime/1524/Fuujin_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50349.jpg?s=50bf70d03f16c02e267b634e24c7154f",
+                "name": "Fuujin Monogatari"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 18465,
+                "url": "https://myanimelist.net/anime/18465/Genshiken_Nidaime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52935.jpg?s=f716b592f945e371595897d656b2f8e4",
+                "name": "Genshiken Nidaime"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19159,
+                "url": "https://myanimelist.net/anime/19159/Genshiken_Nidaime_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57145.jpg?s=03ca72cf2d63c83d104d75ae1edad22e",
+                "name": "Genshiken Nidaime OVA"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 31433,
+                "url": "https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1104/91793.jpg?s=49ddf19952a7433349514c21179467e2",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 36369,
+                "url": "https://myanimelist.net/anime/36369/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/102667.jpg?s=8aa299825381849011599f3d96023a2d",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 36370,
+                "url": "https://myanimelist.net/anime/36370/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1215/103351.jpg?s=fec3886a24effaa0b15d03b586576a31",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 36371,
+                "url": "https://myanimelist.net/anime/36371/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1782/103917.jpg?s=fdf0600b6b90ba8576250a2f1a35ee60",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 3"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 20583,
+                "url": "https://myanimelist.net/anime/20583/Haikyuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg?s=0d3a5a73ba1a8bfbf306277c6e511af6",
+                "name": "Haikyuu!!"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 40262,
+                "url": "https://myanimelist.net/anime/40262/Haikyuu__Riku_vs_Kuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1527/102671.jpg?s=6ef0bc4e60cd158548fe37b600022cf8",
+                "name": "Haikyuu!!: Riku vs. Kuu"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 38883,
+                "url": "https://myanimelist.net/anime/38883/Haikyuu__To_the_Top",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1813/105367.jpg?s=b3a78145e7e98066e8d8a195a113304b",
+                "name": "Haikyuu!!: To the Top"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5630,
+                "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/15033.jpg?s=96e6bb5bb7b5c214a4f320b762c53f9b",
+                "name": "Higashi no Eden"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6372,
+                "url": "https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19101.jpg?s=6c0e67ba47711eebc13a64d62f0d679e",
+                "name": "Higashi no Eden Movie I: The King of Eden"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6637,
+                "url": "https://myanimelist.net/anime/6637/Higashi_no_Eden_Movie_II__Paradise_Lost",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/26126.jpg?s=ca855a85a98d12be0fc6b160f69e37ff",
+                "name": "Higashi no Eden Movie II: Paradise Lost"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6927,
+                "url": "https://myanimelist.net/anime/6927/Higashi_no_Eden__Air_Communication",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17608.jpg?s=a8575ae02b6ff76055ffdca31e018b01",
+                "name": "Higashi no Eden: Air Communication"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 136,
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19473.jpg?s=ebc060a61ea40c597b642a84ee74a53c",
+                "name": "Hunter x Hunter"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3270,
+                "url": "https://myanimelist.net/anime/3270/IGPX__Immortal_Grand_Prix_2005",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/5176.jpg?s=e903d154ad1a4fa756d648c99348c63a",
+                "name": "IGPX: Immortal Grand Prix (2005)"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 1410,
+                "url": "https://myanimelist.net/anime/1410/IGPX__Immortal_Grand_Prix_2005_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21721.jpg?s=2dc1730aa0aa49d4e6b98c13a261c7d0",
+                "name": "IGPX: Immortal Grand Prix (2005) 2nd Season"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 31405,
+                "url": "https://myanimelist.net/anime/31405/Joker_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77523.jpg?s=2ebde1d4f3a41a9b4b6b30f665d4be82",
+                "name": "Joker Game"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 37965,
+                "url": "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1692/93918.jpg?s=a7be9374144b3778911d89472c48bbd7",
+                "name": "Kaze ga Tsuyoku Fuiteiru"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5420,
+                "url": "https://myanimelist.net/anime/5420/Kemono_no_Souja_Erin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/19845.jpg?s=aa013aaa39ba820c122f5d4d437bdfc7",
+                "name": "Kemono no Souja Erin"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 17187,
+                "url": "https://myanimelist.net/anime/17187/Koukaku_Kidoutai_Arise__Ghost_in_the_Shell_-_Border_1_Ghost_Pain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/46673.jpg?s=f235aea2c0f7b9f25cde45aba809071c",
+                "name": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19191,
+                "url": "https://myanimelist.net/anime/19191/Koukaku_Kidoutai_Arise__Ghost_in_the_Shell_-_Border_2_Ghost_Whispers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/52135.jpg?s=ff3834965ce598c54173e18b441a90de",
+                "name": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19193,
+                "url": "https://myanimelist.net/anime/19193/Koukaku_Kidoutai_Arise__Ghost_in_the_Shell_-_Border_3_Ghost_Tears",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56607.jpg?s=9cb91dffc385f39b387b7fa36849d005",
+                "name": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19195,
+                "url": "https://myanimelist.net/anime/19195/Koukaku_Kidoutai_Arise__Ghost_in_the_Shell_-_Border_4_Ghost_Stands_Alone",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/63993.jpg?s=b8f84458b9cde530e92b455797336755",
+                "name": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 1566,
+                "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg?s=9d7a4984f673b975f1684e506ec7d0bb",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2449,
+                "url": "https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21835.jpg?s=86e6580877381cba1b3842803fd7ac32",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 11771,
+                "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50453.jpg?s=74199f63ab9058c4ca3be9fcd9287b89",
+                "name": "Kuroko no Basket"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 16894,
+                "url": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56155.jpg?s=f4f37d5384cbfe064605373fd8231bc6",
+                "name": "Kuroko no Basket 2nd Season"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 24415,
+                "url": "https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/68299.jpg?s=5de31fd0bfa274ddb8b43eab4933300e",
+                "name": "Kuroko no Basket 3rd Season"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 1013,
+                "url": "https://myanimelist.net/anime/1013/Le_Chevalier_DEon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/74930.jpg?s=4bdede632860ebefefff95e2e3d3b152",
+                "name": "Le Chevalier D'Eon"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 7598,
+                "url": "https://myanimelist.net/anime/7598/Loups_Garous",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/26343.jpg?s=18d92ae47b44ca977e294d52756aaac6",
+                "name": "Loups=Garous"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19873,
+                "url": "https://myanimelist.net/anime/19873/Marude_Dameo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/52971.jpg?s=8954de6ad618a6014237dcde88968c26",
+                "name": "Marude Dameo"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2733,
+                "url": "https://myanimelist.net/anime/2733/MiniPato",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23501.jpg?s=6a11a314647e4ae1821cb5901fd83332",
+                "name": "MiniPato"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 5386,
+                "url": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15118.jpg?s=8296e72e871638bb184fbd6c3658ae07",
+                "name": "Miyamoto Musashi: Souken ni Haseru Yume"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10389,
+                "url": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg?s=e1590d14f74eeeeb060b81e1c77f7c4d",
+                "name": "Momo e no Tegami"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 9693,
+                "url": "https://myanimelist.net/anime/9693/Moshidora",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29166.jpg?s=5c78a43df9060506be86268aafc15e94",
+                "name": "Moshidora"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 16331,
+                "url": "https://myanimelist.net/anime/16331/Next_A-Class",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/44099.jpg?s=12046d83d7e1504ab57a597e699c4731",
+                "name": "Next A-Class"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 19831,
+                "url": "https://myanimelist.net/anime/19831/Ore_wa_Chokkaku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/52911.jpg?s=6867961973cbad0332420e1c87b167d7",
+                "name": "Ore wa Chokkaku"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4103,
+                "url": "https://myanimelist.net/anime/4103/Oval_x_Over",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/29979.jpg?s=418ad4b914d1fedde157c047ce420b17",
+                "name": "Oval x Over"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4890,
+                "url": "https://myanimelist.net/anime/4890/Peut-etre_Toi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/51697.jpg?s=2207a338125c68f36d25ed3fa4635305",
+                "name": "Peut-etre Toi"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 35848,
+                "url": "https://myanimelist.net/anime/35848/Promare",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1008/101845.jpg?s=b1bd2258074a18710a7fdfddb82cacc5",
+                "name": "Promare"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 13599,
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/42013.jpg?s=d1d2afaef55ee28ef57f194903787316",
+                "name": "Robotics;Notes"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 608,
+                "url": "https://myanimelist.net/anime/608/Sakura_Taisen__Katsudou_Shashin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/20234.jpg?s=704f4aae985eed1dc0314c3b247ddf4f",
+                "name": "Sakura Taisen: Katsudou Shashin"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 818,
+                "url": "https://myanimelist.net/anime/818/Sakura_Tsuushin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/74961.jpg?s=7225effc19d32e9743119a7d84f598d3",
+                "name": "Sakura Tsuushin"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 1827,
+                "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg?s=a47347ac69684d95630653b00a90facc",
+                "name": "Seirei no Moribito"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 12367,
+                "url": "https://myanimelist.net/anime/12367/Shining_Hearts__Shiawase_no_Pan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/38329.jpg?s=ceb8737883f363e5032ae70a87919a75",
+                "name": "Shining Hearts: Shiawase no Pan"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 8337,
+                "url": "https://myanimelist.net/anime/8337/Shoka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/21936.jpg?s=0466759718bf2a1c81c79999303a438e",
+                "name": "Shoka"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6046,
+                "url": "https://myanimelist.net/anime/6046/Tales_of_Vesperia__The_First_Strike",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/16680.jpg?s=f51e25dfa8065a7a9d6b5812c8992aff",
+                "name": "Tales of Vesperia: The First Strike"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10502,
+                "url": "https://myanimelist.net/anime/10502/Tansu_Warashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1053/103696.jpg?s=7955a4abc4683d4f37ab366fb647f755",
+                "name": "Tansu Warashi."
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=3c34e61559518b54fbfff73c7ee5ad76",
+                "name": "Tengen Toppa Gurren Lagann"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4107,
+                "url": "https://myanimelist.net/anime/4107/Tengen_Toppa_Gurren_Lagann_Movie_1__Gurren-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/11373.jpg?s=69230117ff01a0924951e7db8af69f68",
+                "name": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4565,
+                "url": "https://myanimelist.net/anime/4565/Tengen_Toppa_Gurren_Lagann_Movie_2__Lagann-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19698.jpg?s=f3aa8f06eada2d05bdb406a1c0d1a49e",
+                "name": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10622,
+                "url": "https://myanimelist.net/anime/10622/Tengen_Toppa_Gurren_Lagann__Ore_no_Gurren_wa_Pikka-Pika",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/29189.jpg?s=e38cb2dbb0911591bc82a3e94cea0f80",
+                "name": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 815,
+                "url": "https://myanimelist.net/anime/815/Tennis_no_Ouji-sama_Movie_1__Futari_no_Samurai_-_The_First_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/3945.jpg?s=0c1e0f393ea3d04a78d0eed7d30f02bf",
+                "name": "Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3089,
+                "url": "https://myanimelist.net/anime/3089/The_Sky_Crawlers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/8212.jpg?s=36ad4ce6f72f52535992a1da09b34e75",
+                "name": "The Sky Crawlers"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 687,
+                "url": "https://myanimelist.net/anime/687/Tokyo_Mew_Mew",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/89298.jpg?s=6fb373a06a281a09d84541291b0d536a",
+                "name": "Tokyo Mew Mew"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3613,
+                "url": "https://myanimelist.net/anime/3613/Toshokan_Sensou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/79595.jpg?s=7722978e032b7fec8a86217c8cd77d07",
+                "name": "Toshokan Sensou"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 11001,
+                "url": "https://myanimelist.net/anime/11001/Toshokan_Sensou__Kakumei_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/39273.jpg?s=c5175e5bd77dfbfb96eeb3e50331cd96",
+                "name": "Toshokan Sensou: Kakumei no Tsubasa"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2129,
+                "url": "https://myanimelist.net/anime/2129/True_Tears",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18578.jpg?s=b4b810b2771f3a1cbc89830a91f8869e",
+                "name": "True Tears"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4938,
+                "url": "https://myanimelist.net/anime/4938/Tsubasa__Shunraiki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/33841.jpg?s=79b8d170b259b4b94b67ada7bf01894e",
+                "name": "Tsubasa: Shunraiki"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10162,
+                "url": "https://myanimelist.net/anime/10162/Usagi_Drop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29665.jpg?s=a3f91a59edf1df88496a4fa039043630",
+                "name": "Usagi Drop"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3290,
+                "url": "https://myanimelist.net/anime/3290/Vampiyan_Kids",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22088.jpg?s=4b4a9793e24f0ad63f04eb4294491812",
+                "name": "Vampiyan Kids"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 15933,
+                "url": "https://myanimelist.net/anime/15933/Vassalord",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/43213.jpg?s=026be47cec7a1dc1e11ae238d2bc270a",
+                "name": "Vassalord."
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 13171,
+                "url": "https://myanimelist.net/anime/13171/Wasurenagumo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38877.jpg?s=d28ebe0638d9da5106c687a8d00d699d",
+                "name": "Wasurenagumo"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 2032,
+                "url": "https://myanimelist.net/anime/2032/Wellber_no_Monogatari__Sisters_of_Wellber",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23585.jpg?s=edbf0f9c017feea533b9b4470cdb2f86",
+                "name": "Wellber no Monogatari: Sisters of Wellber"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3501,
+                "url": "https://myanimelist.net/anime/3501/Wellber_no_Monogatari__Sisters_of_Wellber_Zwei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/5961.jpg?s=49cadaa0d1a580940e991c4e557eaa7e",
+                "name": "Wellber no Monogatari: Sisters of Wellber Zwei"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4415,
+                "url": "https://myanimelist.net/anime/4415/World_Destruction__Sekai_Bokumetsu_no_Rokunin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/30347.jpg?s=fbb73ba364328fe66db9d32a9fe42026",
+                "name": "World Destruction: Sekai Bokumetsu no Rokunin"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 3091,
+                "url": "https://myanimelist.net/anime/3091/xxxHOLiC_Kei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/8626.jpg?s=72ae13ec716932038d279543bc535c08",
+                "name": "xxxHOLiC Kei"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 6864,
+                "url": "https://myanimelist.net/anime/6864/xxxHOLiC_Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/25080.jpg?s=7abecf7293f0fa08f4dceb4dc85c007f",
+                "name": "xxxHOLiC Rou"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 4918,
+                "url": "https://myanimelist.net/anime/4918/xxxHOLiC_Shunmuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/25079.jpg?s=6a890d404a74f52a188656dcbb076110",
+                "name": "xxxHOLiC Shunmuki"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 7762,
+                "url": "https://myanimelist.net/anime/7762/Yondemasu_yo_Azazel-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/24619.jpg?s=61180bd6988a87fa25106514cdac45e2",
+                "name": "Yondemasu yo, Azazel-san."
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 10216,
+                "url": "https://myanimelist.net/anime/10216/Yondemasu_yo_Azazel-san_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75284.jpg?s=6f94e6518754f45cf99e9d6d0434e809",
+                "name": "Yondemasu yo, Azazel-san. (TV)"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 16241,
+                "url": "https://myanimelist.net/anime/16241/Yondemasu_yo_Azazel-san_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/48957.jpg?s=e326a901b1f111fb81045f592bf54aab",
+                "name": "Yondemasu yo, Azazel-san. Z"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 882,
+                "url": "https://myanimelist.net/anime/882/Yuu☆Yuu☆Hakusho_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1023/90757.jpg?s=08bf55ae13f22f6059af0882adad57f6",
+                "name": "Yuu☆Yuu☆Hakusho (Movie)"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 40911,
+                "url": "https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg?s=09ee7dd3ce425afbf486cc78f7643a28",
+                "name": "Yuukoku no Moriarty"
+            }
+        },
+        {
+            "position": "Editing",
+            "anime": {
+                "mal_id": 712,
+                "url": "https://myanimelist.net/anime/712/Zoids_Genesis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1906/109746.jpg?s=bb0050019a4a689860807b311de41567",
+                "name": "Zoids Genesis"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "mal_id": 43177,
+    "url": "https://myanimelist.net/people/43177/Hitomi_Fukuzawa",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Hitomi Fukuzawa",
+    "given_name": "瞳",
+    "family_name": "福澤",
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Special Effects",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            }
+        },
+        {
+            "position": "Director of Photography",
+            "anime": {
+                "mal_id": 32281,
+                "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/87048.jpg?s=6ebb7e1e48060a76c1a9d883a1ce66c4",
+                "name": "Kimi no Na wa."
+            }
+        },
+        {
+            "position": "Director of Photography",
+            "anime": {
+                "mal_id": 23133,
+                "url": "https://myanimelist.net/anime/23133/M3__Sono_Kuroki_Hagane",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/60273.jpg?s=f0d5dcf53d301670a11929a603f6d8da",
+                "name": "M3: Sono Kuroki Hagane"
+            }
+        }
+    ]
+}

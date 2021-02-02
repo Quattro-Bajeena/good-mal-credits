@@ -1,0 +1,44 @@
+{
+    "mal_id": 33094,
+    "url": "https://myanimelist.net/anime/33094/WWWWorking",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/82287.jpg",
+    "title": "WWW.Working!!",
+    "title_english": "WWW.WAGNARIA!!",
+    "title_japanese": "WWW.WORKING!!",
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-01T00:00:00+00:00",
+        "to": "2016-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 1, 2016 to Dec 24, 2016"
+    },
+    "score": 7.45,
+    "scored_by": 58198,
+    "rank": 1759,
+    "popularity": 1181,
+    "members": 123150,
+    "favorites": 292,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

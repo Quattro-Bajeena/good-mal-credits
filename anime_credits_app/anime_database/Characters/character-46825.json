@@ -1,0 +1,71 @@
+{
+    "mal_id": 46825,
+    "url": "https://myanimelist.net/character/46825/Hakuei_Ren",
+    "name": "Hakuei Ren",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 56,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/185451.jpg",
+    "animeography": [
+        {
+            "mal_id": 14513,
+            "name": "Magi: The Labyrinth of Magic",
+            "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=571badda4aa94848365b2f3c93466e84",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 18115,
+            "name": "Magi: The Kingdom of Magic",
+            "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg?s=fc8a53f15368b76398b15dbc3734c673",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 14790,
+            "name": "Magi",
+            "url": "https://myanimelist.net/manga/14790/Magi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/201605.jpg?s=e94b7998178e77d5ea13ec1021e24d80",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 537,
+            "name": "Elias-Fahn, Dorothy",
+            "url": "https://myanimelist.net/people/537/Dorothy_Elias-Fahn",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/14367.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14851,
+            "name": "Bae, Jeong Mi",
+            "url": "https://myanimelist.net/people/14851/Jeong_Mi_Bae",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15423.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 26965,
+            "name": "Planet, Sophie",
+            "url": "https://myanimelist.net/people/26965/Sophie_Planet",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28895.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 42474,
+            "name": "Karas, Milena",
+            "url": "https://myanimelist.net/people/42474/Milena_Karas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46165.jpg",
+            "language": "German"
+        }
+    ]
+}

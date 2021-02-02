@@ -1,0 +1,44 @@
+{
+    "mal_id": 4551,
+    "url": "https://myanimelist.net/anime/4551/Hakushaku_to_Yousei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/21898.jpg",
+    "title": "Hakushaku to Yousei",
+    "title_english": "Earl and Fairy",
+    "title_japanese": "伯爵と妖精",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-09-29T00:00:00+00:00",
+        "to": "2008-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 9,
+                "year": 2008
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Sep 29, 2008 to Dec 24, 2008"
+    },
+    "score": 7.28,
+    "scored_by": 45856,
+    "rank": 2453,
+    "popularity": 1357,
+    "members": 101983,
+    "favorites": 618,
+    "premiered": "Fall 2008",
+    "studios": [
+        {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Artland",
+            "url": "https://myanimelist.net/anime/producer/8/Artland"
+        }
+    ]
+}

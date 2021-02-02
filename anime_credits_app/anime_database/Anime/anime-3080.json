@@ -1,0 +1,44 @@
+{
+    "mal_id": 3080,
+    "url": "https://myanimelist.net/anime/3080/Anime_Tenchou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/4635.jpg",
+    "title": "Anime Tenchou",
+    "title_english": "Animation Store Manager",
+    "title_japanese": "アニメ店長",
+    "type": "OVA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-08-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 19, 2002"
+    },
+    "score": 6.05,
+    "scored_by": 4747,
+    "rank": 7993,
+    "popularity": 5025,
+    "members": 9289,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

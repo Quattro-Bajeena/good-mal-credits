@@ -1,0 +1,44 @@
+{
+    "mal_id": 1138,
+    "url": "https://myanimelist.net/anime/1138/Medarot",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/46699.jpg",
+    "title": "Medarot",
+    "title_english": "Medabots",
+    "title_japanese": "メダロット",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-07-02T00:00:00+00:00",
+        "to": "2000-06-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 1999
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2000
+            }
+        },
+        "string": "Jul 2, 1999 to Jun 30, 2000"
+    },
+    "score": 7.07,
+    "scored_by": 26041,
+    "rank": 3358,
+    "popularity": 2309,
+    "members": 47521,
+    "favorites": 228,
+    "premiered": "Summer 1999",
+    "studios": [
+        {
+            "mal_id": 5,
+            "type": "anime",
+            "name": "Bee Train",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ]
+}

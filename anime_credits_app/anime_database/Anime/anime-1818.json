@@ -1,0 +1,44 @@
+{
+    "mal_id": 1818,
+    "url": "https://myanimelist.net/anime/1818/Claymore",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+    "title": "Claymore",
+    "title_english": "Claymore",
+    "title_japanese": "クレイモア",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-04T00:00:00+00:00",
+        "to": "2007-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2007
+            }
+        },
+        "string": "Apr 4, 2007 to Sep 26, 2007"
+    },
+    "score": 7.78,
+    "scored_by": 260815,
+    "rank": 863,
+    "popularity": 206,
+    "members": 538136,
+    "favorites": 8115,
+    "premiered": "Spring 2007",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

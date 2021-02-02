@@ -1,0 +1,44 @@
+{
+    "mal_id": 474,
+    "url": "https://myanimelist.net/anime/474/Macross_Plus",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/22779.jpg",
+    "title": "Macross Plus",
+    "title_english": null,
+    "title_japanese": "マクロスプラス",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-08-25T00:00:00+00:00",
+        "to": "1995-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 1994
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 1995
+            }
+        },
+        "string": "Aug 25, 1994 to Jun 25, 1995"
+    },
+    "score": 7.72,
+    "scored_by": 18212,
+    "rank": 993,
+    "popularity": 2625,
+    "members": 37438,
+    "favorites": 386,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 110,
+            "type": "anime",
+            "name": "Triangle Staff",
+            "url": "https://myanimelist.net/anime/producer/110/Triangle_Staff"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 6205,
+    "url": "https://myanimelist.net/anime/6205/Kämpfer",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/35423.jpg",
+    "title": "Kämpfer",
+    "title_english": "Kämpfer",
+    "title_japanese": "けんぷファー",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-02T00:00:00+00:00",
+        "to": "2009-12-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 2, 2009 to Dec 18, 2009"
+    },
+    "score": 6.46,
+    "scored_by": 120763,
+    "rank": 6118,
+    "popularity": 604,
+    "members": 235286,
+    "favorites": 804,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 70,
+            "type": "anime",
+            "name": "Nomad",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ]
+}

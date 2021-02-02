@@ -1,0 +1,78 @@
+{
+    "mal_id": 7258,
+    "url": "https://myanimelist.net/character/7258/Touma_Minami",
+    "name": "Touma Minami",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 55,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/268613.jpg",
+    "animeography": [
+        {
+            "mal_id": 2963,
+            "name": "Minami-ke",
+            "url": "https://myanimelist.net/anime/2963/Minami-ke",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/75279.jpg?s=c706da6343b688a1e036b7c61e1e57b3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3225,
+            "name": "Minami-ke Okawari",
+            "url": "https://myanimelist.net/anime/3225/Minami-ke_Okawari",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/73556.jpg?s=13a8ffc067e760341aaa270484513a4d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5162,
+            "name": "Minami-ke Okaeri",
+            "url": "https://myanimelist.net/anime/5162/Minami-ke_Okaeri",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/11458.jpg?s=6588f24ddfe90541c9ef0ee96e596614",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5713,
+            "name": "Minami-ke Betsubara",
+            "url": "https://myanimelist.net/anime/5713/Minami-ke_Betsubara",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/25454.jpg?s=5bfcc1be0961855f8382a8338b5fd3ba",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14511,
+            "name": "Minami-ke Tadaima",
+            "url": "https://myanimelist.net/anime/14511/Minami-ke_Tadaima",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/53133.jpg?s=9ced8755df8ef2492f0fb4bd92569046",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14575,
+            "name": "Minami-ke Omatase",
+            "url": "https://myanimelist.net/anime/14575/Minami-ke_Omatase",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/53131.jpg?s=4b1cc45ab2fd691e9f061455e6a37f2d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 20221,
+            "name": "Minami-ke Natsuyasumi",
+            "url": "https://myanimelist.net/anime/20221/Minami-ke_Natsuyasumi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/64505.jpg?s=d09ea86654a54f37a014e93d6e2b322b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 2629,
+            "name": "Minami-ke",
+            "url": "https://myanimelist.net/manga/2629/Minami-ke",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/53005.jpg?s=b8890eff02190fe624637c009f0607cd",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "mal_id": 134772,
+    "url": "https://myanimelist.net/character/134772/Yumeko_Tachibana",
+    "name": "Yumeko Tachibana",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 12,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/305736.jpg",
+    "animeography": [
+        {
+            "mal_id": 31952,
+            "name": "Kono Bijutsubu ni wa Mondai ga Aru!",
+            "url": "https://myanimelist.net/anime/31952/Kono_Bijutsubu_ni_wa_Mondai_ga_Aru",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/80688.jpg?s=862446f6e7bc5eae7e0b3b0a781f8781",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 50331,
+            "name": "Kono Bijutsubu ni wa Mondai ga Aru!",
+            "url": "https://myanimelist.net/manga/50331/Kono_Bijutsubu_ni_wa_Mondai_ga_Aru",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166160.jpg?s=681a9feb24e765615a7f3edeeb2c9126",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

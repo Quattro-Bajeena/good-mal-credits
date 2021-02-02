@@ -1,0 +1,43 @@
+{
+    "mal_id": 7655,
+    "url": "https://myanimelist.net/character/7655/Eimu_Yoake",
+    "name": "Eimu Yoake",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 12,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/50526.jpg",
+    "animeography": [
+        {
+            "mal_id": 3166,
+            "name": "Ayakashi",
+            "url": "https://myanimelist.net/anime/3166/Ayakashi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/20942.jpg?s=1a5d79c799669f9ca33d4e8f1561e93c",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 7332,
+            "name": "Ayakashi",
+            "url": "https://myanimelist.net/manga/7332/Ayakashi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/9955.jpg?s=5511eae3a337c8d3ea9dc414d852d32b",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14755,
+            "name": "Yang, Jeong Hwa",
+            "url": "https://myanimelist.net/people/14755/Jeong_Hwa_Yang",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15305.jpg",
+            "language": "Korean"
+        }
+    ]
+}

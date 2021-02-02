@@ -1,0 +1,92 @@
+{
+    "mal_id": 41966,
+    "url": "https://myanimelist.net/character/41966/Saya_Kisaragi",
+    "name": "Saya Kisaragi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 689,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/121715.jpg",
+    "animeography": [
+        {
+            "mal_id": 10490,
+            "name": "Blood-C",
+            "url": "https://myanimelist.net/anime/10490/Blood-C",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg?s=5d27c09501b78b5fa8bacc2dcc298870",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10681,
+            "name": "Blood-C: The Last Dark",
+            "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg?s=f60856d9d3cd40f11eab3b310e35ea64",
+            "role": "Main"
+        },
+        {
+            "mal_id": 14117,
+            "name": "Blood-C: Special Edition",
+            "url": "https://myanimelist.net/anime/14117/Blood-C__Special_Edition",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/39001.jpg?s=6295a9e3f439301d03f0dc5d814568e0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 26182,
+            "name": "Blood-C",
+            "url": "https://myanimelist.net/manga/26182/Blood-C",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173357.jpg?s=5e022b7b6add7d3ca7b0014b96a70420",
+            "role": "Main"
+        },
+        {
+            "mal_id": 30831,
+            "name": "Blood-C: Izayoi Kitan",
+            "url": "https://myanimelist.net/manga/30831/Blood-C__Izayoi_Kitan",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/169859.jpg?s=fd2c37802ae2eabc354b20861455dbd7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37473,
+            "name": "Blood-C: The Last Dark",
+            "url": "https://myanimelist.net/manga/37473/Blood-C__The_Last_Dark",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/67363.jpg?s=2756e64f55ea01dda3300d394eb4127c",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9091,
+            "name": "Tipton, Alexis",
+            "url": "https://myanimelist.net/people/9091/Alexis_Tipton",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/30851.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14769,
+            "name": "Yeo, Min Jeong",
+            "url": "https://myanimelist.net/people/14769/Min_Jeong_Yeo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15317.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 21669,
+            "name": "Calvell, Carmen",
+            "url": "https://myanimelist.net/people/21669/Carmen_Calvell",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/24881.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 44216,
+            "name": "Braun, Lisa",
+            "url": "https://myanimelist.net/people/44216/Lisa_Braun",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47675.jpg",
+            "language": "German"
+        }
+    ]
+}

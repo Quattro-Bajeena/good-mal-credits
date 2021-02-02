@@ -1,0 +1,44 @@
+{
+    "mal_id": 192,
+    "url": "https://myanimelist.net/anime/192/Love_Hina_Haru_Special__Kimi_Sakura_Chiru_Nakare",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/82632.jpg",
+    "title": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+    "title_english": "Love Hina Spring Movie",
+    "title_japanese": "ラブひな春スペシャル 〜キミサクラチルナカレ!!〜",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 2, 2001"
+    },
+    "score": 7.21,
+    "scored_by": 29598,
+    "rank": 2735,
+    "popularity": 2289,
+    "members": 48097,
+    "favorites": 23,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

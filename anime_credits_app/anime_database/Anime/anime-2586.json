@@ -1,0 +1,44 @@
+{
+    "mal_id": 2586,
+    "url": "https://myanimelist.net/anime/2586/Soukou_Kihei_Votoms__Kakuyaku_taru_Itan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1212/94628.jpg",
+    "title": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+    "title_english": null,
+    "title_japanese": "装甲騎兵ボトムズ 赫奕たる異端",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-03-21T00:00:00+00:00",
+        "to": "1994-11-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 3,
+                "year": 1994
+            },
+            "to": {
+                "day": 21,
+                "month": 11,
+                "year": 1994
+            }
+        },
+        "string": "Mar 21, 1994 to Nov 21, 1994"
+    },
+    "score": 6.96,
+    "scored_by": 1188,
+    "rank": 3763,
+    "popularity": 7899,
+    "members": 2867,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

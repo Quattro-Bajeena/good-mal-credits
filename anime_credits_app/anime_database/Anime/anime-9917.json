@@ -1,0 +1,56 @@
+{
+    "mal_id": 9917,
+    "url": "https://myanimelist.net/anime/9917/Pokemon_Movie_14_White__Victini_to_Kuroki_Eiyuu_Zekrom",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/29620.jpg",
+    "title": "Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom",
+    "title_english": "Pokemon the Movie: White - Victini and Zekrom",
+    "title_japanese": "ポケットモンスター ベストウィッシュ 「ビクティニと黒き英雄」",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 2011"
+    },
+    "score": 6.64,
+    "scored_by": 22530,
+    "rank": 5170,
+    "popularity": 2561,
+    "members": 39125,
+    "favorites": 10,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        },
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

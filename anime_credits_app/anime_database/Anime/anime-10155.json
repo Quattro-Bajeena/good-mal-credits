@@ -1,0 +1,44 @@
+{
+    "mal_id": 10155,
+    "url": "https://myanimelist.net/anime/10155/Dog_Days",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75378.jpg",
+    "title": "Dog Days",
+    "title_english": null,
+    "title_japanese": "ドッグデイズ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-02T00:00:00+00:00",
+        "to": "2011-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 2, 2011 to Jun 25, 2011"
+    },
+    "score": 6.97,
+    "scored_by": 72671,
+    "rank": 3734,
+    "popularity": 896,
+    "members": 162738,
+    "favorites": 603,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 35,
+            "type": "anime",
+            "name": "Seven Arcs",
+            "url": "https://myanimelist.net/anime/producer/35/Seven_Arcs"
+        }
+    ]
+}

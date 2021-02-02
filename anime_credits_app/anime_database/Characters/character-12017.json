@@ -1,0 +1,49 @@
+{
+    "mal_id": 12017,
+    "url": "https://myanimelist.net/character/12017/Lucy_Liberty",
+    "name": "Lucy Liberty",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/274815.jpg",
+    "animeography": [
+        {
+            "mal_id": 3101,
+            "name": "F-Zero: Falcon Densetsu",
+            "url": "https://myanimelist.net/anime/3101/F-Zero__Falcon_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1569/95419.jpg?s=537d25d943f76c9d203895efb4c6fb1b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 788,
+            "name": "Lee, Yong Sin",
+            "url": "https://myanimelist.net/people/788/Yong_Sin_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15841.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 7478,
+            "name": "Birnbaum, Amy",
+            "url": "https://myanimelist.net/people/7478/Amy_Birnbaum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41853.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43375,
+            "name": "Ciccorelli, Deborah",
+            "url": "https://myanimelist.net/people/43375/Deborah_Ciccorelli",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

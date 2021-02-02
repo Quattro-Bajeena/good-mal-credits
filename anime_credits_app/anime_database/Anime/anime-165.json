@@ -1,0 +1,44 @@
+{
+    "mal_id": 165,
+    "url": "https://myanimelist.net/anime/165/RahXephon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg",
+    "title": "RahXephon",
+    "title_english": "RahXephon",
+    "title_japanese": "ラーゼフォン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-01-21T00:00:00+00:00",
+        "to": "2002-09-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 11,
+                "month": 9,
+                "year": 2002
+            }
+        },
+        "string": "Jan 21, 2002 to Sep 11, 2002"
+    },
+    "score": 7.42,
+    "scored_by": 36406,
+    "rank": 1826,
+    "popularity": 1386,
+    "members": 99676,
+    "favorites": 945,
+    "premiered": "Winter 2002",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

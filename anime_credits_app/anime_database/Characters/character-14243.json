@@ -1,0 +1,49 @@
+{
+    "mal_id": 14243,
+    "url": "https://myanimelist.net/character/14243/Sayaka_Mizushiro",
+    "name": "Sayaka Mizushiro",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/66320.jpg",
+    "animeography": [
+        {
+            "mal_id": 349,
+            "name": "Magical Canan",
+            "url": "https://myanimelist.net/anime/349/Magical_Canan",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75560.jpg?s=a64653c80fb15c7f3074637a12f6cb4f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3301,
+            "name": "Septem Charm Magical Kanan",
+            "url": "https://myanimelist.net/anime/3301/Septem_Charm_Magical_Kanan",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/22146.jpg?s=c03c8fab9d10fd5c47d2c0e5260474ef",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 910,
+            "name": "Hitomi",
+            "url": "https://myanimelist.net/people/910/Hitomi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6410.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14773,
+            "name": "Wu, Jeong Sin",
+            "url": "https://myanimelist.net/people/14773/Jeong_Sin_Wu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15321.jpg",
+            "language": "Korean"
+        }
+    ]
+}

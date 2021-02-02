@@ -1,0 +1,44 @@
+{
+    "mal_id": 434,
+    "url": "https://myanimelist.net/anime/434/Legend_of_Lemnear__Kyokuguro_no_Tsubasa_Valkisas",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/26903.jpg",
+    "title": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+    "title_english": "Legend of Lemnear",
+    "title_japanese": "Legend of Lemnear 極黒の翼 バルキサス",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-07-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 25, 1989"
+    },
+    "score": 5.56,
+    "scored_by": 2793,
+    "rank": 9498,
+    "popularity": 6034,
+    "members": 5858,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

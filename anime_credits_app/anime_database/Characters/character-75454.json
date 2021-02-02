@@ -1,0 +1,99 @@
+{
+    "mal_id": 75454,
+    "url": "https://myanimelist.net/character/75454/Jirou_Horikoshi",
+    "name": "Jirou Horikoshi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 247,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/212495.jpg",
+    "animeography": [
+        {
+            "mal_id": 16662,
+            "name": "Kaze Tachinu",
+            "url": "https://myanimelist.net/anime/16662/Kaze_Tachinu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/52353.jpg?s=47177f8478f52518cf837ca568179fd0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 46318,
+            "name": "Kaze Tachinu: Miyazaki Hayao no Mousou Comeback",
+            "url": "https://myanimelist.net/manga/46318/Kaze_Tachinu__Miyazaki_Hayao_no_Mousou_Comeback",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165109.jpg?s=9e74f93162932d4e9ba78d739430aca1",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1423,
+            "name": "Campos, Marcelo",
+            "url": "https://myanimelist.net/people/1423/Marcelo_Campos",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/60760.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 5111,
+            "name": "Anno, Hideaki",
+            "url": "https://myanimelist.net/people/5111/Hideaki_Anno",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54280.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5120,
+            "name": "Knauer, Tim",
+            "url": "https://myanimelist.net/people/5120/Tim_Knauer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/1921.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 7145,
+            "name": "Coltorti, Emiliano",
+            "url": "https://myanimelist.net/people/7145/Emiliano_Coltorti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/4037.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 11472,
+            "name": "Kaburagi, Kaichi",
+            "url": "https://myanimelist.net/people/11472/Kaichi_Kaburagi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28149.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 16673,
+            "name": "Campuzano, Manuel",
+            "url": "https://myanimelist.net/people/16673/Manuel_Campuzano",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/19259.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 26581,
+            "name": "Domingo, Paolo",
+            "url": "https://myanimelist.net/people/26581/Paolo_Domingo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28737.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 28089,
+            "name": "Gordon-Levitt, Joseph",
+            "url": "https://myanimelist.net/people/28089/Joseph_Gordon-Levitt",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/29701.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43996,
+            "name": "Takahashi, Vinny",
+            "url": "https://myanimelist.net/people/43996/Vinny_Takahashi",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 44068,
+            "name": "Suarez, Riccardo",
+            "url": "https://myanimelist.net/people/44068/Riccardo_Suarez",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

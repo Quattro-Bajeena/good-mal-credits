@@ -1,0 +1,44 @@
+{
+    "mal_id": 8792,
+    "url": "https://myanimelist.net/anime/8792/Madobe_Nanami_no_Windows_7_de_PC_Jisaku_Ouen_Commercial",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/24272.jpg",
+    "title": "Madobe Nanami no Windows 7 de PC Jisaku Ouen Commercial!!",
+    "title_english": null,
+    "title_japanese": "窓辺ななみのWindows 7でPC自作応援コマーシャルっ!!",
+    "type": "OVA",
+    "source": "Other",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-05-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 9, 2010"
+    },
+    "score": 6.2,
+    "scored_by": 5409,
+    "rank": 7354,
+    "popularity": 5150,
+    "members": 8702,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1067,
+            "type": "anime",
+            "name": "Rising Force",
+            "url": "https://myanimelist.net/anime/producer/1067/Rising_Force"
+        }
+    ]
+}

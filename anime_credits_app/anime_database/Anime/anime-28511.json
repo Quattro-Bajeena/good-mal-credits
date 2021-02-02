@@ -1,0 +1,44 @@
+{
+    "mal_id": 28511,
+    "url": "https://myanimelist.net/anime/28511/Precure_All_Stars_Movie__Haru_no_Carnival♪",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/68833.jpg",
+    "title": "Precure All Stars Movie: Haru no Carnival♪",
+    "title_english": null,
+    "title_japanese": "映画プリキュアオールスターズ　春のカーニバル♪",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-03-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 14, 2015"
+    },
+    "score": 6.41,
+    "scored_by": 1005,
+    "rank": 6369,
+    "popularity": 8273,
+    "members": 2467,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

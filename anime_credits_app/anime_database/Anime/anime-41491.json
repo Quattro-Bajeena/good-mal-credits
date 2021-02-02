@@ -1,0 +1,44 @@
+{
+    "mal_id": 41491,
+    "url": "https://myanimelist.net/anime/41491/Nanatsu_no_Taizai__Fundo_no_Shinpan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1320/111366.jpg",
+    "title": "Nanatsu no Taizai: Fundo no Shinpan",
+    "title_english": "The Seven Deadly Sins: Dragon's Judgement",
+    "title_japanese": "七つの大罪 憤怒の審判",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "2021-01-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 13, 2021 to ?"
+    },
+    "score": 7.25,
+    "scored_by": 12732,
+    "rank": 2585,
+    "popularity": 1136,
+    "members": 128032,
+    "favorites": 883,
+    "premiered": "Winter 2021",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

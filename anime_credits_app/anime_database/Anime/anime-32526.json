@@ -1,0 +1,44 @@
+{
+    "mal_id": 32526,
+    "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.jpg",
+    "title": "Love Live! Sunshine!!",
+    "title_english": "Love Live! Sunshine!!",
+    "title_japanese": "ラブライブ！サンシャイン!!",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-07-02T00:00:00+00:00",
+        "to": "2016-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 2, 2016 to Sep 24, 2016"
+    },
+    "score": 7.4,
+    "scored_by": 66356,
+    "rank": 1925,
+    "popularity": 1055,
+    "members": 138783,
+    "favorites": 2863,
+    "premiered": "Summer 2016",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

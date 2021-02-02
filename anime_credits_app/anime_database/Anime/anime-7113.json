@@ -1,0 +1,44 @@
+{
+    "mal_id": 7113,
+    "url": "https://myanimelist.net/anime/7113/30th_Gundam_Perfect_Mission",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/63385.jpg",
+    "title": "30th Gundam Perfect Mission",
+    "title_english": null,
+    "title_japanese": "30th GUNDAM PERFECT MISSION",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-08-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 25, 2009"
+    },
+    "score": 6.87,
+    "scored_by": 2936,
+    "rank": 4134,
+    "popularity": 6009,
+    "members": 5939,
+    "favorites": 13,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

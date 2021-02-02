@@ -1,0 +1,44 @@
+{
+    "mal_id": 14511,
+    "url": "https://myanimelist.net/anime/14511/Minami-ke_Tadaima",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/53133.jpg",
+    "title": "Minami-ke Tadaima",
+    "title_english": null,
+    "title_japanese": "みなみけ ただいま",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-01-06T00:00:00+00:00",
+        "to": "2013-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 6, 2013 to Mar 31, 2013"
+    },
+    "score": 7.69,
+    "scored_by": 21660,
+    "rank": 1063,
+    "popularity": 2272,
+    "members": 48856,
+    "favorites": 68,
+    "premiered": "Winter 2013",
+    "studios": [
+        {
+            "mal_id": 91,
+            "type": "anime",
+            "name": "feel.",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 31631,
+    "url": "https://myanimelist.net/anime/31631/Monster_Hunter_Stories__Ride_On",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76232.jpg",
+    "title": "Monster Hunter Stories: Ride On",
+    "title_english": "Monster Hunter Stories: Ride On",
+    "title_japanese": "モンスターハンターストーリーズ RIDE ON",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 75,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-02T00:00:00+00:00",
+        "to": "2018-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2018
+            }
+        },
+        "string": "Oct 2, 2016 to Apr 1, 2018"
+    },
+    "score": 6.22,
+    "scored_by": 1500,
+    "rank": 7268,
+    "popularity": 4358,
+    "members": 13176,
+    "favorites": 27,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 287,
+            "type": "anime",
+            "name": "David Production",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ]
+}

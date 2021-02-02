@@ -1,0 +1,37 @@
+{
+    "mal_id": 6917,
+    "url": "https://myanimelist.net/anime/6917/Tsuideni_Tonchinkan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/16045.jpg",
+    "title": "Tsuideni Tonchinkan",
+    "title_english": "Anyway, It Doesn't Matter",
+    "title_japanese": "ついでにとんちんかん",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 43,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-10-10T00:00:00+00:00",
+        "to": "1988-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 1987
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 1988
+            }
+        },
+        "string": "Oct 10, 1987 to Oct 1, 1988"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12563,
+    "popularity": 11964,
+    "members": 522,
+    "favorites": 3,
+    "premiered": "Fall 1987",
+    "studios": []
+}

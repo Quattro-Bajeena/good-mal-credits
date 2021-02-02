@@ -1,0 +1,44 @@
+{
+    "mal_id": 5356,
+    "url": "https://myanimelist.net/anime/5356/Canaan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75789.jpg",
+    "title": "Canaan",
+    "title_english": "Canaan",
+    "title_japanese": "CANAAN",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-07-04T00:00:00+00:00",
+        "to": "2009-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2009
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Jul 4, 2009 to Sep 26, 2009"
+    },
+    "score": 7.27,
+    "scored_by": 73064,
+    "rank": 2468,
+    "popularity": 789,
+    "members": 185838,
+    "favorites": 871,
+    "premiered": "Summer 2009",
+    "studios": [
+        {
+            "mal_id": 132,
+            "type": "anime",
+            "name": "P.A. Works",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ]
+}

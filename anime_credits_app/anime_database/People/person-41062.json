@@ -1,0 +1,67 @@
+{
+    "mal_id": 41062,
+    "url": "https://myanimelist.net/people/41062/Akihiko_Yamaguchi",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Akihiko Yamaguchi",
+    "given_name": "朗彦",
+    "family_name": "山口",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 21405,
+                "url": "https://myanimelist.net/anime/21405/Bokura_wa_Minna_Kawai-sou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64629.jpg?s=0c96ceef146919230a74312ddf5e63df",
+                "name": "Bokura wa Minna Kawai-sou"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 21405,
+                "url": "https://myanimelist.net/anime/21405/Bokura_wa_Minna_Kawai-sou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64629.jpg?s=0c96ceef146919230a74312ddf5e63df",
+                "name": "Bokura wa Minna Kawai-sou"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 25731,
+                "url": "https://myanimelist.net/anime/25731/Cross_Ange__Tenshi_to_Ryuu_no_Rondo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/67515.jpg?s=570bbe8db2ab9760af78d1471bfc3f9f",
+                "name": "Cross Ange: Tenshi to Ryuu no Rondo"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 25731,
+                "url": "https://myanimelist.net/anime/25731/Cross_Ange__Tenshi_to_Ryuu_no_Rondo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/67515.jpg?s=570bbe8db2ab9760af78d1471bfc3f9f",
+                "name": "Cross Ange: Tenshi to Ryuu no Rondo"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 8525,
+                "url": "https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/43361.jpg?s=cb7a802000e68010cac967f8dd355e79",
+                "name": "Kami nomi zo Shiru Sekai"
+            }
+        },
+        {
+            "position": "Music",
+            "anime": {
+                "mal_id": 34658,
+                "url": "https://myanimelist.net/anime/34658/Nekopara_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/89829.jpg?s=61cf3fbd4d262c187079bc35ae31a6e8",
+                "name": "Nekopara OVA"
+            }
+        }
+    ]
+}

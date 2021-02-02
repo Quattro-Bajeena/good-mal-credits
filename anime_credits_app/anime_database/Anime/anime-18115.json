@@ -1,0 +1,44 @@
+{
+    "mal_id": 18115,
+    "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg",
+    "title": "Magi: The Kingdom of Magic",
+    "title_english": "Magi: The Kingdom of Magic",
+    "title_japanese": "マギ The kingdom of magic",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-10-06T00:00:00+00:00",
+        "to": "2014-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 6, 2013 to Mar 30, 2014"
+    },
+    "score": 8.28,
+    "scored_by": 335759,
+    "rank": 243,
+    "popularity": 154,
+    "members": 629037,
+    "favorites": 7375,
+    "premiered": "Fall 2013",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 39592,
+    "url": "https://myanimelist.net/anime/39592/Mobile_Suit_Gundam__The_Origin_-_Advent_of_the_Red_Comet",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1897/100015.jpg",
+    "title": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+    "title_english": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+    "title_japanese": "機動戦士ガンダム THE ORIGIN 前夜 赤い彗星",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-04-29T00:00:00+00:00",
+        "to": "2019-08-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": 12,
+                "month": 8,
+                "year": 2019
+            }
+        },
+        "string": "Apr 29, 2019 to Aug 12, 2019"
+    },
+    "score": 8.09,
+    "scored_by": 4382,
+    "rank": 433,
+    "popularity": 4779,
+    "members": 10745,
+    "favorites": 51,
+    "premiered": "Spring 2019",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

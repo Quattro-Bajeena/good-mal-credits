@@ -1,0 +1,35 @@
+{
+    "mal_id": 13406,
+    "url": "https://myanimelist.net/character/13406/Hotaru_Shirakawa",
+    "name": "Hotaru Shirakawa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/91327.jpg",
+    "animeography": [
+        {
+            "mal_id": 362,
+            "name": "Memories Off 2nd",
+            "url": "https://myanimelist.net/anime/362/Memories_Off_2nd",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/3290.jpg?s=a3cd2747f07cd946385566cd7ef68488",
+            "role": "Main"
+        },
+        {
+            "mal_id": 363,
+            "name": "Memories Off 3.5",
+            "url": "https://myanimelist.net/anime/363/Memories_Off_35",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/3289.jpg?s=99d57f2f7f09132e82d4df72af177675",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

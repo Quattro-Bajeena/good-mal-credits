@@ -1,0 +1,44 @@
+{
+    "mal_id": 965,
+    "url": "https://myanimelist.net/anime/965/Yoshinaga-sanchi_no_Gargoyle",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/21072.jpg",
+    "title": "Yoshinaga-sanchi no Gargoyle",
+    "title_english": "Gargoyle of Yoshinaga House",
+    "title_japanese": "吉永さん家のガーゴイル",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-02T00:00:00+00:00",
+        "to": "2006-06-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 25,
+                "month": 6,
+                "year": 2006
+            }
+        },
+        "string": "Apr 2, 2006 to Jun 25, 2006"
+    },
+    "score": 6.77,
+    "scored_by": 1326,
+    "rank": 4607,
+    "popularity": 6870,
+    "members": 4261,
+    "favorites": 4,
+    "premiered": "Spring 2006",
+    "studios": [
+        {
+            "mal_id": 101,
+            "type": "anime",
+            "name": "Studio Hibari",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        }
+    ]
+}

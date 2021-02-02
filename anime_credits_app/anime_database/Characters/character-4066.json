@@ -1,0 +1,78 @@
+{
+    "mal_id": 4066,
+    "url": "https://myanimelist.net/character/4066/Tsugumi_Shibata",
+    "name": "Tsugumi Shibata",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 38,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/229433.jpg",
+    "animeography": [
+        {
+            "mal_id": 228,
+            "name": "Jigoku Shoujo",
+            "url": "https://myanimelist.net/anime/228/Jigoku_Shoujo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/71958.jpg?s=983dfa94638b930305e8e94edba626e1",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1594,
+            "name": "Jigoku Shoujo Futakomori",
+            "url": "https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/86975.jpg?s=ff78542c5bbb4f903fe08b1040a6eaeb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3713,
+            "name": "Jigoku Shoujo Mitsuganae",
+            "url": "https://myanimelist.net/anime/3713/Jigoku_Shoujo_Mitsuganae",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/86976.jpg?s=19771f975f92781cb9d604b7e990423b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34966,
+            "name": "Jigoku Shoujo: Yoi no Togi",
+            "url": "https://myanimelist.net/anime/34966/Jigoku_Shoujo__Yoi_no_Togi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1110/92117.jpg?s=e4c3661763a5d643b57784480ebfbabd",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 3243,
+            "name": "Jigoku Shoujo",
+            "url": "https://myanimelist.net/manga/3243/Jigoku_Shoujo",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/190949.jpg?s=87b58fb7cc99bc94ea45ebdd65525bd8",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 189,
+            "name": "Christian, Luci",
+            "url": "https://myanimelist.net/people/189/Luci_Christian",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49236.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14927,
+            "name": "Kim, Seon Hye",
+            "url": "https://myanimelist.net/people/14927/Seon_Hye_Kim",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15627.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 20094,
+            "name": "Alencar, Bianca",
+            "url": "https://myanimelist.net/people/20094/Bianca_Alencar",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/61646.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

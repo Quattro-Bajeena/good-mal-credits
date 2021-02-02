@@ -1,0 +1,44 @@
+{
+    "mal_id": 8481,
+    "url": "https://myanimelist.net/anime/8481/Bungaku_Shoujo_Memoire",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/26770.jpg",
+    "title": "\"Bungaku Shoujo\" Memoire",
+    "title_english": null,
+    "title_japanese": "“文学少女”メモワール",
+    "type": "OVA",
+    "source": "Light novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-06-25T00:00:00+00:00",
+        "to": "2010-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2010
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Jun 25, 2010 to Dec 24, 2010"
+    },
+    "score": 7.34,
+    "scored_by": 11879,
+    "rank": 2160,
+    "popularity": 3245,
+    "members": 25189,
+    "favorites": 36,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

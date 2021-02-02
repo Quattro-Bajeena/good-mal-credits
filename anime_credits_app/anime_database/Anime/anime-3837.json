@@ -1,0 +1,44 @@
+{
+    "mal_id": 3837,
+    "url": "https://myanimelist.net/anime/3837/Mashin_Eiyuuden_Wataru",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/65417.jpg",
+    "title": "Mashin Eiyuuden Wataru",
+    "title_english": null,
+    "title_japanese": "魔神英雄伝ワタル",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 45,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-04-15T00:00:00+00:00",
+        "to": "1989-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 1988
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 1989
+            }
+        },
+        "string": "Apr 15, 1988 to Mar 31, 1989"
+    },
+    "score": 6.91,
+    "scored_by": 530,
+    "rank": 3988,
+    "popularity": 8671,
+    "members": 2095,
+    "favorites": 11,
+    "premiered": "Spring 1988",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

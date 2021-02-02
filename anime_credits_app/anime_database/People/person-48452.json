@@ -1,0 +1,571 @@
+{
+    "mal_id": 48452,
+    "url": "https://myanimelist.net/people/48452/Masaru_Sakamoto",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/56422.jpg",
+    "name": "Masaru Sakamoto",
+    "given_name": "勝",
+    "family_name": "坂本",
+    "birthday": null,
+    "member_favorites": 6,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6547,
+                "url": "https://myanimelist.net/anime/6547/Angel_Beats",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22061.jpg?s=f5b7871c53b116ed83efbde48cfda79b",
+                "name": "Angel Beats!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5675,
+                "url": "https://myanimelist.net/anime/5675/Basquash",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/13680.jpg?s=d71c8062c17a11adeae81fad1bf088c4",
+                "name": "Basquash!"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 11285,
+                "url": "https://myanimelist.net/anime/11285/Black★Rock_Shooter_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/53909.jpg?s=d98af8d8d2cfc586e7eaf58c8c9d1355",
+                "name": "Black★Rock Shooter (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11285,
+                "url": "https://myanimelist.net/anime/11285/Black★Rock_Shooter_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/53909.jpg?s=d98af8d8d2cfc586e7eaf58c8c9d1355",
+                "name": "Black★Rock Shooter (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10490,
+                "url": "https://myanimelist.net/anime/10490/Blood-C",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg?s=a9510442012a71bd55d7139bdd02a206",
+                "name": "Blood-C"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 8915,
+                "url": "https://myanimelist.net/anime/8915/Dantalian_no_Shoka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/52683.jpg?s=8bac8212881adc76dc4f3b86b27079df",
+                "name": "Dantalian no Shoka"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8915,
+                "url": "https://myanimelist.net/anime/8915/Dantalian_no_Shoka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/52683.jpg?s=8bac8212881adc76dc4f3b86b27079df",
+                "name": "Dantalian no Shoka"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 8915,
+                "url": "https://myanimelist.net/anime/8915/Dantalian_no_Shoka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/52683.jpg?s=8bac8212881adc76dc4f3b86b27079df",
+                "name": "Dantalian no Shoka"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9493,
+                "url": "https://myanimelist.net/anime/9493/Dororon_Enma-kun_Meeramera",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75838.jpg?s=0268a7378ed24047b984ac66ffc49a26",
+                "name": "Dororon Enma-kun Meeramera"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 28669,
+                "url": "https://myanimelist.net/anime/28669/Go_Princess_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/88625.jpg?s=c27ce847ef98046a6df1ecda421de7ac",
+                "name": "Go! Princess Precure"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10793,
+                "url": "https://myanimelist.net/anime/10793/Guilty_Crown",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/33713.jpg?s=c8cedef02efa70cbecc3dd73d0c1159c",
+                "name": "Guilty Crown"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 19319,
+                "url": "https://myanimelist.net/anime/19319/Gundam_Build_Fighters",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/51815.jpg?s=caefe88263e2fa92606d5c631d029141",
+                "name": "Gundam Build Fighters"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6574,
+                "url": "https://myanimelist.net/anime/6574/Hanamaru_Youchien",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50395.jpg?s=aaa22083e3149d98f521114f768edbc5",
+                "name": "Hanamaru Youchien"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 6574,
+                "url": "https://myanimelist.net/anime/6574/Hanamaru_Youchien",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50395.jpg?s=aaa22083e3149d98f521114f768edbc5",
+                "name": "Hanamaru Youchien"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7645,
+                "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/25915.jpg?s=082dd20ed15afb5192105b367782406a",
+                "name": "Heartcatch Precure!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9911,
+                "url": "https://myanimelist.net/anime/9911/Houkago_no_Pleiades",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/47741.jpg?s=9a39605bfb30eed925af189d83a6a6cb",
+                "name": "Houkago no Pleiades"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 25159,
+                "url": "https://myanimelist.net/anime/25159/Inou-Battle_wa_Nichijou-kei_no_Naka_de",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/67047.jpg?s=e5723e543cb1ec30a71bdb8297112186",
+                "name": "Inou-Battle wa Nichijou-kei no Naka de"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 25159,
+                "url": "https://myanimelist.net/anime/25159/Inou-Battle_wa_Nichijou-kei_no_Naka_de",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/67047.jpg?s=e5723e543cb1ec30a71bdb8297112186",
+                "name": "Inou-Battle wa Nichijou-kei no Naka de"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 6045,
+                "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/17890.jpg?s=d2cd88eaf4560ed553b52bf159184d2e",
+                "name": "Kimi ni Todoke"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 31798,
+                "url": "https://myanimelist.net/anime/31798/Kiznaiver",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/78466.jpg?s=41cbb916c0a4361266dbb87a8fcb89b8",
+                "name": "Kiznaiver"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14349,
+                "url": "https://myanimelist.net/anime/14349/Little_Witch_Academia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/42989.jpg?s=39aa17db3cf57405f6f64f7f8782c8a6",
+                "name": "Little Witch Academia"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 33489,
+                "url": "https://myanimelist.net/anime/33489/Little_Witch_Academia_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/83934.jpg?s=9d9e0837538c46e3a22c6626a52033f6",
+                "name": "Little Witch Academia (TV)"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 33489,
+                "url": "https://myanimelist.net/anime/33489/Little_Witch_Academia_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/83934.jpg?s=9d9e0837538c46e3a22c6626a52033f6",
+                "name": "Little Witch Academia (TV)"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 33489,
+                "url": "https://myanimelist.net/anime/33489/Little_Witch_Academia_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/83934.jpg?s=9d9e0837538c46e3a22c6626a52033f6",
+                "name": "Little Witch Academia (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 19489,
+                "url": "https://myanimelist.net/anime/19489/Little_Witch_Academia__Mahoujikake_no_Parade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/75752.jpg?s=ffa6d6269e59c6941f8067184aad3e48",
+                "name": "Little Witch Academia: Mahoujikake no Parade"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7066,
+                "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/16503.jpg?s=c0d8a5a45c6427cfba01788f5f31b3b4",
+                "name": "Mahoromatic: Tadaima Okaeri"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 7066,
+                "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/16503.jpg?s=c0d8a5a45c6427cfba01788f5f31b3b4",
+                "name": "Mahoromatic: Tadaima Okaeri"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10721,
+                "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30238.jpg?s=6ebe930d48aad233863b7dc7a043a5c5",
+                "name": "Mawaru Penguindrum"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 11761,
+                "url": "https://myanimelist.net/anime/11761/Medaka_Box",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/37947.jpg?s=108b140231cf8c790412ae1119777602",
+                "name": "Medaka Box"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11761,
+                "url": "https://myanimelist.net/anime/11761/Medaka_Box",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/37947.jpg?s=108b140231cf8c790412ae1119777602",
+                "name": "Medaka Box"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14527,
+                "url": "https://myanimelist.net/anime/14527/Medaka_Box_Abnormal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/62919.jpg?s=63e0843de6e61eb8d5f18dd3efd1a5de",
+                "name": "Medaka Box Abnormal"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 14527,
+                "url": "https://myanimelist.net/anime/14527/Medaka_Box_Abnormal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/62919.jpg?s=63e0843de6e61eb8d5f18dd3efd1a5de",
+                "name": "Medaka Box Abnormal"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6288,
+                "url": "https://myanimelist.net/anime/6288/Mobile_Suit_Gundam_00_The_Movie__A_Wakening_of_the_Trailblazer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/30563.jpg?s=dc84c0b1bd2eefa01935cf2c7c9dca93",
+                "name": "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7720,
+                "url": "https://myanimelist.net/anime/7720/Ookiku_Furikabutte__Natsu_no_Taikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18671.jpg?s=59c257df2cccd5c0df5d9eb3df8b416f",
+                "name": "Ookiku Furikabutte: Natsu no Taikai-hen"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 10739,
+                "url": "https://myanimelist.net/anime/10739/Panty___Stocking_in_Sanitarybox",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/29589.jpg?s=34f70e73cb0c3020bb08daa968393bf5",
+                "name": "Panty & Stocking in Sanitarybox"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10739,
+                "url": "https://myanimelist.net/anime/10739/Panty___Stocking_in_Sanitarybox",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/29589.jpg?s=34f70e73cb0c3020bb08daa968393bf5",
+                "name": "Panty & Stocking in Sanitarybox"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 8795,
+                "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg?s=9888181f49f4c45a640960430c35d530",
+                "name": "Panty & Stocking with Garterbelt"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 35848,
+                "url": "https://myanimelist.net/anime/35848/Promare",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1008/101845.jpg?s=b1bd2258074a18710a7fdfddb82cacc5",
+                "name": "Promare"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 23281,
+                "url": "https://myanimelist.net/anime/23281/Psycho-Pass_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1197/100616.jpg?s=113f6bede8c6eba3d26e1f6f512e61fe",
+                "name": "Psycho-Pass 2"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12929,
+                "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg?s=6a2dc7b8d47faec1a8f6d2be9d91bbf1",
+                "name": "Saint Seiya Omega"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 12929,
+                "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg?s=6a2dc7b8d47faec1a8f6d2be9d91bbf1",
+                "name": "Saint Seiya Omega"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21573,
+                "url": "https://myanimelist.net/anime/21573/Senki_Zesshou_Symphogear_GX",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/86681.jpg?s=d9ffc288ff656fe4008c8aa2631137db",
+                "name": "Senki Zesshou Symphogear GX"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 4581,
+                "url": "https://myanimelist.net/anime/4581/Shikabane_Hime__Aka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/20544.jpg?s=a4ac490c4d5b49cc4fa16016ca3f62e9",
+                "name": "Shikabane Hime: Aka"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 5034,
+                "url": "https://myanimelist.net/anime/5034/Shikabane_Hime__Kuro",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1125/105989.jpg?s=342fafc08f3c8b295fc69c5b5a8f7337",
+                "name": "Shikabane Hime: Kuro"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 13125,
+                "url": "https://myanimelist.net/anime/13125/Shinsekai_yori",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/36775.jpg?s=013c5ceab496f9984a3bda895c733521",
+                "name": "Shinsekai yori"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 23327,
+                "url": "https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64451.jpg?s=b9b921f85c0b08cfec940f1e0555394c",
+                "name": "Space☆Dandy 2nd Season"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 40870,
+                "url": "https://myanimelist.net/anime/40870/SSSSDynazenon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1688/107418.jpg?s=3d094e202122daba39ecbeb4fcf95b1a",
+                "name": "SSSS.Dynazenon"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 35847,
+                "url": "https://myanimelist.net/anime/35847/SSSSGridman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1973/95616.jpg?s=7a1709344e8b5ef060f6bddcf1ec8884",
+                "name": "SSSS.Gridman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10821,
+                "url": "https://myanimelist.net/anime/10821/Suite_Precure♪_Movie__Torimodose_Kokoro_ga_Tsunagu_Kiseki_no_Melody♪",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1159/99768.jpg?s=325053499303d0ed43f3acc5770fa060",
+                "name": "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=3c34e61559518b54fbfff73c7ee5ad76",
+                "name": "Tengen Toppa Gurren Lagann"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 10278,
+                "url": "https://myanimelist.net/anime/10278/The_iDOLMSTER",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/41085.jpg?s=f09b9b7ff61400724ff292148a91c73f",
+                "name": "The iDOLM@STER"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10278,
+                "url": "https://myanimelist.net/anime/10278/The_iDOLMSTER",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/41085.jpg?s=f09b9b7ff61400724ff292148a91c73f",
+                "name": "The iDOLM@STER"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 6213,
+                "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.jpg?s=9442ae6f923dc910c2a56ba77f6fa6b0",
+                "name": "Toaru Kagaku no Railgun"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3295,
+                "url": "https://myanimelist.net/anime/3295/Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg?s=45802a9cdd3922cf107ac985e6ac89c3",
+                "name": "Yatterman"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 3295,
+                "url": "https://myanimelist.net/anime/3295/Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg?s=45802a9cdd3922cf107ac985e6ac89c3",
+                "name": "Yatterman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 30279,
+                "url": "https://myanimelist.net/anime/30279/Yuru_Yuri_San☆Hai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76667.jpg?s=b0fd7ce19c48f6a0457dde8453c48edd",
+                "name": "Yuru Yuri San☆Hai!"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 30279,
+                "url": "https://myanimelist.net/anime/30279/Yuru_Yuri_San☆Hai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76667.jpg?s=b0fd7ce19c48f6a0457dde8453c48edd",
+                "name": "Yuru Yuri San☆Hai!"
+            }
+        }
+    ]
+}

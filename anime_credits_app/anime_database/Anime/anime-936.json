@@ -1,0 +1,44 @@
+{
+    "mal_id": 936,
+    "url": "https://myanimelist.net/anime/936/Naruto_Movie_2__Dai_Gekitotsu_Maboroshi_no_Chiteiiseki_Dattebayo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/76016.jpg",
+    "title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+    "title_english": "Naruto the Movie 2: Legend of the Stone of Gelel",
+    "title_japanese": "劇場版　NARUTO　大激突！幻の地底遺跡だってばよ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-08-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 8,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 6, 2005"
+    },
+    "score": 6.89,
+    "scored_by": 100804,
+    "rank": 4086,
+    "popularity": 859,
+    "members": 170288,
+    "favorites": 201,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

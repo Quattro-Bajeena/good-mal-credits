@@ -1,0 +1,44 @@
+{
+    "mal_id": 10033,
+    "url": "https://myanimelist.net/anime/10033/Toriko",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg",
+    "title": "Toriko",
+    "title_english": "Toriko",
+    "title_japanese": "トリコ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 147,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-03T00:00:00+00:00",
+        "to": "2014-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Apr 3, 2011 to Mar 30, 2014"
+    },
+    "score": 7.57,
+    "scored_by": 32645,
+    "rank": 1383,
+    "popularity": 1377,
+    "members": 100084,
+    "favorites": 817,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

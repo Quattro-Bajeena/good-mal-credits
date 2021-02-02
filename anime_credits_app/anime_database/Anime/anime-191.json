@@ -1,0 +1,44 @@
+{
+    "mal_id": 191,
+    "url": "https://myanimelist.net/anime/191/Love_Hina_Christmas_Special__Silent_Eve",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/82467.jpg",
+    "title": "Love Hina Christmas Special: Silent Eve",
+    "title_english": "Love Hina Christmas Movie",
+    "title_japanese": "ラブひなクリスマススペシャル ～サイレント・イヴ～",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-12-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 12,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 25, 2000"
+    },
+    "score": 7.34,
+    "scored_by": 33337,
+    "rank": 2183,
+    "popularity": 2153,
+    "members": 53173,
+    "favorites": 49,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

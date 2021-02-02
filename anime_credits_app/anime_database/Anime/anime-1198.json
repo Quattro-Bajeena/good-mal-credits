@@ -1,0 +1,50 @@
+{
+    "mal_id": 1198,
+    "url": "https://myanimelist.net/anime/1198/Tsuyokiss",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/14108.jpg",
+    "title": "Tsuyokiss",
+    "title_english": null,
+    "title_japanese": "つよきす",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-02T00:00:00+00:00",
+        "to": "2006-09-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Jul 2, 2006 to Sep 17, 2006"
+    },
+    "score": 6.61,
+    "scored_by": 6666,
+    "rank": 5345,
+    "popularity": 3872,
+    "members": 17426,
+    "favorites": 21,
+    "premiered": "Summer 2006",
+    "studios": [
+        {
+            "mal_id": 63,
+            "type": "anime",
+            "name": "Trinet Entertainment",
+            "url": "https://myanimelist.net/anime/producer/63/Trinet_Entertainment"
+        },
+        {
+            "mal_id": 101,
+            "type": "anime",
+            "name": "Studio Hibari",
+            "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+        }
+    ]
+}

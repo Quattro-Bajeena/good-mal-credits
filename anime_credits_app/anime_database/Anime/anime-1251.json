@@ -1,0 +1,44 @@
+{
+    "mal_id": 1251,
+    "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/52681.jpg",
+    "title": "Fushigi no Umi no Nadia",
+    "title_english": "Nadia: Secret of Blue Water",
+    "title_japanese": "ふしぎの海のナディア",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-04-13T00:00:00+00:00",
+        "to": "1991-04-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 4,
+                "year": 1990
+            },
+            "to": {
+                "day": 12,
+                "month": 4,
+                "year": 1991
+            }
+        },
+        "string": "Apr 13, 1990 to Apr 12, 1991"
+    },
+    "score": 7.54,
+    "scored_by": 14397,
+    "rank": 1460,
+    "popularity": 2266,
+    "members": 49131,
+    "favorites": 408,
+    "premiered": "Spring 1990",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

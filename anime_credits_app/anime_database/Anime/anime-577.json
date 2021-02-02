@@ -1,0 +1,50 @@
+{
+    "mal_id": 577,
+    "url": "https://myanimelist.net/anime/577/Kagi_Hime_Monogatari__Eikyuu_Alice_Rondo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/28822.jpg",
+    "title": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+    "title_english": "Eternal Alice",
+    "title_japanese": "鍵姫物語 永久アリス輪舞曲",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-01-04T00:00:00+00:00",
+        "to": "2006-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Jan 4, 2006 to Mar 29, 2006"
+    },
+    "score": 6.21,
+    "scored_by": 2091,
+    "rank": 7280,
+    "popularity": 5530,
+    "members": 7319,
+    "favorites": 20,
+    "premiered": "Winter 2006",
+    "studios": [
+        {
+            "mal_id": 63,
+            "type": "anime",
+            "name": "Trinet Entertainment",
+            "url": "https://myanimelist.net/anime/producer/63/Trinet_Entertainment"
+        },
+        {
+            "mal_id": 78,
+            "type": "anime",
+            "name": "Picture Magic",
+            "url": "https://myanimelist.net/anime/producer/78/Picture_Magic"
+        }
+    ]
+}

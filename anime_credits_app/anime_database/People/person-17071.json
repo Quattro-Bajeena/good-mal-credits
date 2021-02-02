@@ -1,0 +1,76 @@
+{
+    "mal_id": 17071,
+    "url": "https://myanimelist.net/people/17071/Takehiro_Miura",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Takehiro Miura",
+    "given_name": "たけひろ",
+    "family_name": "みうら",
+    "birthday": null,
+    "member_favorites": 9,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2324,
+                "url": "https://myanimelist.net/anime/2324/Angel_Blade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/31291.jpg?s=08efd37cd113336a48f839eea85fef0e",
+                "name": "Angel Blade"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2325,
+                "url": "https://myanimelist.net/anime/2325/Angel_Blade_Punish",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/3662.jpg?s=e0177fb8e5ece69a3c54027fc9e1ca19",
+                "name": "Angel Blade Punish!"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 22123,
+                "url": "https://myanimelist.net/anime/22123/Inugami-san_to_Nekoyama-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/61921.jpg?s=866706f33676976a1744b50ca4033ba1",
+                "name": "Inugami-san to Nekoyama-san"
+            }
+        },
+        {
+            "position": "Original Character Design",
+            "anime": {
+                "mal_id": 2433,
+                "url": "https://myanimelist.net/anime/2433/Lingeries",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50553.jpg?s=9c032c29d15e4264483f6da3334199b0",
+                "name": "Lingeries"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 209,
+                "url": "https://myanimelist.net/anime/209/ROD__The_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/73350.jpg?s=7447244eacebfa732e5f0a92ba33e433",
+                "name": "R.O.D: The TV"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 36474,
+                "url": "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg?s=4e30beaa27c68a8d370207c02e0a3fc6",
+                "name": "Sword Art Online: Alicization"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2001,
+                "url": "https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/5123.jpg?s=3c34e61559518b54fbfff73c7ee5ad76",
+                "name": "Tengen Toppa Gurren Lagann"
+            }
+        }
+    ]
+}

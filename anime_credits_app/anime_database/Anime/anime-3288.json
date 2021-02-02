@@ -1,0 +1,44 @@
+{
+    "mal_id": 3288,
+    "url": "https://myanimelist.net/anime/3288/Gundam_Evolve",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28142.jpg",
+    "title": "Gundam Evolve",
+    "title_english": "Gundam Evolve",
+    "title_japanese": "ガンダムEVOLVE",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 15,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-01-01T00:00:00+00:00",
+        "to": "2007-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2001 to Jan 26, 2007"
+    },
+    "score": 6.63,
+    "scored_by": 3404,
+    "rank": 5242,
+    "popularity": 5069,
+    "members": 9124,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

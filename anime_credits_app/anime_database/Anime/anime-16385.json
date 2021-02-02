@@ -1,0 +1,44 @@
+{
+    "mal_id": 16385,
+    "url": "https://myanimelist.net/anime/16385/Dog_Days",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/70709.jpg",
+    "title": "Dog Days''",
+    "title_english": null,
+    "title_japanese": "ドッグデイズ''",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-01-11T00:00:00+00:00",
+        "to": "2015-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 11, 2015 to Mar 29, 2015"
+    },
+    "score": 6.97,
+    "scored_by": 27442,
+    "rank": 3735,
+    "popularity": 1949,
+    "members": 61923,
+    "favorites": 84,
+    "premiered": "Winter 2015",
+    "studios": [
+        {
+            "mal_id": 1569,
+            "type": "anime",
+            "name": "Seven Arcs Pictures",
+            "url": "https://myanimelist.net/anime/producer/1569/Seven_Arcs_Pictures"
+        }
+    ]
+}

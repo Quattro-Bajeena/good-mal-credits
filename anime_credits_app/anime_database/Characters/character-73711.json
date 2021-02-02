@@ -1,0 +1,28 @@
+{
+    "mal_id": 73711,
+    "url": "https://myanimelist.net/character/73711/Mother",
+    "name": "Mother",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 10690,
+            "name": "Magic Tree House",
+            "url": "https://myanimelist.net/anime/10690/Magic_Tree_House",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/34487.jpg?s=dd826792795ad46340ce2bd26ed0dcec",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 81,
+            "name": "Mizuki, Nana",
+            "url": "https://myanimelist.net/people/81/Nana_Mizuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

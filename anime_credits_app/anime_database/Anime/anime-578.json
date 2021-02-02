@@ -1,0 +1,44 @@
+{
+    "mal_id": 578,
+    "url": "https://myanimelist.net/anime/578/Hotaru_no_Haka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75808.jpg",
+    "title": "Hotaru no Haka",
+    "title_english": "Grave of the Fireflies",
+    "title_japanese": "火垂るの墓",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-04-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 4,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 16, 1988"
+    },
+    "score": 8.51,
+    "scored_by": 254614,
+    "rank": 100,
+    "popularity": 296,
+    "members": 430301,
+    "favorites": 5284,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

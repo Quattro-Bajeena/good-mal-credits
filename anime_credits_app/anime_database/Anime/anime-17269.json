@@ -1,0 +1,44 @@
+{
+    "mal_id": 17269,
+    "url": "https://myanimelist.net/anime/17269/Captain_Herlock",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/62619.jpg",
+    "title": "Captain Herlock",
+    "title_english": "Space Pirate Captain Harlock",
+    "title_japanese": "キャプテンハーロック",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-09-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 7, 2013"
+    },
+    "score": 7.38,
+    "scored_by": 27096,
+    "rank": 1996,
+    "popularity": 2364,
+    "members": 45568,
+    "favorites": 163,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

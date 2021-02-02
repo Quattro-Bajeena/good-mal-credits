@@ -1,0 +1,50 @@
+{
+    "mal_id": 998,
+    "url": "https://myanimelist.net/anime/998/Blue_Seed",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/14047.jpg",
+    "title": "Blue Seed",
+    "title_english": "Blue Seed",
+    "title_japanese": "ブルーシード",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-10-05T00:00:00+00:00",
+        "to": "1995-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 1995
+            }
+        },
+        "string": "Oct 5, 1994 to Mar 29, 1995"
+    },
+    "score": 7.04,
+    "scored_by": 8475,
+    "rank": 3501,
+    "popularity": 3323,
+    "members": 23886,
+    "favorites": 126,
+    "premiered": "Fall 1994",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 419,
+    "url": "https://myanimelist.net/anime/419/Samurai_Deeper_Kyou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/23744.jpg",
+    "title": "Samurai Deeper Kyou",
+    "title_english": "Samurai Deeper Kyo",
+    "title_japanese": "SAMURAI DEEPER KYO",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-07-02T00:00:00+00:00",
+        "to": "2002-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2002
+            }
+        },
+        "string": "Jul 2, 2002 to Dec 23, 2002"
+    },
+    "score": 6.93,
+    "scored_by": 22724,
+    "rank": 3913,
+    "popularity": 2268,
+    "members": 49018,
+    "favorites": 211,
+    "premiered": "Summer 2002",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

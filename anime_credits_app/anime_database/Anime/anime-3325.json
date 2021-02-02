@@ -1,0 +1,44 @@
+{
+    "mal_id": 3325,
+    "url": "https://myanimelist.net/anime/3325/Yuusha_Exkaiser",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1471/92206.jpg",
+    "title": "Yuusha Exkaiser",
+    "title_english": "The Brave Fighter Exkizer",
+    "title_japanese": "勇者エクスカイザー",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 48,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-02-03T00:00:00+00:00",
+        "to": "1991-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 2,
+                "year": 1990
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 1991
+            }
+        },
+        "string": "Feb 3, 1990 to Jan 26, 1991"
+    },
+    "score": 6.52,
+    "scored_by": 334,
+    "rank": 5785,
+    "popularity": 9202,
+    "members": 1706,
+    "favorites": 8,
+    "premiered": "Winter 1990",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

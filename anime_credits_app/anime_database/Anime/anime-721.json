@@ -1,0 +1,44 @@
+{
+    "mal_id": 721,
+    "url": "https://myanimelist.net/anime/721/Princess_Tutu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1145/93646.jpg",
+    "title": "Princess Tutu",
+    "title_english": "Princess Tutu",
+    "title_japanese": "プリンセスチュチュ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 38,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-08-16T00:00:00+00:00",
+        "to": "2003-05-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 23,
+                "month": 5,
+                "year": 2003
+            }
+        },
+        "string": "Aug 16, 2002 to May 23, 2003"
+    },
+    "score": 8.15,
+    "scored_by": 48889,
+    "rank": 366,
+    "popularity": 1133,
+    "members": 128694,
+    "favorites": 4381,
+    "premiered": "Summer 2002",
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

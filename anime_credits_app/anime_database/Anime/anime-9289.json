@@ -1,0 +1,44 @@
+{
+    "mal_id": 9289,
+    "url": "https://myanimelist.net/anime/9289/Hanasaku_Iroha",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28967.jpg",
+    "title": "Hanasaku Iroha",
+    "title_english": "Hanasaku Iroha: Blossoms for Tomorrow",
+    "title_japanese": "花咲くいろは",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-03T00:00:00+00:00",
+        "to": "2011-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 3, 2011 to Sep 25, 2011"
+    },
+    "score": 7.95,
+    "scored_by": 103762,
+    "rank": 602,
+    "popularity": 534,
+    "members": 264188,
+    "favorites": 2370,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 132,
+            "type": "anime",
+            "name": "P.A. Works",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 7645,
+    "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
+    "title": "Heartcatch Precure!",
+    "title_english": null,
+    "title_japanese": "ハートキャッチプリキュア!",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 49,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-02-07T00:00:00+00:00",
+        "to": "2011-01-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 2,
+                "year": 2010
+            },
+            "to": {
+                "day": 30,
+                "month": 1,
+                "year": 2011
+            }
+        },
+        "string": "Feb 7, 2010 to Jan 30, 2011"
+    },
+    "score": 7.79,
+    "scored_by": 8013,
+    "rank": 841,
+    "popularity": 3322,
+    "members": 23858,
+    "favorites": 507,
+    "premiered": "Winter 2010",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}
