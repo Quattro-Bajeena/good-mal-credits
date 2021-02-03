@@ -1,0 +1,44 @@
+{
+    "mal_id": 13165,
+    "url": "https://myanimelist.net/anime/13165/Paboo___Mojies",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/36873.jpg",
+    "title": "Paboo & Mojies",
+    "title_english": "Paboo & Mojies",
+    "title_japanese": "パブー＆モジーズ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-02T00:00:00+00:00",
+        "to": "2013-03-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 2,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Apr 2, 2012 to Mar 2, 2013"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11415,
+    "popularity": 14405,
+    "members": 227,
+    "favorites": 0,
+    "premiered": "Spring 2012",
+    "studios": [
+        {
+            "mal_id": 1025,
+            "type": "anime",
+            "name": "Dongwoo A&E",
+            "url": "https://myanimelist.net/anime/producer/1025/Dongwoo_A_E"
+        }
+    ]
+}

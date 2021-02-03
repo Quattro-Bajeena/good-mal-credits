@@ -1,0 +1,50 @@
+{
+    "mal_id": 6078,
+    "url": "https://myanimelist.net/anime/6078/Al_Caral_no_Isan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/13281.jpg",
+    "title": "Al Caral no Isan",
+    "title_english": "Legacy of Aru Kararu",
+    "title_japanese": "アル・カラルの遺産",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-02-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 25, 1993"
+    },
+    "score": 5.5,
+    "scored_by": 264,
+    "rank": 9641,
+    "popularity": 10538,
+    "members": 945,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 155,
+            "type": "anime",
+            "name": "animate Film",
+            "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+        },
+        {
+            "mal_id": 246,
+            "type": "anime",
+            "name": "Visual 80",
+            "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+        }
+    ]
+}

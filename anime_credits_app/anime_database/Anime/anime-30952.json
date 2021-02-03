@@ -1,0 +1,50 @@
+{
+    "mal_id": 30952,
+    "url": "https://myanimelist.net/anime/30952/New_Initial_D_Movie__Legend_3_-_Mugen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/76759.jpg",
+    "title": "New Initial D Movie: Legend 3 - Mugen",
+    "title_english": null,
+    "title_japanese": "新劇場版　頭文字［イニシャル］D Legend3 -夢現-",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-02-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 2,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 6, 2016"
+    },
+    "score": 7.83,
+    "scored_by": 7233,
+    "rank": 767,
+    "popularity": 3971,
+    "members": 16501,
+    "favorites": 34,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 537,
+            "type": "anime",
+            "name": "SANZIGEN",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        },
+        {
+            "mal_id": 839,
+            "type": "anime",
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ]
+}

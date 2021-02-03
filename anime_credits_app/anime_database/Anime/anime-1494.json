@@ -1,0 +1,44 @@
+{
+    "mal_id": 1494,
+    "url": "https://myanimelist.net/anime/1494/Darkside_Blues",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/3766.jpg",
+    "title": "Darkside Blues",
+    "title_english": null,
+    "title_japanese": "ダークサイド・ブルース",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-10-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 8, 1994"
+    },
+    "score": 6.09,
+    "scored_by": 3544,
+    "rank": 7846,
+    "popularity": 5329,
+    "members": 8003,
+    "favorites": 23,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

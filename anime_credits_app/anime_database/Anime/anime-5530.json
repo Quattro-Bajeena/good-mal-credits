@@ -1,0 +1,44 @@
+{
+    "mal_id": 5530,
+    "url": "https://myanimelist.net/anime/5530/Pandora_Hearts",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75535.jpg",
+    "title": "Pandora Hearts",
+    "title_english": "PandoraHearts",
+    "title_japanese": "パンドラハーツ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-03T00:00:00+00:00",
+        "to": "2009-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 3, 2009 to Sep 25, 2009"
+    },
+    "score": 7.72,
+    "scored_by": 143116,
+    "rank": 990,
+    "popularity": 364,
+    "members": 358896,
+    "favorites": 5597,
+    "premiered": "Spring 2009",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "mal_id": 19613,
+    "url": "https://myanimelist.net/anime/19613/New_Initial_D_Movie__Legend_1_-_Kakusei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75648.jpg",
+    "title": "New Initial D Movie: Legend 1 - Kakusei",
+    "title_english": "Initial D Legend 1 Awakening",
+    "title_japanese": "新劇場版　頭文字［イニシャル］D Legend1 -覚醒-",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-08-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 8,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 24, 2014"
+    },
+    "score": 7.78,
+    "scored_by": 11225,
+    "rank": 872,
+    "popularity": 3353,
+    "members": 23484,
+    "favorites": 55,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 537,
+            "type": "anime",
+            "name": "SANZIGEN",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        },
+        {
+            "mal_id": 839,
+            "type": "anime",
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ]
+}

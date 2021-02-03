@@ -206,7 +206,7 @@ def get_data_file(resource_type, id: int):
 
 # checks if resource is already downloaded, if not downlaods and saves it
 # if it is, it just loads it from file
-def get_resource(resource_type : str, mal_id : int):
+def get_resource(resource_type : str, mal_id : int, use_cached = True):
 
     get_functions = {
         'anime' : get_anime_api,
@@ -224,13 +224,13 @@ def get_resource(resource_type : str, mal_id : int):
         'characters' : save_character
     }
 
-    if not check_file( resource_type, mal_id):
-        #print(f"{resource_type} doesnt exists - downloading")
+    
+
+    if use_cached and check_file( resource_type, mal_id):
+        resource = get_data_file(resource_type, mal_id)
+    else:
         resource = get_functions[resource_type](mal_id)
         save_functions[resource_type](resource)
-    else:
-        #print(f"{resource_type} already is downloaded")
-        resource = get_data_file(resource_type, mal_id)
 
     return resource
 

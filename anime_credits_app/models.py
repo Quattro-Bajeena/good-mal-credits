@@ -109,6 +109,15 @@ class Studio(db.Model):
     anime = db.relationship('Anime', secondary=studios, lazy='subquery', backref=db.backref('studios', lazy=True))
     
     
+    
+class PageStatus(db.Model):
+    mal_id = db.Column(db.Integer, primary_key=True)
+    category = db.Column(db.String(50), nullable=False)
+    last_modified = db.Column(db.DateTime)
 
+    creating = db.Column(db.Boolean)
+    updating = db.Column(db.Boolean)
     
-    
+    task_id = db.Column(db.String(100))
+
+

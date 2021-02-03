@@ -1,0 +1,44 @@
+{
+    "mal_id": 3638,
+    "url": "https://myanimelist.net/anime/3638/Kaiketsu_Zorori",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/30991.jpg",
+    "title": "Kaiketsu Zorori",
+    "title_english": "Kaiketsu Zorori",
+    "title_japanese": "かいけつゾロリ",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-02-01T00:00:00+00:00",
+        "to": "2005-02-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 2004
+            },
+            "to": {
+                "day": 6,
+                "month": 2,
+                "year": 2005
+            }
+        },
+        "string": "Feb 1, 2004 to Feb 6, 2005"
+    },
+    "score": 7.05,
+    "scored_by": 819,
+    "rank": 3468,
+    "popularity": 8306,
+    "members": 2454,
+    "favorites": 29,
+    "premiered": "Winter 2004",
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

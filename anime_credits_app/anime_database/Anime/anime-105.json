@@ -1,0 +1,44 @@
+{
+    "mal_id": 105,
+    "url": "https://myanimelist.net/anime/105/Boys_Be",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/2223.jpg",
+    "title": "Boys Be...",
+    "title_english": "Boys Be...",
+    "title_japanese": "ボーイズ・ビー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-04-11T00:00:00+00:00",
+        "to": "2000-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2000
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2000
+            }
+        },
+        "string": "Apr 11, 2000 to Jul 4, 2000"
+    },
+    "score": 6.46,
+    "scored_by": 7859,
+    "rank": 6095,
+    "popularity": 3654,
+    "members": 19898,
+    "favorites": 41,
+    "premiered": "Spring 2000",
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

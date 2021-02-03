@@ -1,43 +1,73 @@
-from datetime import datetime
+from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta
+from pathlib import Path
 import json
 
-from anime_credits_app import app_root
+from anime_credits_app import app_root, db
+from anime_credits_app.models import PageStatus
 
 
-page_visits = {
-    'staff' : [],
-    'people' : []
-}
+def create_page_entry(category, mal_id, task_id):
+    new_log = PageStatus(
+            mal_id = mal_id,
+            category=category,
+            creating=True,
+            updating=False,
+            task_id = task_id
+        )
+    db.session.add(new_log)
+    db.session.commit()
 
-def register_page_visit(category, mal_id):
-    global page_visits
-    for i, visit in enumerate(page_visits[category]):
-        if visit['mal_id'] == mal_id:
-            page_visits[category][i]["datetime"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            return
+def register_page_start_update(category, mal_id, task_id):
+    log = PageStatus.query.get(mal_id)
+    log.task_id = task_id
+    log.updating = True
+    db.session.commit()
+    
 
-    page_visits[category].append({
-        "mal_id" : mal_id,
-         "datetime" : datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-         })
+def register_page_update(category, mal_id):
+    log = PageStatus.query.get(mal_id)
+    if not log:
+        new_log = PageStatus(
+            mal_id = mal_id,
+            category=category,
+            last_modified = datetime.now(),
+            creating=False,
+            updating=False
+            
+        )
+        db.session.add(new_log)
+    else:
+        log.creating = False
+        log.updating = False
+        log.last_modified = datetime.now()
+
+    #no db.sesson.commit cos it will be called inside the big update functions, that will do it right after
     
 
 
-def check_page_visit(category, mal_id):
-    global page_visits
-    for visit in page_visits[category]:
-        if visit['mal_id'] == mal_id:
-            return (True, datetime.strptime(visit['datetime'], '%Y-%m-%d %H:%M:%S'))
-    return False
+def check_page_update(category, mal_id, time_limit : timedelta = None):
+
+    log = PageStatus.query.get(mal_id)
+
+    exists = False
+    needs_update = False
+    creating = False
+    updating = False
+    
+
+    exists = bool(log)
+    needs_update = exists and time_limit and (datetime.now() - log.last_modified) > time_limit 
+    creating = exists and log.creating
+    updating = exists and log.updating
+    task_id = exists and (creating or updating) and log.task_id
+
+    return {
+        'exists' : exists, 'needs_update': needs_update,
+        'creating' : creating, 'updating' : updating,
+        'task_id' : task_id
+        }
 
 
-def save_page_visits():
-    global page_visits
 
-    with open(app_root / 'page_visits.json', 'w', encoding='utf-8') as f:
-        json.dump(page_visits, f, indent=4, ensure_ascii=False)
 
-def load_page_visits():
-    global page_visits
-    with open(app_root / 'page_visits.json', 'r', encoding='utf-8') as f:
-        page_visits = json.load(f)

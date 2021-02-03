@@ -1,0 +1,44 @@
+{
+    "mal_id": 6682,
+    "url": "https://myanimelist.net/anime/6682/11eyes",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
+    "title": "11eyes",
+    "title_english": "11eyes",
+    "title_japanese": "11eyes イレブンアイズ",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-07T00:00:00+00:00",
+        "to": "2009-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 7, 2009 to Dec 23, 2009"
+    },
+    "score": 6.17,
+    "scored_by": 108105,
+    "rank": 7475,
+    "popularity": 700,
+    "members": 206179,
+    "favorites": 501,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 95,
+            "type": "anime",
+            "name": "Doga Kobo",
+            "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+    ]
+}

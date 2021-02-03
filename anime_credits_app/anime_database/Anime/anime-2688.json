@@ -1,0 +1,50 @@
+{
+    "mal_id": 2688,
+    "url": "https://myanimelist.net/anime/2688/Akai_Koudan_Zillion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/41797.jpg",
+    "title": "Akai Koudan Zillion",
+    "title_english": "Zillion",
+    "title_japanese": "赤い光弾ジリオン",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 31,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-04-12T00:00:00+00:00",
+        "to": "1987-12-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 1987
+            },
+            "to": {
+                "day": 13,
+                "month": 12,
+                "year": 1987
+            }
+        },
+        "string": "Apr 12, 1987 to Dec 13, 1987"
+    },
+    "score": 6.6,
+    "scored_by": 898,
+    "rank": 5379,
+    "popularity": 6973,
+    "members": 4100,
+    "favorites": 17,
+    "premiered": "Spring 1987",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

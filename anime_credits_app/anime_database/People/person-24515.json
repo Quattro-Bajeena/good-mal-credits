@@ -1,0 +1,31 @@
+{
+    "mal_id": 24515,
+    "url": "https://myanimelist.net/people/24515/Akari_Hoshi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/27167.jpg",
+    "name": "Akari Hoshi",
+    "given_name": "あかり",
+    "family_name": "星",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 19905,
+                "url": "https://myanimelist.net/anime/19905/Dai-chan_Daisuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1843/94729.jpg?s=42a8f65295e03ca7a0d785d550ed7bfa",
+                "name": "Dai-chan, Daisuki."
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 7877,
+                "url": "https://myanimelist.net/anime/7877/Momoko_Kaeru_no_Uta_ga_Kikoeru_yo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/19246.jpg?s=a31c3f43a9f4129122e71d119a5a40b0",
+                "name": "Momoko, Kaeru no Uta ga Kikoeru yo."
+            }
+        }
+    ]
+}

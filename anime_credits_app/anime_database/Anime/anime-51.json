@@ -1,0 +1,44 @@
+{
+    "mal_id": 51,
+    "url": "https://myanimelist.net/anime/51/Tenshi_Kinryouku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/45208.jpg",
+    "title": "Tenshi Kinryouku",
+    "title_english": "Angel Sanctuary",
+    "title_japanese": "天使禁猟区",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-05-25T00:00:00+00:00",
+        "to": "2000-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 5,
+                "year": 2000
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2000
+            }
+        },
+        "string": "May 25, 2000 to Aug 25, 2000"
+    },
+    "score": 6.32,
+    "scored_by": 24915,
+    "rank": 6792,
+    "popularity": 2407,
+    "members": 43798,
+    "favorites": 213,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

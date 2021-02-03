@@ -10,3 +10,6 @@
 - good mechanism to save when the staff/person page was visited, and try to refresh the data after some time, and saves it every some time
 - draw pages layouts
 - figure out rate limiting when this will be on more than one threads on a server
+
+# redis
+- set password later, security or sth

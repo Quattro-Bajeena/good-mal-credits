@@ -1,0 +1,526 @@
+{
+    "mal_id": 4097,
+    "url": "https://myanimelist.net/people/4097/Mamoru_Oshii",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/40198.jpg",
+    "name": "Mamoru Oshii",
+    "given_name": "守",
+    "family_name": "押井",
+    "birthday": "1951-08-08T00:00:00+00:00",
+    "member_favorites": 3716,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 2832,
+                "url": "https://myanimelist.net/anime/2832/AniKuri15",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/62923.jpg?s=b1468ca6504ccf711a6401f29db1de4d",
+                "name": "Ani*Kuri15"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 150,
+                "url": "https://myanimelist.net/anime/150/Blood_",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=f0a6eb5df371dd4f2840cfa6265964fa",
+                "name": "Blood+"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 405,
+                "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/18913.jpg?s=2e546f3ce43d3a19f17b4266e56e9453",
+                "name": "Blood: The Last Vampire"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 37437,
+                "url": "https://myanimelist.net/anime/37437/Chimera",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1641/90996.jpg?s=8735891c910d5a4e876e13aa2844e6ad",
+                "name": "Chimera"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 9629,
+                "url": "https://myanimelist.net/anime/9629/Cyborg_009__The_Reopening",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/26666.jpg?s=50c07d8c20a7295ae4b51ff0f478b4af",
+                "name": "Cyborg 009: The Reopening"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3060,
+                "url": "https://myanimelist.net/anime/3060/Dallos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/55419.jpg?s=aa82270db24a22ff0a9ae570b8fb8fda",
+                "name": "Dallos"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 1524,
+                "url": "https://myanimelist.net/anime/1524/Fuujin_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50349.jpg?s=50bf70d03f16c02e267b634e24c7154f",
+                "name": "Fuujin Monogatari"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 4639,
+                "url": "https://myanimelist.net/anime/4639/Gosenzo-sama_Banbanzai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19785.jpg?s=0dcd98282b180ac5048ca41e151c78d1",
+                "name": "Gosenzo-sama Banbanzai!"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 4639,
+                "url": "https://myanimelist.net/anime/4639/Gosenzo-sama_Banbanzai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19785.jpg?s=0dcd98282b180ac5048ca41e151c78d1",
+                "name": "Gosenzo-sama Banbanzai!"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 4639,
+                "url": "https://myanimelist.net/anime/4639/Gosenzo-sama_Banbanzai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19785.jpg?s=0dcd98282b180ac5048ca41e151c78d1",
+                "name": "Gosenzo-sama Banbanzai!"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 6867,
+                "url": "https://myanimelist.net/anime/6867/Halo_Legends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16013.jpg?s=0b6b0dbfc59ba773901acae42eb3c0f5",
+                "name": "Halo Legends"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 9001,
+                "url": "https://myanimelist.net/anime/9001/Je_Taime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/104021.jpg?s=4ab6801869f2647f252836cb541cec73",
+                "name": "Je T'aime"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 9001,
+                "url": "https://myanimelist.net/anime/9001/Je_Taime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1969/104021.jpg?s=4ab6801869f2647f252836cb541cec73",
+                "name": "Je T'aime"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 6374,
+                "url": "https://myanimelist.net/anime/6374/Kagaku_Ninja-tai_Gatchaman_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/45632.jpg?s=bbff2a5ca1de9f921ba7103bb9958da1",
+                "name": "Kagaku Ninja-tai Gatchaman II"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 16149,
+                "url": "https://myanimelist.net/anime/16149/Kick-Heart",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/46509.jpg?s=fb017adaf73120cf25b7909823e9adeb",
+                "name": "Kick-Heart"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1288,
+                "url": "https://myanimelist.net/anime/1288/Kidou_Keisatsu_Patlabor",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/24151.jpg?s=bdc1ad887fcec39a409a6a8d8b9343ce",
+                "name": "Kidou Keisatsu Patlabor"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1096,
+                "url": "https://myanimelist.net/anime/1096/Kidou_Keisatsu_Patlabor_2_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74764.jpg?s=5fc576065b74126aeadf8ad149af15a5",
+                "name": "Kidou Keisatsu Patlabor 2 the Movie"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1095,
+                "url": "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74786.jpg?s=a1c2cd4d4c91676b72f47602c6197bbc",
+                "name": "Kidou Keisatsu Patlabor the Movie"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 1289,
+                "url": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1183/96504.jpg?s=6b0daf446e3a3028dc7e4f19fb2b91e8",
+                "name": "Kidou Keisatsu Patlabor: New OVA"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 1289,
+                "url": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1183/96504.jpg?s=6b0daf446e3a3028dc7e4f19fb2b91e8",
+                "name": "Kidou Keisatsu Patlabor: New OVA"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 324,
+                "url": "https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/59293.jpg?s=067b4e8f413de404896f770ba4df895d",
+                "name": "Kidou Keisatsu Patlabor: On Television"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 43,
+                "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82594.jpg?s=091b0925a46fdd19af4b290030abaca0",
+                "name": "Koukaku Kidoutai"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 4672,
+                "url": "https://myanimelist.net/anime/4672/Koukaku_Kidoutai_20",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75608.jpg?s=879cc079bf86610700b7a40657e7a848",
+                "name": "Koukaku Kidoutai 2.0"
+            }
+        },
+        {
+            "position": "Series Composition",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 4640,
+                "url": "https://myanimelist.net/anime/4640/Maroko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/67705.jpg?s=0deac4a748e4c4ff94ac910b16d51d73",
+                "name": "Maroko"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 4640,
+                "url": "https://myanimelist.net/anime/4640/Maroko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/67705.jpg?s=0deac4a748e4c4ff94ac910b16d51d73",
+                "name": "Maroko"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3336,
+                "url": "https://myanimelist.net/anime/3336/Mezame_no_Hakobune",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/5386.jpg?s=5da21005665cfc98a85dc3f6f2cbe0ac",
+                "name": "Mezame no Hakobune"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 2733,
+                "url": "https://myanimelist.net/anime/2733/MiniPato",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23501.jpg?s=6a11a314647e4ae1821cb5901fd83332",
+                "name": "MiniPato"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 5386,
+                "url": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15118.jpg?s=8296e72e871638bb184fbd6c3658ae07",
+                "name": "Miyamoto Musashi: Souken ni Haseru Yume"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 5386,
+                "url": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15118.jpg?s=8296e72e871638bb184fbd6c3658ae07",
+                "name": "Miyamoto Musashi: Souken ni Haseru Yume"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 2151,
+                "url": "https://myanimelist.net/anime/2151/Nils_no_Fushigi_na_Tabi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2296.jpg?s=b35fd42fb01e0f835227fbd8a22bad87",
+                "name": "Nils no Fushigi na Tabi"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 7664,
+                "url": "https://myanimelist.net/anime/7664/Nils_no_Fushigi_na_Tabi_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/69741.jpg?s=e29fefce0a1ecead834cd51083a05089",
+                "name": "Nils no Fushigi na Tabi (Movie)"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 7664,
+                "url": "https://myanimelist.net/anime/7664/Nils_no_Fushigi_na_Tabi_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/69741.jpg?s=e29fefce0a1ecead834cd51083a05089",
+                "name": "Nils no Fushigi na Tabi (Movie)"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 7106,
+                "url": "https://myanimelist.net/anime/7106/Ougon_Senshi_Gold_Lightan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/60089.jpg?s=8e9bda2245127d996c46647130048131",
+                "name": "Ougon Senshi Gold Lightan"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 2612,
+                "url": "https://myanimelist.net/anime/2612/Spoon_Oba-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/3531.jpg?s=79bdf9f8b4d6c362199c9a6436d3fe11",
+                "name": "Spoon Oba-san"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 2388,
+                "url": "https://myanimelist.net/anime/2388/Tachiguishi_Retsuden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/2647.jpg?s=c55f1612b495c666cb407fafd5455312",
+                "name": "Tachiguishi Retsuden"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 885,
+                "url": "https://myanimelist.net/anime/885/Tenshi_no_Tamago",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/63181.jpg?s=678968fe1dfdad4061d3cbb6a8fafdd7",
+                "name": "Tenshi no Tamago"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 885,
+                "url": "https://myanimelist.net/anime/885/Tenshi_no_Tamago",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/63181.jpg?s=678968fe1dfdad4061d3cbb6a8fafdd7",
+                "name": "Tenshi no Tamago"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3089,
+                "url": "https://myanimelist.net/anime/3089/The_Sky_Crawlers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/8212.jpg?s=36ad4ce6f72f52535992a1da09b34e75",
+                "name": "The Sky Crawlers"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 3008,
+                "url": "https://myanimelist.net/anime/3008/Time_Bokan_Series__Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60747.jpg?s=b5f50f2bc6cee5bf06a7a781aa0a3b40",
+                "name": "Time Bokan Series: Yatterman"
+            }
+        },
+        {
+            "position": "Co-Director",
+            "anime": {
+                "mal_id": 1981,
+                "url": "https://myanimelist.net/anime/1981/Twilight_Q",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5908.jpg?s=a1171fd75b9741f93fdf54d7a84252bb",
+                "name": "Twilight Q"
+            }
+        },
+        {
+            "position": "Co-Director",
+            "anime": {
+                "mal_id": 1293,
+                "url": "https://myanimelist.net/anime/1293/Urusei_Yatsura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17573.jpg?s=a6d051db3bbeac2f815993e6c193ed95",
+                "name": "Urusei Yatsura"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 1293,
+                "url": "https://myanimelist.net/anime/1293/Urusei_Yatsura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17573.jpg?s=a6d051db3bbeac2f815993e6c193ed95",
+                "name": "Urusei Yatsura"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 1293,
+                "url": "https://myanimelist.net/anime/1293/Urusei_Yatsura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17573.jpg?s=a6d051db3bbeac2f815993e6c193ed95",
+                "name": "Urusei Yatsura"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1293,
+                "url": "https://myanimelist.net/anime/1293/Urusei_Yatsura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17573.jpg?s=a6d051db3bbeac2f815993e6c193ed95",
+                "name": "Urusei Yatsura"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1293,
+                "url": "https://myanimelist.net/anime/1293/Urusei_Yatsura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17573.jpg?s=a6d051db3bbeac2f815993e6c193ed95",
+                "name": "Urusei Yatsura"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1920,
+                "url": "https://myanimelist.net/anime/1920/Urusei_Yatsura_Movie_1__Only_You",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/10127.jpg?s=fca00d3100b823f80be5c0153b84c5d5",
+                "name": "Urusei Yatsura Movie 1: Only You"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 1921,
+                "url": "https://myanimelist.net/anime/1921/Urusei_Yatsura_Movie_2__Beautiful_Dreamer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/78231.jpg?s=cd2a0db43a271f465113c286298791a7",
+                "name": "Urusei Yatsura Movie 2: Beautiful Dreamer"
+            }
+        },
+        {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 39990,
+                "url": "https://myanimelist.net/anime/39990/Vlad_Love",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg?s=09a3fbf1c0a0b2f7ffa334852b049a97",
+                "name": "Vlad Love"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 39990,
+                "url": "https://myanimelist.net/anime/39990/Vlad_Love",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg?s=09a3fbf1c0a0b2f7ffa334852b049a97",
+                "name": "Vlad Love"
+            }
+        },
+        {
+            "position": "Series Composition",
+            "anime": {
+                "mal_id": 39990,
+                "url": "https://myanimelist.net/anime/39990/Vlad_Love",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg?s=09a3fbf1c0a0b2f7ffa334852b049a97",
+                "name": "Vlad Love"
+            }
+        }
+    ]
+}

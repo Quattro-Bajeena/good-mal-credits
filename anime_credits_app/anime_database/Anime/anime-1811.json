@@ -1,0 +1,44 @@
+{
+    "mal_id": 1811,
+    "url": "https://myanimelist.net/anime/1811/Bounty_Dog__Getsumen_no_Ibu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1064/96383.jpg",
+    "title": "Bounty Dog: Getsumen no Ibu",
+    "title_english": null,
+    "title_japanese": "バウンティドッグ~月面のイブ~",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-10-01T00:00:00+00:00",
+        "to": "1994-11-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": 1,
+                "month": 11,
+                "year": 1994
+            }
+        },
+        "string": "Oct 1, 1994 to Nov 1, 1994"
+    },
+    "score": 5.56,
+    "scored_by": 1233,
+    "rank": 9494,
+    "popularity": 7806,
+    "members": 2977,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 155,
+            "type": "anime",
+            "name": "animate Film",
+            "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+        }
+    ]
+}

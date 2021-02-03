@@ -1,0 +1,50 @@
+{
+    "mal_id": 39990,
+    "url": "https://myanimelist.net/anime/39990/Vlad_Love",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1796/110394.jpg",
+    "title": "Vlad Love",
+    "title_english": null,
+    "title_japanese": "ぶらどらぶ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "2020-12-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 18, 2020 to ?"
+    },
+    "score": 6.02,
+    "scored_by": 1521,
+    "rank": 8132,
+    "popularity": 3725,
+    "members": 18914,
+    "favorites": 48,
+    "premiered": "Winter 2021",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 1967,
+            "type": "anime",
+            "name": "Drive",
+            "url": "https://myanimelist.net/anime/producer/1967/Drive"
+        }
+    ]
+}

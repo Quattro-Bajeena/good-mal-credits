@@ -1,0 +1,904 @@
+{
+    "mal_id": 10419,
+    "url": "https://myanimelist.net/people/10419/Kenji_Hayama",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Kenji Hayama",
+    "given_name": "賢二",
+    "family_name": "羽山",
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2251,
+                "url": "https://myanimelist.net/anime/2251/Baccano",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=46a78c825ffb2cfc5271eb5e5f72fc46",
+                "name": "Baccano!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2251,
+                "url": "https://myanimelist.net/anime/2251/Baccano",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=46a78c825ffb2cfc5271eb5e5f72fc46",
+                "name": "Baccano!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 20543,
+                "url": "https://myanimelist.net/anime/20543/Bayonetta__Bloody_Fate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/55441.jpg?s=99297e5ef9e0bfe6bb1043226b7be000",
+                "name": "Bayonetta: Bloody Fate"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3007,
+                "url": "https://myanimelist.net/anime/3007/Bronze__Kouji_Nanjo_Cathexis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/73228.jpg?s=5355d3149e0ac7c51e109085836c92a2",
+                "name": "Bronze: Kouji Nanjo Cathexis"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1078,
+                "url": "https://myanimelist.net/anime/1078/Cardcaptor_Sakura__Kero-chan_ni_Omakase",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/28850.jpg?s=56984731f0078639be98fc6dc6854ada",
+                "name": "Cardcaptor Sakura: Kero-chan ni Omakase!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4981,
+                "url": "https://myanimelist.net/anime/4981/Casshern_Sins",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/23336.jpg?s=795cedcfc9c72810bcf4c51c0b30d99d",
+                "name": "Casshern Sins"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4981,
+                "url": "https://myanimelist.net/anime/4981/Casshern_Sins",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/23336.jpg?s=795cedcfc9c72810bcf4c51c0b30d99d",
+                "name": "Casshern Sins"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 978,
+                "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/23767.jpg?s=5b42d8e2c77cbfe990167c349b4c5366",
+                "name": "Change!! Getter Robo: Sekai Saigo no Hi"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 978,
+                "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/23767.jpg?s=5b42d8e2c77cbfe990167c349b4c5366",
+                "name": "Change!! Getter Robo: Sekai Saigo no Hi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 978,
+                "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/23767.jpg?s=5b42d8e2c77cbfe990167c349b4c5366",
+                "name": "Change!! Getter Robo: Sekai Saigo no Hi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1478,
+                "url": "https://myanimelist.net/anime/1478/City_Hunter__Goodbye_My_Sweetheart",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1814/94961.jpg?s=106e47a9a2cf25b5a46df275e5661117",
+                "name": "City Hunter: Goodbye My Sweetheart"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1477,
+                "url": "https://myanimelist.net/anime/1477/City_Hunter__The_Secret_Service",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1437/94390.jpg?s=33ac40ea827b48f7cf570b5da5110f77",
+                "name": "City Hunter: The Secret Service"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1352,
+                "url": "https://myanimelist.net/anime/1352/Cyber_City_Oedo_808",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/58763.jpg?s=1bdda1e6381bfb5088e3f0dd0a8ad4a2",
+                "name": "Cyber City Oedo 808"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1352,
+                "url": "https://myanimelist.net/anime/1352/Cyber_City_Oedo_808",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/58763.jpg?s=1bdda1e6381bfb5088e3f0dd0a8ad4a2",
+                "name": "Cyber City Oedo 808"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 37520,
+                "url": "https://myanimelist.net/anime/37520/Dororo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1879/100467.jpg?s=fb342a942692a78b56d8a4d6047a95ed",
+                "name": "Dororo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7436,
+                "url": "https://myanimelist.net/anime/7436/Dragon_Quest__Dai_no_Daibouken_Tachiagare_Aban_no_Shito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/31457.jpg?s=09a633b64520da989fbdbdd985777475",
+                "name": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6746,
+                "url": "https://myanimelist.net/anime/6746/Durarara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/71772.jpg?s=6589c479efd39b5a5b319df445705234",
+                "name": "Durarara!!"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2340,
+                "url": "https://myanimelist.net/anime/2340/Gedou_Gakuen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/29826.jpg?s=2b57016be93923701b1fcc5557898be8",
+                "name": "Gedou Gakuen"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3012,
+                "url": "https://myanimelist.net/anime/3012/Gekitou_Crush_Gear_Turbo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/39489.jpg?s=cc1efeedf384ba3affecba00fc429691",
+                "name": "Gekitou! Crush Gear Turbo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2322,
+                "url": "https://myanimelist.net/anime/2322/Giant_Robo_Gaiden_Ginrei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2584.jpg?s=7b66174b9d4d503c4b27325881eed3cc",
+                "name": "Giant Robo Gaiden Ginrei"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2321,
+                "url": "https://myanimelist.net/anime/2321/Giant_Robo_the_Animation__Chikyuu_ga_Seishi_Suru_Hi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/27657.jpg?s=4f703850d4dcb5232e24a7cd548ec2e4",
+                "name": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2321,
+                "url": "https://myanimelist.net/anime/2321/Giant_Robo_the_Animation__Chikyuu_ga_Seishi_Suru_Hi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/27657.jpg?s=4f703850d4dcb5232e24a7cd548ec2e4",
+                "name": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 3285,
+                "url": "https://myanimelist.net/anime/3285/Himitsu_no_Akko-chan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/5225.jpg?s=bc83d6da023804b249d7bf92b8fa3cd9",
+                "name": "Himitsu no Akko-chan"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 34542,
+                "url": "https://myanimelist.net/anime/34542/Inuyashiki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/88471.jpg?s=126fd660eec6fdad29fada3c762ef704",
+                "name": "Inuyashiki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21327,
+                "url": "https://myanimelist.net/anime/21327/Isshuukan_Friends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/61891.jpg?s=7dde05cce316155153999d3ae03208cc",
+                "name": "Isshuukan Friends."
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14765,
+                "url": "https://myanimelist.net/anime/14765/Ixion_Saga_DT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/42863.jpg?s=87a4ce1209301dc34031a1c4009c552e",
+                "name": "Ixion Saga DT"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2556,
+                "url": "https://myanimelist.net/anime/2556/Jungle_Taitei_1989",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/75997.jpg?s=fe98133bcc6c71bd5c538452a7e5bb71",
+                "name": "Jungle Taitei (1989)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 617,
+                "url": "https://myanimelist.net/anime/617/Juubee_Ninpuuchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/66727.jpg?s=c32fa8c56194ecbc2dba6d83d556655e",
+                "name": "Juubee Ninpuuchou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 489,
+                "url": "https://myanimelist.net/anime/489/Kamichu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24641.jpg?s=059db56e2f89b565e185ad931bbfd636",
+                "name": "Kamichu!"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 757,
+                "url": "https://myanimelist.net/anime/757/Kaze_wo_Mita_Shounen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27052.jpg?s=245bcb42af254adede7c3b8775c0ef71",
+                "name": "Kaze wo Mita Shounen"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 606,
+                "url": "https://myanimelist.net/anime/606/Kazemakase_Tsukikage_Ran",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/16745.jpg?s=d6524a2cff3fa952b7b70b7cde18bd7a",
+                "name": "Kazemakase Tsukikage Ran"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1095,
+                "url": "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74786.jpg?s=a1c2cd4d4c91676b72f47602c6197bbc",
+                "name": "Kidou Keisatsu Patlabor the Movie"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1095,
+                "url": "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74786.jpg?s=a1c2cd4d4c91676b72f47602c6197bbc",
+                "name": "Kidou Keisatsu Patlabor the Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8141,
+                "url": "https://myanimelist.net/anime/8141/Konchuu_Monogatari_Mitsubachi_Hutch__Yuuki_no_Melody",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/47243.jpg?s=0ae94229928a59fc3880c97133b2a8ef",
+                "name": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 8595,
+                "url": "https://myanimelist.net/anime/8595/Kotencotenco",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/23582.jpg?s=5ff5a6156fb138864513428f9e67027c",
+                "name": "Kotencotenco"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2157,
+                "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=28263a6da70e370e258924598c2df989",
+                "name": "Koutetsushin Jeeg"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2157,
+                "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=28263a6da70e370e258924598c2df989",
+                "name": "Koutetsushin Jeeg"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 8129,
+                "url": "https://myanimelist.net/anime/8129/Kuragehime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24865.jpg?s=f97cdebd237370d5dac2d26e975c5d1a",
+                "name": "Kuragehime"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 8129,
+                "url": "https://myanimelist.net/anime/8129/Kuragehime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24865.jpg?s=f97cdebd237370d5dac2d26e975c5d1a",
+                "name": "Kuragehime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6774,
+                "url": "https://myanimelist.net/anime/6774/Kuuchuu_Buranko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/18386.jpg?s=26a1993b9bb3e5de72b639e0e3e27615",
+                "name": "Kuuchuu Buranko"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4320,
+                "url": "https://myanimelist.net/anime/4320/Lupin_III__Green_vs_Red",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/15007.jpg?s=88e7c00145f13a70df0054224d9a7f02",
+                "name": "Lupin III: Green vs. Red"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1455,
+                "url": "https://myanimelist.net/anime/1455/Makai_Tenshou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1285/94142.jpg?s=e5572bcfc60ba27bd669daa991a2fdf2",
+                "name": "Makai Tenshou"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1455,
+                "url": "https://myanimelist.net/anime/1455/Makai_Tenshou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1285/94142.jpg?s=e5572bcfc60ba27bd669daa991a2fdf2",
+                "name": "Makai Tenshou"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1455,
+                "url": "https://myanimelist.net/anime/1455/Makai_Tenshou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1285/94142.jpg?s=e5572bcfc60ba27bd669daa991a2fdf2",
+                "name": "Makai Tenshou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1064,
+                "url": "https://myanimelist.net/anime/1064/Mazinkaiser",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1041/106091.jpg?s=80dd82c9d5a77c1789978d26d965191a",
+                "name": "Mazinkaiser"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1064,
+                "url": "https://myanimelist.net/anime/1064/Mazinkaiser",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1041/106091.jpg?s=80dd82c9d5a77c1789978d26d965191a",
+                "name": "Mazinkaiser"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2734,
+                "url": "https://myanimelist.net/anime/2734/Mazinkaiser__Shitou_Ankoku_Dai_Shogun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/51795.jpg?s=c52c07db13e6f38c0f0748f66eaac009",
+                "name": "Mazinkaiser: Shitou! Ankoku Dai Shogun"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2734,
+                "url": "https://myanimelist.net/anime/2734/Mazinkaiser__Shitou_Ankoku_Dai_Shogun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/51795.jpg?s=c52c07db13e6f38c0f0748f66eaac009",
+                "name": "Mazinkaiser: Shitou! Ankoku Dai Shogun"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1462,
+                "url": "https://myanimelist.net/anime/1462/Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/74781.jpg?s=510c0bebf6c11cfd06bc97bdf82e9075",
+                "name": "Memories"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1880,
+                "url": "https://myanimelist.net/anime/1880/Midnight_Eye__Gokuu_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1880.jpg?s=f8af769efe9f178d1e45d22e1b895ed5",
+                "name": "Midnight Eye: Gokuu II"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6336,
+                "url": "https://myanimelist.net/anime/6336/Mobile_Suit_Gundam_Unicorn",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/50459.jpg?s=82f02bb3c4879fea6c7c415a758d78b8",
+                "name": "Mobile Suit Gundam Unicorn"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 32792,
+                "url": "https://myanimelist.net/anime/32792/Mobile_Suit_Gundam_Unicorn_RE_0096",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/78633.jpg?s=8d25761572d97f9a0f21b19ddfbb89e3",
+                "name": "Mobile Suit Gundam Unicorn RE:0096"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 31251,
+                "url": "https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/75879.jpg?s=e9ffac9d002d32c977d9328d80534615",
+                "name": "Mobile Suit Gundam: Iron-Blooded Orphans"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 89,
+                "url": "https://myanimelist.net/anime/89/Mobile_Suit_Victory_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1913/102693.jpg?s=f3069ffa7ff725fb6721e4b8c0d788a0",
+                "name": "Mobile Suit Victory Gundam"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2246,
+                "url": "https://myanimelist.net/anime/2246/Mononoke",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/20713.jpg?s=1668a77388d9f127f38a6b9ed183b38b",
+                "name": "Mononoke"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2083,
+                "url": "https://myanimelist.net/anime/2083/Natsuki_Crisis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1008/94564.jpg?s=c6a87059fc624f68bee7b383e15c5ff7",
+                "name": "Natsuki Crisis"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4081,
+                "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg?s=40e8f630a7657b85aeb706a6797c58a4",
+                "name": "Natsume Yuujinchou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 11665,
+                "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/37449.jpg?s=1cd457090bd90de2f4e58c9ff2d692a6",
+                "name": "Natsume Yuujinchou Shi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2468,
+                "url": "https://myanimelist.net/anime/2468/Nineteen_19",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/31679.jpg?s=d1918ada4f317819ee03e69d56c54e0b",
+                "name": "Nineteen 19"
+            }
+        },
+        {
+            "position": "Animation Check",
+            "anime": {
+                "mal_id": 2468,
+                "url": "https://myanimelist.net/anime/2468/Nineteen_19",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/31679.jpg?s=d1918ada4f317819ee03e69d56c54e0b",
+                "name": "Nineteen 19"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14181,
+                "url": "https://myanimelist.net/anime/14181/Oedo_wa_Nemurenai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/39103.jpg?s=abef2e359197a9714085c298aca59880",
+                "name": "Oedo wa Nemurenai!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5440,
+                "url": "https://myanimelist.net/anime/5440/Ougon_Yuusha_Goldran",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11118.jpg?s=51643f048b6cb6c50173bed3a07d100f",
+                "name": "Ougon Yuusha Goldran"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 23281,
+                "url": "https://myanimelist.net/anime/23281/Psycho-Pass_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1197/100616.jpg?s=113f6bede8c6eba3d26e1f6f512e61fe",
+                "name": "Psycho-Pass 2"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 37013,
+                "url": "https://myanimelist.net/anime/37013/Sex__Prologue",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1499/94818.jpg?s=78ac19bb89ab84e2aeb7a2f129c16cbc",
+                "name": "Sex: Prologue"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 21843,
+                "url": "https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/67513.jpg?s=9f7b9d08b9cfbcb28f6364200051f66c",
+                "name": "Shingeki no Bahamut: Genesis"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 30736,
+                "url": "https://myanimelist.net/anime/30736/Shingeki_no_Bahamut__Virgin_Soul",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85564.jpg?s=3e7058fe56022d1921cec0cc6b0c1b7e",
+                "name": "Shingeki no Bahamut: Virgin Soul"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 30736,
+                "url": "https://myanimelist.net/anime/30736/Shingeki_no_Bahamut__Virgin_Soul",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85564.jpg?s=3e7058fe56022d1921cec0cc6b0c1b7e",
+                "name": "Shingeki no Bahamut: Virgin Soul"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 30736,
+                "url": "https://myanimelist.net/anime/30736/Shingeki_no_Bahamut__Virgin_Soul",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85564.jpg?s=3e7058fe56022d1921cec0cc6b0c1b7e",
+                "name": "Shingeki no Bahamut: Virgin Soul"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 30736,
+                "url": "https://myanimelist.net/anime/30736/Shingeki_no_Bahamut__Virgin_Soul",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85564.jpg?s=3e7058fe56022d1921cec0cc6b0c1b7e",
+                "name": "Shingeki no Bahamut: Virgin Soul"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9863,
+                "url": "https://myanimelist.net/anime/9863/SKET_Dance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/73974.jpg?s=d4b0365f683c28a803f8d32b657792a2",
+                "name": "SKET Dance"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 566,
+                "url": "https://myanimelist.net/anime/566/Tetsuwan_Birdy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/27256.jpg?s=80ef79a9f038b0f07b15ef27899f1d89",
+                "name": "Tetsuwan Birdy"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9531,
+                "url": "https://myanimelist.net/anime/9531/Tezuka_Osamu_Monogatari__Boku_wa_Son_Gokuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26398.jpg?s=62be98911f6373f9404a26822d7b75ba",
+                "name": "Tezuka Osamu Monogatari: Boku wa Son Gokuu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1048,
+                "url": "https://myanimelist.net/anime/1048/The_SoulTaker__Tamashii-gari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11004.jpg?s=c399c9621d6b0ce9a9683e63efbddec7",
+                "name": "The SoulTaker: Tamashii-gari"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1048,
+                "url": "https://myanimelist.net/anime/1048/The_SoulTaker__Tamashii-gari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11004.jpg?s=c399c9621d6b0ce9a9683e63efbddec7",
+                "name": "The SoulTaker: Tamashii-gari"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1048,
+                "url": "https://myanimelist.net/anime/1048/The_SoulTaker__Tamashii-gari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11004.jpg?s=c399c9621d6b0ce9a9683e63efbddec7",
+                "name": "The SoulTaker: Tamashii-gari"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 12015,
+                "url": "https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/40041.jpg?s=7c23bf5abd723bfaaa1dc13f60500d09",
+                "name": "Tiger & Bunny Movie 1: The Beginning"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 12015,
+                "url": "https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/40041.jpg?s=7c23bf5abd723bfaaa1dc13f60500d09",
+                "name": "Tiger & Bunny Movie 1: The Beginning"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 12015,
+                "url": "https://myanimelist.net/anime/12015/Tiger___Bunny_Movie_1__The_Beginning",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/40041.jpg?s=7c23bf5abd723bfaaa1dc13f60500d09",
+                "name": "Tiger & Bunny Movie 1: The Beginning"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 12017,
+                "url": "https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56915.jpg?s=551d362ad01815352ff022b8eae64743",
+                "name": "Tiger & Bunny Movie 2: The Rising"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 12017,
+                "url": "https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56915.jpg?s=551d362ad01815352ff022b8eae64743",
+                "name": "Tiger & Bunny Movie 2: The Rising"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1459,
+                "url": "https://myanimelist.net/anime/1459/Uchuu_no_Kishi_Tekkaman_Blade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/54793.jpg?s=57c90e9a78ea9925894f48a767551f59",
+                "name": "Uchuu no Kishi Tekkaman Blade"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 1919,
+                "url": "https://myanimelist.net/anime/1919/Urusei_Yatsura_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1424/92240.jpg?s=dc4eb3b0a379d7e34f371b8e52c6aa65",
+                "name": "Urusei Yatsura OVA"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 543,
+                "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg?s=bdcc701dd6dbf298a0c4f47e186c8e8e",
+                "name": "Vampire Hunter D (2000)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3295,
+                "url": "https://myanimelist.net/anime/3295/Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg?s=45802a9cdd3922cf107ac985e6ac89c3",
+                "name": "Yatterman"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6693,
+                "url": "https://myanimelist.net/anime/6693/Yatterman_the_Movie__Shin_Yattermecha_Osu_Gou_Omocha_no_Kuni_de_Dai_Ketsudan_da_Koron",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22013.jpg?s=2d0ef7856e5e552252d4dbbb76457c6c",
+                "name": "Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 28155,
+                "url": "https://myanimelist.net/anime/28155/Yoru_no_Yatterman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/71773.jpg?s=5d9cf07673bc6270714f1a95a897c594",
+                "name": "Yoru no Yatterman"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3505,
+                "url": "https://myanimelist.net/anime/3505/Yuusha_Shirei_Dagwon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1548/91071.jpg?s=f68262a55aacabe14977834c0ae9e0aa",
+                "name": "Yuusha Shirei Dagwon"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1041,
+                "url": "https://myanimelist.net/anime/1041/Zetsuai_1989",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73226.jpg?s=267cd4e503b72747942c6092da17a570",
+                "name": "Zetsuai 1989"
+            }
+        }
+    ]
+}

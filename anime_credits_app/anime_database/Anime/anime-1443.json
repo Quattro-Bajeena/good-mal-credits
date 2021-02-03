@@ -1,0 +1,44 @@
+{
+    "mal_id": 1443,
+    "url": "https://myanimelist.net/anime/1443/Sol_Bianca",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/49503.jpg",
+    "title": "Sol Bianca",
+    "title_english": null,
+    "title_japanese": "SOL BIANCA (ソル·ビアンカ)",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-03-21T00:00:00+00:00",
+        "to": "1991-07-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 3,
+                "year": 1990
+            },
+            "to": {
+                "day": 21,
+                "month": 7,
+                "year": 1991
+            }
+        },
+        "string": "Mar 21, 1990 to Jul 21, 1991"
+    },
+    "score": 6.34,
+    "scored_by": 1716,
+    "rank": 6658,
+    "popularity": 6530,
+    "members": 4822,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

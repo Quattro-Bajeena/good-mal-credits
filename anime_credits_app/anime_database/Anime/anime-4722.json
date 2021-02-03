@@ -1,0 +1,44 @@
+{
+    "mal_id": 4722,
+    "url": "https://myanimelist.net/anime/4722/Skip_Beat",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/84022.jpg",
+    "title": "Skip Beat!",
+    "title_english": "Skip Beat!",
+    "title_japanese": "スキップ・ビート！",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-10-06T00:00:00+00:00",
+        "to": "2009-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 6, 2008 to Mar 30, 2009"
+    },
+    "score": 8.14,
+    "scored_by": 114737,
+    "rank": 368,
+    "popularity": 665,
+    "members": 217765,
+    "favorites": 5299,
+    "premiered": "Fall 2008",
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

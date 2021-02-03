@@ -1,0 +1,44 @@
+{
+    "mal_id": 1005,
+    "url": "https://myanimelist.net/anime/1005/Star_Ocean_EX",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1515/94058.jpg",
+    "title": "Star Ocean EX",
+    "title_english": "Star Ocean EX",
+    "title_japanese": "スターオーシャンEX",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-04-03T00:00:00+00:00",
+        "to": "2001-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2001
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Apr 3, 2001 to Sep 25, 2001"
+    },
+    "score": 6.61,
+    "scored_by": 5077,
+    "rank": 5338,
+    "popularity": 4640,
+    "members": 11365,
+    "favorites": 33,
+    "premiered": "Spring 2001",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

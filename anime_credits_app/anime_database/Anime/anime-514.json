@@ -1,0 +1,44 @@
+{
+    "mal_id": 514,
+    "url": "https://myanimelist.net/anime/514/Cossette_no_Shouzou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/77004.jpg",
+    "title": "Cossette no Shouzou",
+    "title_english": "Le Portrait de Petit Cossette",
+    "title_japanese": "コゼットの肖像",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-04-11T00:00:00+00:00",
+        "to": "2004-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 4,
+                "year": 2004
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2004
+            }
+        },
+        "string": "Apr 11, 2004 to Dec 22, 2004"
+    },
+    "score": 6.85,
+    "scored_by": 24741,
+    "rank": 4246,
+    "popularity": 2011,
+    "members": 59163,
+    "favorites": 375,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 39,
+            "type": "anime",
+            "name": "Daume",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ]
+}

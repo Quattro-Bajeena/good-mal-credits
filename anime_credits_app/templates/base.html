@@ -12,7 +12,22 @@
 <body>
 <div class="header">
     <h1>good MAL searching</h1>
+    <h2>Flashed messages</h2>
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            <ul class=flashes>
+            {% for message in messages %}
+                <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+        {% endif %}
+    {% endwith %}
 </div>
+
+<form action={{url_for('test_celery')}} method="post">
+    <button type="submit" name="test_celery_name" value="test_celery_val">test celery </button>
+</form>
+
 
 <hr>
 
