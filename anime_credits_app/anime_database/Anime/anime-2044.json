@@ -1,0 +1,44 @@
+{
+    "mal_id": 2044,
+    "url": "https://myanimelist.net/anime/2044/Mahou_no_Tenshi_Creamy_Mami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/50081.jpg",
+    "title": "Mahou no Tenshi Creamy Mami",
+    "title_english": "Magical Angel Creamy Mami",
+    "title_japanese": "魔法の天使 クリィミーマミ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1983-07-01T00:00:00+00:00",
+        "to": "1984-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 1983
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 1984
+            }
+        },
+        "string": "Jul 1, 1983 to Jun 29, 1984"
+    },
+    "score": 7.14,
+    "scored_by": 2433,
+    "rank": 3039,
+    "popularity": 4831,
+    "members": 10320,
+    "favorites": 119,
+    "premiered": "Summer 1983",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

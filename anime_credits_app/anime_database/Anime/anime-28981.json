@@ -1,0 +1,44 @@
+{
+    "mal_id": 28981,
+    "url": "https://myanimelist.net/anime/28981/Ame-iro_Cocoa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/72517.jpg",
+    "title": "Ame-iro Cocoa",
+    "title_english": "Rainy Cocoa",
+    "title_japanese": "雨色ココア",
+    "type": "TV",
+    "source": "Digital manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-04-05T00:00:00+00:00",
+        "to": "2015-06-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 5, 2015 to Jun 21, 2015"
+    },
+    "score": 4.72,
+    "scored_by": 9630,
+    "rank": 10776,
+    "popularity": 3382,
+    "members": 23117,
+    "favorites": 8,
+    "premiered": "Spring 2015",
+    "studios": [
+        {
+            "mal_id": 1264,
+            "type": "anime",
+            "name": "EMT Squared",
+            "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1026,
+    "url": "https://myanimelist.net/anime/1026/Yakumotatsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/17266.jpg",
+    "title": "Yakumotatsu",
+    "title_english": "Eight Clouds Rising",
+    "title_japanese": "八雲立つ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-10-25T00:00:00+00:00",
+        "to": "1997-11-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 1997
+            },
+            "to": {
+                "day": 25,
+                "month": 11,
+                "year": 1997
+            }
+        },
+        "string": "Oct 25, 1997 to Nov 25, 1997"
+    },
+    "score": 6.11,
+    "scored_by": 1196,
+    "rank": 7753,
+    "popularity": 7354,
+    "members": 3579,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 976,
+    "url": "https://myanimelist.net/anime/976/Yokohama_Kaidashi_Kikou__Quiet_Country_Cafe",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/23055.jpg",
+    "title": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+    "title_english": null,
+    "title_japanese": "ヨコハマ買い出し紀行 Quiet Country Cafe",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-12-18T00:00:00+00:00",
+        "to": "2003-03-05T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": 5,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Dec 18, 2002 to Mar 5, 2003"
+    },
+    "score": 7.16,
+    "scored_by": 6568,
+    "rank": 2964,
+    "popularity": 4196,
+    "members": 14524,
+    "favorites": 40,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

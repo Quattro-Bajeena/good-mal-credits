@@ -1,0 +1,56 @@
+{
+    "mal_id": 38162,
+    "url": "https://myanimelist.net/anime/38162/Rinshi_Ekoda-chan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1953/95142.jpg",
+    "title": "Rinshi!! Ekoda-chan",
+    "title_english": "Rinshi!! Ekodachan",
+    "title_japanese": "臨死!!江古田ちゃん",
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-01-09T00:00:00+00:00",
+        "to": "2019-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2019
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Jan 9, 2019 to Mar 27, 2019"
+    },
+    "score": 5.53,
+    "scored_by": 2472,
+    "rank": 9566,
+    "popularity": 5122,
+    "members": 8852,
+    "favorites": 13,
+    "premiered": "Winter 2019",
+    "studios": [
+        {
+            "mal_id": 473,
+            "type": "anime",
+            "name": "Ascension",
+            "url": "https://myanimelist.net/anime/producer/473/Ascension"
+        },
+        {
+            "mal_id": 1195,
+            "type": "anime",
+            "name": "Creators in Pack",
+            "url": "https://myanimelist.net/anime/producer/1195/Creators_in_Pack"
+        },
+        {
+            "mal_id": 1379,
+            "type": "anime",
+            "name": "Zero-G",
+            "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+        }
+    ]
+}

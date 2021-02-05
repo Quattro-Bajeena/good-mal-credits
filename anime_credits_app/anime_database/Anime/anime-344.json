@@ -1,0 +1,44 @@
+{
+    "mal_id": 344,
+    "url": "https://myanimelist.net/anime/344/Futatsu_no_Spica",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/73986.jpg",
+    "title": "Futatsu no Spica",
+    "title_english": "Twin Spica",
+    "title_japanese": "ふたつのスピカ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-11-01T00:00:00+00:00",
+        "to": "2004-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 11,
+                "year": 2003
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Nov 1, 2003 to Mar 27, 2004"
+    },
+    "score": 7.37,
+    "scored_by": 3150,
+    "rank": 2047,
+    "popularity": 5172,
+    "members": 8620,
+    "favorites": 63,
+    "premiered": "Fall 2003",
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

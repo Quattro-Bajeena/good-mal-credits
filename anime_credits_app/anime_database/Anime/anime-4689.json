@@ -1,0 +1,50 @@
+{
+    "mal_id": 4689,
+    "url": "https://myanimelist.net/anime/4689/Kaze_no_Toori_Michi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/8980.jpg",
+    "title": "Kaze no Toori Michi",
+    "title_english": "The Path of Wind",
+    "title_japanese": "カゼノトオリミチ",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-12-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 12,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 8, 2004"
+    },
+    "score": 6.01,
+    "scored_by": 1316,
+    "rank": 8186,
+    "popularity": 7775,
+    "members": 3027,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        },
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

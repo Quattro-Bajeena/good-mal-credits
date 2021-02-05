@@ -1,0 +1,44 @@
+{
+    "mal_id": 971,
+    "url": "https://myanimelist.net/anime/971/Astro_Boy__Tetsuwan_Atom",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1611/94026.jpg",
+    "title": "Astro Boy: Tetsuwan Atom",
+    "title_english": "Astro Boy (2003)",
+    "title_japanese": "アストロボーイ・鉄腕アトム",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-04-06T00:00:00+00:00",
+        "to": "2004-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Apr 6, 2003 to Mar 28, 2004"
+    },
+    "score": 7,
+    "scored_by": 7510,
+    "rank": 3628,
+    "popularity": 3908,
+    "members": 17153,
+    "favorites": 87,
+    "premiered": "Spring 2003",
+    "studios": [
+        {
+            "mal_id": 200,
+            "type": "anime",
+            "name": "Tezuka Productions",
+            "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+        }
+    ]
+}

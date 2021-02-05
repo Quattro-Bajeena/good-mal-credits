@@ -1,0 +1,50 @@
+{
+    "mal_id": 1804,
+    "url": "https://myanimelist.net/anime/1804/Koko_wa_Green_Wood",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1804.jpg",
+    "title": "Koko wa Green Wood",
+    "title_english": "Here is Greenwood",
+    "title_japanese": "ここはグリーン・ウッド",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-11-22T00:00:00+00:00",
+        "to": "1993-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 1991
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 1993
+            }
+        },
+        "string": "Nov 22, 1991 to Mar 26, 1993"
+    },
+    "score": 6.84,
+    "scored_by": 2426,
+    "rank": 4271,
+    "popularity": 5514,
+    "members": 7388,
+    "favorites": 25,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 7588,
+    "url": "https://myanimelist.net/anime/7588/Saraiya_Goyou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75203.jpg",
+    "title": "Saraiya Goyou",
+    "title_english": "House of Five Leaves",
+    "title_japanese": "さらい屋 五葉",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-04-16T00:00:00+00:00",
+        "to": "2010-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Apr 16, 2010 to Jul 2, 2010"
+    },
+    "score": 7.82,
+    "scored_by": 22147,
+    "rank": 803,
+    "popularity": 1802,
+    "members": 70545,
+    "favorites": 742,
+    "premiered": "Spring 2010",
+    "studios": [
+        {
+            "mal_id": 32,
+            "type": "anime",
+            "name": "Manglobe",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ]
+}

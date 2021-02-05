@@ -17,13 +17,15 @@ def create_page_entry(category, mal_id, task_id):
         )
     db.session.add(new_log)
     db.session.commit()
+    print("create page endtry session commited")
 
 def register_page_start_update(category, mal_id, task_id):
     log = PageStatus.query.get(mal_id)
     log.task_id = task_id
     log.updating = True
+
     db.session.commit()
-    
+    print("register page start update session commited")
 
 def register_page_update(category, mal_id):
     log = PageStatus.query.get(mal_id)
@@ -49,12 +51,6 @@ def register_page_update(category, mal_id):
 def check_page_update(category, mal_id, time_limit : timedelta = None):
 
     log = PageStatus.query.get(mal_id)
-
-    exists = False
-    needs_update = False
-    creating = False
-    updating = False
-    
 
     exists = bool(log)
     needs_update = exists and time_limit and (datetime.now() - log.last_modified) > time_limit 

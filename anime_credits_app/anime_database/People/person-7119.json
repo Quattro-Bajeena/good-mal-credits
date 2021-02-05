@@ -1,0 +1,38 @@
+{
+    "mal_id": 7119,
+    "url": "https://myanimelist.net/people/7119/Youko_Sakamoto",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Youko Sakamoto",
+    "given_name": "洋子",
+    "family_name": "坂本",
+    "birthday": "1963-09-09T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 743,
+                "url": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/52359.jpg?s=5879a027685dc2f7c9dccbc8669b6994",
+                "name": "Umi ga Kikoeru"
+            },
+            "character": {
+                "mal_id": 16036,
+                "url": "https://myanimelist.net/character/16036/Rikako_Muto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/296507.jpg?s=fd8c020b1b3519239ed36714c0518b0a",
+                "name": "Muto, Rikako"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 743,
+                "url": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/52359.jpg?s=5879a027685dc2f7c9dccbc8669b6994",
+                "name": "Umi ga Kikoeru"
+            }
+        }
+    ]
+}

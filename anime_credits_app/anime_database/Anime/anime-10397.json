@@ -1,0 +1,44 @@
+{
+    "mal_id": 10397,
+    "url": "https://myanimelist.net/anime/10397/Mashiro-iro_Symphony__The_Color_of_Lovers",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/39303.jpg",
+    "title": "Mashiro-iro Symphony: The Color of Lovers",
+    "title_english": "Mashiroiro Symphony: The Color of Lovers",
+    "title_japanese": "ましろ色シンフォニー -The color of lovers-",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-10-05T00:00:00+00:00",
+        "to": "2011-12-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 21,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 5, 2011 to Dec 21, 2011"
+    },
+    "score": 7.11,
+    "scored_by": 63389,
+    "rank": 3183,
+    "popularity": 1130,
+    "members": 129179,
+    "favorites": 491,
+    "premiered": "Fall 2011",
+    "studios": [
+        {
+            "mal_id": 32,
+            "type": "anime",
+            "name": "Manglobe",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ]
+}

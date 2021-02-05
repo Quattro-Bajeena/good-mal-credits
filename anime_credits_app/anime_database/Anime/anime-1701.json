@@ -1,0 +1,44 @@
+{
+    "mal_id": 1701,
+    "url": "https://myanimelist.net/anime/1701/Boku_no_Marie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/72904.jpg",
+    "title": "Boku no Marie",
+    "title_english": "My Dear Marie",
+    "title_japanese": "ぼくのマリー",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-03-06T00:00:00+00:00",
+        "to": "1996-08-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 1996
+            },
+            "to": {
+                "day": 21,
+                "month": 8,
+                "year": 1996
+            }
+        },
+        "string": "Mar 6, 1996 to Aug 21, 1996"
+    },
+    "score": 6.29,
+    "scored_by": 1547,
+    "rank": 6940,
+    "popularity": 7066,
+    "members": 4001,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -2,14 +2,43 @@
 
 {% block head %}
 <title>data downloading</title>
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/progress_bar.css')}}">
+
+
+
 {% endblock %}
 
 
 {% block main %}
-<h2>this page is downloading just for you</h2>
 
-<div class="progress-bar">
-    
+<div id="message">
+    {% if category == 'staff' %}
+        Wow! You're the first person who wanted to see information about this anime.
+        You can feel proud of yourself, this page id downloading just for you.
+        Just wait a little for all of the needed info. It can tak up to 5 minutes.
+    {% else %}
+        Wow! You're the first person who wanted to see information about this creator.
+        You can feel proud of yourself, this page id downloading just for you.
+        Just wait a little for all of the needed info. It can tak up to 5 minutes.
+    {% endif %}
 </div>
 
+
+<div class="downloadProgress">
+    <div class="progressBarBack">
+        <div class="progressBarTop" id="pageDownloadBar"></div>
+    </div>
+    <div class="downloadStatus" id="pageDownloadStatus">Starting downloading</div>
+</div>
+
+
+
+{% endblock %}
+
+
+{% block javascript %}
+<script type="text/javascript">
+    var progress_url = "{{url_for('page_downloading', task_id=task_id)}}"
+</script>
+<script type="text/javascript" src="{{url_for('static', filename='javascript/progress_bar.js')}}"></script>
 {% endblock %}

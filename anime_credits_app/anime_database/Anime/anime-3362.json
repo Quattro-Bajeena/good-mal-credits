@@ -1,0 +1,44 @@
+{
+    "mal_id": 3362,
+    "url": "https://myanimelist.net/anime/3362/Oshare_Majo_Love_and_Berry__Shiawase_no_Mahou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/20054.jpg",
+    "title": "Oshare Majo Love and Berry: Shiawase no Mahou",
+    "title_english": "Fashionable Witches Love and Berry: Magic of Happiness",
+    "title_japanese": "オシャレ魔女 ラブ and ベリー しあわせのまほう",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-03-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 3,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 21, 2007"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11352,
+    "popularity": 11461,
+    "members": 645,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

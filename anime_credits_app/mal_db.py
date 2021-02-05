@@ -196,6 +196,7 @@ def update_character(character_db : Character, character : dict):
 # ---------------MAIN FUNCTIONS----------------
 
 def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
+    print("update staff start")
     update_function_status("anime info", 0, 1, celery_task)
 
     anime = mal.get_resource('anime', anime_mal_id, use_cached=use_cached)
@@ -259,7 +260,7 @@ def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
     db.session.commit()
 
 def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task = None):
-
+    print("update person credits start")
     update_function_status("person info", 0, 1, celery_task)
 
     person = mal.get_resource('people', person_mal_id, use_cached=use_cached)

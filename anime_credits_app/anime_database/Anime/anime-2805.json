@@ -1,0 +1,44 @@
+{
+    "mal_id": 2805,
+    "url": "https://myanimelist.net/anime/2805/Onegai_Samia_Don",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/71569.jpg",
+    "title": "Onegai! Samia Don",
+    "title_english": null,
+    "title_japanese": "おねがい！サミアどん",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1985-04-02T00:00:00+00:00",
+        "to": "1986-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 1985
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 1986
+            }
+        },
+        "string": "Apr 2, 1985 to Feb 4, 1986"
+    },
+    "score": 6.93,
+    "scored_by": 268,
+    "rank": 3876,
+    "popularity": 10904,
+    "members": 809,
+    "favorites": 2,
+    "premiered": "Spring 1985",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

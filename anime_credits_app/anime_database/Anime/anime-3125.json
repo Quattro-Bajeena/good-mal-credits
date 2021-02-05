@@ -1,0 +1,44 @@
+{
+    "mal_id": 3125,
+    "url": "https://myanimelist.net/anime/3125/Tokimeki_Tonight",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/41441.jpg",
+    "title": "Tokimeki Tonight",
+    "title_english": null,
+    "title_japanese": "ときめきトゥナイト",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 34,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-10-07T00:00:00+00:00",
+        "to": "1983-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 1982
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 1983
+            }
+        },
+        "string": "Oct 7, 1982 to Sep 22, 1983"
+    },
+    "score": 7.17,
+    "scored_by": 1502,
+    "rank": 2895,
+    "popularity": 5686,
+    "members": 6909,
+    "favorites": 34,
+    "premiered": "Fall 1982",
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

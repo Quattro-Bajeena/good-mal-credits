@@ -1,0 +1,56 @@
+{
+    "mal_id": 5908,
+    "url": "https://myanimelist.net/anime/5908/Chinpui",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/74871.jpg",
+    "title": "Chinpui",
+    "title_english": null,
+    "title_japanese": "チンプイ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 56,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-02-11T00:00:00+00:00",
+        "to": "1991-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 2,
+                "year": 1989
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 1991
+            }
+        },
+        "string": "Feb 11, 1989 to Apr 18, 1991"
+    },
+    "score": 6.14,
+    "scored_by": 271,
+    "rank": 7588,
+    "popularity": 10921,
+    "members": 804,
+    "favorites": 4,
+    "premiered": "Winter 1989",
+    "studios": [
+        {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Kyoto Animation",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        },
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

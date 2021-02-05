@@ -1,0 +1,50 @@
+{
+    "mal_id": 1981,
+    "url": "https://myanimelist.net/anime/1981/Twilight_Q",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/5908.jpg",
+    "title": "Twilight Q",
+    "title_english": null,
+    "title_japanese": "トワイライトQ",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-02-28T00:00:00+00:00",
+        "to": "1987-08-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 1987
+            },
+            "to": {
+                "day": 28,
+                "month": 8,
+                "year": 1987
+            }
+        },
+        "string": "Feb 28, 1987 to Aug 28, 1987"
+    },
+    "score": 6.34,
+    "scored_by": 2169,
+    "rank": 6700,
+    "popularity": 6007,
+    "members": 5959,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        },
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

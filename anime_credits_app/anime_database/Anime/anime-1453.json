@@ -1,0 +1,44 @@
+{
+    "mal_id": 1453,
+    "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/17576.jpg",
+    "title": "Maison Ikkoku",
+    "title_english": "Maison Ikkoku",
+    "title_japanese": "めぞん一刻",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 96,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-03-26T00:00:00+00:00",
+        "to": "1988-03-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 3,
+                "year": 1986
+            },
+            "to": {
+                "day": 2,
+                "month": 3,
+                "year": 1988
+            }
+        },
+        "string": "Mar 26, 1986 to Mar 2, 1988"
+    },
+    "score": 8.18,
+    "scored_by": 12238,
+    "rank": 327,
+    "popularity": 2237,
+    "members": 50396,
+    "favorites": 1295,
+    "premiered": "Spring 1986",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

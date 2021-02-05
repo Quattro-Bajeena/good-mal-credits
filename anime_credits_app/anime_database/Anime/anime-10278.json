@@ -1,0 +1,44 @@
+{
+    "mal_id": 10278,
+    "url": "https://myanimelist.net/anime/10278/The_iDOLMSTER",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/41085.jpg",
+    "title": "The iDOLM@STER",
+    "title_english": "THE IDOLM@STER",
+    "title_japanese": "アイドルマスター",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "to": "2011-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Jul 8, 2011 to Dec 23, 2011"
+    },
+    "score": 7.63,
+    "scored_by": 43496,
+    "rank": 1196,
+    "popularity": 1124,
+    "members": 129699,
+    "favorites": 1578,
+    "premiered": "Summer 2011",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

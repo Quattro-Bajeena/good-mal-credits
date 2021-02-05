@@ -1,0 +1,44 @@
+{
+    "mal_id": 12431,
+    "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/37573.jpg",
+    "title": "Uchuu Kyoudai",
+    "title_english": "Space Brothers",
+    "title_japanese": "宇宙兄弟",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 99,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-01T00:00:00+00:00",
+        "to": "2014-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Apr 1, 2012 to Mar 22, 2014"
+    },
+    "score": 8.52,
+    "scored_by": 37518,
+    "rank": 97,
+    "popularity": 988,
+    "members": 149033,
+    "favorites": 3374,
+    "premiered": "Spring 2012",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "mal_id": 1065,
+    "url": "https://myanimelist.net/anime/1065/Touch",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/53087.jpg",
+    "title": "Touch",
+    "title_english": null,
+    "title_japanese": "タッチ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 101,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1985-03-24T00:00:00+00:00",
+        "to": "1987-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 3,
+                "year": 1985
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 1987
+            }
+        },
+        "string": "Mar 24, 1985 to Mar 22, 1987"
+    },
+    "score": 8.03,
+    "scored_by": 7610,
+    "rank": 504,
+    "popularity": 3148,
+    "members": 26904,
+    "favorites": 479,
+    "premiered": "Spring 1985",
+    "studios": [
+        {
+            "mal_id": 36,
+            "type": "anime",
+            "name": "Gallop",
+            "url": "https://myanimelist.net/anime/producer/36/Gallop"
+        },
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        },
+        {
+            "mal_id": 280,
+            "type": "anime",
+            "name": "Studio Junio",
+            "url": "https://myanimelist.net/anime/producer/280/Studio_Junio"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3023,
+    "url": "https://myanimelist.net/anime/3023/Esper_Mami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/61395.jpg",
+    "title": "Esper Mami",
+    "title_english": null,
+    "title_japanese": "エスパー魔美",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 119,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-04-07T00:00:00+00:00",
+        "to": "1989-10-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 1987
+            },
+            "to": {
+                "day": 26,
+                "month": 10,
+                "year": 1989
+            }
+        },
+        "string": "Apr 7, 1987 to Oct 26, 1989"
+    },
+    "score": 6.46,
+    "scored_by": 230,
+    "rank": 6085,
+    "popularity": 9536,
+    "members": 1491,
+    "favorites": 4,
+    "premiered": "Spring 1987",
+    "studios": [
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

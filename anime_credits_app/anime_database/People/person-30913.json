@@ -1,0 +1,67 @@
+{
+    "mal_id": 30913,
+    "url": "https://myanimelist.net/people/30913/Keiko_Niwa",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Keiko Niwa",
+    "given_name": "圭子",
+    "family_name": "丹羽",
+    "birthday": null,
+    "member_favorites": 3,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 42143,
+                "url": "https://myanimelist.net/anime/42143/Aya_to_Majo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg?s=423fdf67ab504867577415ec46d4b569",
+                "name": "Aya to Majo"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 10029,
+                "url": "https://myanimelist.net/anime/10029/Coquelicot-zaka_kara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/32547.jpg?s=5788b35e17fdc7f95c37ec9d2894ab82",
+                "name": "Coquelicot-zaka kara"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 1829,
+                "url": "https://myanimelist.net/anime/1829/Ged_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73443.jpg?s=11298f6e58c27dd79fbac364e24ab4bb",
+                "name": "Ged Senki"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 7711,
+                "url": "https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75905.jpg?s=80b2bdf8d2f6948f221ae40731d0db15",
+                "name": "Karigurashi no Arrietty"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 21557,
+                "url": "https://myanimelist.net/anime/21557/Omoide_no_Marnie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/64293.jpg?s=1d43866f1f533359fda8b8e4134a022f",
+                "name": "Omoide no Marnie"
+            }
+        },
+        {
+            "position": "Script",
+            "anime": {
+                "mal_id": 743,
+                "url": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/52359.jpg?s=5879a027685dc2f7c9dccbc8669b6994",
+                "name": "Umi ga Kikoeru"
+            }
+        }
+    ]
+}

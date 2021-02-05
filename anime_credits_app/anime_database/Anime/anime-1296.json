@@ -1,0 +1,44 @@
+{
+    "mal_id": 1296,
+    "url": "https://myanimelist.net/anime/1296/Project_A-Ko_2__Daitokuji_Zaibatsu_no_Inbou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/29213.jpg",
+    "title": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+    "title_english": null,
+    "title_japanese": "プロジェクトA子2 大徳寺財閥の陰謀",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-05-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 5,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 21, 1987"
+    },
+    "score": 6.51,
+    "scored_by": 2421,
+    "rank": 5817,
+    "popularity": 6585,
+    "members": 4748,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "APPP",
+            "url": "https://myanimelist.net/anime/producer/77/APPP"
+        }
+    ]
+}

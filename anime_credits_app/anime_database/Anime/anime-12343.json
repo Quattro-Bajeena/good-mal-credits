@@ -1,0 +1,44 @@
+{
+    "mal_id": 12343,
+    "url": "https://myanimelist.net/anime/12343/Dirty_Pair_Flash_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/35253.jpg",
+    "title": "Dirty Pair Flash 2",
+    "title_english": "Dirty Pair Flash 2",
+    "title_japanese": "ダーティペアFLASH 2",
+    "type": "OVA",
+    "source": "Light novel",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-06-01T00:00:00+00:00",
+        "to": "1995-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 6,
+                "year": 1995
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 1995
+            }
+        },
+        "string": "Jun 1, 1995 to Oct 1, 1995"
+    },
+    "score": 6.65,
+    "scored_by": 1142,
+    "rank": 5139,
+    "popularity": 7764,
+    "members": 3029,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

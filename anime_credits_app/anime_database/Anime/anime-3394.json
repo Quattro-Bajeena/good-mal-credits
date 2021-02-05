@@ -1,0 +1,44 @@
+{
+    "mal_id": 3394,
+    "url": "https://myanimelist.net/anime/3394/Kimagure_Orange☆Road__Shounen_Jump_Special",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1160/94283.jpg",
+    "title": "Kimagure Orange☆Road: Shounen Jump Special",
+    "title_english": "Kimagure Orange Road TV Pilot",
+    "title_japanese": "きまぐれオレンジ☆ロード 少年ジャンプ・スペシャル",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1985-11-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 11,
+                "year": 1985
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 23, 1985"
+    },
+    "score": 6.61,
+    "scored_by": 1394,
+    "rank": 5341,
+    "popularity": 7504,
+    "members": 3353,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "mal_id": 743,
+    "url": "https://myanimelist.net/anime/743/Umi_ga_Kikoeru",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/52359.jpg",
+    "title": "Umi ga Kikoeru",
+    "title_english": "The Ocean Waves",
+    "title_japanese": "海がきこえる",
+    "type": "Special",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-05-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 5,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 5, 1993"
+    },
+    "score": 6.62,
+    "scored_by": 40882,
+    "rank": 5296,
+    "popularity": 1720,
+    "members": 76435,
+    "favorites": 263,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        },
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

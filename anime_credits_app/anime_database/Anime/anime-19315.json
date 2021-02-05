@@ -1,0 +1,44 @@
+{
+    "mal_id": 19315,
+    "url": "https://myanimelist.net/anime/19315/Pupa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/54395.jpg",
+    "title": "Pupa",
+    "title_english": "Pupa",
+    "title_japanese": "Pupa (ピューパ)",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-01-10T00:00:00+00:00",
+        "to": "2014-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 10, 2014 to Mar 28, 2014"
+    },
+    "score": 3.42,
+    "scored_by": 76037,
+    "rank": 10989,
+    "popularity": 994,
+    "members": 148285,
+    "favorites": 216,
+    "premiered": "Winter 2014",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

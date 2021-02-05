@@ -11,7 +11,8 @@ def add_1_async(self, param1):
     for i in range(param1):
         self.update_state(state='PENDING', meta={'current': i, 'total' : param1 })
         sleep(1)
-    self.update_state(state='COMPLETE')
+    
+    self.update_state(state='PENDING', meta={'current': param1, 'total' : param1 })
     return param1 + 1
 
 
