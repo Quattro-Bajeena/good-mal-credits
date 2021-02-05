@@ -6,3 +6,4 @@ muwenv/
 venv/
 .flaskenv
 .vscode/
+.env

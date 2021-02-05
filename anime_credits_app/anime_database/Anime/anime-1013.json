@@ -1,0 +1,44 @@
+{
+    "mal_id": 1013,
+    "url": "https://myanimelist.net/anime/1013/Le_Chevalier_DEon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/74930.jpg",
+    "title": "Le Chevalier D'Eon",
+    "title_english": null,
+    "title_japanese": "シュヴァリエ Le Chevalier D'Eon",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-02T00:00:00+00:00",
+        "to": "2007-02-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": 23,
+                "month": 2,
+                "year": 2007
+            }
+        },
+        "string": "Jul 2, 2006 to Feb 23, 2007"
+    },
+    "score": 7.23,
+    "scored_by": 12108,
+    "rank": 2650,
+    "popularity": 2253,
+    "members": 49459,
+    "favorites": 245,
+    "premiered": "Summer 2006",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 9600,
+    "url": "https://myanimelist.net/anime/9600/G-Taste_2010",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/61779.jpg",
+    "title": "G-Taste (2010)",
+    "title_english": "G-Best",
+    "title_japanese": "G-Best －G-tasteベストセレクション－",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-11-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 22, 2010"
+    },
+    "score": 5.27,
+    "scored_by": 1116,
+    "rank": 10152,
+    "popularity": 7762,
+    "members": 3043,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 292,
+            "type": "anime",
+            "name": "AIC PLUS+",
+            "url": "https://myanimelist.net/anime/producer/292/AIC_PLUS_"
+        }
+    ]
+}

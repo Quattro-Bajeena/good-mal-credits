@@ -1,0 +1,44 @@
+{
+    "mal_id": 235,
+    "url": "https://myanimelist.net/anime/235/Detective_Conan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg",
+    "title": "Detective Conan",
+    "title_english": "Case Closed",
+    "title_japanese": "名探偵コナン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": null,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "1996-01-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 8, 1996 to ?"
+    },
+    "score": 8.16,
+    "scored_by": 115594,
+    "rank": 349,
+    "popularity": 580,
+    "members": 248530,
+    "favorites": 11628,
+    "premiered": "Winter 1996",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

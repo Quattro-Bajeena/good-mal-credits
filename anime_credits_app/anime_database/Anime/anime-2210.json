@@ -1,0 +1,37 @@
+{
+    "mal_id": 2210,
+    "url": "https://myanimelist.net/anime/2210/Tooi_Sekai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1427/103656.jpg",
+    "title": "Tooi Sekai",
+    "title_english": null,
+    "title_japanese": "遠い世界",
+    "type": "ONA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-02-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 2,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 1, 1999"
+    },
+    "score": 6.34,
+    "scored_by": 9138,
+    "rank": 6693,
+    "popularity": 4176,
+    "members": 14638,
+    "favorites": 13,
+    "premiered": null,
+    "studios": []
+}

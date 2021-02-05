@@ -1,0 +1,44 @@
+{
+    "mal_id": 32681,
+    "url": "https://myanimelist.net/anime/32681/Uchuu_Patrol_Luluco",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/79073.jpg",
+    "title": "Uchuu Patrol Luluco",
+    "title_english": "Space Patrol Luluco",
+    "title_japanese": "宇宙パトロールルル子",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-04-01T00:00:00+00:00",
+        "to": "2016-06-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 1, 2016 to Jun 24, 2016"
+    },
+    "score": 7.59,
+    "scored_by": 61156,
+    "rank": 1306,
+    "popularity": 1182,
+    "members": 123573,
+    "favorites": 1017,
+    "premiered": "Spring 2016",
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

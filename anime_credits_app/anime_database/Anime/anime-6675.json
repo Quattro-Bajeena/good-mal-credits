@@ -1,0 +1,44 @@
+{
+    "mal_id": 6675,
+    "url": "https://myanimelist.net/anime/6675/Redline",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/28553.jpg",
+    "title": "Redline",
+    "title_english": "Redline",
+    "title_japanese": "REDLINE",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-08-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 14, 2009"
+    },
+    "score": 8.29,
+    "scored_by": 142618,
+    "rank": 229,
+    "popularity": 562,
+    "members": 258047,
+    "favorites": 3897,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 4121,
+    "url": "https://myanimelist.net/anime/4121/Meimon_Daisan_Yakyuubu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/7567.jpg",
+    "title": "Meimon! Daisan Yakyuubu",
+    "title_english": "Meimon! The Third Baseball Club",
+    "title_japanese": "名門！第三野球部",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-10-20T00:00:00+00:00",
+        "to": "1989-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 1988
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 1989
+            }
+        },
+        "string": "Oct 20, 1988 to Sep 29, 1989"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 15481,
+    "popularity": 12001,
+    "members": 515,
+    "favorites": 1,
+    "premiered": "Fall 1988",
+    "studios": []
+}

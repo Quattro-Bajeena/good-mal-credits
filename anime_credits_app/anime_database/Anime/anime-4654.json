@@ -1,0 +1,44 @@
+{
+    "mal_id": 4654,
+    "url": "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75533.jpg",
+    "title": "Toaru Majutsu no Index",
+    "title_english": "A Certain Magical Index",
+    "title_japanese": "とある魔術の禁書目録",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-10-05T00:00:00+00:00",
+        "to": "2009-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 5, 2008 to Mar 19, 2009"
+    },
+    "score": 7.44,
+    "scored_by": 296906,
+    "rank": 1790,
+    "popularity": 157,
+    "members": 630698,
+    "favorites": 7036,
+    "premiered": "Fall 2008",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

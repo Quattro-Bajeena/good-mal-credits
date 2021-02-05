@@ -1,0 +1,44 @@
+{
+    "mal_id": 52,
+    "url": "https://myanimelist.net/anime/52/Kidou_Tenshi_Angelic_Layer",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/23379.jpg",
+    "title": "Kidou Tenshi Angelic Layer",
+    "title_english": "Battle Doll Angelic Layer",
+    "title_japanese": "機動天使エンジェリックレイヤー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-04-01T00:00:00+00:00",
+        "to": "2001-09-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2001
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Apr 1, 2001 to Sep 23, 2001"
+    },
+    "score": 7.26,
+    "scored_by": 24792,
+    "rank": 2548,
+    "popularity": 2226,
+    "members": 50901,
+    "favorites": 290,
+    "premiered": "Spring 2001",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

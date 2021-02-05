@@ -1,0 +1,44 @@
+{
+    "mal_id": 16518,
+    "url": "https://myanimelist.net/anime/16518/Arata_Kangatari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/47011.jpg",
+    "title": "Arata Kangatari",
+    "title_english": "Arata: The Legend",
+    "title_japanese": "アラタカンガタリ～革神語～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-04-09T00:00:00+00:00",
+        "to": "2013-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Apr 9, 2013 to Jul 2, 2013"
+    },
+    "score": 6.51,
+    "scored_by": 27613,
+    "rank": 5839,
+    "popularity": 1979,
+    "members": 60639,
+    "favorites": 62,
+    "premiered": "Spring 2013",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

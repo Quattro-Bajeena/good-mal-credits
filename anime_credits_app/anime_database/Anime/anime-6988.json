@@ -1,0 +1,44 @@
+{
+    "mal_id": 6988,
+    "url": "https://myanimelist.net/anime/6988/Doraemon_Movie_30__Nobita_no_Ningyo_Daikaisen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/72435.jpg",
+    "title": "Doraemon Movie 30: Nobita no Ningyo Daikaisen",
+    "title_english": null,
+    "title_japanese": "映画 ドラえもん のび太の人魚大海戦",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-03-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 6, 2010"
+    },
+    "score": 7.15,
+    "scored_by": 1931,
+    "rank": 2979,
+    "popularity": 7534,
+    "members": 3369,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

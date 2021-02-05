@@ -1,0 +1,44 @@
+{
+    "mal_id": 8337,
+    "url": "https://myanimelist.net/anime/8337/Shoka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/21936.jpg",
+    "title": "Shoka",
+    "title_english": null,
+    "title_japanese": "書家",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-03-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 27, 2010"
+    },
+    "score": 6,
+    "scored_by": 2069,
+    "rank": 8200,
+    "popularity": 6691,
+    "members": 4583,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

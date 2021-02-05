@@ -1,0 +1,44 @@
+{
+    "mal_id": 23259,
+    "url": "https://myanimelist.net/anime/23259/Gundam__G_no_Reconguista",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/63753.jpg",
+    "title": "Gundam: G no Reconguista",
+    "title_english": "Gundam Reconguista in G",
+    "title_japanese": "ガンダム Gのレコンギスタ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-03T00:00:00+00:00",
+        "to": "2015-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 3, 2014 to Mar 27, 2015"
+    },
+    "score": 5.76,
+    "scored_by": 8558,
+    "rank": 8958,
+    "popularity": 3266,
+    "members": 25001,
+    "favorites": 51,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 1755,
+    "url": "https://myanimelist.net/anime/1755/Di_Gi_Charat_Ohanami_Special",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1234/95891.jpg",
+    "title": "Di Gi Charat Ohanami Special",
+    "title_english": null,
+    "title_japanese": "Di Gi Charat お花見すぺしゃる",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-04-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 6, 2001"
+    },
+    "score": 6.65,
+    "scored_by": 1010,
+    "rank": 5121,
+    "popularity": 8478,
+    "members": 2283,
+    "favorites": 1,
+    "premiered": null,
+    "studios": []
+}

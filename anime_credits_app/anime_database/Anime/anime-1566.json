@@ -1,0 +1,44 @@
+{
+    "mal_id": 1566,
+    "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg",
+    "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+    "title_english": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+    "title_japanese": "攻殻機動隊 STAND ALONE COMPLEX Solid State Society",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-09-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 1, 2006"
+    },
+    "score": 8.14,
+    "scored_by": 41159,
+    "rank": 373,
+    "popularity": 1573,
+    "members": 85457,
+    "favorites": 267,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

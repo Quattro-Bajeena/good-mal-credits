@@ -1,0 +1,50 @@
+{
+    "mal_id": 10770,
+    "url": "https://myanimelist.net/anime/10770/Mahou_Shoujo_Elena",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1993/104260.jpg",
+    "title": "Mahou Shoujo Elena",
+    "title_english": null,
+    "title_japanese": "魔法少女えれな",
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-08T00:00:00+00:00",
+        "to": "2013-02-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 22,
+                "month": 2,
+                "year": 2013
+            }
+        },
+        "string": "Jul 8, 2011 to Feb 22, 2013"
+    },
+    "score": 6.51,
+    "scored_by": 2174,
+    "rank": null,
+    "popularity": 5977,
+    "members": 6037,
+    "favorites": 45,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Studio Fantasia",
+            "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+        },
+        {
+            "mal_id": 1107,
+            "type": "anime",
+            "name": "Rabbit Gate",
+            "url": "https://myanimelist.net/anime/producer/1107/Rabbit_Gate"
+        }
+    ]
+}

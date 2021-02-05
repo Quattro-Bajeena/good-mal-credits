@@ -1,0 +1,44 @@
+{
+    "mal_id": 3090,
+    "url": "https://myanimelist.net/anime/3090/Aa_Megami-sama__Tatakau_Tsubasa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/18673.jpg",
+    "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+    "title_english": null,
+    "title_japanese": "ああっ女神さまっ 闘う翼",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-12-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 12,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 9, 2007"
+    },
+    "score": 7.6,
+    "scored_by": 11817,
+    "rank": 1280,
+    "popularity": 3320,
+    "members": 24068,
+    "favorites": 32,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

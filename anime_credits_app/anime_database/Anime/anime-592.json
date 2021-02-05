@@ -1,0 +1,44 @@
+{
+    "mal_id": 592,
+    "url": "https://myanimelist.net/anime/592/PopoloCrois",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/27541.jpg",
+    "title": "PopoloCrois",
+    "title_english": null,
+    "title_japanese": "ポポロクロイス",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-10-05T00:00:00+00:00",
+        "to": "2004-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2003
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Oct 5, 2003 to Mar 28, 2004"
+    },
+    "score": 6.92,
+    "scored_by": 474,
+    "rank": 3918,
+    "popularity": 9328,
+    "members": 1632,
+    "favorites": 2,
+    "premiered": "Fall 2003",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

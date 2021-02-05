@@ -1,0 +1,44 @@
+{
+    "mal_id": 22835,
+    "url": "https://myanimelist.net/anime/22835/Himegoto",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75226.jpg",
+    "title": "Himegoto",
+    "title_english": null,
+    "title_japanese": "ひめゴト",
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-07T00:00:00+00:00",
+        "to": "2014-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 7, 2014 to Sep 29, 2014"
+    },
+    "score": 5.95,
+    "scored_by": 43963,
+    "rank": 8374,
+    "popularity": 1454,
+    "members": 95147,
+    "favorites": 291,
+    "premiered": "Summer 2014",
+    "studios": [
+        {
+            "mal_id": 406,
+            "type": "anime",
+            "name": "Asahi Production",
+            "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+        }
+    ]
+}

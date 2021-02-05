@@ -1,0 +1,44 @@
+{
+    "mal_id": 32491,
+    "url": "https://myanimelist.net/anime/32491/Kanojo_to_Kanojo_no_Neko__Everything_Flows",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.jpg",
+    "title": "Kanojo to Kanojo no Neko: Everything Flows",
+    "title_english": null,
+    "title_japanese": "彼女と彼女の猫 -Everything Flows-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-03-04T00:00:00+00:00",
+        "to": "2016-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2016
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Mar 4, 2016 to Mar 25, 2016"
+    },
+    "score": 7.7,
+    "scored_by": 42770,
+    "rank": 1034,
+    "popularity": 1472,
+    "members": 93499,
+    "favorites": 487,
+    "premiered": "Winter 2016",
+    "studios": [
+        {
+            "mal_id": 839,
+            "type": "anime",
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ]
+}

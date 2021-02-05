@@ -1,0 +1,44 @@
+{
+    "mal_id": 256,
+    "url": "https://myanimelist.net/anime/256/Hoshi_no_Koe",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/2389.jpg",
+    "title": "Hoshi no Koe",
+    "title_english": "Voices of a Distant Star",
+    "title_japanese": "ほしのこえ",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-02-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 2, 2002"
+    },
+    "score": 7.22,
+    "scored_by": 68704,
+    "rank": 2689,
+    "popularity": 1120,
+    "members": 130332,
+    "favorites": 552,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 291,
+            "type": "anime",
+            "name": "CoMix Wave Films",
+            "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+        }
+    ]
+}

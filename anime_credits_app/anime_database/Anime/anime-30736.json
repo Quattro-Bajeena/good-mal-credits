@@ -1,0 +1,44 @@
+{
+    "mal_id": 30736,
+    "url": "https://myanimelist.net/anime/30736/Shingeki_no_Bahamut__Virgin_Soul",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/85564.jpg",
+    "title": "Shingeki no Bahamut: Virgin Soul",
+    "title_english": "Rage of Bahamut: Virgin Soul",
+    "title_japanese": "神撃のバハムート VIRGIN SOUL",
+    "type": "TV",
+    "source": "Card game",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-04-08T00:00:00+00:00",
+        "to": "2017-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Apr 8, 2017 to Sep 30, 2017"
+    },
+    "score": 7.47,
+    "scored_by": 66682,
+    "rank": 1665,
+    "popularity": 788,
+    "members": 187372,
+    "favorites": 866,
+    "premiered": "Spring 2017",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

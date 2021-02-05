@@ -1,0 +1,44 @@
+{
+    "mal_id": 433,
+    "url": "https://myanimelist.net/anime/433/Kumo_no_Mukou_Yakusoku_no_Basho",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/433.jpg",
+    "title": "Kumo no Mukou, Yakusoku no Basho",
+    "title_english": "The Place Promised in Our Early Days",
+    "title_japanese": "雲のむこう、約束の場所",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-11-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 11,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 20, 2004"
+    },
+    "score": 7.56,
+    "scored_by": 77319,
+    "rank": 1400,
+    "popularity": 842,
+    "members": 176186,
+    "favorites": 724,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 291,
+            "type": "anime",
+            "name": "CoMix Wave Films",
+            "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+        }
+    ]
+}

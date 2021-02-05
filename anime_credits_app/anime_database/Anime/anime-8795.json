@@ -1,0 +1,44 @@
+{
+    "mal_id": 8795,
+    "url": "https://myanimelist.net/anime/8795/Panty___Stocking_with_Garterbelt",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/73643.jpg",
+    "title": "Panty & Stocking with Garterbelt",
+    "title_english": "Panty & Stocking with Garterbelt",
+    "title_japanese": "パンティ＆ストッキングwithガーターベルト",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-02T00:00:00+00:00",
+        "to": "2010-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 2, 2010 to Dec 25, 2010"
+    },
+    "score": 7.73,
+    "scored_by": 144017,
+    "rank": 960,
+    "popularity": 476,
+    "members": 293834,
+    "favorites": 4544,
+    "premiered": "Fall 2010",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

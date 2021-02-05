@@ -1,0 +1,37 @@
+{
+    "mal_id": 3203,
+    "url": "https://myanimelist.net/anime/3203/Chibi_Maruko-chan_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/54919.jpg",
+    "title": "Chibi Maruko-chan Movie",
+    "title_english": null,
+    "title_japanese": "ちびまる子ちゃん (1990)",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-12-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 12,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 15, 1990"
+    },
+    "score": 7.15,
+    "scored_by": 723,
+    "rank": 2972,
+    "popularity": 9397,
+    "members": 1586,
+    "favorites": 3,
+    "premiered": null,
+    "studios": []
+}

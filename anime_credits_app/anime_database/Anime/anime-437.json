@@ -1,0 +1,44 @@
+{
+    "mal_id": 437,
+    "url": "https://myanimelist.net/anime/437/Perfect_Blue",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/79127.jpg",
+    "title": "Perfect Blue",
+    "title_english": "Perfect Blue",
+    "title_japanese": "パーフェクトブルー",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-02-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 2,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 28, 1998"
+    },
+    "score": 8.47,
+    "scored_by": 201719,
+    "rank": 115,
+    "popularity": 341,
+    "members": 385245,
+    "favorites": 9694,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

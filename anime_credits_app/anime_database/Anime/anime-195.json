@@ -1,0 +1,44 @@
+{
+    "mal_id": 195,
+    "url": "https://myanimelist.net/anime/195/Onegai☆Teacher",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/5241.jpg",
+    "title": "Onegai☆Teacher",
+    "title_english": "Please Teacher!",
+    "title_japanese": "おねがい☆ティーチャー",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-01-10T00:00:00+00:00",
+        "to": "2002-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2002
+            }
+        },
+        "string": "Jan 10, 2002 to Mar 28, 2002"
+    },
+    "score": 7.18,
+    "scored_by": 81384,
+    "rank": 2870,
+    "popularity": 1005,
+    "members": 147017,
+    "favorites": 925,
+    "premiered": "Winter 2002",
+    "studios": [
+        {
+            "mal_id": 39,
+            "type": "anime",
+            "name": "Daume",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ]
+}

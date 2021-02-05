@@ -1,0 +1,44 @@
+{
+    "mal_id": 16,
+    "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/73923.jpg",
+    "title": "Hachimitsu to Clover",
+    "title_english": "Honey and Clover",
+    "title_japanese": "ハチミツとクローバー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-04-15T00:00:00+00:00",
+        "to": "2005-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Apr 15, 2005 to Sep 27, 2005"
+    },
+    "score": 8.06,
+    "scored_by": 66445,
+    "rank": 465,
+    "popularity": 679,
+    "members": 213117,
+    "favorites": 4097,
+    "premiered": "Spring 2005",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 958,
+    "url": "https://myanimelist.net/anime/958/HeatGuy_J",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/76288.jpg",
+    "title": "HeatGuy J",
+    "title_english": "HeatGuy J",
+    "title_japanese": "ヒートガイジェイ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-10-02T00:00:00+00:00",
+        "to": "2003-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Oct 2, 2002 to Mar 26, 2003"
+    },
+    "score": 7.18,
+    "scored_by": 5431,
+    "rank": 2868,
+    "popularity": 4073,
+    "members": 15564,
+    "favorites": 64,
+    "premiered": "Fall 2002",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

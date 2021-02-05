@@ -1,0 +1,44 @@
+{
+    "mal_id": 6324,
+    "url": "https://myanimelist.net/anime/6324/Omamori_Himari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/15393.jpg",
+    "title": "Omamori Himari",
+    "title_english": "Omamori Himari",
+    "title_japanese": "おまもりひまり",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-01-07T00:00:00+00:00",
+        "to": "2010-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jan 7, 2010 to Mar 25, 2010"
+    },
+    "score": 6.93,
+    "scored_by": 101266,
+    "rank": 3873,
+    "popularity": 721,
+    "members": 200645,
+    "favorites": 727,
+    "premiered": "Winter 2010",
+    "studios": [
+        {
+            "mal_id": 218,
+            "type": "anime",
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ]
+}

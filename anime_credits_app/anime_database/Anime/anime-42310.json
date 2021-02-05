@@ -1,0 +1,44 @@
+{
+    "mal_id": 42310,
+    "url": "https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1562/108236.jpg",
+    "title": "Cyberpunk: Edgerunners",
+    "title_english": null,
+    "title_japanese": "CYBERPUNK: EDGERUNNERS",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 10,
+    "status": "Not yet aired",
+    "aired": {
+        "from": "2022-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2022 to ?"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 4513,
+    "members": 12178,
+    "favorites": 15,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

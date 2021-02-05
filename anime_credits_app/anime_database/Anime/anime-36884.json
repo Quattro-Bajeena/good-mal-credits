@@ -1,0 +1,44 @@
+{
+    "mal_id": 36884,
+    "url": "https://myanimelist.net/anime/36884/Hisone_to_Maso-tan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1539/91169.jpg",
+    "title": "Hisone to Maso-tan",
+    "title_english": "Dragon Pilot: Hisone and Masotan",
+    "title_japanese": "ひそねとまそたん",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-04-13T00:00:00+00:00",
+        "to": "2018-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2018
+            }
+        },
+        "string": "Apr 13, 2018 to Jun 29, 2018"
+    },
+    "score": 7.37,
+    "scored_by": 26321,
+    "rank": 2043,
+    "popularity": 1906,
+    "members": 64238,
+    "favorites": 264,
+    "premiered": "Spring 2018",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

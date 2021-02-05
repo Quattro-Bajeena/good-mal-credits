@@ -1,0 +1,44 @@
+{
+    "mal_id": 288,
+    "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/21118.jpg",
+    "title": "Bakuten Shoot Beyblade",
+    "title_english": "Beyblade",
+    "title_japanese": "爆転シュート　ベイブレード",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-01-08T00:00:00+00:00",
+        "to": "2001-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2001
+            }
+        },
+        "string": "Jan 8, 2001 to Dec 24, 2001"
+    },
+    "score": 6.73,
+    "scored_by": 54092,
+    "rank": 4757,
+    "popularity": 1565,
+    "members": 86485,
+    "favorites": 357,
+    "premiered": "Winter 2001",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

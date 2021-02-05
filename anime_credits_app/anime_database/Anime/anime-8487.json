@@ -1,0 +1,44 @@
+{
+    "mal_id": 8487,
+    "url": "https://myanimelist.net/anime/8487/Onigamiden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28871.jpg",
+    "title": "Onigamiden",
+    "title_english": "Legend of the Millennium Dragon",
+    "title_japanese": "鬼神伝",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 29, 2011"
+    },
+    "score": 6.52,
+    "scored_by": 4897,
+    "rank": 5791,
+    "popularity": 4576,
+    "members": 11774,
+    "favorites": 13,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

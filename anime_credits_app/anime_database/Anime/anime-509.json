@@ -1,0 +1,44 @@
+{
+    "mal_id": 509,
+    "url": "https://myanimelist.net/anime/509/I_My_Me_Strawberry_Eggs",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1414/93964.jpg",
+    "title": "I My Me! Strawberry Eggs",
+    "title_english": "I My Me! Strawberry Eggs",
+    "title_japanese": "あぃまぃみぃ！ストロベリー・エッグ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-07-04T00:00:00+00:00",
+        "to": "2001-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2001
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Jul 4, 2001 to Sep 26, 2001"
+    },
+    "score": 6.81,
+    "scored_by": 17356,
+    "rank": 4396,
+    "popularity": 2803,
+    "members": 33156,
+    "favorites": 101,
+    "premiered": "Summer 2001",
+    "studios": [
+        {
+            "mal_id": 120,
+            "type": "anime",
+            "name": "TNK",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ]
+}

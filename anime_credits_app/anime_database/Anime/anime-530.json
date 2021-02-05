@@ -1,0 +1,44 @@
+{
+    "mal_id": 530,
+    "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg",
+    "title": "Bishoujo Senshi Sailor Moon",
+    "title_english": "Sailor Moon",
+    "title_japanese": "美少女戦士セーラームーン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 46,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-03-07T00:00:00+00:00",
+        "to": "1993-02-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 3,
+                "year": 1992
+            },
+            "to": {
+                "day": 27,
+                "month": 2,
+                "year": 1993
+            }
+        },
+        "string": "Mar 7, 1992 to Feb 27, 1993"
+    },
+    "score": 7.68,
+    "scored_by": 132666,
+    "rank": 1075,
+    "popularity": 510,
+    "members": 274693,
+    "favorites": 9213,
+    "premiered": "Spring 1992",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

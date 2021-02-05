@@ -1,0 +1,50 @@
+{
+    "mal_id": 95,
+    "url": "https://myanimelist.net/anime/95/Turn_A_Gundam",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78330.jpg",
+    "title": "Turn A Gundam",
+    "title_english": "∀ Gundam",
+    "title_japanese": "∀ガンダム",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-04-09T00:00:00+00:00",
+        "to": "2000-04-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 14,
+                "month": 4,
+                "year": 2000
+            }
+        },
+        "string": "Apr 9, 1999 to Apr 14, 2000"
+    },
+    "score": 7.7,
+    "scored_by": 11706,
+    "rank": 1027,
+    "popularity": 2705,
+    "members": 35431,
+    "favorites": 756,
+    "premiered": "Spring 1999",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        },
+        {
+            "mal_id": 1260,
+            "type": "anime",
+            "name": "Nakamura Production",
+            "url": "https://myanimelist.net/anime/producer/1260/Nakamura_Production"
+        }
+    ]
+}

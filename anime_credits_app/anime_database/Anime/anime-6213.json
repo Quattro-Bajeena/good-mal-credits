@@ -1,0 +1,44 @@
+{
+    "mal_id": 6213,
+    "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.jpg",
+    "title": "Toaru Kagaku no Railgun",
+    "title_english": "A Certain Scientific Railgun",
+    "title_japanese": "とある科学の超電磁砲",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-03T00:00:00+00:00",
+        "to": "2010-03-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 20,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Oct 3, 2009 to Mar 20, 2010"
+    },
+    "score": 7.73,
+    "scored_by": 212558,
+    "rank": 965,
+    "popularity": 277,
+    "members": 456504,
+    "favorites": 7383,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

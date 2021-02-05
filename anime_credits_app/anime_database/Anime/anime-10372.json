@@ -1,0 +1,44 @@
+{
+    "mal_id": 10372,
+    "url": "https://myanimelist.net/anime/10372/Kamisama_Dolls",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50393.jpg",
+    "title": "Kamisama Dolls",
+    "title_english": "Kamisama Dolls",
+    "title_japanese": "神様ドォルズ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-06T00:00:00+00:00",
+        "to": "2011-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 6, 2011 to Sep 28, 2011"
+    },
+    "score": 7.04,
+    "scored_by": 27227,
+    "rank": 3493,
+    "popularity": 1898,
+    "members": 64728,
+    "favorites": 89,
+    "premiered": "Summer 2011",
+    "studios": [
+        {
+            "mal_id": 112,
+            "type": "anime",
+            "name": "Brain's Base",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "mal_id": 7801,
+    "url": "https://myanimelist.net/character/7801/Chobi",
+    "name": "Chobi",
+    "name_kanji": null,
+    "nicknames": [
+        "Her Cat"
+    ],
+    "member_favorites": 77,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/102639.jpg",
+    "animeography": [
+        {
+            "mal_id": 1004,
+            "name": "Kanojo to Kanojo no Neko",
+            "url": "https://myanimelist.net/anime/1004/Kanojo_to_Kanojo_no_Neko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.jpg?s=9a5d3abbb025490638a7cbc675b96c72",
+            "role": "Main"
+        },
+        {
+            "mal_id": 32491,
+            "name": "Kanojo to Kanojo no Neko: Everything Flows",
+            "url": "https://myanimelist.net/anime/32491/Kanojo_to_Kanojo_no_Neko__Everything_Flows",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.jpg?s=133d01af574d16714709f36421099431",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 96334,
+            "name": "Kanojo to Kanojo no Neko",
+            "url": "https://myanimelist.net/manga/96334/Kanojo_to_Kanojo_no_Neko",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/182560.jpg?s=2a052de1bccddc593064263c7f32c48a",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 764,
+            "name": "Alto, Massimiliano",
+            "url": "https://myanimelist.net/people/764/Massimiliano_Alto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/812.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1117,
+            "name": "Shinkai, Makoto",
+            "url": "https://myanimelist.net/people/1117/Makoto_Shinkai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54688.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 44271,
+            "name": "Shipman, Matt",
+            "url": "https://myanimelist.net/people/44271/Matt_Shipman",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47730.jpg",
+            "language": "English"
+        }
+    ]
+}

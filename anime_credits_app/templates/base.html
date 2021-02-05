@@ -1,16 +1,18 @@
 <!doctype html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     {% block head %}
     <title>gMs</title>
     {% endblock %}
     
     <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
-
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
 </head>
+
 <body>
-<div class="header">
+<!-- <div class="header">
     
     <h2>Flashed messages</h2>
     {% with messages = get_flashed_messages() %}
@@ -26,10 +28,11 @@
 
 <form action="{{url_for('test_celery')}}" method="post">
     <button type="submit" name="test_celery_name" value="test_celery_val">test celery </button>
-</form>
+</form> 
+<hr> -->
 
 
-<hr>
+
 
 <div id="search-box">
     <form action="{{url_for('search')}}" method="post">

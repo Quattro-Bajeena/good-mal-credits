@@ -1,0 +1,44 @@
+{
+    "mal_id": 32311,
+    "url": "https://myanimelist.net/anime/32311/Beautiful_World",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/78476.jpg",
+    "title": "Beautiful World",
+    "title_english": null,
+    "title_japanese": "ビューティフル・ワールド",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-12-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2, 2014"
+    },
+    "score": 6.56,
+    "scored_by": 2929,
+    "rank": 5582,
+    "popularity": 6326,
+    "members": 5288,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 47,
+            "type": "anime",
+            "name": "Khara",
+            "url": "https://myanimelist.net/anime/producer/47/Khara"
+        }
+    ]
+}

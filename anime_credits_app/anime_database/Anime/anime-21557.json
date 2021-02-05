@@ -1,0 +1,44 @@
+{
+    "mal_id": 21557,
+    "url": "https://myanimelist.net/anime/21557/Omoide_no_Marnie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/64293.jpg",
+    "title": "Omoide no Marnie",
+    "title_english": "When Marnie Was There",
+    "title_japanese": "思い出のマーニー",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 19, 2014"
+    },
+    "score": 8.11,
+    "scored_by": 97335,
+    "rank": 396,
+    "popularity": 796,
+    "members": 186655,
+    "favorites": 1622,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 218,
+    "url": "https://myanimelist.net/anime/218/Kidou_Senkan_Nadesico",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/53955.jpg",
+    "title": "Kidou Senkan Nadesico",
+    "title_english": "Martian Successor Nadesico",
+    "title_japanese": "機動戦艦ナデシコ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-10-01T00:00:00+00:00",
+        "to": "1997-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 1996
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 1997
+            }
+        },
+        "string": "Oct 1, 1996 to Mar 25, 1997"
+    },
+    "score": 7.52,
+    "scored_by": 16137,
+    "rank": 1522,
+    "popularity": 2417,
+    "members": 43543,
+    "favorites": 419,
+    "premiered": "Fall 1996",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

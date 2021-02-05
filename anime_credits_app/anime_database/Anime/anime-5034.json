@@ -1,0 +1,50 @@
+{
+    "mal_id": 5034,
+    "url": "https://myanimelist.net/anime/5034/Shikabane_Hime__Kuro",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1125/105989.jpg",
+    "title": "Shikabane Hime: Kuro",
+    "title_english": "Corpse Princess: Kuro",
+    "title_japanese": "屍姫 玄",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-01-01T00:00:00+00:00",
+        "to": "2009-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Jan 1, 2009 to Mar 26, 2009"
+    },
+    "score": 7.32,
+    "scored_by": 29047,
+    "rank": 2275,
+    "popularity": 1832,
+    "members": 67739,
+    "favorites": 115,
+    "premiered": "Winter 2009",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 91,
+            "type": "anime",
+            "name": "feel.",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ]
+}

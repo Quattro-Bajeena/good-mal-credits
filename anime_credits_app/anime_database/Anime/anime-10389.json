@@ -1,0 +1,44 @@
+{
+    "mal_id": 10389,
+    "url": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg",
+    "title": "Momo e no Tegami",
+    "title_english": "A Letter to Momo",
+    "title_japanese": "ももへの手紙",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 21, 2012"
+    },
+    "score": 7.63,
+    "scored_by": 27296,
+    "rank": 1214,
+    "popularity": 1937,
+    "members": 63128,
+    "favorites": 138,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1480,
+    "url": "https://myanimelist.net/anime/1480/Sky_Girls_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/78405.jpg",
+    "title": "Sky Girls OVA",
+    "title_english": null,
+    "title_japanese": "スカイガールズ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-08-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 25, 2006"
+    },
+    "score": 6.64,
+    "scored_by": 3391,
+    "rank": 5175,
+    "popularity": 5748,
+    "members": 6675,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

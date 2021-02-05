@@ -1,0 +1,44 @@
+{
+    "mal_id": 513,
+    "url": "https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/37799.jpg",
+    "title": "Tenkuu no Shiro Laputa",
+    "title_english": "Castle in the Sky",
+    "title_japanese": "天空の城ラピュタ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 1986"
+    },
+    "score": 8.31,
+    "scored_by": 209545,
+    "rank": 219,
+    "popularity": 402,
+    "members": 333445,
+    "favorites": 3072,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

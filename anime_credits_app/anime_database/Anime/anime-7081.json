@@ -1,0 +1,44 @@
+{
+    "mal_id": 7081,
+    "url": "https://myanimelist.net/anime/7081/Danball_Senki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1937/94703.jpg",
+    "title": "Danball Senki",
+    "title_english": "LBX: Little Battlers eXperience",
+    "title_japanese": "ダンボール戦機",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 44,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-03-02T00:00:00+00:00",
+        "to": "2012-01-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 3,
+                "year": 2011
+            },
+            "to": {
+                "day": 11,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Mar 2, 2011 to Jan 11, 2012"
+    },
+    "score": 7.02,
+    "scored_by": 2832,
+    "rank": 3567,
+    "popularity": 5595,
+    "members": 7165,
+    "favorites": 42,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "mal_id": 40952,
+    "url": "https://myanimelist.net/people/40952/Yoshinori_Shiozawa",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Yoshinori Shiozawa",
+    "given_name": "良憲",
+    "family_name": "塩澤",
+    "birthday": null,
+    "member_favorites": 16,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 586,
+                "url": "https://myanimelist.net/anime/586/Ayakashi__Japanese_Classic_Horror",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/11746.jpg?s=1167beb4bfccb7d0c9aeeeed4c074ffd",
+                "name": "Ayakashi: Japanese Classic Horror"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 42886,
+                "url": "https://myanimelist.net/anime/42886/Ginga_Eiyuu_Densetsu__Die_Neue_These_Zoku-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1176/109218.jpg?s=e5faea6fcda49e2f804a3d76231ec265",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 3390,
+                "url": "https://myanimelist.net/anime/3390/Hoshi_no_Umi_no_Amuri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/8124.jpg?s=dcf63e3b0f83e49d79d157ae235e7823",
+                "name": "Hoshi no Umi no Amuri"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 91,
+                "url": "https://myanimelist.net/anime/91/Mobile_Suit_Gundam_Wing__Endless_Waltz",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/91.jpg?s=9840fa4f3960f69605b865dd021d41d9",
+                "name": "Mobile Suit Gundam Wing: Endless Waltz"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 31716,
+                "url": "https://myanimelist.net/anime/31716/Rewrite",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1827/92122.jpg?s=ad58daa27d7e980779e405f53005d1e7",
+                "name": "Rewrite"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 34126,
+                "url": "https://myanimelist.net/anime/34126/Rewrite_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/83930.jpg?s=30466008ac984e59919daa8136f32fbd",
+                "name": "Rewrite 2nd Season"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 46093,
+                "url": "https://myanimelist.net/anime/46093/Shiroi_Suna_no_Aquatope",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1519/111174.jpg?s=04a39e083a09eed36e776f12017574f1",
+                "name": "Shiroi Suna no Aquatope"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 868,
+                "url": "https://myanimelist.net/anime/868/Slayers_Great",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/13097.jpg?s=706278cee4d923cd9437e93969ea6b88",
+                "name": "Slayers Great"
+            }
+        }
+    ]
+}

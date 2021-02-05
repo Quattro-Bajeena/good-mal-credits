@@ -1,0 +1,44 @@
+{
+    "mal_id": 649,
+    "url": "https://myanimelist.net/anime/649/Hanaukyou_Maid-tai__La_Verite",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/10518.jpg",
+    "title": "Hanaukyou Maid-tai: La Verite",
+    "title_english": "Hanaukyo Maid Team: La Verite",
+    "title_japanese": "花右京メイド隊 La Verite",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-04-04T00:00:00+00:00",
+        "to": "2004-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2004
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2004
+            }
+        },
+        "string": "Apr 4, 2004 to Jun 20, 2004"
+    },
+    "score": 6.8,
+    "scored_by": 9276,
+    "rank": 4439,
+    "popularity": 3646,
+    "members": 19994,
+    "favorites": 21,
+    "premiered": "Spring 2004",
+    "studios": [
+        {
+            "mal_id": 39,
+            "type": "anime",
+            "name": "Daume",
+            "url": "https://myanimelist.net/anime/producer/39/Daume"
+        }
+    ]
+}

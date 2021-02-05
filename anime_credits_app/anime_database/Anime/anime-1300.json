@@ -1,0 +1,44 @@
+{
+    "mal_id": 1300,
+    "url": "https://myanimelist.net/anime/1300/Omishi_Mahou_Gekijou__Risky★Safety",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/14714.jpg",
+    "title": "Omishi Mahou Gekijou: Risky★Safety",
+    "title_english": null,
+    "title_japanese": "臣士魔法劇場 リスキー★セフティ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-10-05T00:00:00+00:00",
+        "to": "2000-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1999
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2000
+            }
+        },
+        "string": "Oct 5, 1999 to Apr 4, 2000"
+    },
+    "score": 6.64,
+    "scored_by": 908,
+    "rank": 5162,
+    "popularity": 7582,
+    "members": 3267,
+    "favorites": 4,
+    "premiered": "Fall 1999",
+    "studios": [
+        {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "APPP",
+            "url": "https://myanimelist.net/anime/producer/77/APPP"
+        }
+    ]
+}

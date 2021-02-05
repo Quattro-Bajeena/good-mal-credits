@@ -1,0 +1,44 @@
+{
+    "mal_id": 3813,
+    "url": "https://myanimelist.net/anime/3813/Gekkou_no_Pierce__Yumemi_to_Gin_no_Bara_no_Kishidan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/6782.jpg",
+    "title": "Gekkou no Pierce: Yumemi to Gin no Bara no Kishidan",
+    "title_english": "Moonlight Pierce",
+    "title_japanese": "月光のピアス―ユメミと銀のバラ騎士団",
+    "type": "OVA",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-12-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 12,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 14, 1991"
+    },
+    "score": 5.92,
+    "scored_by": 132,
+    "rank": 8457,
+    "popularity": 11456,
+    "members": 645,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

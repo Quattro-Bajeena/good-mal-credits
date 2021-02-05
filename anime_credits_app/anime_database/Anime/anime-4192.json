@@ -1,0 +1,44 @@
+{
+    "mal_id": 4192,
+    "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg",
+    "title": "Hayate no Gotoku!!",
+    "title_english": "Hayate the Combat Butler!!",
+    "title_japanese": "ハヤテのごとく!!",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-04T00:00:00+00:00",
+        "to": "2009-09-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2009
+            }
+        },
+        "string": "Apr 4, 2009 to Sep 19, 2009"
+    },
+    "score": 7.74,
+    "scored_by": 48831,
+    "rank": 945,
+    "popularity": 1392,
+    "members": 99391,
+    "favorites": 520,
+    "premiered": "Spring 2009",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

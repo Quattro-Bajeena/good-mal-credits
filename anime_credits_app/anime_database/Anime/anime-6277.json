@@ -1,0 +1,44 @@
+{
+    "mal_id": 6277,
+    "url": "https://myanimelist.net/anime/6277/Manga_Nippon_Mukashibanashi_1976",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/60851.jpg",
+    "title": "Manga Nippon Mukashibanashi (1976)",
+    "title_english": null,
+    "title_japanese": "まんが日本昔ばなし（第2期）",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 1471,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1976-01-07T00:00:00+00:00",
+        "to": "1994-09-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 1976
+            },
+            "to": {
+                "day": 3,
+                "month": 9,
+                "year": 1994
+            }
+        },
+        "string": "Jan 7, 1976 to Sep 3, 1994"
+    },
+    "score": 6.04,
+    "scored_by": 262,
+    "rank": 8077,
+    "popularity": 10272,
+    "members": 1072,
+    "favorites": 3,
+    "premiered": "Winter 1976",
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 40060,
+    "url": "https://myanimelist.net/anime/40060/BNA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1139/106986.jpg",
+    "title": "BNA",
+    "title_english": null,
+    "title_japanese": "BNA ビー・エヌ・エー",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-04-09T00:00:00+00:00",
+        "to": "2020-05-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2020
+            },
+            "to": {
+                "day": 6,
+                "month": 5,
+                "year": 2020
+            }
+        },
+        "string": "Apr 9, 2020 to May 6, 2020"
+    },
+    "score": 7.46,
+    "scored_by": 104093,
+    "rank": 1695,
+    "popularity": 690,
+    "members": 211235,
+    "favorites": 1800,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

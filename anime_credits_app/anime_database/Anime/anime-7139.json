@@ -1,0 +1,37 @@
+{
+    "mal_id": 7139,
+    "url": "https://myanimelist.net/anime/7139/Gdleen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1175/97146.jpg",
+    "title": "Gdleen",
+    "title_english": null,
+    "title_japanese": "ガデュリン",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-03-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 3,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 1, 1990"
+    },
+    "score": 5.78,
+    "scored_by": 392,
+    "rank": 8899,
+    "popularity": 10601,
+    "members": 924,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

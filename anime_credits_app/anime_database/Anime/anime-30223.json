@@ -1,0 +1,44 @@
+{
+    "mal_id": 30223,
+    "url": "https://myanimelist.net/anime/30223/Shishou_Series",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/72325.jpg",
+    "title": "Shishou Series",
+    "title_english": null,
+    "title_japanese": "師匠シリーズ",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": null,
+    "status": "Not yet aired",
+    "aired": {
+        "from": null,
+        "to": null,
+        "prop": {
+            "from": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Not available"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 5943,
+    "members": 6117,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1129,
+            "type": "anime",
+            "name": "Pierrot Plus",
+            "url": "https://myanimelist.net/anime/producer/1129/Pierrot_Plus"
+        }
+    ]
+}

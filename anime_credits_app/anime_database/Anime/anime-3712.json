@@ -1,0 +1,44 @@
+{
+    "mal_id": 3712,
+    "url": "https://myanimelist.net/anime/3712/Zero_no_Tsukaima__Princesses_no_Rondo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/10256.jpg",
+    "title": "Zero no Tsukaima: Princesses no Rondo",
+    "title_english": "The Familiar of Zero: Rondo of Princesses",
+    "title_japanese": "ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-07-07T00:00:00+00:00",
+        "to": "2008-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Jul 7, 2008 to Sep 22, 2008"
+    },
+    "score": 7.4,
+    "scored_by": 225540,
+    "rank": 1927,
+    "popularity": 357,
+    "members": 366891,
+    "favorites": 891,
+    "premiered": "Summer 2008",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

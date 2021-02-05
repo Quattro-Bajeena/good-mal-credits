@@ -1,0 +1,44 @@
+{
+    "mal_id": 8141,
+    "url": "https://myanimelist.net/anime/8141/Konchuu_Monogatari_Mitsubachi_Hutch__Yuuki_no_Melody",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/47243.jpg",
+    "title": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+    "title_english": null,
+    "title_japanese": "昆虫物語 みつばちハッチ～勇気のメロディ～",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 31, 2010"
+    },
+    "score": 6.11,
+    "scored_by": 132,
+    "rank": 7749,
+    "popularity": 12272,
+    "members": 468,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 9798,
+    "url": "https://myanimelist.net/anime/9798/Pandane_to_Tamago-hime",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/27157.jpg",
+    "title": "Pandane to Tamago-hime",
+    "title_english": "Mr. Dough and the Egg Princess",
+    "title_japanese": "パン種とタマゴ姫",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-11-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 20, 2010"
+    },
+    "score": 6.94,
+    "scored_by": 1527,
+    "rank": 3834,
+    "popularity": 6889,
+    "members": 4262,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "mal_id": 478,
+    "url": "https://myanimelist.net/anime/478/Sousei_no_Aquarion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg",
+    "title": "Sousei no Aquarion",
+    "title_english": "Aquarion",
+    "title_japanese": "創聖のアクエリオン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-04-05T00:00:00+00:00",
+        "to": "2005-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Apr 5, 2005 to Sep 27, 2005"
+    },
+    "score": 7.11,
+    "scored_by": 26904,
+    "rank": 3177,
+    "popularity": 1849,
+    "members": 66470,
+    "favorites": 345,
+    "premiered": "Spring 2005",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 5150,
+    "url": "https://myanimelist.net/anime/5150/Hatsukoi_Limited",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/15520.jpg",
+    "title": "Hatsukoi Limited.",
+    "title_english": "Hatsukoi Limited",
+    "title_japanese": "初恋限定。",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-12T00:00:00+00:00",
+        "to": "2009-06-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 28,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 12, 2009 to Jun 28, 2009"
+    },
+    "score": 7.33,
+    "scored_by": 34467,
+    "rank": 2224,
+    "popularity": 1629,
+    "members": 81638,
+    "favorites": 206,
+    "premiered": "Spring 2009",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

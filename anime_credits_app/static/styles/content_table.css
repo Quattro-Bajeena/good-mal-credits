@@ -1,0 +1,31 @@
+
+
+.contentTable{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+
+.mainImage{
+    width: 60px;
+}
+
+
+.tableImage{
+    width: 50px;
+}
+
+.sortableColHeader{
+    cursor: pointer;
+    padding: 10px 30px;
+}
+
+.arrow{
+    position: absolute;
+}

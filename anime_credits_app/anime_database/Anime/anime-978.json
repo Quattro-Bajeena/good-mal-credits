@@ -1,0 +1,44 @@
+{
+    "mal_id": 978,
+    "url": "https://myanimelist.net/anime/978/Change_Getter_Robo__Sekai_Saigo_no_Hi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/23767.jpg",
+    "title": "Change!! Getter Robo: Sekai Saigo no Hi",
+    "title_english": "Getter Robo: Armageddon",
+    "title_japanese": "真(チェンジ!!)ゲッターロボ 世界最後の日",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-08-25T00:00:00+00:00",
+        "to": "1999-05-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 1998
+            },
+            "to": {
+                "day": 25,
+                "month": 5,
+                "year": 1999
+            }
+        },
+        "string": "Aug 25, 1998 to May 25, 1999"
+    },
+    "score": 7.68,
+    "scored_by": 4282,
+    "rank": 1083,
+    "popularity": 4711,
+    "members": 10992,
+    "favorites": 265,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 112,
+            "type": "anime",
+            "name": "Brain's Base",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 37407,
+    "url": "https://myanimelist.net/anime/37407/Penguin_Highway",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1320/93443.jpg",
+    "title": "Penguin Highway",
+    "title_english": null,
+    "title_japanese": "ペンギン・ハイウェイ",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-08-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 8,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 17, 2018"
+    },
+    "score": 7.65,
+    "scored_by": 16370,
+    "rank": 1147,
+    "popularity": 2367,
+    "members": 45702,
+    "favorites": 166,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1033,
+            "type": "anime",
+            "name": "Studio Colorido",
+            "url": "https://myanimelist.net/anime/producer/1033/Studio_Colorido"
+        }
+    ]
+}

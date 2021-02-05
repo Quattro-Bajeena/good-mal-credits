@@ -1,0 +1,44 @@
+{
+    "mal_id": 815,
+    "url": "https://myanimelist.net/anime/815/Tennis_no_Ouji-sama_Movie_1__Futari_no_Samurai_-_The_First_Game",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/3945.jpg",
+    "title": "Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game",
+    "title_english": "The Prince of Tennis: The Two Samurai, The First Game",
+    "title_japanese": "劇場版 テニスの王子様 二人のサムライ The First Game",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-01-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 29, 2005"
+    },
+    "score": 7.36,
+    "scored_by": 10567,
+    "rank": 2091,
+    "popularity": 3750,
+    "members": 18599,
+    "favorites": 45,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

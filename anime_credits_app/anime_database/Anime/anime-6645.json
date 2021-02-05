@@ -1,0 +1,44 @@
+{
+    "mal_id": 6645,
+    "url": "https://myanimelist.net/anime/6645/Chu-Bra",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1130/91352.jpg",
+    "title": "Chu-Bra!!",
+    "title_english": "Chu-Bra",
+    "title_japanese": "ちゅーぶら!!",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-01-04T00:00:00+00:00",
+        "to": "2010-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jan 4, 2010 to Mar 22, 2010"
+    },
+    "score": 6.24,
+    "scored_by": 18638,
+    "rank": 7159,
+    "popularity": 2452,
+    "members": 42690,
+    "favorites": 53,
+    "premiered": "Winter 2010",
+    "studios": [
+        {
+            "mal_id": 218,
+            "type": "anime",
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ]
+}

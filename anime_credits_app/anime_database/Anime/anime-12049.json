@@ -1,0 +1,50 @@
+{
+    "mal_id": 12049,
+    "url": "https://myanimelist.net/anime/12049/Fairy_Tail_Movie_1__Houou_no_Miko",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/47083.jpg",
+    "title": "Fairy Tail Movie 1: Houou no Miko",
+    "title_english": null,
+    "title_japanese": "劇場版 FAIRY TAIL 鳳凰の巫女",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-08-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 8,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 18, 2012"
+    },
+    "score": 7.41,
+    "scored_by": 93300,
+    "rank": 1884,
+    "popularity": 900,
+    "members": 163947,
+    "favorites": 565,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

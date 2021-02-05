@@ -1,0 +1,44 @@
+{
+    "mal_id": 1961,
+    "url": "https://myanimelist.net/anime/1961/Arashi_no_Yoru_ni",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/5064.jpg",
+    "title": "Arashi no Yoru ni",
+    "title_english": null,
+    "title_japanese": "あらしのよるに",
+    "type": "Movie",
+    "source": "Book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-12-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 12,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 10, 2005"
+    },
+    "score": 7.7,
+    "scored_by": 8985,
+    "rank": 1022,
+    "popularity": 3689,
+    "members": 19450,
+    "favorites": 195,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

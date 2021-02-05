@@ -1,0 +1,57 @@
+{
+    "mal_id": 143260,
+    "url": "https://myanimelist.net/character/143260/Satoshi_Sugiyama",
+    "name": "Satoshi Sugiyama",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/406735.jpg",
+    "animeography": [
+        {
+            "mal_id": 3203,
+            "name": "Chibi Maruko-chan Movie",
+            "url": "https://myanimelist.net/anime/3203/Chibi_Maruko-chan_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/54919.jpg?s=58572d1525bb2296165dd8e9fae0998e",
+            "role": "Main"
+        },
+        {
+            "mal_id": 6149,
+            "name": "Chibi Maruko-chan (1995)",
+            "url": "https://myanimelist.net/anime/6149/Chibi_Maruko-chan_1995",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1108/100604.jpg?s=9b8fd4860819a2c66913d4271963c0d6",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 9348,
+            "name": "Chibi Maruko-chan: Watashi no Suki na Uta",
+            "url": "https://myanimelist.net/anime/9348/Chibi_Maruko-chan__Watashi_no_Suki_na_Uta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1300/97263.jpg?s=feb019634d90706d6673afe5a7ea854b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31202,
+            "name": "Chibi Maruko-chan Movie: Italia kara Kita Shounen",
+            "url": "https://myanimelist.net/anime/31202/Chibi_Maruko-chan_Movie__Italia_kara_Kita_Shounen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/76874.jpg?s=823c02b4fb2651f7c176156114ddf4fc",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 15530,
+            "name": "Chibi Maruko-chan",
+            "url": "https://myanimelist.net/manga/15530/Chibi_Maruko-chan",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/22607.jpg?s=c83face308ab475f038d0387ff5fc8c6",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 5929,
+            "name": "Mayama, Ako",
+            "url": "https://myanimelist.net/people/5929/Ako_Mayama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55028.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

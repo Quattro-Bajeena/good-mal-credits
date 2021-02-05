@@ -2,49 +2,62 @@
 
 {% block head %}
 <title>gMs - {{anime.title}}</title>
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/staff.css')}}">
 {% endblock %}
 
 
 {% block main %}
 
-<div id="anime-info">
+
+
+
+<div class="animeInfo" class="infoSection">
     <b>Title:</b> {{anime.title}} 
     <b>Premiered: </b>{{anime.aired_from | format_date}}
     <br>
     <a href={{anime.url}} target="_blank">MAL link</a>
     <br>
-    <img src={{anime.image_url}} width="50">
+    <img class="mainImage" src={{anime.image_url}}>
 
 </div>
 
 <hr>
 
-<table id="staff-table" class="content-table" style="margin-left: auto; margin-right: auto; text-align: center;">
-    
-    <tr>
-        <th></th>
-        <th>name</th>
-        <th>position</th>
-        <th>favorites</th>
-        <th>birthday</th>
-        <th>age at the premiere</th>
-        <th>no. of credits</th>
-    </tr>
+<table id="staffTable" class="contentTable">
+    <thead class="contentTableHead">
+        <tr>
+            <th></th>
+            <th class="sortableColHeader">name</th>
+            <th class="sortableColHeader">position</th>
+            <th class="sortableColHeader">favorites</th>
+            <th class="sortableColHeader">birthday</th>
+            <th class="sortableColHeader">age at the premiere</th>
+            <th class="sortableColHeader">no. of credits</th>
+        </tr>
+    </thead>
 
-    {% for member in anime.staff %}
-    <tr>
-        <td><img src={{member.person.image_url}} width="30"> </td>
-        <td><a href={{url_for("person", mal_id=member.person.mal_id)}}>{{ member.person.name }} </a></td>
-        <td> {{ member.position }} </td>
-        <td>{{member.person.member_favorites}}</td>
-        <td>{{ member.person.birthday | format_date}}</td>
-        <td>{{ staff_age( anime.aired_from, member.person.birthday) }}</td>
-        <td>{{ len(member.person.staff_credits) }}</td>
-    </tr>   
-    {% endfor %}
+    <tbody class="contentTableBody">
+        {% for member in anime.staff %}
+        <tr class="contentTableRow">
+            <td><img class="tableImage" src={{member.person.image_url}}> </td>
+            <td><a href="{{url_for('person', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
+            <td> {{ member.position }} </td>
+            <td>{{member.person.member_favorites}}</td>
+            <td>{{ member.person.birthday | format_date}}</td>
+            <td>{{ staff_age( anime.aired_from, member.person.birthday) }}</td>
+            <td>{{ len(member.person.staff_credits) }}</td>
+        </tr>   
+        {% endfor %}
+    </tbody>
 
 
 </table>
 
 
+
+
 {% endblock %}
+
+{% block javascript %}
+<script type="text/javascript" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+{%endblock%}

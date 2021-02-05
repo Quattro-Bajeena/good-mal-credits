@@ -1,0 +1,56 @@
+{
+    "mal_id": 33010,
+    "url": "https://myanimelist.net/anime/33010/FLCL_Progressive",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1499/93700.jpg",
+    "title": "FLCL Progressive",
+    "title_english": "FLCL Progressive",
+    "title_japanese": "フリクリ プログレ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-09-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 9,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 28, 2018"
+    },
+    "score": 6.43,
+    "scored_by": 25694,
+    "rank": 6264,
+    "popularity": 1352,
+    "members": 103103,
+    "favorites": 203,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 1278,
+            "type": "anime",
+            "name": "Signal.MD",
+            "url": "https://myanimelist.net/anime/producer/1278/SignalMD"
+        },
+        {
+            "mal_id": 1317,
+            "type": "anime",
+            "name": "Production GoodBook",
+            "url": "https://myanimelist.net/anime/producer/1317/Production_GoodBook"
+        }
+    ]
+}

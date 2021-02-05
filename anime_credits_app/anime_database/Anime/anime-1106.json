@@ -1,0 +1,44 @@
+{
+    "mal_id": 1106,
+    "url": "https://myanimelist.net/anime/1106/Eikyuu_Kazoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/10210.jpg",
+    "title": "Eikyuu Kazoku",
+    "title_english": null,
+    "title_japanese": "永久家族",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 1997"
+    },
+    "score": 5.96,
+    "scored_by": 3338,
+    "rank": 8353,
+    "popularity": 5266,
+    "members": 8276,
+    "favorites": 18,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Studio 4°C",
+            "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+        }
+    ]
+}

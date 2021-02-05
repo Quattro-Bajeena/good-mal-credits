@@ -1,0 +1,44 @@
+{
+    "mal_id": 64,
+    "url": "https://myanimelist.net/anime/64/Rozen_Maiden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1424/108431.jpg",
+    "title": "Rozen Maiden",
+    "title_english": "Rozen Maiden",
+    "title_japanese": "ローゼンメイデン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-10-08T00:00:00+00:00",
+        "to": "2004-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2004
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2004
+            }
+        },
+        "string": "Oct 8, 2004 to Dec 24, 2004"
+    },
+    "score": 7.44,
+    "scored_by": 84811,
+    "rank": 1784,
+    "popularity": 841,
+    "members": 176208,
+    "favorites": 2070,
+    "premiered": "Fall 2004",
+    "studios": [
+        {
+            "mal_id": 70,
+            "type": "anime",
+            "name": "Nomad",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ]
+}

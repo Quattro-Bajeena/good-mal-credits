@@ -1,0 +1,391 @@
+{
+    "mal_id": 9313,
+    "url": "https://myanimelist.net/people/9313/Makiko_Kojima",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Makiko Kojima",
+    "given_name": "真喜子",
+    "family_name": "小島",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Animation Check",
+            "anime": {
+                "mal_id": 299,
+                "url": "https://myanimelist.net/anime/299/hack__Liminality",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/23079.jpg?s=194636af5cf82924f002d81240265dcd",
+                "name": ".hack//Liminality"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 1487,
+                "url": "https://myanimelist.net/anime/1487/hack__Unison",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/23078.jpg?s=d8d73ed64b3243f4abcd0aac3122a322",
+                "name": ".hack//Unison"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 6547,
+                "url": "https://myanimelist.net/anime/6547/Angel_Beats",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22061.jpg?s=f5b7871c53b116ed83efbde48cfda79b",
+                "name": "Angel Beats!"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 56,
+                "url": "https://myanimelist.net/anime/56/Avenger",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/19921.jpg?s=6161f0a684746f4497646fa450daac64",
+                "name": "Avenger"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 4094,
+                "url": "https://myanimelist.net/anime/4094/Batman__Gotham_Knight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17272.jpg?s=a7b07b36e8f2c2f1500f89840fbb74ba",
+                "name": "Batman: Gotham Knight"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 4151,
+                "url": "https://myanimelist.net/anime/4151/Blade_of_the_Immortal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/74074.jpg?s=73877d6a9fc13a2986fb567bc4e12e06",
+                "name": "Blade of the Immortal"
+            }
+        },
+        {
+            "position": "Animation Check",
+            "anime": {
+                "mal_id": 5356,
+                "url": "https://myanimelist.net/anime/5356/Canaan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75789.jpg?s=9722579cbff6fc431c1c9b98488b94eb",
+                "name": "Canaan"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 2030,
+                "url": "https://myanimelist.net/anime/2030/El_Cazador_de_la_Bruja",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/19922.jpg?s=8d56fbe18c0aa94f36b97aa7f76d4352",
+                "name": "El Cazador de la Bruja"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 19067,
+                "url": "https://myanimelist.net/anime/19067/Future_Card_Buddyfight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/78797.jpg?s=d0b9b09d8772c775c6c3432ab4414a66",
+                "name": "Future Card Buddyfight"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 30039,
+                "url": "https://myanimelist.net/anime/30039/Future_Card_Buddyfight_Hundred",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/74881.jpg?s=7eb1640b09d7ea7253a664a165d6e443",
+                "name": "Future Card Buddyfight Hundred"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 18411,
+                "url": "https://myanimelist.net/anime/18411/Gingitsune",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/56247.jpg?s=cdcbf8183f8c41948f6478d3ed6cd097",
+                "name": "Gingitsune"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 42955,
+                "url": "https://myanimelist.net/anime/42955/Hallelujah__Unmei_no_Sentaku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg?s=f910a08ec80ca0297e265f467437a883",
+                "name": "Hallelujah: Unmei no Sentaku"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 6867,
+                "url": "https://myanimelist.net/anime/6867/Halo_Legends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16013.jpg?s=0b6b0dbfc59ba773901acae42eb3c0f5",
+                "name": "Halo Legends"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 6867,
+                "url": "https://myanimelist.net/anime/6867/Halo_Legends",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/16013.jpg?s=0b6b0dbfc59ba773901acae42eb3c0f5",
+                "name": "Halo Legends"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 38254,
+                "url": "https://myanimelist.net/anime/38254/Hashiri_Tsuzukete_Yokattatte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1533/94555.jpg?s=2875fc0f8a121056371553f38b602df5",
+                "name": "Hashiri Tsuzukete Yokattatte."
+            }
+        },
+        {
+            "position": "Spotting",
+            "anime": {
+                "mal_id": 6372,
+                "url": "https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/19101.jpg?s=6c0e67ba47711eebc13a64d62f0d679e",
+                "name": "Higashi no Eden Movie I: The King of Eden"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 9996,
+                "url": "https://myanimelist.net/anime/9996/Hyouge_Mono",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/77282.jpg?s=4f2e567c9e4aefc32399d07ed2c97a24",
+                "name": "Hyouge Mono"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 41834,
+                "url": "https://myanimelist.net/anime/41834/Kings_Raid__Ishi_wo_Tsugumono-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1885/109122.jpg?s=1f924ac6b2caf9409251ca6d44378eab",
+                "name": "King's Raid: Ishi wo Tsugumono-tachi"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 43,
+                "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82594.jpg?s=091b0925a46fdd19af4b290030abaca0",
+                "name": "Koukaku Kidoutai"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 6172,
+                "url": "https://myanimelist.net/anime/6172/Layton_Kyouju_to_Eien_no_Utahime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/25873.jpg?s=2ca13eaeb1241128d4114f42eadc1227",
+                "name": "Layton Kyouju to Eien no Utahime"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 252,
+                "url": "https://myanimelist.net/anime/252/Madlax",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57237.jpg?s=83743c74c37dd0719dab6facb42fe96d",
+                "name": "Madlax"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 7590,
+                "url": "https://myanimelist.net/anime/7590/Mayoi_Neko_Overrun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23770.jpg?s=fa3782ebe3b513af7ba2cb6f327dcc60",
+                "name": "Mayoi Neko Overrun!"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 1696,
+                "url": "https://myanimelist.net/anime/1696/Murder_Princess",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/19558.jpg?s=2caf175c670f8b1eb2716e59c2474801",
+                "name": "Murder Princess"
+            }
+        },
+        {
+            "position": "Digital Paint",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 5682,
+                "url": "https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/22470.jpg?s=67ef39a5a76e6f7d995bf9cbffc7db29",
+                "name": "Phantom: Requiem for the Phantom"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 5682,
+                "url": "https://myanimelist.net/anime/5682/Phantom__Requiem_for_the_Phantom",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/22470.jpg?s=67ef39a5a76e6f7d995bf9cbffc7db29",
+                "name": "Phantom: Requiem for the Phantom"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 4940,
+                "url": "https://myanimelist.net/anime/4940/Sabaku_no_Kaizoku_Captain_Kuppa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/73649.jpg?s=15db990639bfbf27cbb921837c43124d",
+                "name": "Sabaku no Kaizoku! Captain Kuppa"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 21033,
+                "url": "https://myanimelist.net/anime/21033/Seikoku_no_Dragonar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/56419.jpg?s=11d261e30c0fb16f2ebdb04806533015",
+                "name": "Seikoku no Dragonar"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 7662,
+                "url": "https://myanimelist.net/anime/7662/Shinrei_Tantei_Yakumo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/35829.jpg?s=338b8e51553328388b783550e1719bc8",
+                "name": "Shinrei Tantei Yakumo"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 2619,
+                "url": "https://myanimelist.net/anime/2619/Spider_Riders__Oracle_no_Yuusha-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3590.jpg?s=52b66c94c5ad1d6bca6b290d1d4766ea",
+                "name": "Spider Riders: Oracle no Yuusha-tachi"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 2620,
+                "url": "https://myanimelist.net/anime/2620/Spider_Riders__Yomigaeru_Taiyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/3591.jpg?s=f5d40d928e783f5ebd62a55c4b3a0a39",
+                "name": "Spider Riders: Yomigaeru Taiyou"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 34252,
+                "url": "https://myanimelist.net/anime/34252/Star_Beat__Hoshi_no_Kodou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82415.jpg?s=29ad36d58d9bf5e4ae1ec808e7ebfecf",
+                "name": "Star Beat!: Hoshi no Kodou"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 12445,
+                "url": "https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64435.jpg?s=0a7bcb9c228c9b193259f9bb53ce98d9",
+                "name": "Tasogare Otome x Amnesia"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 177,
+                "url": "https://myanimelist.net/anime/177/Tsubasa_Chronicle",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/6555.jpg?s=ddf8eff5862b865a54b7287454539fcc",
+                "name": "Tsubasa Chronicle"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 969,
+                "url": "https://myanimelist.net/anime/969/Tsubasa_Chronicle_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/6554.jpg?s=b3e9d3b409b567b320804e85180c8096",
+                "name": "Tsubasa Chronicle 2nd Season"
+            }
+        },
+        {
+            "position": "Color Setting",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 37970,
+                "url": "https://myanimelist.net/anime/37970/Yakusoku_no_Nanaya_Matsuri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1473/94594.jpg?s=b420db01180cfb0138bea66f782825ff",
+                "name": "Yakusoku no Nanaya Matsuri"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 32338,
+                "url": "https://myanimelist.net/anime/32338/Yes_BanG_Dream",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/78702.jpg?s=f62b3292160e0ab1fc48224502bf009c",
+                "name": "Yes! BanG_Dream!"
+            }
+        },
+        {
+            "position": "Color Design",
+            "anime": {
+                "mal_id": 31245,
+                "url": "https://myanimelist.net/anime/31245/Zutto_Mae_kara_Suki_deshita__Kokuhaku_Jikkou_Iinkai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/82121.jpg?s=22762077f2723aaeb123636db7adeb49",
+                "name": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai"
+            }
+        }
+    ]
+}

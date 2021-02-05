@@ -1,0 +1,44 @@
+{
+    "mal_id": 28725,
+    "url": "https://myanimelist.net/anime/28725/Kokoro_ga_Sakebitagatterunda",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75745.jpg",
+    "title": "Kokoro ga Sakebitagatterunda.",
+    "title_english": "The Anthem of the Heart",
+    "title_japanese": "心が叫びたがってるんだ。",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-09-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 19, 2015"
+    },
+    "score": 7.97,
+    "scored_by": 110707,
+    "rank": 577,
+    "popularity": 618,
+    "members": 232007,
+    "favorites": 1687,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

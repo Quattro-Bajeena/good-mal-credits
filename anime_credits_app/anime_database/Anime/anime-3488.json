@@ -1,0 +1,44 @@
+{
+    "mal_id": 3488,
+    "url": "https://myanimelist.net/anime/3488/Genji_Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/13741.jpg",
+    "title": "Genji Monogatari",
+    "title_english": null,
+    "title_japanese": "源氏物語",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-12-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 12,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 19, 1987"
+    },
+    "score": 6.48,
+    "scored_by": 1576,
+    "rank": 6008,
+    "popularity": 5941,
+    "members": 6108,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 4484,
+    "url": "https://myanimelist.net/anime/4484/Umi_no_Yami_Tsuki_no_Kage",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/37269.jpg",
+    "title": "Umi no Yami, Tsuki no Kage",
+    "title_english": "Darkness of the Sea, Shadow of the Moon",
+    "title_japanese": "海の闇、月の影",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-10-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 14, 1989"
+    },
+    "score": 6.01,
+    "scored_by": 288,
+    "rank": 8192,
+    "popularity": 9863,
+    "members": 1293,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 207,
+            "type": "anime",
+            "name": "Magic Bus",
+            "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+        }
+    ]
+}

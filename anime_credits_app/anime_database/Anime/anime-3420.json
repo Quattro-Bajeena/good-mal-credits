@@ -1,0 +1,44 @@
+{
+    "mal_id": 3420,
+    "url": "https://myanimelist.net/anime/3420/Shigofumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50787.jpg",
+    "title": "Shigofumi",
+    "title_english": "Shigofumi: Letters from the Departed",
+    "title_japanese": "シゴフミ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-01-06T00:00:00+00:00",
+        "to": "2008-03-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Jan 6, 2008 to Mar 23, 2008"
+    },
+    "score": 7.49,
+    "scored_by": 27389,
+    "rank": 1617,
+    "popularity": 1693,
+    "members": 77490,
+    "favorites": 344,
+    "premiered": "Winter 2008",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

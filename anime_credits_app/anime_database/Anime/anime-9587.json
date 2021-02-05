@@ -1,0 +1,44 @@
+{
+    "mal_id": 9587,
+    "url": "https://myanimelist.net/anime/9587/Oniichan_no_Koto_nanka_Zenzen_Suki_ja_Nai_n_da_kara_ne",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/75499.jpg",
+    "title": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+    "title_english": null,
+    "title_japanese": "お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!!",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-01-09T00:00:00+00:00",
+        "to": "2011-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Jan 9, 2011 to Mar 27, 2011"
+    },
+    "score": 6.16,
+    "scored_by": 34403,
+    "rank": 7529,
+    "popularity": 1735,
+    "members": 75020,
+    "favorites": 70,
+    "premiered": "Winter 2011",
+    "studios": [
+        {
+            "mal_id": 218,
+            "type": "anime",
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 10049,
+    "url": "https://myanimelist.net/anime/10049/Nurarihyon_no_Mago__Sennen_Makyou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/77300.jpg",
+    "title": "Nurarihyon no Mago: Sennen Makyou",
+    "title_english": "Nura: Rise of the Yokai Clan - Demon Capital",
+    "title_japanese": "ぬらりひょんの孫 千年魔京",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-03T00:00:00+00:00",
+        "to": "2011-12-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 18,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Jul 3, 2011 to Dec 18, 2011"
+    },
+    "score": 8,
+    "scored_by": 69164,
+    "rank": 544,
+    "popularity": 1088,
+    "members": 134950,
+    "favorites": 663,
+    "premiered": "Summer 2011",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

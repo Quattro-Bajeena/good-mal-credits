@@ -1,0 +1,44 @@
+{
+    "mal_id": 1119,
+    "url": "https://myanimelist.net/anime/1119/Pokemon_Movie_04__Celebi_Toki_wo_Koeta_Deai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/41799.jpg",
+    "title": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+    "title_english": "Pokemon 4Ever",
+    "title_japanese": "ポケットモンスター セレビィ 時を越えた遭遇（であい）",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-07-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 7, 2001"
+    },
+    "score": 6.92,
+    "scored_by": 73724,
+    "rank": 3917,
+    "popularity": 1239,
+    "members": 115632,
+    "favorites": 96,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

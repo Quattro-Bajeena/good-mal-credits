@@ -1,0 +1,50 @@
+{
+    "mal_id": 1580,
+    "url": "https://myanimelist.net/anime/1580/Mouryou_Senki_Madara",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/79561.jpg",
+    "title": "Mouryou Senki Madara",
+    "title_english": "Madara",
+    "title_japanese": "魍魎戦記 MADARA[摩陀羅]",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-03-20T00:00:00+00:00",
+        "to": "1991-12-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 3,
+                "year": 1991
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 1991
+            }
+        },
+        "string": "Mar 20, 1991 to Dec 20, 1991"
+    },
+    "score": 6.12,
+    "scored_by": 590,
+    "rank": 7730,
+    "popularity": 9195,
+    "members": 1715,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Studio Fantasia",
+            "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+        },
+        {
+            "mal_id": 155,
+            "type": "anime",
+            "name": "animate Film",
+            "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+        }
+    ]
+}

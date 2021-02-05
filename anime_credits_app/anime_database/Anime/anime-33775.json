@@ -1,0 +1,44 @@
+{
+    "mal_id": 33775,
+    "url": "https://myanimelist.net/anime/33775/Soul_Buster",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/82256.jpg",
+    "title": "Soul Buster",
+    "title_english": "Soul Buster",
+    "title_japanese": "侍霊演武[ソウルバスター]",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-04T00:00:00+00:00",
+        "to": "2016-12-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 11,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 4, 2016 to Dec 11, 2016"
+    },
+    "score": 5.81,
+    "scored_by": 5719,
+    "rank": 8803,
+    "popularity": 3693,
+    "members": 19428,
+    "favorites": 15,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

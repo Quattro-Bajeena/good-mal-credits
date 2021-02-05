@@ -1,0 +1,44 @@
+{
+    "mal_id": 4729,
+    "url": "https://myanimelist.net/anime/4729/Natural_2__Duo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/9114.jpg",
+    "title": "Natural 2: Duo",
+    "title_english": null,
+    "title_japanese": "ナチュラル2 デュオ",
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-11-25T00:00:00+00:00",
+        "to": "2003-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 2001
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2003
+            }
+        },
+        "string": "Nov 25, 2001 to Jul 24, 2003"
+    },
+    "score": 6.13,
+    "scored_by": 450,
+    "rank": null,
+    "popularity": 9587,
+    "members": 1466,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 38,
+            "type": "anime",
+            "name": "Arms",
+            "url": "https://myanimelist.net/anime/producer/38/Arms"
+        }
+    ]
+}

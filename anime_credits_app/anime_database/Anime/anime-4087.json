@@ -1,0 +1,44 @@
+{
+    "mal_id": 4087,
+    "url": "https://myanimelist.net/anime/4087/Michiko_to_Hatchin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/59535.jpg",
+    "title": "Michiko to Hatchin",
+    "title_english": "Michiko & Hatchin",
+    "title_japanese": "ミチコとハッチン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-10-16T00:00:00+00:00",
+        "to": "2009-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Oct 16, 2008 to Mar 19, 2009"
+    },
+    "score": 7.85,
+    "scored_by": 45726,
+    "rank": 749,
+    "popularity": 995,
+    "members": 147764,
+    "favorites": 1916,
+    "premiered": "Fall 2008",
+    "studios": [
+        {
+            "mal_id": 32,
+            "type": "anime",
+            "name": "Manglobe",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ]
+}

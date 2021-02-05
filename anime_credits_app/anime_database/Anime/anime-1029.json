@@ -1,0 +1,44 @@
+{
+    "mal_id": 1029,
+    "url": "https://myanimelist.net/anime/1029/Omoide_Poroporo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75922.jpg",
+    "title": "Omoide Poroporo",
+    "title_english": "Only Yesterday",
+    "title_japanese": "おもひでぽろぽろ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-07-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 7,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 20, 1991"
+    },
+    "score": 7.48,
+    "scored_by": 48041,
+    "rank": 1646,
+    "popularity": 1455,
+    "members": 94798,
+    "favorites": 746,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

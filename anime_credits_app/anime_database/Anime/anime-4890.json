@@ -1,0 +1,44 @@
+{
+    "mal_id": 4890,
+    "url": "https://myanimelist.net/anime/4890/Peut-etre_Toi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/51697.jpg",
+    "title": "Peut-etre Toi",
+    "title_english": "Maybe You",
+    "title_japanese": "Peut-etre toi",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 15, 2006"
+    },
+    "score": 6.32,
+    "scored_by": 1260,
+    "rank": 6745,
+    "popularity": 8739,
+    "members": 2049,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 7762,
+    "url": "https://myanimelist.net/anime/7762/Yondemasu_yo_Azazel-san",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/24619.jpg",
+    "title": "Yondemasu yo, Azazel-san.",
+    "title_english": null,
+    "title_japanese": "よんでますよ、アザゼルさん。",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-02-23T00:00:00+00:00",
+        "to": "2014-06-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 2,
+                "year": 2010
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Feb 23, 2010 to Jun 23, 2014"
+    },
+    "score": 7.6,
+    "scored_by": 11306,
+    "rank": 1278,
+    "popularity": 3121,
+    "members": 27310,
+    "favorites": 67,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

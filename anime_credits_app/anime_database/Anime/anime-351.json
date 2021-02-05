@@ -1,0 +1,44 @@
+{
+    "mal_id": 351,
+    "url": "https://myanimelist.net/anime/351/Ojamajo_Doremi_Sharp",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/27123.jpg",
+    "title": "Ojamajo Doremi Sharp",
+    "title_english": null,
+    "title_japanese": "おジャ魔女どれみ＃",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 49,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-02-06T00:00:00+00:00",
+        "to": "2001-01-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 2,
+                "year": 2000
+            },
+            "to": {
+                "day": 28,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "Feb 6, 2000 to Jan 28, 2001"
+    },
+    "score": 7.34,
+    "scored_by": 7604,
+    "rank": 2138,
+    "popularity": 4072,
+    "members": 15597,
+    "favorites": 76,
+    "premiered": "Winter 2000",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

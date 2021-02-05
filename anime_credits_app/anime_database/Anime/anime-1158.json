@@ -1,0 +1,44 @@
+{
+    "mal_id": 1158,
+    "url": "https://myanimelist.net/anime/1158/Geobreeders__File-X_Chibi_Neko_Dakkan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/28188.jpg",
+    "title": "Geobreeders: File-X Chibi Neko Dakkan",
+    "title_english": "Geobreeders: (File-X) Get Back The Kitty",
+    "title_japanese": "ジオブリーダーズ　File-X　ちびねこ奪還",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-05-21T00:00:00+00:00",
+        "to": "1998-10-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 5,
+                "year": 1998
+            },
+            "to": {
+                "day": 21,
+                "month": 10,
+                "year": 1998
+            }
+        },
+        "string": "May 21, 1998 to Oct 21, 1998"
+    },
+    "score": 6.3,
+    "scored_by": 998,
+    "rank": 6889,
+    "popularity": 8214,
+    "members": 2528,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 462,
+            "type": "anime",
+            "name": "Chaos Project",
+            "url": "https://myanimelist.net/anime/producer/462/Chaos_Project"
+        }
+    ]
+}

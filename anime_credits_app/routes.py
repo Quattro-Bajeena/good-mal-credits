@@ -65,7 +65,7 @@ def page_downloading(task_id):
         'result': task.result,
         'info' : task.info
     }
-
+    #print(response)
     return response
 
 
@@ -75,26 +75,27 @@ def download(task_id):
 
 @app.route('/anime/<int:mal_id>')
 def anime_staff(mal_id):
+    
     category = 'staff'
     page_status = lnc.check_page_update(category, mal_id)
 
-    if page_status['creating']:
+    if page_status['being_created']:
         print("1111111111111")
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'])
 
     elif not page_status['exists']:
         print("2222222222222222")
-        task = tasks.update_resources_async.apply_async(args=[category, mal_id, True], countdown=1)
-        lnc.create_page_entry(category, mal_id, task.id)
+        
+        task = tasks.update_resources_async.delay(category, mal_id, use_cached=True, first_time=True)
+
 
         return render_template('page_downloading.html', category=category, task_id = task.id)
 
-    elif page_status['needs_update'] and not page_status['updating']:
+    elif page_status['needs_update']:
         print("33333333333333")
         anime = models.Anime.query.get(mal_id)
-        
-        task = tasks.update_resources_async.apply_async(args=[category, mal_id, False], countdown=5)
-        lnc.register_page_start_update(category, mal_id, task.id)
+        task = tasks.update_resources_async.delay(category, mal_id, use_cached=False, first_time=False)
+
         return render_template("staff.html", anime = anime)
 
     else:
@@ -111,25 +112,22 @@ def person(mal_id):
     category = 'people'
     page_status = lnc.check_page_update(category, mal_id)
 
-    if page_status['creating']:
+    if page_status['being_created']:
         print("1111111111111")
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'])
 
     elif not page_status['exists']:
         print("2222222222222222")
-        task = tasks.update_resources_async.apply_async(args=[category, mal_id, True], countdown=1)
-        lnc.create_page_entry(category, mal_id, task.id)
+        task = tasks.update_resources_async.delay(category, mal_id, use_cached=True, first_time=True)
 
         return render_template('page_downloading.html', category=category, task_id = task.id)
 
-    elif page_status['needs_update'] and not page_status['updating']:
+    elif page_status['needs_update']:
         print("33333333333333")
         person = models.Person.query.get(mal_id)
-        
-        task = tasks.update_resources_async.apply_async(args=[category, mal_id, False], countdown=5)
-        lnc.register_page_start_update(category, mal_id, task.id)
-        return render_template("person.html", person = person)
+        task = tasks.update_resources_async.delay(category, mal_id, use_cached=False, first_time=False)
 
+        return render_template("person.html", person = person)
     else:
         print("4444444444444")
         person = models.Person.query.get(mal_id)

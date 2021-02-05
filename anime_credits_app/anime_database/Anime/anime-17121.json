@@ -1,0 +1,44 @@
+{
+    "mal_id": 17121,
+    "url": "https://myanimelist.net/anime/17121/Dareka_no_Manazashi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/46741.jpg",
+    "title": "Dareka no Manazashi",
+    "title_english": "Someone's Gaze",
+    "title_japanese": "だれかのまなざし",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-02-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 10, 2013"
+    },
+    "score": 7.39,
+    "scored_by": 30449,
+    "rank": 1952,
+    "popularity": 2070,
+    "members": 56823,
+    "favorites": 85,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 291,
+            "type": "anime",
+            "name": "CoMix Wave Films",
+            "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+        }
+    ]
+}

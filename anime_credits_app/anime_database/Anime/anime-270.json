@@ -1,0 +1,44 @@
+{
+    "mal_id": 270,
+    "url": "https://myanimelist.net/anime/270/Hellsing",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg",
+    "title": "Hellsing",
+    "title_english": "Hellsing",
+    "title_japanese": "Hellsing [ヘルシング]",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-10-11T00:00:00+00:00",
+        "to": "2002-01-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2001
+            },
+            "to": {
+                "day": 17,
+                "month": 1,
+                "year": 2002
+            }
+        },
+        "string": "Oct 11, 2001 to Jan 17, 2002"
+    },
+    "score": 7.5,
+    "scored_by": 286430,
+    "rank": 1576,
+    "popularity": 204,
+    "members": 545465,
+    "favorites": 5765,
+    "premiered": "Fall 2001",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

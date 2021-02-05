@@ -197,7 +197,7 @@ def update_character(character_db : Character, character : dict):
 
 def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
     print("update staff start")
-    update_function_status("anime info", 0, 1, celery_task)
+    update_function_status("updating anime info", 0, 1, celery_task)
 
     anime = mal.get_resource('anime', anime_mal_id, use_cached=use_cached)
     staff = mal.get_resource('staff', anime_mal_id, use_cached=use_cached) 
@@ -213,9 +213,11 @@ def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
 
     current_progess = 2
     total_progress = 2 + len(anime['studios']) + len(staff['staff'])
-    update_function_status("studios", current_progess, total_progress, celery_task )
+    update_function_status("updating studios", current_progess, total_progress, celery_task )
 
     for studio in anime['studios']:
+        
+
         studio_db = Studio.query.get(studio['mal_id'])
         if not studio_db:
             studio_db = add_studio(studio)
@@ -224,10 +226,11 @@ def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
             update_studio(studio_db, studio)
 
         current_progess += 1
-        update_function_status("studios", current_progess, total_progress, celery_task )
+        update_function_status(f"updating studios\n{studio['name']}", current_progess, total_progress, celery_task )
+        
         
     print("updated studios")
-    update_function_status("staff", current_progess, total_progress, celery_task )
+    update_function_status("updating staff", current_progess, total_progress, celery_task )
 
     for staff_member in staff['staff']:
         person = mal.get_resource('people', staff_member['mal_id'], use_cached=use_cached)
@@ -251,17 +254,15 @@ def update_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
                 update_staff_member(staff_member_db, staff_id, anime, person, position)
 
         current_progess += 1
-        update_function_status("staff", current_progess, total_progress, celery_task )
+        update_function_status(f"updating staff\n{person['name']}", current_progess, total_progress, celery_task )
                 
     print("updated staff")
-
-    
-    log_n_cache.register_page_update('staff', anime_mal_id)
+    update_function_status("finishing", 1, 1, celery_task )
     db.session.commit()
 
 def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task = None):
     print("update person credits start")
-    update_function_status("person info", 0, 1, celery_task)
+    update_function_status("updating person info", 0, 1, celery_task)
 
     person = mal.get_resource('people', person_mal_id, use_cached=use_cached)
 
@@ -274,7 +275,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
     print("updated person")
     current_progess = 1
     total_progress = 1 + len(person['voice_acting_roles']) * 2 + len(person['anime_staff_positions'])
-    update_function_status("voice acting roles", current_progess, total_progress, celery_task )
+    update_function_status("updating voice acting roles", current_progess, total_progress, celery_task )
 
     for role in person['voice_acting_roles']:
         
@@ -286,7 +287,8 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
             update_anime(anime_db, anime)
 
         current_progess += 1
-        update_function_status("voice acting roles", current_progess, total_progress, celery_task )
+        role_description = f"updating voice acting roles\n{role['character']['name']} from {anime['title']}"
+        update_function_status(role_description, current_progess, total_progress, celery_task )
 
         character = mal.get_resource('characters', role['character']['mal_id'], use_cached=use_cached)
 
@@ -310,10 +312,10 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
             update_voice_actor(voice_actor_db,voice_actor_id, anime, person, character, role)
 
         current_progess += 1
-        update_function_status("voice acting roles", current_progess, total_progress, celery_task )
+        update_function_status(role_description, current_progess, total_progress, celery_task )
 
     print("updated voice rolls")
-    update_function_status("staff credits", current_progess, total_progress, celery_task )
+    update_function_status("updating staff credits", current_progess, total_progress, celery_task )
 
     for staff_position in person['anime_staff_positions']:
         anime = mal.get_resource('anime', staff_position['anime']['mal_id'], use_cached=use_cached)
@@ -337,12 +339,11 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
             update_staff_member(staff_member_db, staff_id, anime, person, position) 
 
         current_progess += 1
-        update_function_status("staff credits", current_progess, total_progress, celery_task )
+        update_function_status(f"updating staff credits\n{position} in {anime['title']}", current_progess, total_progress, celery_task )
 
 
     print("updated all about person")
-    
-    log_n_cache.register_page_update('people', person_mal_id)
+    update_function_status("finishing", 1, 1, celery_task )
     db.session.commit()
 
     

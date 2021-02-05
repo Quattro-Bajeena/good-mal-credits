@@ -1,0 +1,44 @@
+{
+    "mal_id": 9996,
+    "url": "https://myanimelist.net/anime/9996/Hyouge_Mono",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/77282.jpg",
+    "title": "Hyouge Mono",
+    "title_english": null,
+    "title_japanese": "へうげもの",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-07T00:00:00+00:00",
+        "to": "2012-01-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 1,
+                "year": 2012
+            }
+        },
+        "string": "Apr 7, 2011 to Jan 26, 2012"
+    },
+    "score": 7.99,
+    "scored_by": 2752,
+    "rank": 554,
+    "popularity": 3498,
+    "members": 21722,
+    "favorites": 253,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 5,
+            "type": "anime",
+            "name": "Bee Train",
+            "url": "https://myanimelist.net/anime/producer/5/Bee_Train"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3270,
+    "url": "https://myanimelist.net/anime/3270/IGPX__Immortal_Grand_Prix_2005",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/5176.jpg",
+    "title": "IGPX: Immortal Grand Prix (2005)",
+    "title_english": "IGPX: Immortal Grand Prix",
+    "title_japanese": "IGPX -Immortal Grand Prix-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-06T00:00:00+00:00",
+        "to": "2006-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Oct 6, 2005 to Mar 30, 2006"
+    },
+    "score": 7.12,
+    "scored_by": 7149,
+    "rank": 3132,
+    "popularity": 3953,
+    "members": 16704,
+    "favorites": 77,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "mal_id": 4581,
+    "url": "https://myanimelist.net/anime/4581/Shikabane_Hime__Aka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/20544.jpg",
+    "title": "Shikabane Hime: Aka",
+    "title_english": "Corpse Princess: Aka",
+    "title_japanese": "屍姫 赫",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-10-02T00:00:00+00:00",
+        "to": "2008-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2008
+            }
+        },
+        "string": "Oct 2, 2008 to Dec 25, 2008"
+    },
+    "score": 7.25,
+    "scored_by": 38547,
+    "rank": 2558,
+    "popularity": 1334,
+    "members": 104878,
+    "favorites": 239,
+    "premiered": "Fall 2008",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 91,
+            "type": "anime",
+            "name": "feel.",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ]
+}

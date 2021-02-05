@@ -1,0 +1,44 @@
+{
+    "mal_id": 6718,
+    "url": "https://myanimelist.net/anime/6718/Yamato_2520",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/61289.jpg",
+    "title": "Yamato 2520",
+    "title_english": null,
+    "title_japanese": "YAMATO2520 [ヤマトニーゴーニーゼロ]",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-11-21T00:00:00+00:00",
+        "to": "1996-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 1994
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 1996
+            }
+        },
+        "string": "Nov 21, 1994 to Aug 25, 1996"
+    },
+    "score": 5.78,
+    "scored_by": 391,
+    "rank": 8884,
+    "popularity": 9548,
+    "members": 1484,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 494,
+            "type": "anime",
+            "name": "Studio Take Off",
+            "url": "https://myanimelist.net/anime/producer/494/Studio_Take_Off"
+        }
+    ]
+}

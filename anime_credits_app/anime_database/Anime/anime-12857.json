@@ -1,0 +1,44 @@
+{
+    "mal_id": 12857,
+    "url": "https://myanimelist.net/anime/12857/Star_Driver_the_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/57249.jpg",
+    "title": "Star Driver the Movie",
+    "title_english": null,
+    "title_japanese": "スタードライバー THE MOVIE",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-02-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 2,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 9, 2013"
+    },
+    "score": 6.67,
+    "scored_by": 3086,
+    "rank": 5031,
+    "popularity": 4699,
+    "members": 11097,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

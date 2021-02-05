@@ -13,7 +13,10 @@
 
 .progressBarTop {
     position: absolute;
-    width: 1%;
+    width: 0%;
+    transition-property: width;
+    transition-duration: 500ms;
+    transition-timing-function: ease-out;
     height: 100%;
     background-color: green;
 }

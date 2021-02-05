@@ -1,0 +1,44 @@
+{
+    "mal_id": 1822,
+    "url": "https://myanimelist.net/anime/1822/The_Hakkenden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/23958.jpg",
+    "title": "The Hakkenden",
+    "title_english": "The Hakkenden: Legend of the Dog Warriors",
+    "title_japanese": "THE 八犬伝",
+    "type": "OVA",
+    "source": "Novel",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-10-25T00:00:00+00:00",
+        "to": "1991-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 1990
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 1991
+            }
+        },
+        "string": "Oct 25, 1990 to Mar 25, 1991"
+    },
+    "score": 6.61,
+    "scored_by": 1790,
+    "rank": 5341,
+    "popularity": 5638,
+    "members": 7040,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 72,
+            "type": "anime",
+            "name": "Artmic",
+            "url": "https://myanimelist.net/anime/producer/72/Artmic"
+        }
+    ]
+}

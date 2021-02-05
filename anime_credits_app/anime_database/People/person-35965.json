@@ -1,0 +1,742 @@
+{
+    "mal_id": 35965,
+    "url": "https://myanimelist.net/people/35965/Shuuichi_Seki",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37969.jpg",
+    "name": "Shuuichi Seki",
+    "given_name": "修一",
+    "family_name": "関",
+    "birthday": null,
+    "member_favorites": 4,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 306,
+                "url": "https://myanimelist.net/anime/306/Abenobashi_Mahou☆Shoutengai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1145/92325.jpg?s=5a726ba69849af41d082f6d007f1f797",
+                "name": "Abenobashi Mahou☆Shoutengai"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11235,
+                "url": "https://myanimelist.net/anime/11235/Amagami_SS__Plus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/33359.jpg?s=7bd45023e1c0a3e0c64290cc1715990f",
+                "name": "Amagami SS+ Plus"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7779,
+                "url": "https://myanimelist.net/anime/7779/Andersen_Monogatari_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69035.jpg?s=6e82112d87fa817dd9b98d9da9f93c9a",
+                "name": "Andersen Monogatari (TV)"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2825,
+                "url": "https://myanimelist.net/anime/2825/Arabian_Nights__Sindbad_no_Bouken_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/31935.jpg?s=e6c6f5f775dd1c2421cfc444a82643f6",
+                "name": "Arabian Nights: Sindbad no Bouken (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 13553,
+                "url": "https://myanimelist.net/anime/13553/Bakusou_Circuit_Roman_Twin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/37707.jpg?s=128d39de83bb1c9c97e6f036565e3577",
+                "name": "Bakusou Circuit Roman Twin"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2824,
+                "url": "https://myanimelist.net/anime/2824/Barbapapa_Sekai_wo_Mawaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3922.jpg?s=ba6732770874d947ba45e75a9dcfbce4",
+                "name": "Barbapapa Sekai wo Mawaru"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2824,
+                "url": "https://myanimelist.net/anime/2824/Barbapapa_Sekai_wo_Mawaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3922.jpg?s=ba6732770874d947ba45e75a9dcfbce4",
+                "name": "Barbapapa Sekai wo Mawaru"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 20207,
+                "url": "https://myanimelist.net/anime/20207/Boku_no_Boukuugou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/53783.jpg?s=943eee63209c3769f3ac6a8c7f5af42a",
+                "name": "Boku no Boukuugou"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3460,
+                "url": "https://myanimelist.net/anime/3460/Bosco_Daibouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/28561.jpg?s=85df6ca63e589528039451628bf11fda",
+                "name": "Bosco Daibouken"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 24883,
+                "url": "https://myanimelist.net/anime/24883/Chiisai_Sensuikan_ni_Koi_wo_Shita_Dekasugiru_Kujira_no_Hanashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/64753.jpg?s=1274612478071a52afa07c52eb68626a",
+                "name": "Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2836,
+                "url": "https://myanimelist.net/anime/2836/Chiisana_Viking_Vickie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/3940.jpg?s=2f5ca20ec0ca0c8201e67ec94ad34f9c",
+                "name": "Chiisana Viking Vickie"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2913,
+                "url": "https://myanimelist.net/anime/2913/Daisougen_no_Chiisana_Tenshi__Bush_Baby",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11298.jpg?s=546b754c12cd373f35c9851891d192ef",
+                "name": "Daisougen no Chiisana Tenshi: Bush Baby"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2656,
+                "url": "https://myanimelist.net/anime/2656/Doraemon_Movie_25__Nobita_no_Wan_Nyan_Jikuuden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/72430.jpg?s=6943005179144f90525d0dab54cf4839",
+                "name": "Doraemon Movie 25: Nobita no Wan Nyan Jikuuden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2392,
+                "url": "https://myanimelist.net/anime/2392/Doraemon_Movie_26__Nobita_no_Kyouryuu_2006",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72431.jpg?s=13f8bed72485166b6461c37d0778ccfa",
+                "name": "Doraemon Movie 26: Nobita no Kyouryuu 2006"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6930,
+                "url": "https://myanimelist.net/anime/6930/Doraemon_Movie_29__Shin_Nobita_no_Uchuu_Kaitakushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/72434.jpg?s=3e09377307401a0ea5f4638bca1da13a",
+                "name": "Doraemon Movie 29: Shin Nobita no Uchuu Kaitakushi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2648,
+                "url": "https://myanimelist.net/anime/2648/Doraemon__2112-nen_Doraemon_Tanjou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/12975.jpg?s=15d262afe45424bb9ec333b4d00b6fa5",
+                "name": "Doraemon: 2112-nen Doraemon Tanjou"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3355,
+                "url": "https://myanimelist.net/anime/3355/Fortune_Dogs",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/108318.jpg?s=0009be6f74bbc433d568846e5ec93169",
+                "name": "Fortune Dogs"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 7775,
+                "url": "https://myanimelist.net/anime/7775/Futatsu_no_Kurumi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/18829.jpg?s=acdc3997ee5189838235e1c6092cfed5",
+                "name": "Futatsu no Kurumi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9886,
+                "url": "https://myanimelist.net/anime/9886/Ganbare_Moudouken_Serve",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/27362.jpg?s=a504285d0e0fa116b83a4c31eba4cb0a",
+                "name": "Ganbare! Moudouken Serve"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 9886,
+                "url": "https://myanimelist.net/anime/9886/Ganbare_Moudouken_Serve",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/27362.jpg?s=a504285d0e0fa116b83a4c31eba4cb0a",
+                "name": "Ganbare! Moudouken Serve"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4210,
+                "url": "https://myanimelist.net/anime/4210/Gokiburi-tachi_no_Tasogare",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/17430.jpg?s=348919fa86b807c9736b1bbf61e55043",
+                "name": "Gokiburi-tachi no Tasogare"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 7177,
+                "url": "https://myanimelist.net/anime/7177/Gokyoudai_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/61397.jpg?s=f4a0fd8da0758e2f74f0134355162f95",
+                "name": "Gokyoudai Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 4061,
+                "url": "https://myanimelist.net/anime/4061/Grimm_Masterpiece_Theater_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/44608.jpg?s=9d23d37f5432cff7c4c4643970612238",
+                "name": "Grimm Masterpiece Theater II"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4060,
+                "url": "https://myanimelist.net/anime/4060/Grimm_Meisaku_Gekijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1562/96991.jpg?s=ba064da2799cb4d32704d20de317569b",
+                "name": "Grimm Meisaku Gekijou"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 4060,
+                "url": "https://myanimelist.net/anime/4060/Grimm_Meisaku_Gekijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1562/96991.jpg?s=ba064da2799cb4d32704d20de317569b",
+                "name": "Grimm Meisaku Gekijou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 16528,
+                "url": "https://myanimelist.net/anime/16528/Hal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46549.jpg?s=e2a002bfd7527e431271e6b202ff7278",
+                "name": "Hal"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9095,
+                "url": "https://myanimelist.net/anime/9095/Hitomi_no_Naka_no_Shounen__Juugo_Shounen_Hyouryuuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73701.jpg?s=7d6f072b0485c164980b184d231f8ef9",
+                "name": "Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 9095,
+                "url": "https://myanimelist.net/anime/9095/Hitomi_no_Naka_no_Shounen__Juugo_Shounen_Hyouryuuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73701.jpg?s=7d6f072b0485c164980b184d231f8ef9",
+                "name": "Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8426,
+                "url": "https://myanimelist.net/anime/8426/Hourou_Musuko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/53945.jpg?s=b03e642b7dca9f1fd1fe52f3a834d9c6",
+                "name": "Hourou Musuko"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22057,
+                "url": "https://myanimelist.net/anime/22057/Inari_Konkon_Koi_Iroha__Inari_Konkon_Semishigure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/64903.jpg?s=e0376086ddff5139f5ce9924e8be73d9",
+                "name": "Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure."
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3220,
+                "url": "https://myanimelist.net/anime/3220/Kanashimi_no_Belladonna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/24740.jpg?s=64fcd169948f9924052e18849bbbc9d1",
+                "name": "Kanashimi no Belladonna"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2544,
+                "url": "https://myanimelist.net/anime/2544/Kazoku_Robinson_Hyouryuuki__Fushigi_na_Shima_no_Flone",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56483.jpg?s=a7397ca018c90c0a045ceff8694479f8",
+                "name": "Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 5192,
+                "url": "https://myanimelist.net/anime/5192/Kiku-chan_to_Ookami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/10363.jpg?s=53d8d473cab238c55b7d3bfbccfd080a",
+                "name": "Kiku-chan to Ookami"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6045,
+                "url": "https://myanimelist.net/anime/6045/Kimi_ni_Todoke",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/17890.jpg?s=d2cd88eaf4560ed553b52bf159184d2e",
+                "name": "Kimi ni Todoke"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2568,
+                "url": "https://myanimelist.net/anime/2568/Kojika_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/3355.jpg?s=e44641a78486e68d9eafe699e9bd9da4",
+                "name": "Kojika Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2568,
+                "url": "https://myanimelist.net/anime/2568/Kojika_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/3355.jpg?s=e44641a78486e68d9eafe699e9bd9da4",
+                "name": "Kojika Monogatari"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1013,
+                "url": "https://myanimelist.net/anime/1013/Le_Chevalier_DEon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/74930.jpg?s=4bdede632860ebefefff95e2e3d3b152",
+                "name": "Le Chevalier D'Eon"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 5600,
+                "url": "https://myanimelist.net/anime/5600/Little_El_Cid_no_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/11563.jpg?s=782e9d557887cc23e72f7c64e5d95ff3",
+                "name": "Little El Cid no Bouken"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 5600,
+                "url": "https://myanimelist.net/anime/5600/Little_El_Cid_no_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/11563.jpg?s=782e9d557887cc23e72f7c64e5d95ff3",
+                "name": "Little El Cid no Bouken"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3823,
+                "url": "https://myanimelist.net/anime/3823/Little_Lulu_to_Chicchai_Nakama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40539.jpg?s=e3decd4e96dac444b4f9a8a8c028d55d",
+                "name": "Little Lulu to Chicchai Nakama"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3823,
+                "url": "https://myanimelist.net/anime/3823/Little_Lulu_to_Chicchai_Nakama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40539.jpg?s=e3decd4e96dac444b4f9a8a8c028d55d",
+                "name": "Little Lulu to Chicchai Nakama"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8097,
+                "url": "https://myanimelist.net/anime/8097/Lupin_III__The_Last_Job",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/21995.jpg?s=2973beb1c182873a99a57046704b6e22",
+                "name": "Lupin III: The Last Job"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3836,
+                "url": "https://myanimelist.net/anime/3836/Meiken_Jolie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/22959.jpg?s=9b31ea33875b32b44e3d1613800a817c",
+                "name": "Meiken Jolie"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3436,
+                "url": "https://myanimelist.net/anime/3436/Meme_Iroiro_Yume_no_Tabi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/53527.jpg?s=4138bd40238b92c4b982128f3dcf4785",
+                "name": "Meme Iroiro Yume no Tabi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3436,
+                "url": "https://myanimelist.net/anime/3436/Meme_Iroiro_Yume_no_Tabi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/53527.jpg?s=4138bd40238b92c4b982128f3dcf4785",
+                "name": "Meme Iroiro Yume no Tabi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1462,
+                "url": "https://myanimelist.net/anime/1462/Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/74781.jpg?s=510c0bebf6c11cfd06bc97bdf82e9075",
+                "name": "Memories"
+            }
+        },
+        {
+            "position": "Casting Director",
+            "anime": {
+                "mal_id": 2573,
+                "url": "https://myanimelist.net/anime/2573/Minami_no_Niji_no_Lucy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1769/102083.jpg?s=0bf3cb7f7202e3eb2af5a32ce2dffb9a",
+                "name": "Minami no Niji no Lucy"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1154,
+                "url": "https://myanimelist.net/anime/1154/Mother__Saigo_no_Shoujo_Eve",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/68115.jpg?s=6a6c988f34ceabb51f2fdf4752825a4c",
+                "name": "Mother: Saigo no Shoujo Eve"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 5023,
+                "url": "https://myanimelist.net/anime/5023/Ninpuu_Kamui_Gaiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/22957.jpg?s=e7d694f0d981f454b5427a73ef7c22ed",
+                "name": "Ninpuu Kamui Gaiden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10161,
+                "url": "https://myanimelist.net/anime/10161/No6",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1474/90768.jpg?s=482dfcab42dd8714087f6f837242180c",
+                "name": "No.6"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2570,
+                "url": "https://myanimelist.net/anime/2570/Ochame_na_Futago__Claire_Gakuin_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/60951.jpg?s=9db528d89f84eadfe46a124031552952",
+                "name": "Ochame na Futago: Claire Gakuin Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_1986",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/64339.jpg?s=04bcc48ed2d8a0bc41db3ee72fae9262",
+                "name": "Oz no Mahoutsukai (1986)"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/anime/2826/Oz_no_Mahoutsukai_1986",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/64339.jpg?s=04bcc48ed2d8a0bc41db3ee72fae9262",
+                "name": "Oz no Mahoutsukai (1986)"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2549,
+                "url": "https://myanimelist.net/anime/2549/Perrine_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/17531.jpg?s=650391a2d4470801ac3901f8b9c53534",
+                "name": "Perrine Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 16458,
+                "url": "https://myanimelist.net/anime/16458/Perrine_Monogatari_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/44400.jpg?s=3730b94e127179039077afb9791e1629",
+                "name": "Perrine Monogatari Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14407,
+                "url": "https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/55287.jpg?s=316318542b7a8a3304447fbb10a4d90e",
+                "name": "Persona 3 the Movie 1: Spring of Birth"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10588,
+                "url": "https://myanimelist.net/anime/10588/Persona_4_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29107.jpg?s=52d4bb7ce477c11c1090674017de59d7",
+                "name": "Persona 4 the Animation"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14267,
+                "url": "https://myanimelist.net/anime/14267/Persona_4_the_Animation__The_Factor_of_Hope",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50415.jpg?s=f48ba04a73f03f9e489df09613d318c7",
+                "name": "Persona 4 the Animation: The Factor of Hope"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10611,
+                "url": "https://myanimelist.net/anime/10611/R-15",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/33029.jpg?s=dfcaca2026ab6af6a65a568b50527721",
+                "name": "R-15"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10933,
+                "url": "https://myanimelist.net/anime/10933/R-15__R15_Shounen_Hyouryuuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30175.jpg?s=cc3e3332abccd052028ffa3c7c785c6d",
+                "name": "R-15: R15 Shounen Hyouryuuki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3363,
+                "url": "https://myanimelist.net/anime/3363/RD_Sennou_Chousashitsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/18929.jpg?s=762df5453a9950918e4665c30def400a",
+                "name": "RD Sennou Chousashitsu"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 40035,
+                "url": "https://myanimelist.net/anime/40035/Rebecca",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1190/106238.jpg?s=abfff5a9c3bd724b19cf4ff21e84ac33",
+                "name": "Rebecca"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 22997,
+                "url": "https://myanimelist.net/anime/22997/Shin_Skyers_5",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/59649.jpg?s=393f5d100cc4c158e8ff26a001f6f79f",
+                "name": "Shin Skyers 5"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 22997,
+                "url": "https://myanimelist.net/anime/22997/Shin_Skyers_5",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/59649.jpg?s=393f5d100cc4c158e8ff26a001f6f79f",
+                "name": "Shin Skyers 5"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 11405,
+                "url": "https://myanimelist.net/anime/11405/Skyers_5",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/31789.jpg?s=6537f92de32e1d14532731cb6c4cbfc3",
+                "name": "Skyers 5"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 11405,
+                "url": "https://myanimelist.net/anime/11405/Skyers_5",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/31789.jpg?s=6537f92de32e1d14532731cb6c4cbfc3",
+                "name": "Skyers 5"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2577,
+                "url": "https://myanimelist.net/anime/2577/Tom_Sawyer_no_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73344.jpg?s=6a54c564c603df6d74204c4ce84faef0",
+                "name": "Tom Sawyer no Bouken"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10294,
+                "url": "https://myanimelist.net/anime/10294/Towa_no_Quon_1__Utakata_no_Kaben",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/35689.jpg?s=5e2c1bf24d00e1512e96bef47b820db2",
+                "name": "Towa no Quon 1: Utakata no Kaben"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10717,
+                "url": "https://myanimelist.net/anime/10717/Towa_no_Quon_6__Towa_no_Quon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/35131.jpg?s=444434d5110f83598df0dd5e9256713f",
+                "name": "Towa no Quon 6: Towa no Quon"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2557,
+                "url": "https://myanimelist.net/anime/2557/Trapp_Ikka_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/17856.jpg?s=1aff939674b8f16a379efa36a01c6fa0",
+                "name": "Trapp Ikka Monogatari"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3317,
+                "url": "https://myanimelist.net/anime/3317/Uchuusen_Sagittarius",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/45430.jpg?s=2349cd2be54d9f55510f5784e67bf0d5",
+                "name": "Uchuusen Sagittarius"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 20225,
+                "url": "https://myanimelist.net/anime/20225/Umigame_to_Shounen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/53835.jpg?s=40f50ca06c47b119169e278e09b4a69f",
+                "name": "Umigame to Shounen"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 4101,
+                "url": "https://myanimelist.net/anime/4101/Wan_Wan_Celepoo_Soreyuke_Tetsunoshin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/7489.jpg?s=0223a32361df15d89845d83bdcf0752c",
+                "name": "Wan Wan Celepoo Soreyuke! Tetsunoshin"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3761,
+                "url": "https://myanimelist.net/anime/3761/Wanwan_Sanjuushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/22968.jpg?s=ae86d8c55a2bf1e3d1aa177626c2b1da",
+                "name": "Wanwan Sanjuushi"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3761,
+                "url": "https://myanimelist.net/anime/3761/Wanwan_Sanjuushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/22968.jpg?s=ae86d8c55a2bf1e3d1aa177626c2b1da",
+                "name": "Wanwan Sanjuushi"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 1375,
+                "url": "https://myanimelist.net/anime/1375/Watashi_no_Ashinaga_Ojisan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/17851.jpg?s=ba374be295041c3580ebf92913a189ec",
+                "name": "Watashi no Ashinaga Ojisan"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 3691,
+                "url": "https://myanimelist.net/anime/3691/Watashi_to_Watashi__Futari_no_Lotte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/17854.jpg?s=44e744749ef0e01cf4c184924f0c1e79",
+                "name": "Watashi to Watashi: Futari no Lotte"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6693,
+                "url": "https://myanimelist.net/anime/6693/Yatterman_the_Movie__Shin_Yattermecha_Osu_Gou_Omocha_no_Kuni_de_Dai_Ketsudan_da_Koron",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22013.jpg?s=2d0ef7856e5e552252d4dbbb76457c6c",
+                "name": "Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7625,
+                "url": "https://myanimelist.net/anime/7625/Yousei_Dick",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/59719.jpg?s=2e8c820478f1377b85796ed7b7bbc04e",
+                "name": "Yousei Dick"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14075,
+                "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=f265f76e2e501a991bc879dd7fbbef2e",
+                "name": "Zetsuen no Tempest"
+            }
+        }
+    ]
+}

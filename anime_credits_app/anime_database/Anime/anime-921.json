@@ -1,0 +1,44 @@
+{
+    "mal_id": 921,
+    "url": "https://myanimelist.net/anime/921/Nurse_Witch_Komugi-chan_Magikarte_Z",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/46145.jpg",
+    "title": "Nurse Witch Komugi-chan Magikarte Z",
+    "title_english": null,
+    "title_japanese": "ナースウィッチ小麦ちゃんマジカルてZ",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-09-10T00:00:00+00:00",
+        "to": "2005-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 9,
+                "year": 2004
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 2005
+            }
+        },
+        "string": "Sep 10, 2004 to Sep 22, 2005"
+    },
+    "score": 6.66,
+    "scored_by": 2174,
+    "rank": 5062,
+    "popularity": 6314,
+    "members": 5289,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

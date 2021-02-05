@@ -1,0 +1,44 @@
+{
+    "mal_id": 7066,
+    "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/16503.jpg",
+    "title": "Mahoromatic: Tadaima Okaeri",
+    "title_english": "Mahoromatic: I'm Home!",
+    "title_japanese": "まほろまてぃっく ただいま◇おかえり",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-17T00:00:00+00:00",
+        "to": "2009-10-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 24,
+                "month": 10,
+                "year": 2009
+            }
+        },
+        "string": "Oct 17, 2009 to Oct 24, 2009"
+    },
+    "score": 7.08,
+    "scored_by": 3553,
+    "rank": 3319,
+    "popularity": 5280,
+    "members": 8242,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

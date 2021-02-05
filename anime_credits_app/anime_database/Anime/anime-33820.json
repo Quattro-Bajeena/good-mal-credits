@@ -1,0 +1,44 @@
+{
+    "mal_id": 33820,
+    "url": "https://myanimelist.net/anime/33820/Ao_Oni_The_Animation_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/81440.jpg",
+    "title": "Ao Oni The Animation (Movie)",
+    "title_english": "Aooni the Movie",
+    "title_japanese": "青鬼 THE ANIMATION",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-02-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 2,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 11, 2017"
+    },
+    "score": 4.22,
+    "scored_by": 2398,
+    "rank": 10935,
+    "popularity": 5972,
+    "members": 6039,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

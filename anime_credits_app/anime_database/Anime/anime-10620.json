@@ -1,0 +1,44 @@
+{
+    "mal_id": 10620,
+    "url": "https://myanimelist.net/anime/10620/Mirai_Nikki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+    "title": "Mirai Nikki",
+    "title_english": "The Future Diary",
+    "title_japanese": "未来日記",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-10-09T00:00:00+00:00",
+        "to": "2012-04-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 15,
+                "month": 4,
+                "year": 2012
+            }
+        },
+        "string": "Oct 9, 2011 to Apr 15, 2012"
+    },
+    "score": 7.56,
+    "scored_by": 902272,
+    "rank": 1401,
+    "popularity": 20,
+    "members": 1513812,
+    "favorites": 29386,
+    "premiered": "Fall 2011",
+    "studios": [
+        {
+            "mal_id": 163,
+            "type": "anime",
+            "name": "Asread",
+            "url": "https://myanimelist.net/anime/producer/163/Asread"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 10156,
+    "url": "https://myanimelist.net/anime/10156/Sacred_Seven",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/30218.jpg",
+    "title": "Sacred Seven",
+    "title_english": "Sacred Seven",
+    "title_japanese": "セイクリッドセブン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-03T00:00:00+00:00",
+        "to": "2011-09-16T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": 16,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Jul 3, 2011 to Sep 16, 2011"
+    },
+    "score": 6.63,
+    "scored_by": 28802,
+    "rank": 5228,
+    "popularity": 1821,
+    "members": 69125,
+    "favorites": 83,
+    "premiered": "Summer 2011",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 33433,
+    "url": "https://myanimelist.net/anime/33433/Shuumatsu_no_Izetta",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/82119.jpg",
+    "title": "Shuumatsu no Izetta",
+    "title_english": "Izetta: The Last Witch",
+    "title_japanese": "終末のイゼッタ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-01T00:00:00+00:00",
+        "to": "2016-12-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 1, 2016 to Dec 17, 2016"
+    },
+    "score": 6.77,
+    "scored_by": 54923,
+    "rank": 4565,
+    "popularity": 983,
+    "members": 149153,
+    "favorites": 301,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

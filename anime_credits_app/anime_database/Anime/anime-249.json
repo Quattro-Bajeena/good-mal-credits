@@ -1,0 +1,44 @@
+{
+    "mal_id": 249,
+    "url": "https://myanimelist.net/anime/249/InuYasha",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg",
+    "title": "InuYasha",
+    "title_english": "InuYasha",
+    "title_japanese": "犬夜叉",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 167,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-10-16T00:00:00+00:00",
+        "to": "2004-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 2000
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Oct 16, 2000 to Sep 13, 2004"
+    },
+    "score": 7.85,
+    "scored_by": 262162,
+    "rank": 743,
+    "popularity": 184,
+    "members": 580457,
+    "favorites": 17006,
+    "premiered": "Fall 2000",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

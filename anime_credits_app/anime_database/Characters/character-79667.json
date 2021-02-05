@@ -1,0 +1,35 @@
+{
+    "mal_id": 79667,
+    "url": "https://myanimelist.net/character/79667/Pet_Store_Owner",
+    "name": "Pet Store Owner",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/197325.jpg",
+    "animeography": [
+        {
+            "mal_id": 1,
+            "name": "Cowboy Bebop",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=42d7666179a2851c99fada2e0ceb5da1",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 536,
+            "name": "Goodson, Barbara",
+            "url": "https://myanimelist.net/people/536/Barbara_Goodson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/7927.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5929,
+            "name": "Mayama, Ako",
+            "url": "https://myanimelist.net/people/5929/Ako_Mayama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55028.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

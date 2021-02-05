@@ -1,0 +1,44 @@
+{
+    "mal_id": 82,
+    "url": "https://myanimelist.net/anime/82/Mobile_Suit_Gundam_0080__War_in_the_Pocket",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/82.jpg",
+    "title": "Mobile Suit Gundam 0080: War in the Pocket",
+    "title_english": "Mobile Suit Gundam 0080: War in the Pocket",
+    "title_japanese": "機動戦士ガンダム 0080 ポケットの中の戦争",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-03-25T00:00:00+00:00",
+        "to": "1989-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 1989
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 1989
+            }
+        },
+        "string": "Mar 25, 1989 to Aug 25, 1989"
+    },
+    "score": 7.9,
+    "scored_by": 23273,
+    "rank": 677,
+    "popularity": 2436,
+    "members": 42964,
+    "favorites": 706,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

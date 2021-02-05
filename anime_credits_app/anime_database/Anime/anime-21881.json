@@ -1,0 +1,44 @@
+{
+    "mal_id": 21881,
+    "url": "https://myanimelist.net/anime/21881/Sword_Art_Online_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/65185.jpg",
+    "title": "Sword Art Online II",
+    "title_english": "Sword Art Online II",
+    "title_japanese": "ソードアート・オンライン II",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-05T00:00:00+00:00",
+        "to": "2014-12-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 20,
+                "month": 12,
+                "year": 2014
+            }
+        },
+        "string": "Jul 5, 2014 to Dec 20, 2014"
+    },
+    "score": 6.8,
+    "scored_by": 920479,
+    "rank": 4460,
+    "popularity": 23,
+    "members": 1415548,
+    "favorites": 10258,
+    "premiered": "Summer 2014",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

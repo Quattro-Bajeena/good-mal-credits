@@ -1,0 +1,44 @@
+{
+    "mal_id": 1067,
+    "url": "https://myanimelist.net/anime/1067/Kishin_Houkou_Demonbane_TV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1067.jpg",
+    "title": "Kishin Houkou Demonbane (TV)",
+    "title_english": null,
+    "title_japanese": "機神咆吼デモンベイン",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-05-19T00:00:00+00:00",
+        "to": "2006-08-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2006
+            },
+            "to": {
+                "day": 18,
+                "month": 8,
+                "year": 2006
+            }
+        },
+        "string": "May 19, 2006 to Aug 18, 2006"
+    },
+    "score": 6.58,
+    "scored_by": 11589,
+    "rank": 5477,
+    "popularity": 2802,
+    "members": 33171,
+    "favorites": 42,
+    "premiered": "Spring 2006",
+    "studios": [
+        {
+            "mal_id": 433,
+            "type": "anime",
+            "name": "View Works",
+            "url": "https://myanimelist.net/anime/producer/433/View_Works"
+        }
+    ]
+}

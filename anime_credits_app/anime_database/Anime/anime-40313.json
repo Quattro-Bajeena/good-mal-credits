@@ -1,0 +1,44 @@
+{
+    "mal_id": 40313,
+    "url": "https://myanimelist.net/anime/40313/Promare__Lio-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1289/108896.jpg",
+    "title": "Promare: Lio-hen",
+    "title_english": null,
+    "title_japanese": "PROMARE（プロメア）リオ編",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-05-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 24, 2019"
+    },
+    "score": 7.06,
+    "scored_by": 8170,
+    "rank": 3418,
+    "popularity": 4108,
+    "members": 15411,
+    "favorites": 13,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

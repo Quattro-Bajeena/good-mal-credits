@@ -1,0 +1,44 @@
+{
+    "mal_id": 38145,
+    "url": "https://myanimelist.net/anime/38145/Doukyonin_wa_Hiza_Tokidoki_Atama_no_Ue",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1251/99191.jpg",
+    "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+    "title_english": "My Roommate is a Cat",
+    "title_japanese": "同居人はひざ、時々、頭のうえ。",
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-01-09T00:00:00+00:00",
+        "to": "2019-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2019
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Jan 9, 2019 to Mar 27, 2019"
+    },
+    "score": 7.76,
+    "scored_by": 57534,
+    "rank": 899,
+    "popularity": 1147,
+    "members": 127831,
+    "favorites": 879,
+    "premiered": "Winter 2019",
+    "studios": [
+        {
+            "mal_id": 1379,
+            "type": "anime",
+            "name": "Zero-G",
+            "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+        }
+    ]
+}

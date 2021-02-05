@@ -1,0 +1,37 @@
+{
+    "mal_id": 1866,
+    "url": "https://myanimelist.net/anime/1866/Seirei_Tsukai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1866.jpg",
+    "title": "Seirei Tsukai",
+    "title_english": "Elementalors",
+    "title_japanese": "精霊使い",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 1995"
+    },
+    "score": 5.82,
+    "scored_by": 665,
+    "rank": 8775,
+    "popularity": 7983,
+    "members": 2764,
+    "favorites": 2,
+    "premiered": null,
+    "studios": []
+}

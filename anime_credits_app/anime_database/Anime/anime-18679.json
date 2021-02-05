@@ -1,0 +1,44 @@
+{
+    "mal_id": 18679,
+    "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg",
+    "title": "Kill la Kill",
+    "title_english": "KILL la KILL",
+    "title_japanese": "キルラキル",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-10-04T00:00:00+00:00",
+        "to": "2014-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2013
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Oct 4, 2013 to Mar 28, 2014"
+    },
+    "score": 8.11,
+    "scored_by": 671087,
+    "rank": 409,
+    "popularity": 35,
+    "members": 1265084,
+    "favorites": 34253,
+    "premiered": "Fall 2013",
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

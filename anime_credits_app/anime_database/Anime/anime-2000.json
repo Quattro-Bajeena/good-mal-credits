@@ -1,0 +1,44 @@
+{
+    "mal_id": 2000,
+    "url": "https://myanimelist.net/anime/2000/Roujin_Z",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1584/93628.jpg",
+    "title": "Roujin Z",
+    "title_english": "Roujin Z",
+    "title_japanese": "老人Ｚ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-09-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 9,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 14, 1991"
+    },
+    "score": 7.05,
+    "scored_by": 8103,
+    "rank": 3438,
+    "popularity": 3402,
+    "members": 22834,
+    "favorites": 37,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "APPP",
+            "url": "https://myanimelist.net/anime/producer/77/APPP"
+        }
+    ]
+}

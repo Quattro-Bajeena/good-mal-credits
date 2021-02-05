@@ -1,0 +1,44 @@
+{
+    "mal_id": 33204,
+    "url": "https://myanimelist.net/anime/33204/Hirune_Hime__Shiranai_Watashi_no_Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/84071.jpg",
+    "title": "Hirune Hime: Shiranai Watashi no Monogatari",
+    "title_english": "Napping Princess",
+    "title_japanese": "ひるね姫～知らないワタシの物語～",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-03-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 3,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 18, 2017"
+    },
+    "score": 6.95,
+    "scored_by": 9480,
+    "rank": 3815,
+    "popularity": 2886,
+    "members": 31404,
+    "favorites": 27,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1278,
+            "type": "anime",
+            "name": "Signal.MD",
+            "url": "https://myanimelist.net/anime/producer/1278/SignalMD"
+        }
+    ]
+}

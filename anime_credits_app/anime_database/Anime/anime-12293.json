@@ -1,0 +1,44 @@
+{
+    "mal_id": 12293,
+    "url": "https://myanimelist.net/anime/12293/Campione__Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75662.jpg",
+    "title": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+    "title_english": "Campione!",
+    "title_japanese": "カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-07-06T00:00:00+00:00",
+        "to": "2012-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2012
+            }
+        },
+        "string": "Jul 6, 2012 to Sep 28, 2012"
+    },
+    "score": 7.06,
+    "scored_by": 164147,
+    "rank": 3385,
+    "popularity": 460,
+    "members": 302171,
+    "favorites": 1288,
+    "premiered": "Summer 2012",
+    "studios": [
+        {
+            "mal_id": 51,
+            "type": "anime",
+            "name": "Diomedéa",
+            "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+        }
+    ]
+}

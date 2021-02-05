@@ -1,0 +1,44 @@
+{
+    "mal_id": 39991,
+    "url": "https://myanimelist.net/anime/39991/Promare__Galo-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1369/108826.jpg",
+    "title": "Promare: Galo-hen",
+    "title_english": null,
+    "title_japanese": "PROMARE（プロメア）ガロ編",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-05-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 24, 2019"
+    },
+    "score": 6.92,
+    "scored_by": 8221,
+    "rank": 3946,
+    "popularity": 4092,
+    "members": 15535,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 803,
+            "type": "anime",
+            "name": "Trigger",
+            "url": "https://myanimelist.net/anime/producer/803/Trigger"
+        }
+    ]
+}

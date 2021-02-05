@@ -1,0 +1,44 @@
+{
+    "mal_id": 6922,
+    "url": "https://myanimelist.net/anime/6922/Fate_stay_night_Movie__Unlimited_Blade_Works",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1889/95111.jpg",
+    "title": "Fate/stay night Movie: Unlimited Blade Works",
+    "title_english": "Fate/stay night: Unlimited Blade Works",
+    "title_japanese": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
+    "type": "Movie",
+    "source": "Visual novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-01-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 23, 2010"
+    },
+    "score": 7.41,
+    "scored_by": 95875,
+    "rank": 1885,
+    "popularity": 847,
+    "members": 174861,
+    "favorites": 861,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

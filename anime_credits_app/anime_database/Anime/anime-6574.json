@@ -1,0 +1,44 @@
+{
+    "mal_id": 6574,
+    "url": "https://myanimelist.net/anime/6574/Hanamaru_Youchien",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/50395.jpg",
+    "title": "Hanamaru Youchien",
+    "title_english": "Hanamaru Kindergarten",
+    "title_japanese": "はなまる幼稚園",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-01-11T00:00:00+00:00",
+        "to": "2010-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2010
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2010
+            }
+        },
+        "string": "Jan 11, 2010 to Mar 29, 2010"
+    },
+    "score": 7.31,
+    "scored_by": 28033,
+    "rank": 2309,
+    "popularity": 1897,
+    "members": 64871,
+    "favorites": 181,
+    "premiered": "Winter 2010",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

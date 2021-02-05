@@ -1,0 +1,42 @@
+{
+    "mal_id": 143338,
+    "url": "https://myanimelist.net/character/143338/Jovanna",
+    "name": "Jovanna",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/310044.jpg",
+    "animeography": [
+        {
+            "mal_id": 1762,
+            "name": "Arslan Senki",
+            "url": "https://myanimelist.net/anime/1762/Arslan_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/22254.jpg?s=d7d8424b8e7ccde52b547e6a80ccd1e2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31821,
+            "name": "Arslan Senki (TV): Fuujin Ranbu",
+            "url": "https://myanimelist.net/anime/31821/Arslan_Senki_TV__Fuujin_Ranbu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/80681.jpg?s=267876038f1be17d448f4cacbbe10c60",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 5929,
+            "name": "Mayama, Ako",
+            "url": "https://myanimelist.net/people/5929/Ako_Mayama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55028.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 10912,
+            "name": "Cavanagh, Jessica",
+            "url": "https://myanimelist.net/people/10912/Jessica_Cavanagh",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40290.jpg",
+            "language": "English"
+        }
+    ]
+}

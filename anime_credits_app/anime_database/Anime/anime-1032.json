@@ -1,0 +1,44 @@
+{
+    "mal_id": 1032,
+    "url": "https://myanimelist.net/anime/1032/Kumo_no_You_ni_Kaze_no_You_ni",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/43205.jpg",
+    "title": "Kumo no You ni Kaze no You ni",
+    "title_english": "Like the Clouds, Like the Wind",
+    "title_japanese": "雲のように風のように",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-03-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 3,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 21, 1990"
+    },
+    "score": 6.81,
+    "scored_by": 2662,
+    "rank": 4400,
+    "popularity": 5954,
+    "members": 6073,
+    "favorites": 10,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

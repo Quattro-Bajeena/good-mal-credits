@@ -1,0 +1,44 @@
+{
+    "mal_id": 1152,
+    "url": "https://myanimelist.net/anime/1152/New_Dominion_Tank_Police",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/65915.jpg",
+    "title": "New Dominion Tank Police",
+    "title_english": null,
+    "title_japanese": "特捜戦車隊ドミニオン",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-10-20T00:00:00+00:00",
+        "to": "1994-10-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 10,
+                "year": 1993
+            },
+            "to": {
+                "day": 21,
+                "month": 10,
+                "year": 1994
+            }
+        },
+        "string": "Oct 20, 1993 to Oct 21, 1994"
+    },
+    "score": 6.95,
+    "scored_by": 3830,
+    "rank": 3816,
+    "popularity": 5154,
+    "members": 8694,
+    "favorites": 34,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

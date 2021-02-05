@@ -113,9 +113,9 @@ class Studio(db.Model):
 class PageStatus(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     category = db.Column(db.String(50), nullable=False)
-    last_modified = db.Column(db.DateTime)
+    exists = db.Column(db.Boolean, default=False, nullable=False)
 
-    creating = db.Column(db.Boolean)
+    last_modified = db.Column(db.DateTime)
     updating = db.Column(db.Boolean)
     
     task_id = db.Column(db.String(100))

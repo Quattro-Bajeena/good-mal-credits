@@ -1,0 +1,44 @@
+{
+    "mal_id": 1829,
+    "url": "https://myanimelist.net/anime/1829/Ged_Senki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/73443.jpg",
+    "title": "Ged Senki",
+    "title_english": "Tales from Earthsea",
+    "title_japanese": "ゲド戦記",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 29, 2006"
+    },
+    "score": 6.95,
+    "scored_by": 63840,
+    "rank": 3814,
+    "popularity": 1315,
+    "members": 106924,
+    "favorites": 187,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 10029,
+    "url": "https://myanimelist.net/anime/10029/Coquelicot-zaka_kara",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/32547.jpg",
+    "title": "Coquelicot-zaka kara",
+    "title_english": "From Up on Poppy Hill",
+    "title_japanese": "コクリコ坂から",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 2011"
+    },
+    "score": 7.86,
+    "scored_by": 68384,
+    "rank": 724,
+    "popularity": 1205,
+    "members": 121760,
+    "favorites": 660,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

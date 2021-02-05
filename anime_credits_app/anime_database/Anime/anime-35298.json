@@ -1,0 +1,50 @@
+{
+    "mal_id": 35298,
+    "url": "https://myanimelist.net/anime/35298/Ramen_Daisuki_Koizumi-san",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/89876.jpg",
+    "title": "Ramen Daisuki Koizumi-san",
+    "title_english": "Ms. Koizumi Loves Ramen Noodles",
+    "title_japanese": "ラーメン大好き小泉さん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-01-04T00:00:00+00:00",
+        "to": "2018-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 4, 2018 to Mar 22, 2018"
+    },
+    "score": 6.52,
+    "scored_by": 17134,
+    "rank": 5799,
+    "popularity": 2254,
+    "members": 49510,
+    "favorites": 62,
+    "premiered": "Winter 2018",
+    "studios": [
+        {
+            "mal_id": 418,
+            "type": "anime",
+            "name": "Studio Gokumi",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        },
+        {
+            "mal_id": 1299,
+            "type": "anime",
+            "name": "AXsiZ",
+            "url": "https://myanimelist.net/anime/producer/1299/AXsiZ"
+        }
+    ]
+}

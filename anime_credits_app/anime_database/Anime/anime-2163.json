@@ -1,0 +1,44 @@
+{
+    "mal_id": 2163,
+    "url": "https://myanimelist.net/anime/2163/AIKa_R-16__Virgin_Mission",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/9069.jpg",
+    "title": "AIKa R-16: Virgin Mission",
+    "title_english": "AIKa R-16: Virgin Mission",
+    "title_japanese": "AIKa R-16:VIRGIN MISSION",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-25T00:00:00+00:00",
+        "to": "2007-10-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Apr 25, 2007 to Oct 26, 2007"
+    },
+    "score": 5.97,
+    "scored_by": 8443,
+    "rank": 8315,
+    "popularity": 3683,
+    "members": 19525,
+    "favorites": 31,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Studio Fantasia",
+            "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+        }
+    ]
+}

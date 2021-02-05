@@ -1,0 +1,44 @@
+{
+    "mal_id": 232,
+    "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+    "title": "Cardcaptor Sakura",
+    "title_english": "Cardcaptor Sakura",
+    "title_japanese": "カードキャプターさくら",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 70,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-04-07T00:00:00+00:00",
+        "to": "2000-03-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 1998
+            },
+            "to": {
+                "day": 21,
+                "month": 3,
+                "year": 2000
+            }
+        },
+        "string": "Apr 7, 1998 to Mar 21, 2000"
+    },
+    "score": 8.16,
+    "scored_by": 163093,
+    "rank": 348,
+    "popularity": 399,
+    "members": 335035,
+    "favorites": 12811,
+    "premiered": "Spring 1998",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

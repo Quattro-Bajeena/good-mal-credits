@@ -1,0 +1,44 @@
+{
+    "mal_id": 1312,
+    "url": "https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1969/94093.jpg",
+    "title": "Chikyuu Bouei Kigyou Dai-Guard",
+    "title_english": null,
+    "title_japanese": "地球防衛企業ダイ・ガード",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-10-05T00:00:00+00:00",
+        "to": "2000-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1999
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2000
+            }
+        },
+        "string": "Oct 5, 1999 to Mar 28, 2000"
+    },
+    "score": 7.12,
+    "scored_by": 2291,
+    "rank": 3122,
+    "popularity": 5428,
+    "members": 7668,
+    "favorites": 35,
+    "premiered": "Fall 1999",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

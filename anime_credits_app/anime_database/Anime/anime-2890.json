@@ -1,0 +1,44 @@
+{
+    "mal_id": 2890,
+    "url": "https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/8970.jpg",
+    "title": "Gake no Ue no Ponyo",
+    "title_english": "Ponyo",
+    "title_japanese": "崖の上のポニョ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 19, 2008"
+    },
+    "score": 7.89,
+    "scored_by": 234963,
+    "rank": 689,
+    "popularity": 367,
+    "members": 357358,
+    "favorites": 2191,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        }
+    ]
+}

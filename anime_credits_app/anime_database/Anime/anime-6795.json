@@ -1,0 +1,44 @@
+{
+    "mal_id": 6795,
+    "url": "https://myanimelist.net/anime/6795/Genius_Party_Beyond",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/18914.jpg",
+    "title": "Genius Party Beyond",
+    "title_english": null,
+    "title_japanese": "ジーニアスパーティービヨンド",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-10-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 11, 2008"
+    },
+    "score": 7.23,
+    "scored_by": 6930,
+    "rank": 2638,
+    "popularity": 3990,
+    "members": 16278,
+    "favorites": 54,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Studio 4°C",
+            "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+        }
+    ]
+}

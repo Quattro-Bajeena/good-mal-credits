@@ -1,0 +1,44 @@
+{
+    "mal_id": 1845,
+    "url": "https://myanimelist.net/anime/1845/Gaiking__Legend_of_Daiku-Maryu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/74215.jpg",
+    "title": "Gaiking: Legend of Daiku-Maryu",
+    "title_english": null,
+    "title_japanese": "ガイキング Legend of Daiku-Maryu",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-11-12T00:00:00+00:00",
+        "to": "2006-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 11,
+                "year": 2005
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Nov 12, 2005 to Sep 24, 2006"
+    },
+    "score": 7.13,
+    "scored_by": 1081,
+    "rank": 3068,
+    "popularity": 7101,
+    "members": 3945,
+    "favorites": 15,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

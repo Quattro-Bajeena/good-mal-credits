@@ -1,0 +1,44 @@
+{
+    "mal_id": 2837,
+    "url": "https://myanimelist.net/anime/2837/Ariel_Deluxe",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1004/94070.jpg",
+    "title": "Ariel Deluxe",
+    "title_english": null,
+    "title_japanese": "DELUXE ARIEL (エリアル)",
+    "type": "OVA",
+    "source": "Novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-01-21T00:00:00+00:00",
+        "to": "1991-04-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 1991
+            },
+            "to": {
+                "day": 21,
+                "month": 4,
+                "year": 1991
+            }
+        },
+        "string": "Jan 21, 1991 to Apr 21, 1991"
+    },
+    "score": 5.6,
+    "scored_by": 428,
+    "rank": 9386,
+    "popularity": 9993,
+    "members": 1207,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

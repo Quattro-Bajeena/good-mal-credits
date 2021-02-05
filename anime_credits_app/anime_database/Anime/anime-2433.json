@@ -1,0 +1,44 @@
+{
+    "mal_id": 2433,
+    "url": "https://myanimelist.net/anime/2433/Lingeries",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/50553.jpg",
+    "title": "Lingeries",
+    "title_english": null,
+    "title_japanese": "ランジェリーズ",
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-07-24T00:00:00+00:00",
+        "to": "2004-02-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": 26,
+                "month": 2,
+                "year": 2004
+            }
+        },
+        "string": "Jul 24, 2003 to Feb 26, 2004"
+    },
+    "score": 6.98,
+    "scored_by": 3209,
+    "rank": null,
+    "popularity": 5485,
+    "members": 7480,
+    "favorites": 73,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Studio Fantasia",
+            "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+        }
+    ]
+}

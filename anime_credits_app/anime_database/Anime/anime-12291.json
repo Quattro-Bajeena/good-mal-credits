@@ -1,0 +1,44 @@
+{
+    "mal_id": 12291,
+    "url": "https://myanimelist.net/anime/12291/Acchi_Kocchi_TV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/46489.jpg",
+    "title": "Acchi Kocchi (TV)",
+    "title_english": "Place to Place",
+    "title_japanese": "あっちこっち",
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-06T00:00:00+00:00",
+        "to": "2012-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2012
+            }
+        },
+        "string": "Apr 6, 2012 to Jun 29, 2012"
+    },
+    "score": 7.51,
+    "scored_by": 114293,
+    "rank": 1547,
+    "popularity": 573,
+    "members": 251400,
+    "favorites": 2391,
+    "premiered": "Spring 2012",
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2182,
+    "url": "https://myanimelist.net/anime/2182/Robot_Carnival",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1834/92929.jpg",
+    "title": "Robot Carnival",
+    "title_english": "Robot Carnival",
+    "title_japanese": "ロボット・カーニバル",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-07-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 7,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 21, 1987"
+    },
+    "score": 7.28,
+    "scored_by": 6155,
+    "rank": 2450,
+    "popularity": 3965,
+    "members": 16594,
+    "favorites": 86,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "APPP",
+            "url": "https://myanimelist.net/anime/producer/77/APPP"
+        }
+    ]
+}

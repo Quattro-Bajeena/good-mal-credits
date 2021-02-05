@@ -1,0 +1,44 @@
+{
+    "mal_id": 1033,
+    "url": "https://myanimelist.net/anime/1033/Sennen_Joyuu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg",
+    "title": "Sennen Joyuu",
+    "title_english": "Millennium Actress",
+    "title_japanese": "千年女優",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-09-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 9,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 14, 2002"
+    },
+    "score": 8.27,
+    "scored_by": 58050,
+    "rank": 243,
+    "popularity": 1160,
+    "members": 126181,
+    "favorites": 1917,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

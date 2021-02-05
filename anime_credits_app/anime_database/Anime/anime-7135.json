@@ -1,0 +1,44 @@
+{
+    "mal_id": 7135,
+    "url": "https://myanimelist.net/anime/7135/Mahou_Sensei_Negima_Movie__Anime_Final",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/29541.jpg",
+    "title": "Mahou Sensei Negima! Movie: Anime Final",
+    "title_english": null,
+    "title_japanese": "劇場版 魔法先生ネギま! ANIME FINAL",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-08-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 8,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 27, 2011"
+    },
+    "score": 6.79,
+    "scored_by": 5555,
+    "rank": 4511,
+    "popularity": 3821,
+    "members": 17891,
+    "favorites": 24,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 44,
+            "type": "anime",
+            "name": "Shaft",
+            "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+    ]
+}

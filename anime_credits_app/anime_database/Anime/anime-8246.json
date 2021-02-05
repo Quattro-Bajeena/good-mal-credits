@@ -1,0 +1,44 @@
+{
+    "mal_id": 8246,
+    "url": "https://myanimelist.net/anime/8246/Naruto__Shippuuden_Movie_4_-_The_Lost_Tower",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/23344.jpg",
+    "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+    "title_english": null,
+    "title_japanese": "劇場版 NARUTO-ナルト-疾風伝 ザ・ロストタワー",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-07-31T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 31, 2010"
+    },
+    "score": 7.42,
+    "scored_by": 98707,
+    "rank": 1838,
+    "popularity": 868,
+    "members": 170385,
+    "favorites": 231,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}
