@@ -1,0 +1,87 @@
+{
+    "mal_id": 122601,
+    "url": "https://myanimelist.net/character/122601/Shiro",
+    "name": "Shiro",
+    "name_kanji": null,
+    "nicknames": [
+        "Kotarou Yanagisawa"
+    ],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/368813.jpg",
+    "animeography": [
+        {
+            "mal_id": 24833,
+            "name": "Ansatsu Kyoushitsu",
+            "url": "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75639.jpg?s=c52d6d05a33bab68144556ee88d7e446",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 30654,
+            "name": "Ansatsu Kyoushitsu 2nd Season",
+            "url": "https://myanimelist.net/anime/30654/Ansatsu_Kyoushitsu_2nd_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/77966.jpg?s=42f587261eae29de6a1f9b54d1d9dec7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34389,
+            "name": "Koro-sensei Quest!",
+            "url": "https://myanimelist.net/anime/34389/Koro-sensei_Quest",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/83452.jpg?s=61ceef028f7e99fe499f5806d0ec980b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 39883,
+            "name": "Ansatsu Kyoushitsu",
+            "url": "https://myanimelist.net/manga/39883/Ansatsu_Kyoushitsu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/90819.jpg?s=9007a6f4d9c5a31b66b158db740de1f3",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 394,
+            "name": "Madono, Mitsuaki",
+            "url": "https://myanimelist.net/people/394/Mitsuaki_Madono",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15923.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 12615,
+            "name": "Takeuchi, Ryouta",
+            "url": "https://myanimelist.net/people/12615/Ryouta_Takeuchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58161.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 22909,
+            "name": "Lucke, Michael",
+            "url": "https://myanimelist.net/people/22909/Michael_Lucke",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26279.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 26525,
+            "name": "Seugnet, Christophe",
+            "url": "https://myanimelist.net/people/26525/Christophe_Seugnet",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 39444,
+            "name": "Puig, Enric",
+            "url": "https://myanimelist.net/people/39444/Enric_Puig",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/42308.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

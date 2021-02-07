@@ -1,0 +1,44 @@
+{
+    "mal_id": 21809,
+    "url": "https://myanimelist.net/anime/21809/Kenzen_Robo_Daimidaler",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/61435.jpg",
+    "title": "Kenzen Robo Daimidaler",
+    "title_english": "Daimidaler: Prince vs. Penguin Empire",
+    "title_japanese": "健全ロボ ダイミダラー",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-05T00:00:00+00:00",
+        "to": "2014-06-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 5, 2014 to Jun 21, 2014"
+    },
+    "score": 6.17,
+    "scored_by": 19152,
+    "rank": 7493,
+    "popularity": 2063,
+    "members": 57143,
+    "favorites": 77,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 120,
+            "type": "anime",
+            "name": "TNK",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ]
+}

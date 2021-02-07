@@ -1,0 +1,44 @@
+{
+    "mal_id": 1162,
+    "url": "https://myanimelist.net/anime/1162/Maze☆Bakunetsu_Jikuu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/6944.jpg",
+    "title": "Maze☆Bakunetsu Jikuu",
+    "title_english": "Maze: The Mega-Burst Space OVA",
+    "title_japanese": "MAZE☆爆熱時空",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-07-24T00:00:00+00:00",
+        "to": "1996-09-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 7,
+                "year": 1996
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 1996
+            }
+        },
+        "string": "Jul 24, 1996 to Sep 21, 1996"
+    },
+    "score": 6.11,
+    "scored_by": 1077,
+    "rank": 7753,
+    "popularity": 7974,
+    "members": 2773,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

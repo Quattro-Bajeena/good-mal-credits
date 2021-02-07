@@ -1,0 +1,50 @@
+{
+    "mal_id": 34497,
+    "url": "https://myanimelist.net/anime/34497/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/88911.jpg",
+    "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+    "title_english": "Death March to the Parallel World Rhapsody",
+    "title_japanese": "デスマーチからはじまる異世界狂想曲",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-01-11T00:00:00+00:00",
+        "to": "2018-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Jan 11, 2018 to Mar 29, 2018"
+    },
+    "score": 6.55,
+    "scored_by": 178664,
+    "rank": 5639,
+    "popularity": 412,
+    "members": 329598,
+    "favorites": 1531,
+    "premiered": "Winter 2018",
+    "studios": [
+        {
+            "mal_id": 300,
+            "type": "anime",
+            "name": "SILVER LINK.",
+            "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+        },
+        {
+            "mal_id": 957,
+            "type": "anime",
+            "name": "Connect",
+            "url": "https://myanimelist.net/anime/producer/957/Connect"
+        }
+    ]
+}

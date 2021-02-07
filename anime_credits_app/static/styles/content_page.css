@@ -1,0 +1,30 @@
+
+
+
+
+
+#mainBlock{
+    display: grid;
+    grid-template-columns: max-content auto;
+    grid-auto-flow: column;
+
+}
+
+.infoSection{
+    margin-top: 50px;
+    margin-right: 10px;
+
+}
+
+.infoSection a{
+    color: brown;
+}
+
+.tableSection{
+
+}
+
+.mainImage{
+    display: block;
+    width: auto;
+}

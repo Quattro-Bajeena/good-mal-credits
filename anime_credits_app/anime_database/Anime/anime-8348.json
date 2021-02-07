@@ -1,0 +1,44 @@
+{
+    "mal_id": 8348,
+    "url": "https://myanimelist.net/anime/8348/Tengen_Toppa_Gurren_Lagann__Parallel_Works_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/23351.jpg",
+    "title": "Tengen Toppa Gurren Lagann: Parallel Works 2",
+    "title_english": null,
+    "title_japanese": "グレンラガン パラレルワークス 2",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-05-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 26, 2010"
+    },
+    "score": 6.94,
+    "scored_by": 8861,
+    "rank": 3864,
+    "popularity": 3670,
+    "members": 19738,
+    "favorites": 15,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

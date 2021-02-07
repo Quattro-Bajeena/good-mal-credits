@@ -1,0 +1,44 @@
+{
+    "mal_id": 1579,
+    "url": "https://myanimelist.net/anime/1579/Kiniro_no_Corda__Primo_Passo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/7228.jpg",
+    "title": "Kiniro no Corda: Primo Passo",
+    "title_english": "La corda d'oro: primo passo",
+    "title_japanese": "金色のコルダ ～primo passo～",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-02T00:00:00+00:00",
+        "to": "2007-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 2, 2006 to Mar 26, 2007"
+    },
+    "score": 7.48,
+    "scored_by": 42766,
+    "rank": 1639,
+    "popularity": 1567,
+    "members": 86257,
+    "favorites": 1144,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 96,
+            "type": "anime",
+            "name": "Yumeta Company",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ]
+}

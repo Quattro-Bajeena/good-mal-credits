@@ -1,0 +1,64 @@
+{
+    "mal_id": 20770,
+    "url": "https://myanimelist.net/character/20770/Bunchuu",
+    "name": "Bunchuu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 15,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/353595.jpg",
+    "animeography": [
+        {
+            "mal_id": 1108,
+            "name": "Senkaiden Houshin Engi",
+            "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1004/94169.jpg?s=43f2fe6aeaa7d946e77670de21f075ce",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36029,
+            "name": "Hakyuu Houshin Engi",
+            "url": "https://myanimelist.net/anime/36029/Hakyuu_Houshin_Engi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/88796.jpg?s=bcf74841c36c79255a455ae36ddc0a05",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 922,
+            "name": "Houshin Engi",
+            "url": "https://myanimelist.net/manga/922/Houshin_Engi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203313.jpg?s=dcc86a6ac46a4fcff1ec7b5a2651bf49",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 685,
+            "name": "Matsuyama, Takashi",
+            "url": "https://myanimelist.net/people/685/Takashi_Matsuyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59290.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1489,
+            "name": "Maeno, Tomoaki",
+            "url": "https://myanimelist.net/people/1489/Tomoaki_Maeno",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/56372.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14869,
+            "name": "Lee, Jeong Gu",
+            "url": "https://myanimelist.net/people/14869/Jeong_Gu_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15471.jpg",
+            "language": "Korean"
+        }
+    ]
+}

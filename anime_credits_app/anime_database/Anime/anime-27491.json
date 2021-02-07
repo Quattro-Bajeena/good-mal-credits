@@ -1,0 +1,44 @@
+{
+    "mal_id": 27491,
+    "url": "https://myanimelist.net/anime/27491/Sore_Ike_Anpanman__Kaiketsu_Naganegiman_to_Doremi_Hime",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/66661.jpg",
+    "title": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi Hime",
+    "title_english": null,
+    "title_japanese": "それいけ! アンパンマン 怪傑ナガネギマンとドレミ姫",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-07-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 12, 2003"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12113,
+    "popularity": 13999,
+    "members": 256,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

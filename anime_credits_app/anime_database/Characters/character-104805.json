@@ -1,0 +1,49 @@
+{
+    "mal_id": 104805,
+    "url": "https://myanimelist.net/character/104805/Kazuo_Matayoshi",
+    "name": "Kazuo Matayoshi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/264757.jpg",
+    "animeography": [
+        {
+            "mal_id": 21809,
+            "name": "Kenzen Robo Daimidaler",
+            "url": "https://myanimelist.net/anime/21809/Kenzen_Robo_Daimidaler",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/61435.jpg?s=a7bc6ac8352e55f5403ceb036129fa5c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 23735,
+            "name": "Kenzen Robo Daimidaler Specials",
+            "url": "https://myanimelist.net/anime/23735/Kenzen_Robo_Daimidaler_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/62127.jpg?s=0fa27c3e2cf35d4b337ea849c97b3dd1",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 160,
+            "name": "Koyasu, Takehito",
+            "url": "https://myanimelist.net/people/160/Takehito_Koyasu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10264.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 44219,
+            "name": "Schröder, Frank Leo",
+            "url": "https://myanimelist.net/people/44219/Frank_Leo_Schröder",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47679.jpg",
+            "language": "German"
+        }
+    ]
+}

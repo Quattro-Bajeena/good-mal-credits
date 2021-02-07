@@ -8,6 +8,7 @@ from anime_credits_app.models import PageStatus
 
 
 
+
 def register_page_update_start(category, mal_id, task_id):
     log = PageStatus.query.get(mal_id)
     if not log:
@@ -22,7 +23,7 @@ def register_page_update_start(category, mal_id, task_id):
         print("created new page log")
     else:
         log.updating = True
-        task_id = task_id
+        log.task_id = task_id
 
 
     print("register_page_update_start")
@@ -58,7 +59,7 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
 
     log = PageStatus.query.get(mal_id)
-
+    print("log", log)
     in_db = bool(log)
     exists = in_db and log.exists
 

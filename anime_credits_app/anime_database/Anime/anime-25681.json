@@ -1,0 +1,44 @@
+{
+    "mal_id": 25681,
+    "url": "https://myanimelist.net/anime/25681/Kamisama_Hajimemashita◎",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/69187.jpg",
+    "title": "Kamisama Hajimemashita◎",
+    "title_english": "Kamisama Kiss Season 2",
+    "title_japanese": "神様はじめました◎",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-01-06T00:00:00+00:00",
+        "to": "2015-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2015
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Jan 6, 2015 to Mar 31, 2015"
+    },
+    "score": 8.16,
+    "scored_by": 131689,
+    "rank": 350,
+    "popularity": 591,
+    "members": 245848,
+    "favorites": 1769,
+    "premiered": "Winter 2015",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

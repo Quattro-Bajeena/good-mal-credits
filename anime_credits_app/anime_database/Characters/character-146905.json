@@ -1,0 +1,42 @@
+{
+    "mal_id": 146905,
+    "url": "https://myanimelist.net/character/146905/Burckhardt",
+    "name": "Burckhardt",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 28833,
+            "name": "Chain Chronicle: Haecceitas no Hikari",
+            "url": "https://myanimelist.net/anime/28833/Chain_Chronicle__Haecceitas_no_Hikari",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/83740.jpg?s=ae43d8dfa6b70a6edf99b42ae0103eab",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 33728,
+            "name": "Chain Chronicle: Haecceitas no Hikari Part 1",
+            "url": "https://myanimelist.net/anime/33728/Chain_Chronicle__Haecceitas_no_Hikari_Part_1",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/82495.jpg?s=6af715b90d100d3c9f20c31de34d0abf",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 409,
+            "name": "Kawahara, Yoshihisa",
+            "url": "https://myanimelist.net/people/409/Yoshihisa_Kawahara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/14281.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

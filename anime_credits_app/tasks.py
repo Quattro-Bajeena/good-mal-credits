@@ -26,9 +26,11 @@ def database_test():
     return anime.title
 
 @celery.task(bind=True)
-def update_resources_async(self, resource_type, mal_id, use_cached, first_time):
+def update_resources_async(self, resource_type, mal_id, use_cached):
 
     task_id = str(self.request.id)
+
+    page_status = log_n_cache.check_page_update(resource_type, mal_id)
 
     log_n_cache.register_page_update_start(resource_type, mal_id,task_id)
 

@@ -1,0 +1,31 @@
+{
+    "mal_id": 7449,
+    "url": "https://myanimelist.net/people/7449/Akihiro_Yamada",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/4467.jpg",
+    "name": "Akihiro Yamada",
+    "given_name": "章博",
+    "family_name": "山田",
+    "birthday": "1957-02-10T00:00:00+00:00",
+    "member_favorites": 33,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Original Character Design",
+            "anime": {
+                "mal_id": 153,
+                "url": "https://myanimelist.net/anime/153/Juuni_Kokuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/50859.jpg?s=a424ef0f808f0b1042678f37c0f55652",
+                "name": "Juuni Kokuki"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 165,
+                "url": "https://myanimelist.net/anime/165/RahXephon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg?s=1db640b5ce69587dad85609fbc99c60c",
+                "name": "RahXephon"
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "mal_id": 136853,
+    "url": "https://myanimelist.net/character/136853/Kiji_Mitsuba",
+    "name": "Kiji Mitsuba",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/323488.jpg",
+    "animeography": [
+        {
+            "mal_id": 30016,
+            "name": "Nanbaka",
+            "url": "https://myanimelist.net/anime/30016/Nanbaka",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/81399.jpg?s=54e9b7a8e7f8c6733ba62910c846619e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34414,
+            "name": "Nanbaka 2",
+            "url": "https://myanimelist.net/anime/34414/Nanbaka_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/83263.jpg?s=76f73ca2b1b8f741ed0d2cdb493dc340",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34533,
+            "name": "Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!",
+            "url": "https://myanimelist.net/anime/34533/Nanbaka__Shusseki_Bangou_no_Tsuita_Baka-tachi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1685/104697.jpg?s=5a486956b3e0e32362d85e48919c118b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 93398,
+            "name": "Nanbaka",
+            "url": "https://myanimelist.net/manga/93398/Nanbaka",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166984.jpg?s=763fe711d2751f55c433b1a0079c94d1",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1109,
+            "name": "Kimeru",
+            "url": "https://myanimelist.net/people/1109/Kimeru",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/44504.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 10163,
+    "url": "https://myanimelist.net/anime/10163/C__The_Money_of_Soul_and_Possibility_Control",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
+    "title": "C: The Money of Soul and Possibility Control",
+    "title_english": "[C] CONTROL - The Money and Soul of Possibility",
+    "title_japanese": "「C」 THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-15T00:00:00+00:00",
+        "to": "2011-06-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 6,
+                "year": 2011
+            }
+        },
+        "string": "Apr 15, 2011 to Jun 24, 2011"
+    },
+    "score": 7.25,
+    "scored_by": 124385,
+    "rank": 2566,
+    "popularity": 579,
+    "members": 249686,
+    "favorites": 1181,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

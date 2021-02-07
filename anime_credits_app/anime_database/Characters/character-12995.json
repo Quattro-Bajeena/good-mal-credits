@@ -1,0 +1,49 @@
+{
+    "mal_id": 12995,
+    "url": "https://myanimelist.net/character/12995/Kelb",
+    "name": "Kelb",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/48278.jpg",
+    "animeography": [
+        {
+            "mal_id": 3230,
+            "name": "Druaga no Tou: The Aegis of Uruk",
+            "url": "https://myanimelist.net/anime/3230/Druaga_no_Tou__The_Aegis_of_Uruk",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75646.jpg?s=d02b8da768d31843ed1bcb969f2bd0b6",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4726,
+            "name": "Druaga no Tou: The Sword of Uruk",
+            "url": "https://myanimelist.net/anime/4726/Druaga_no_Tou__The_Sword_of_Uruk",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/75647.jpg?s=d4afec5aa3053f718df733284faa2a07",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4798,
+            "name": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken",
+            "url": "https://myanimelist.net/anime/4798/Druaga_no_Tou__The_Aegis_of_Uruk_-_Jil_no_Bouken",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/60801.jpg?s=5b2014a497f6fe9b1fb2ae01d234ede6",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 563,
+            "name": "Terasoma, Masaki",
+            "url": "https://myanimelist.net/people/563/Masaki_Terasoma",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44595.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

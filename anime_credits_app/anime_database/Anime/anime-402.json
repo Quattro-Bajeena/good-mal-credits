@@ -1,0 +1,44 @@
+{
+    "mal_id": 402,
+    "url": "https://myanimelist.net/anime/402/Otogi_Juushi_Akazukin_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/3243.jpg",
+    "title": "Otogi Juushi Akazukin OVA",
+    "title_english": null,
+    "title_japanese": "おとぎ銃士 赤ずきん",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-02-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 2,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 20, 2005"
+    },
+    "score": 6.49,
+    "scored_by": 551,
+    "rank": 5947,
+    "popularity": 9525,
+    "members": 1500,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

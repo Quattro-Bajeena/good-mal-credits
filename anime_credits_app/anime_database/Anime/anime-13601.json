@@ -1,0 +1,44 @@
+{
+    "mal_id": 13601,
+    "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
+    "title": "Psycho-Pass",
+    "title_english": "Psycho-Pass",
+    "title_japanese": "サイコパス",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-12T00:00:00+00:00",
+        "to": "2013-03-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 22,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Oct 12, 2012 to Mar 22, 2013"
+    },
+    "score": 8.38,
+    "scored_by": 573324,
+    "rank": 168,
+    "popularity": 46,
+    "members": 1205789,
+    "favorites": 34754,
+    "premiered": "Fall 2012",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

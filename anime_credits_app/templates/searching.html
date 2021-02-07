@@ -1,17 +1,30 @@
 {% extends 'base.html' %}
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/search_page.css')}}">
+{% endblock %}
 
 
 {% block main %}
+<p>
+    Search results:
+</p>
 
-<ol>
+
+<ol id="searchResults">
 {% for result in results %}
     <li>
-        <img src={{result.image_url}} width="30"> 
+        <img src={{result.image_url}}> 
 
         {% if category == "anime" %}
-        <a href={{url_for("anime_staff", mal_id = result.mal_id)}}>{{result.title}}</a>
+
+        <a href={{url_for("anime_staff", mal_id = result.mal_id)}}>
+            {{result.title}}
+        </a>
+
         {% elif category == "people" %}
-        <a href={{url_for("person", mal_id = result.mal_id)}}>{{result.name}}</a>
+        <a href={{url_for("person", mal_id = result.mal_id)}}>
+            {{result.name}}
+        </a>
         {% endif %}
 
     </li>

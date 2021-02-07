@@ -1,0 +1,44 @@
+{
+    "mal_id": 35191,
+    "url": "https://myanimelist.net/anime/35191/Free_Movie_2__Timeless_Medley_-_Yakusoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/87931.jpg",
+    "title": "Free! Movie 2: Timeless Medley - Yakusoku",
+    "title_english": null,
+    "title_japanese": "劇場版 Free!-Timeless Medley- 約束",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-07-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 1, 2017"
+    },
+    "score": 7.59,
+    "scored_by": 5839,
+    "rank": 1305,
+    "popularity": 3359,
+    "members": 23586,
+    "favorites": 49,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Kyoto Animation",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ]
+}

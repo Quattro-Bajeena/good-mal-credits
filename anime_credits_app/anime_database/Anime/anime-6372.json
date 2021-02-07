@@ -1,0 +1,44 @@
+{
+    "mal_id": 6372,
+    "url": "https://myanimelist.net/anime/6372/Higashi_no_Eden_Movie_I__The_King_of_Eden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/19101.jpg",
+    "title": "Higashi no Eden Movie I: The King of Eden",
+    "title_english": "Eden of The East the Movie I: The King of Eden",
+    "title_japanese": "東のエデン 劇場版I The King of Eden",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-11-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 11,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 28, 2009"
+    },
+    "score": 7.61,
+    "scored_by": 86036,
+    "rank": 1256,
+    "popularity": 1015,
+    "members": 145432,
+    "favorites": 153,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

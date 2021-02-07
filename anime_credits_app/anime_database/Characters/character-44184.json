@@ -1,0 +1,66 @@
+{
+    "mal_id": 44184,
+    "url": "https://myanimelist.net/character/44184/Tooru_Sayanaki",
+    "name": "Tooru Sayanaki",
+    "name_kanji": null,
+    "nicknames": [
+        "Vlad"
+    ],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/121586.jpg",
+    "animeography": [
+        {
+            "mal_id": 8630,
+            "name": "Hidan no Aria",
+            "url": "https://myanimelist.net/anime/8630/Hidan_no_Aria",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/30095.jpg?s=ce6f5deadccd043a2cd8439e8ab203b8",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 12297,
+            "name": "Hidan no Aria",
+            "url": "https://myanimelist.net/manga/12297/Hidan_no_Aria",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157987.jpg?s=7cd63de991a4f707b72b3077679da4b1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 17536,
+            "name": "Hidan no Aria",
+            "url": "https://myanimelist.net/manga/17536/Hidan_no_Aria",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/52897.jpg?s=a7a95a598a05e373f23f480b3f165e63",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 74,
+            "name": "Nojima, Kenji",
+            "url": "https://myanimelist.net/people/74/Kenji_Nojima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46155.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 720,
+            "name": "Miyake, Kenta",
+            "url": "https://myanimelist.net/people/720/Kenta_Miyake",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42617.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14931,
+            "name": "Pyo, Yeong Jae",
+            "url": "https://myanimelist.net/people/14931/Yeong_Jae_Pyo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15675.jpg",
+            "language": "Korean"
+        }
+    ]
+}

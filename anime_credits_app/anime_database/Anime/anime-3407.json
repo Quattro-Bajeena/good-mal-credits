@@ -1,0 +1,44 @@
+{
+    "mal_id": 3407,
+    "url": "https://myanimelist.net/anime/3407/Blassreiter",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/13199.jpg",
+    "title": "Blassreiter",
+    "title_english": "Blassreiter",
+    "title_japanese": "ブラスレイター",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-06T00:00:00+00:00",
+        "to": "2008-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 6, 2008 to Sep 28, 2008"
+    },
+    "score": 6.94,
+    "scored_by": 24675,
+    "rank": 3834,
+    "popularity": 1737,
+    "members": 74546,
+    "favorites": 235,
+    "premiered": "Spring 2008",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

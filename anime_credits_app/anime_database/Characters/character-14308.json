@@ -1,0 +1,42 @@
+{
+    "mal_id": 14308,
+    "url": "https://myanimelist.net/character/14308/Ihika",
+    "name": "Ihika",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/140639.jpg",
+    "animeography": [
+        {
+            "mal_id": 3342,
+            "name": "Mnemosyne: Mnemosyne no Musume-tachi",
+            "url": "https://myanimelist.net/anime/3342/Mnemosyne__Mnemosyne_no_Musume-tachi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/10918.jpg?s=17c4084d307981bcbf6e1cfc4da680c1",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 113,
+            "name": "Koyama, Rikiya",
+            "url": "https://myanimelist.net/people/113/Rikiya_Koyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54010.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 45087,
+            "name": "Meyer, Gerd",
+            "url": "https://myanimelist.net/people/45087/Gerd_Meyer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48447.jpg",
+            "language": "German"
+        }
+    ]
+}

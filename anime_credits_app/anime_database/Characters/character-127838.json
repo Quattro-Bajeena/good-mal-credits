@@ -1,0 +1,66 @@
+{
+    "mal_id": 127838,
+    "url": "https://myanimelist.net/character/127838/Arthur_Pendragon",
+    "name": "Arthur Pendragon",
+    "name_kanji": null,
+    "nicknames": [
+        "Holy Royal Sword"
+    ],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/281211.jpg",
+    "animeography": [
+        {
+            "mal_id": 24703,
+            "name": "High School DxD BorN",
+            "url": "https://myanimelist.net/anime/24703/High_School_DxD_BorN",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/73642.jpg?s=4881f5ab39ae73a23b4b39fcff3439ce",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34281,
+            "name": "High School DxD Hero",
+            "url": "https://myanimelist.net/anime/34281/High_School_DxD_Hero",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg?s=4e07aa064771361ec648868d3405739e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37719,
+            "name": "High School DxD Hero: Taiikukan-ura no Holy",
+            "url": "https://myanimelist.net/anime/37719/High_School_DxD_Hero__Taiikukan-ura_no_Holy",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1879/91882.jpg?s=7ea6adf229f226ab5f61f1b22c726bbb",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25409,
+            "name": "High School DxD",
+            "url": "https://myanimelist.net/manga/25409/High_School_DxD",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/203327.jpg?s=9d36030006a77b29874cd7a3fffe1209",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 10712,
+            "name": "Wolf, Roland",
+            "url": "https://myanimelist.net/people/10712/Roland_Wolf",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/9268.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 20156,
+            "name": "Ishikawa, Kaito",
+            "url": "https://myanimelist.net/people/20156/Kaito_Ishikawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/57127.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "mal_id": 92659,
+    "url": "https://myanimelist.net/character/92659/Jin_Kirigiri",
+    "name": "Jin Kirigiri",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/309896.jpg",
+    "animeography": [
+        {
+            "mal_id": 16592,
+            "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+            "url": "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/51463.jpg?s=552f3725594f2e1c354f09a664bb16ad",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32189,
+            "name": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+            "url": "https://myanimelist.net/anime/32189/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Mirai-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/80931.jpg?s=1f9ba5a330a574669f9f78b5021edf4a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 33028,
+            "name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+            "url": "https://myanimelist.net/anime/33028/Danganronpa_3__The_End_of_Kibougamine_Gakuen_-_Zetsubou-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/80932.jpg?s=0bf6165da0d3b2377299012a3cdda37f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 37917,
+            "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei",
+            "url": "https://myanimelist.net/manga/37917/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/149867.jpg?s=607604cf9e4d6e38fb3081c1ce68fdda",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 47917,
+            "name": "Danganronpa/Zero",
+            "url": "https://myanimelist.net/manga/47917/Danganronpa_Zero",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/88403.jpg?s=d43bac354b0f8e3abeda3791a53071a3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 53537,
+            "name": "Danganronpa Kirigiri",
+            "url": "https://myanimelist.net/manga/53537/Danganronpa_Kirigiri",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/107919.jpg?s=08874f45b3d095605968fdd1fe46f74a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 61735,
+            "name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+            "url": "https://myanimelist.net/manga/61735/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/106371.jpg?s=4b91c798633d3ba51491d62545772399",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 93414,
+            "name": "Danganronpa: Naegi Makoto, Jinsei Saiaku no Hi",
+            "url": "https://myanimelist.net/manga/93414/Danganronpa__Naegi_Makoto_Jinsei_Saiaku_no_Hi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/172167.jpg?s=bb356d3fe3fd1394f7ae0bbdaf866037",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 113,
+            "name": "Koyama, Rikiya",
+            "url": "https://myanimelist.net/people/113/Rikiya_Koyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54010.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

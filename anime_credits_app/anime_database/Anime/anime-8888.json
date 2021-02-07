@@ -1,0 +1,44 @@
+{
+    "mal_id": 8888,
+    "url": "https://myanimelist.net/anime/8888/Code_Geass__Boukoku_no_Akito_1_-_Yokuryuu_wa_Maiorita",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/41401.jpg",
+    "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+    "title_english": "Code Geass: Akito the Exiled - The Wyvern Arrives",
+    "title_japanese": "コードギアス 亡国のアキト 第１章「翼竜は舞い降りた」",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 2012"
+    },
+    "score": 7.41,
+    "scored_by": 75495,
+    "rank": 1879,
+    "popularity": 978,
+    "members": 149836,
+    "favorites": 600,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 16035,
+    "url": "https://myanimelist.net/anime/16035/Karneval_TV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/46639.jpg",
+    "title": "Karneval (TV)",
+    "title_english": "Karneval",
+    "title_japanese": "カーニヴァル",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-04-04T00:00:00+00:00",
+        "to": "2013-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Apr 4, 2013 to Jun 27, 2013"
+    },
+    "score": 7.15,
+    "scored_by": 72867,
+    "rank": 3001,
+    "popularity": 835,
+    "members": 177519,
+    "favorites": 1176,
+    "premiered": "Spring 2013",
+    "studios": [
+        {
+            "mal_id": 32,
+            "type": "anime",
+            "name": "Manglobe",
+            "url": "https://myanimelist.net/anime/producer/32/Manglobe"
+        }
+    ]
+}

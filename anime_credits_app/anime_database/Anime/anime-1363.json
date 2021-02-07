@@ -1,0 +1,44 @@
+{
+    "mal_id": 1363,
+    "url": "https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg",
+    "title": "Detective Conan Movie 04: Captured in Her Eyes",
+    "title_english": "Case Closed Movie 4: Captured In Her Eyes",
+    "title_japanese": "瞳の中の暗殺者",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-04-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 22, 2000"
+    },
+    "score": 8.04,
+    "scored_by": 28426,
+    "rank": 492,
+    "popularity": 2322,
+    "members": 47344,
+    "favorites": 83,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

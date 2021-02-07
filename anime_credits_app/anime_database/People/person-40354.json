@@ -1,0 +1,40 @@
+{
+    "mal_id": 40354,
+    "url": "https://myanimelist.net/people/40354/Benjamin_Anderson",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43353.jpg",
+    "name": "Benjamin Anderson",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 5,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 18679,
+                "url": "https://myanimelist.net/anime/18679/Kill_la_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75514.jpg?s=49fc58d76392ed875b81208e00182256",
+                "name": "Kill la Kill"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 26243,
+                "url": "https://myanimelist.net/anime/26243/Owari_no_Seraph",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73474.jpg?s=fe5618a9bcac8d813be103e8a713c59d",
+                "name": "Owari no Seraph"
+            }
+        },
+        {
+            "position": "Inserted Song Performance",
+            "anime": {
+                "mal_id": 18397,
+                "url": "https://myanimelist.net/anime/18397/Shingeki_no_Kyojin_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/59221.jpg?s=fdf7c11373803157e054170f273e8993",
+                "name": "Shingeki no Kyojin OVA"
+            }
+        }
+    ]
+}

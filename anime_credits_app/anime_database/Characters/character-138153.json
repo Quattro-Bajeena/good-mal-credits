@@ -1,0 +1,42 @@
+{
+    "mal_id": 138153,
+    "url": "https://myanimelist.net/character/138153/Jean_Victoire",
+    "name": "Jean Victoire",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/305350.jpg",
+    "animeography": [
+        {
+            "mal_id": 31405,
+            "name": "Joker Game",
+            "url": "https://myanimelist.net/anime/31405/Joker_Game",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/77523.jpg?s=b9b74823fd415102e97999cea8d12f2b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11695,
+            "name": "Moura, Fábio",
+            "url": "https://myanimelist.net/people/11695/Fábio_Moura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41053.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 12615,
+            "name": "Takeuchi, Ryouta",
+            "url": "https://myanimelist.net/people/12615/Ryouta_Takeuchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58161.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

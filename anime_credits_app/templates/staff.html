@@ -2,44 +2,46 @@
 
 {% block head %}
 <title>gMs - {{anime.title}}</title>
-<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/staff.css')}}">
+
 {% endblock %}
 
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_page.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/staff.css')}}">
+{% endblock %}
 
 {% block main %}
 
 
 
 
-<div class="animeInfo" class="infoSection">
-    <b>Title:</b> {{anime.title}} 
-    <b>Premiered: </b>{{anime.aired_from | format_date}}
-    <br>
-    <a href={{anime.url}} target="_blank">MAL link</a>
-    <br>
+<div class="animeInfo infoSection" >
     <img class="mainImage" src={{anime.image_url}}>
-
+    <p><b>Title:</b> {{anime.title}} </p>
+    <p><b>Premiered: </b>{{anime.aired_from | format_date}}</p>
+    <p><a href={{anime.url}} target="_blank">MAL link</a></p>
 </div>
 
-<hr>
+<div class="tableSection">
 
 <table id="staffTable" class="contentTable">
-    <thead class="contentTableHead">
+    <thead>
         <tr>
             <th></th>
-            <th class="sortableColHeader">name</th>
-            <th class="sortableColHeader">position</th>
-            <th class="sortableColHeader">favorites</th>
-            <th class="sortableColHeader">birthday</th>
-            <th class="sortableColHeader">age at the premiere</th>
-            <th class="sortableColHeader">no. of credits</th>
+            <th class="sortableColHeader">NAME</th>
+            <th class="sortableColHeader">POSITION</th>
+            <th class="sortableColHeader">FAVORITES</th>
+            <th class="sortableColHeader">BIRTHDAY</th>
+            <th class="sortableColHeader">AGE AT THE PREMIERE</th>
+            <th class="sortableColHeader">NO. OF CREDITS</th>
         </tr>
     </thead>
 
-    <tbody class="contentTableBody">
+    <tbody>
         {% for member in anime.staff %}
-        <tr class="contentTableRow">
-            <td><img class="tableImage" src={{member.person.image_url}}> </td>
+        <tr>
+            <td class="imageCell"><img class="tableImage" src={{member.person.image_url}}> </td>
             <td><a href="{{url_for('person', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
             <td> {{ member.position }} </td>
             <td>{{member.person.member_favorites}}</td>
@@ -54,7 +56,7 @@
 </table>
 
 
-
+</div>
 
 {% endblock %}
 

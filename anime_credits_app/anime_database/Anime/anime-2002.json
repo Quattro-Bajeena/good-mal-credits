@@ -1,0 +1,44 @@
+{
+    "mal_id": 2002,
+    "url": "https://myanimelist.net/anime/2002/Heroic_Age",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/50435.jpg",
+    "title": "Heroic Age",
+    "title_english": "Heroic Age",
+    "title_japanese": "ヒロイック・エイジ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-02T00:00:00+00:00",
+        "to": "2007-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Apr 2, 2007 to Oct 1, 2007"
+    },
+    "score": 7.56,
+    "scored_by": 40078,
+    "rank": 1391,
+    "popularity": 1436,
+    "members": 96043,
+    "favorites": 657,
+    "premiered": "Spring 2007",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

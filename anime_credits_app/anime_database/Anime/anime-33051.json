@@ -1,0 +1,44 @@
+{
+    "mal_id": 33051,
+    "url": "https://myanimelist.net/anime/33051/Mobile_Suit_Gundam__Iron-Blooded_Orphans_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/80899.jpg",
+    "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+    "title_english": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+    "title_japanese": "機動戦士ガンダム 鉄血のオルフェンズ 第2期",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-02T00:00:00+00:00",
+        "to": "2017-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Oct 2, 2016 to Apr 2, 2017"
+    },
+    "score": 8.24,
+    "scored_by": 52145,
+    "rank": 273,
+    "popularity": 1424,
+    "members": 97294,
+    "favorites": 1252,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

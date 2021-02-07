@@ -26,8 +26,8 @@ const comparer = function(idx, asc){
 } 
 
 const arrows = {
-    "up" : "↑",
-    "down" : "↓"
+    "up" : "⬆",
+    "down" : "⬇"
 }
 
 arrow = document.createElement("span");
@@ -42,7 +42,7 @@ const move_arrow = function(th, asc){
 const sortTable = function (event){
 
     const th = event.target;
-    const table_body = th.closest('table').querySelector(".contentTableBody");
+    const table_body = th.closest('table').querySelector("tbody");
     //console.log(table_body)
 
     //appendChild moves the node

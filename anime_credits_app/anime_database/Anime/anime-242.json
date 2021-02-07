@@ -1,0 +1,44 @@
+{
+    "mal_id": 242,
+    "url": "https://myanimelist.net/anime/242/Gokusen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/25273.jpg",
+    "title": "Gokusen",
+    "title_english": "The Gokusen",
+    "title_japanese": "ごくせん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-01-06T00:00:00+00:00",
+        "to": "2004-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2004
+            }
+        },
+        "string": "Jan 6, 2004 to Mar 30, 2004"
+    },
+    "score": 7.42,
+    "scored_by": 16800,
+    "rank": 1824,
+    "popularity": 2733,
+    "members": 34706,
+    "favorites": 203,
+    "premiered": "Winter 2004",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

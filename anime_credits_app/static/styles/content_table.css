@@ -1,31 +1,77 @@
 
 
 .contentTable{
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+    border-collapse: collapse;
+    margin: 25px 0;
     
+    
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+
+    overflow: hidden;
+    /* table-layout: fixed; */
+    
+    
+  
 }
 
-table, th, td{
-    border: 1px solid black;
+.contentTable thead{
+    background-color:crimson;
+    color: rgb(248, 248, 237);
+    font-weight:bold;
+    text-align: left;
+    margin: 25px 50px;
 }
 
 
-.mainImage{
-    width: 60px;
+.contentTable tbody {
+    font-size: 0.9em;
 }
 
+.contentTable th{
+    padding: 15px 35px 15px 5px;
+}
 
-.tableImage{
-    width: 50px;
+.contentTable th:hover{
+    color:rgb(36, 26, 26);
+}
+
+.contentTable td:not(.imageCell){
+    padding-right: 15px;
+}
+
+.contentTable tbody tr{
+    border-bottom: 1px solid lightgray;
+}
+
+.contentTable tbody tr:nth-last-of-type(even){
+    background-color: rgb(233, 233, 233);
+}
+
+.contentTable tbody tr:last-of-type{
+    border-bottom: 2px solid crimson;
 }
 
 .sortableColHeader{
     cursor: pointer;
-    padding: 10px 30px;
+}
+
+.contentTable td img{
+    display: block;
+    width: 50px;
+    padding-right: 15px;
 }
 
 .arrow{
     position: absolute;
+}
+
+.contentTable a{
+    text-decoration: underline;
+    font-weight: 500;
+    color: rgb(41, 9, 16);
+}
+
+.contentTable a:hover{
+    color: rgb(143, 8, 37);
 }

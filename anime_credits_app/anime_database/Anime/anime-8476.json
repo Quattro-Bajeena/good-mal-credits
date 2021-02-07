@@ -1,0 +1,44 @@
+{
+    "mal_id": 8476,
+    "url": "https://myanimelist.net/anime/8476/Otome_Youkai_Zakuro",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/85430.jpg",
+    "title": "Otome Youkai Zakuro",
+    "title_english": "Zakuro",
+    "title_japanese": "おとめ妖怪 ざくろ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-05T00:00:00+00:00",
+        "to": "2010-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 5, 2010 to Dec 28, 2010"
+    },
+    "score": 7.47,
+    "scored_by": 41261,
+    "rank": 1660,
+    "popularity": 1379,
+    "members": 100258,
+    "favorites": 393,
+    "premiered": "Fall 2010",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

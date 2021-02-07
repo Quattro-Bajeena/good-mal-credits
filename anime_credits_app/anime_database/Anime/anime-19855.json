@@ -1,0 +1,44 @@
+{
+    "mal_id": 19855,
+    "url": "https://myanimelist.net/anime/19855/Nobunagun",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/58141.jpg",
+    "title": "Nobunagun",
+    "title_english": "Nobunagun",
+    "title_japanese": "ノブナガン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-01-05T00:00:00+00:00",
+        "to": "2014-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Jan 5, 2014 to Mar 30, 2014"
+    },
+    "score": 6.71,
+    "scored_by": 26235,
+    "rank": 4866,
+    "popularity": 2013,
+    "members": 59307,
+    "favorites": 126,
+    "premiered": "Winter 2014",
+    "studios": [
+        {
+            "mal_id": 397,
+            "type": "anime",
+            "name": "Bridge",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        }
+    ]
+}

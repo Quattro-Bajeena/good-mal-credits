@@ -1,0 +1,64 @@
+{
+    "mal_id": 24127,
+    "url": "https://myanimelist.net/character/24127/Taku",
+    "name": "Taku",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/59096.jpg",
+    "animeography": [
+        {
+            "mal_id": 457,
+            "name": "Mushishi",
+            "url": "https://myanimelist.net/anime/457/Mushishi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=cdaacddc699abf5bea40722532ce8604",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 418,
+            "name": "Mushishi",
+            "url": "https://myanimelist.net/manga/418/Mushishi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/159514.jpg?s=2992ba6131b4660acd9919a411e42fcb",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 371,
+            "name": "Hamada, Kenji",
+            "url": "https://myanimelist.net/people/371/Kenji_Hamada",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/56373.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1534,
+            "name": "Longo, Thiago",
+            "url": "https://myanimelist.net/people/1534/Thiago_Longo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/60761.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5361,
+            "name": "Pitts, Orion",
+            "url": "https://myanimelist.net/people/5361/Orion_Pitts",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/23483.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 9238,
+            "name": "Bastidas, Rolman",
+            "url": "https://myanimelist.net/people/9238/Rolman_Bastidas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/13193.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "mal_id": 148156,
+    "url": "https://myanimelist.net/character/148156/Wobular",
+    "name": "Wobular",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/322105.jpg",
+    "animeography": [
+        {
+            "mal_id": 33337,
+            "name": "ACCA: 13-ku Kansatsu-ka",
+            "url": "https://myanimelist.net/anime/33337/ACCA__13-ku_Kansatsu-ka",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/83776.jpg?s=05a7e8cad670aa3a81a34fcefa44d9fa",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 53539,
+            "name": "ACCA: 13-ku Kansatsu-ka",
+            "url": "https://myanimelist.net/manga/53539/ACCA__13-ku_Kansatsu-ka",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/108733.jpg?s=269af9f634ee4df9379d4a0884621547",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 245,
+            "name": "Hino, Satoshi",
+            "url": "https://myanimelist.net/people/245/Satoshi_Hino",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55555.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

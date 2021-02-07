@@ -1,0 +1,44 @@
+{
+    "mal_id": 30512,
+    "url": "https://myanimelist.net/anime/30512/Hero_Company",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/73067.jpg",
+    "title": "Hero Company",
+    "title_english": null,
+    "title_japanese": "ヒーローカンパニー",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-10-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 5, 2015"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14357,
+    "popularity": 11125,
+    "members": 743,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

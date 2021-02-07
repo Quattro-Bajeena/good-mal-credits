@@ -1,0 +1,44 @@
+{
+    "mal_id": 36144,
+    "url": "https://myanimelist.net/anime/36144/Garo__Vanishing_Line",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/88236.jpg",
+    "title": "Garo: Vanishing Line",
+    "title_english": "GARO -VANISHING LINE-",
+    "title_japanese": "牙狼〈GARO〉-VANISHING LINE-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-10-07T00:00:00+00:00",
+        "to": "2018-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2018
+            }
+        },
+        "string": "Oct 7, 2017 to Mar 31, 2018"
+    },
+    "score": 7.17,
+    "scored_by": 17323,
+    "rank": 2911,
+    "popularity": 2025,
+    "members": 58805,
+    "favorites": 119,
+    "premiered": "Fall 2017",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

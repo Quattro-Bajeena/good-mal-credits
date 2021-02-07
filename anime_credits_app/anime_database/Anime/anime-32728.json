@@ -1,0 +1,44 @@
+{
+    "mal_id": 32728,
+    "url": "https://myanimelist.net/anime/32728/Sensou_no_Tsukurikata",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1444/93487.jpg",
+    "title": "Sensou no Tsukurikata",
+    "title_english": "What Happens Before War?",
+    "title_japanese": "戦争のつくりかた",
+    "type": "Movie",
+    "source": "Picture book",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-10-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 2, 2015"
+    },
+    "score": 6.45,
+    "scored_by": 272,
+    "rank": 6137,
+    "popularity": 11959,
+    "members": 527,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1934,
+            "type": "anime",
+            "name": "Saigo no Shudan",
+            "url": "https://myanimelist.net/anime/producer/1934/Saigo_no_Shudan"
+        }
+    ]
+}

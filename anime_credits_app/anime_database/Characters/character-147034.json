@@ -1,0 +1,99 @@
+{
+    "mal_id": 147034,
+    "url": "https://myanimelist.net/character/147034/Erich_von_Rerugen",
+    "name": "Erich von Rerugen",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 49,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/370125.jpg",
+    "animeography": [
+        {
+            "mal_id": 32615,
+            "name": "Youjo Senki",
+            "url": "https://myanimelist.net/anime/32615/Youjo_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/82890.jpg?s=a2aa0130efd3d8170729e05004ef4181",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34904,
+            "name": "Youjo Senki: Senkyou Houkoku",
+            "url": "https://myanimelist.net/anime/34904/Youjo_Senki__Senkyou_Houkoku",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/84328.jpg?s=a07da40acabe09cc93705535797277b0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37055,
+            "name": "Youjo Senki Movie",
+            "url": "https://myanimelist.net/anime/37055/Youjo_Senki_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1310/95450.jpg?s=7e82c7f370b93d7210410276448f4fa3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 38472,
+            "name": "Isekai Quartet",
+            "url": "https://myanimelist.net/anime/38472/Isekai_Quartet",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1965/99667.jpg?s=e39be036357e586d28403adf250b830d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 39988,
+            "name": "Isekai Quartet 2",
+            "url": "https://myanimelist.net/anime/39988/Isekai_Quartet_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg?s=b469e71043d9c1c9da25b971387dd100",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 88930,
+            "name": "Youjo Senki",
+            "url": "https://myanimelist.net/manga/88930/Youjo_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/155214.jpg?s=71eb191462038e4bb548ce0efea91c20",
+            "role": "Main"
+        },
+        {
+            "mal_id": 98436,
+            "name": "Youjo Senki",
+            "url": "https://myanimelist.net/manga/98436/Youjo_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/186468.jpg?s=42a8547be2e847e8a7ef0926ce4cccdd",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 22,
+            "name": "Miki, Shinichiro",
+            "url": "https://myanimelist.net/people/22/Shinichiro_Miki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54678.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 21401,
+            "name": "Crepet, Alexandre",
+            "url": "https://myanimelist.net/people/21401/Alexandre_Crepet",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/24535.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 30551,
+            "name": "Brecklinghaus, Tobias",
+            "url": "https://myanimelist.net/people/30551/Tobias_Brecklinghaus",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/31955.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43812,
+            "name": "Souto, Clécio",
+            "url": "https://myanimelist.net/people/43812/Clécio_Souto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/59466.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

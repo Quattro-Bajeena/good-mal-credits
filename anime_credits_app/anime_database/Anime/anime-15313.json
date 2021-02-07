@@ -1,0 +1,44 @@
+{
+    "mal_id": 15313,
+    "url": "https://myanimelist.net/anime/15313/Wooser_no_Sono_Higurashi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/55353.jpg",
+    "title": "Wooser no Sono Higurashi",
+    "title_english": "Wooser's Hand-to-Mouth Life",
+    "title_japanese": "うーさーのその日暮らし",
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-03T00:00:00+00:00",
+        "to": "2012-12-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 19,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 3, 2012 to Dec 19, 2012"
+    },
+    "score": 6.23,
+    "scored_by": 4755,
+    "rank": 7200,
+    "popularity": 4782,
+    "members": 10604,
+    "favorites": 24,
+    "premiered": "Fall 2012",
+    "studios": [
+        {
+            "mal_id": 537,
+            "type": "anime",
+            "name": "SANZIGEN",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        }
+    ]
+}

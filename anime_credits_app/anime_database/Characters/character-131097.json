@@ -1,0 +1,85 @@
+{
+    "mal_id": 131097,
+    "url": "https://myanimelist.net/character/131097/Gadevi",
+    "name": "Gadevi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/287746.jpg",
+    "animeography": [
+        {
+            "mal_id": 1762,
+            "name": "Arslan Senki",
+            "url": "https://myanimelist.net/anime/1762/Arslan_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/22254.jpg?s=d7d8424b8e7ccde52b547e6a80ccd1e2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 28249,
+            "name": "Arslan Senki (TV)",
+            "url": "https://myanimelist.net/anime/28249/Arslan_Senki_TV",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/73588.jpg?s=feafffa0a5be1f2707597fb084018fbb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 30953,
+            "name": "Arslan Senki (TV): Arsen 4-koma Gekijou",
+            "url": "https://myanimelist.net/anime/30953/Arslan_Senki_TV__Arsen_4-koma_Gekijou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/74496.jpg?s=325821a7d3a9aa4bf59014dacf3314af",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 32793,
+            "name": "Arslan Senki",
+            "url": "https://myanimelist.net/manga/32793/Arslan_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/59967.jpg?s=7be3cf42299a8317e62039a347179f90",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 51233,
+            "name": "Arslan Senki",
+            "url": "https://myanimelist.net/manga/51233/Arslan_Senki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/149815.jpg?s=9a04c3bd47aa018f1608ba2ca56ab7f9",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 260,
+            "name": "Chiba, Susumu",
+            "url": "https://myanimelist.net/people/260/Susumu_Chiba",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55045.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1123,
+            "name": "Hori, Yukitoshi",
+            "url": "https://myanimelist.net/people/1123/Yukitoshi_Hori",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/28219.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 26595,
+            "name": "Montalto, Jean-Marc",
+            "url": "https://myanimelist.net/people/26595/Jean-Marc_Montalto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28713.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 45087,
+            "name": "Meyer, Gerd",
+            "url": "https://myanimelist.net/people/45087/Gerd_Meyer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48447.jpg",
+            "language": "German"
+        }
+    ]
+}

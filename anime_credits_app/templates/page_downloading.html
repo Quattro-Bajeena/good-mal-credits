@@ -2,25 +2,26 @@
 
 {% block head %}
 <title>data downloading</title>
-<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/progress_bar.css')}}">
+{% endblock %}
 
-
-
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/page_downloading.css')}}">
 {% endblock %}
 
 
 {% block main %}
 
 <div id="message">
+    <p>
+        Wow! You're the first person who wanted to see information about this 
     {% if category == 'staff' %}
-        Wow! You're the first person who wanted to see information about this anime.
-        You can feel proud of yourself, this page is downloading just for you.
-        Wait a little for all of the needed info. It can tak up to 5 minutes.
+        anime.
     {% else %}
-        Wow! You're the first person who wanted to see information about this creator.
-        You can feel proud of yourself, this page is downloading just for you.
-        Wait a little for all of the needed info. It can tak up to 5 minutes.
+        creator.
     {% endif %}
+    You can feel proud of yourself, this page is downloading just for you.
+    Wait a little for all of the needed info. It can tak up to 5 minutes.
+    </p>
 </div>
 
 
@@ -28,7 +29,7 @@
     <div class="progressBarBack">
         <div class="progressBarTop" id="pageDownloadBar"></div>
     </div>
-    <div class="downloadStatus" id="pageDownloadStatus">Starting downloading</div>
+    <div class="downloadStatus" id="pageDownloadStatus">Preparing to download</div>
 </div>
 
 

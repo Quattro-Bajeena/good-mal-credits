@@ -1,0 +1,35 @@
+{
+    "mal_id": 158583,
+    "url": "https://myanimelist.net/character/158583/Boido",
+    "name": "Boido",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 34497,
+            "name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+            "url": "https://myanimelist.net/anime/34497/Death_March_kara_Hajimaru_Isekai_Kyousoukyoku",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/88911.jpg?s=dd3e0bfdc3381a580bca8d9907e50493",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 37558,
+            "name": "Seki, Koji",
+            "url": "https://myanimelist.net/people/37558/Koji_Seki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40837.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

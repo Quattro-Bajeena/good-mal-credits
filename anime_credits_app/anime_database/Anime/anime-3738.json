@@ -1,0 +1,44 @@
+{
+    "mal_id": 3738,
+    "url": "https://myanimelist.net/anime/3738/Usavich_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/15661.jpg",
+    "title": "Usavich II",
+    "title_english": "Usavich II",
+    "title_japanese": "ウサビッチ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-10-08T00:00:00+00:00",
+        "to": "2008-01-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2007
+            },
+            "to": {
+                "day": 15,
+                "month": 1,
+                "year": 2008
+            }
+        },
+        "string": "Oct 8, 2007 to Jan 15, 2008"
+    },
+    "score": 7.11,
+    "scored_by": 2845,
+    "rank": 3156,
+    "popularity": 6804,
+    "members": 4376,
+    "favorites": 3,
+    "premiered": "Fall 2007",
+    "studios": [
+        {
+            "mal_id": 330,
+            "type": "anime",
+            "name": "Kanaban Graphics",
+            "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+        }
+    ]
+}

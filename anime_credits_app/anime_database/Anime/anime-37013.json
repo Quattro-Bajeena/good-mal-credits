@@ -1,0 +1,44 @@
+{
+    "mal_id": 37013,
+    "url": "https://myanimelist.net/anime/37013/Sex__Prologue",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1499/94818.jpg",
+    "title": "Sex: Prologue",
+    "title_english": null,
+    "title_japanese": "SEX～Prologue～",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-05-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 5,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 7, 2018"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11859,
+    "popularity": 9713,
+    "members": 1395,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3655,
+    "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+    "title": "Nabari no Ou",
+    "title_english": "Nabari no Ou",
+    "title_japanese": "隠の王",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-07T00:00:00+00:00",
+        "to": "2008-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Apr 7, 2008 to Sep 29, 2008"
+    },
+    "score": 7.29,
+    "scored_by": 57117,
+    "rank": 2417,
+    "popularity": 1003,
+    "members": 147153,
+    "favorites": 1421,
+    "premiered": "Spring 2008",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

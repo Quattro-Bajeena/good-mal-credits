@@ -1,0 +1,44 @@
+{
+    "mal_id": 32998,
+    "url": "https://myanimelist.net/anime/32998/91_Days",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+    "title": "91 Days",
+    "title_english": "91 Days",
+    "title_japanese": "91Days",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-07-09T00:00:00+00:00",
+        "to": "2016-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "Jul 9, 2016 to Oct 1, 2016"
+    },
+    "score": 7.84,
+    "scored_by": 207573,
+    "rank": 750,
+    "popularity": 267,
+    "members": 463498,
+    "favorites": 5162,
+    "premiered": "Summer 2016",
+    "studios": [
+        {
+            "mal_id": 1119,
+            "type": "anime",
+            "name": "Shuka",
+            "url": "https://myanimelist.net/anime/producer/1119/Shuka"
+        }
+    ]
+}

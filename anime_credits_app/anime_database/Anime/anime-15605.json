@@ -1,0 +1,44 @@
+{
+    "mal_id": 15605,
+    "url": "https://myanimelist.net/anime/15605/Brothers_Conflict",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/51409.jpg",
+    "title": "Brothers Conflict",
+    "title_english": "Brothers Conflict",
+    "title_japanese": "BROTHERS CONFLICT",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-02T00:00:00+00:00",
+        "to": "2013-09-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 17,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 2, 2013 to Sep 17, 2013"
+    },
+    "score": 6.14,
+    "scored_by": 72876,
+    "rank": 7588,
+    "popularity": 1040,
+    "members": 141748,
+    "favorites": 819,
+    "premiered": "Summer 2013",
+    "studios": [
+        {
+            "mal_id": 112,
+            "type": "anime",
+            "name": "Brain's Base",
+            "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+        }
+    ]
+}

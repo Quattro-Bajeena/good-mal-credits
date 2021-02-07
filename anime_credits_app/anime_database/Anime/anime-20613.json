@@ -1,0 +1,44 @@
+{
+    "mal_id": 20613,
+    "url": "https://myanimelist.net/anime/20613/Viva_Namida",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/85302.jpg",
+    "title": "Viva Namida",
+    "title_english": null,
+    "title_japanese": "岡村靖幸 - ビバナミダ",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-09-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 22, 2013"
+    },
+    "score": 6.68,
+    "scored_by": 2538,
+    "rank": 5022,
+    "popularity": 6862,
+    "members": 4298,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

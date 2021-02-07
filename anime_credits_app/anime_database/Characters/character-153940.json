@@ -1,0 +1,35 @@
+{
+    "mal_id": 153940,
+    "url": "https://myanimelist.net/character/153940/Tooru_Roppongi",
+    "name": "Tooru Roppongi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/337697.jpg",
+    "animeography": [
+        {
+            "mal_id": 35427,
+            "name": "Animegataris",
+            "url": "https://myanimelist.net/anime/35427/Animegataris",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/89686.jpg?s=156945fcdb724a14a0452cd056abdd65",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 37879,
+            "name": "Maruyama, Naomi",
+            "url": "https://myanimelist.net/people/37879/Naomi_Maruyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54949.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

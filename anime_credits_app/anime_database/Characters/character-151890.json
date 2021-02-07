@@ -1,0 +1,43 @@
+{
+    "mal_id": 151890,
+    "url": "https://myanimelist.net/character/151890/Heinrich_Seelemann",
+    "name": "Heinrich Seelemann",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/334010.jpg",
+    "animeography": [
+        {
+            "mal_id": 34012,
+            "name": "Isekai Shokudou",
+            "url": "https://myanimelist.net/anime/34012/Isekai_Shokudou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/86666.jpg?s=2c568a1ca15b7f76566614649cd7e8ea",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 86591,
+            "name": "Isekai Shokudou",
+            "url": "https://myanimelist.net/manga/86591/Isekai_Shokudou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/219344.jpg?s=2c3477b72f7f9c0c434aec65540f4fb1",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 2,
+            "name": "Sugita, Tomokazu",
+            "url": "https://myanimelist.net/people/2/Tomokazu_Sugita",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/60638.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

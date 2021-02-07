@@ -1,0 +1,44 @@
+{
+    "mal_id": 35248,
+    "url": "https://myanimelist.net/anime/35248/18if",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/86743.jpg",
+    "title": "18if",
+    "title_english": "18if",
+    "title_japanese": "18if",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-07-07T00:00:00+00:00",
+        "to": "2017-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 7, 2017 to Sep 29, 2017"
+    },
+    "score": 6.18,
+    "scored_by": 15116,
+    "rank": 7442,
+    "popularity": 2350,
+    "members": 46262,
+    "favorites": 89,
+    "premiered": "Summer 2017",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

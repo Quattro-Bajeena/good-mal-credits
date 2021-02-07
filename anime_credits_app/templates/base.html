@@ -8,7 +8,10 @@
     {% endblock %}
     
     <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
+    {% block css %}
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/index.css')}}">
+    {% endblock %}
+
 </head>
 
 <body>
@@ -31,41 +34,43 @@
 </form> 
 <hr> -->
 
-
-
-
-<div id="search-box">
-    <form action="{{url_for('search')}}" method="post">
+<form id="searchForm" action="{{url_for('search')}}" method="post" onsubmit="return validate_search()">
+    <div id="searchBox">   
         
-        <p>
-            <input type="text" id="searchBar" name="query">
-        </p>
-        <p>
+        <label>
             <input type="radio" id="inputAnime" name="category" value="anime" checked>
-            <label for="inputAnime">Anime</label>
+            <span>ANIME</span>
+        </label>
 
-            <input type="radio" id="inputPeople" name="category" value="people">
-            <label for="inputPeople">People</label>
-        </p>
-        <p>
-            <button type="submit">Search</button>
-        </p>
         
+        <label>
+            <input type="radio" id="inputPeople" name="category" value="people">
+            <span>PEOPLE</span>
+        </label>
 
-    </form>
-</div>
 
-<hr>
+        <div id="searchBar">
+            <input type="text" id="searchBarInput" name="query" required>
+            <button type="submit"></button>
+        </div>
+        
+    </div>     
+</form>
+
 
 <div id="mainBlock">
     {% block main %}
-    <h1>good MAL searching</h1>
+    <span>
+        <h1>good MAL searching</h1>
+    </span>
+    
     {%endblock%}
 </div>
 
 
-
+<script type="text/javascript" src="{{url_for('static', filename='javascript/searchbar.js')}}"></script>
 {% block javascript %}
+
 {% endblock %}
 
 </body>

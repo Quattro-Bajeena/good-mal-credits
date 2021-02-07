@@ -1,0 +1,57 @@
+{
+    "mal_id": 150288,
+    "url": "https://myanimelist.net/character/150288/Leopold_Vermillion",
+    "name": "Leopold Vermillion",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 52,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/351518.jpg",
+    "animeography": [
+        {
+            "mal_id": 34572,
+            "name": "Black Clover",
+            "url": "https://myanimelist.net/anime/34572/Black_Clover",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/88336.jpg?s=299272de3f0215b1106eb0c5cc51b84c",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 86337,
+            "name": "Black Clover",
+            "url": "https://myanimelist.net/manga/86337/Black_Clover",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/166254.jpg?s=6ea78a5f0d73eefc5b7887a9db691eaf",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 857,
+            "name": "KENN",
+            "url": "https://myanimelist.net/people/857/KENN",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/60780.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 16641,
+            "name": "Tindle, Austin",
+            "url": "https://myanimelist.net/people/16641/Austin_Tindle",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47348.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 44342,
+            "name": "Mascarenhas, Fred",
+            "url": "https://myanimelist.net/people/44342/Fred_Mascarenhas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48318.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

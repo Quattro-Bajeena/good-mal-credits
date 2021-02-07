@@ -1,0 +1,44 @@
+{
+    "mal_id": 32995,
+    "url": "https://myanimelist.net/anime/32995/Yuri_on_Ice",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+    "title": "Yuri!!! on Ice",
+    "title_english": "Yuri!!! On ICE",
+    "title_japanese": "ユーリ!!! on ICE",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-06T00:00:00+00:00",
+        "to": "2016-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 6, 2016 to Dec 22, 2016"
+    },
+    "score": 7.92,
+    "scored_by": 333931,
+    "rank": 659,
+    "popularity": 193,
+    "members": 570894,
+    "favorites": 17301,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

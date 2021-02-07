@@ -1,0 +1,44 @@
+{
+    "mal_id": 34012,
+    "url": "https://myanimelist.net/anime/34012/Isekai_Shokudou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/86666.jpg",
+    "title": "Isekai Shokudou",
+    "title_english": "Restaurant to Another World",
+    "title_japanese": "異世界食堂",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-07-04T00:00:00+00:00",
+        "to": "2017-09-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 4, 2017 to Sep 19, 2017"
+    },
+    "score": 7.35,
+    "scored_by": 64934,
+    "rank": 2128,
+    "popularity": 981,
+    "members": 149724,
+    "favorites": 460,
+    "premiered": "Summer 2017",
+    "studios": [
+        {
+            "mal_id": 300,
+            "type": "anime",
+            "name": "SILVER LINK.",
+            "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
+        }
+    ]
+}

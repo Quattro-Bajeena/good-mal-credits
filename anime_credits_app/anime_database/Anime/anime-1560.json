@@ -1,0 +1,44 @@
+{
+    "mal_id": 1560,
+    "url": "https://myanimelist.net/anime/1560/Choujin_Gakuen_Gowcaizer__The_Voltage_Fighters",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/24751.jpg",
+    "title": "Choujin Gakuen Gowcaizer: The Voltage Fighters",
+    "title_english": "Voltage Fighter Gowcaizer",
+    "title_japanese": "超人学園ゴウカイザー　ＴＨＥ　ＶＯＬＴＡＧＥ　ＦＩＧＨＴＥＲＳ",
+    "type": "OVA",
+    "source": "Game",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-09-27T00:00:00+00:00",
+        "to": "1997-01-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 9,
+                "year": 1996
+            },
+            "to": {
+                "day": 31,
+                "month": 1,
+                "year": 1997
+            }
+        },
+        "string": "Sep 27, 1996 to Jan 31, 1997"
+    },
+    "score": 5.06,
+    "scored_by": 1163,
+    "rank": 10502,
+    "popularity": 7757,
+    "members": 3039,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

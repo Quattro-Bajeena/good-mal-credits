@@ -1,0 +1,37 @@
+{
+    "mal_id": 38727,
+    "url": "https://myanimelist.net/anime/38727/Een",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1185/108018.jpg",
+    "title": "Een",
+    "title_english": "WAAAH",
+    "title_japanese": "えーん",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-02-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 12, 2018"
+    },
+    "score": 4.98,
+    "scored_by": 303,
+    "rank": 10576,
+    "popularity": 12095,
+    "members": 495,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

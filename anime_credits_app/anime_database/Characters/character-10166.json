@@ -1,0 +1,81 @@
+{
+    "mal_id": 10166,
+    "url": "https://myanimelist.net/character/10166/Fou_Lafine",
+    "name": "Fou Lafine",
+    "name_kanji": null,
+    "nicknames": [
+        "Fao",
+        "General of the South"
+    ],
+    "member_favorites": 12,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/118513.jpg",
+    "animeography": [
+        {
+            "mal_id": 286,
+            "name": "B'T X",
+            "url": "https://myanimelist.net/anime/286/BT_X",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1271/92367.jpg?s=da3c6dc7de6c8a885165241a45fb1768",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1736,
+            "name": "B'T X Neo",
+            "url": "https://myanimelist.net/anime/1736/BT_X_Neo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/55619.jpg?s=bf07b270df1b67ccc0a26261642b7bfe",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 132,
+            "name": "B'T X",
+            "url": "https://myanimelist.net/manga/132/BT_X",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/205170.jpg?s=0fbbae2506bd592e05755e174d68724a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 872,
+            "name": "Williams, Kent",
+            "url": "https://myanimelist.net/people/872/Kent_Williams",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/40726.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1183,
+            "name": "Crisari, Simone",
+            "url": "https://myanimelist.net/people/1183/Simone_Crisari",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44105.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1519,
+            "name": "Ichijo, Kazuya",
+            "url": "https://myanimelist.net/people/1519/Kazuya_Ichijo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56712.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1585,
+            "name": "Colin, Erik",
+            "url": "https://myanimelist.net/people/1585/Erik_Colin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/29133.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6720,
+            "name": "Rossi, Riccardo",
+            "url": "https://myanimelist.net/people/6720/Riccardo_Rossi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/3467.jpg",
+            "language": "Italian"
+        }
+    ]
+}

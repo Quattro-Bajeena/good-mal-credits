@@ -1,0 +1,35 @@
+{
+    "mal_id": 166674,
+    "url": "https://myanimelist.net/character/166674/Tsukasa_Odawara",
+    "name": "Tsukasa Odawara",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/395781.jpg",
+    "animeography": [
+        {
+            "mal_id": 38670,
+            "name": "Actors: Songs Connection",
+            "url": "https://myanimelist.net/anime/38670/Actors__Songs_Connection",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1383/103339.jpg?s=43ccd21fce50512524a77b62e8b9b20a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 137,
+            "name": "Hayami, Show",
+            "url": "https://myanimelist.net/people/137/Show_Hayami",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54479.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

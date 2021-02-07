@@ -1,0 +1,85 @@
+{
+    "mal_id": 12898,
+    "url": "https://myanimelist.net/character/12898/Paul_von_Oberstein",
+    "name": "Paul von Oberstein",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1140,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/131297.jpg",
+    "animeography": [
+        {
+            "mal_id": 820,
+            "name": "Ginga Eiyuu Densetsu",
+            "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg?s=04952523581d51757bfcd5fb22347f77",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3014,
+            "name": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+            "url": "https://myanimelist.net/anime/3014/Ginga_Eiyuu_Densetsu__Waga_Yuku_wa_Hoshi_no_Taikai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/51345.jpg?s=d7d037972096a7432ff19172b50588dc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31433,
+            "name": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+            "url": "https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1104/91793.jpg?s=377e801e7e03e434839b95228f8d9c84",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36369,
+            "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
+            "url": "https://myanimelist.net/anime/36369/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_1",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1772/102667.jpg?s=4464b300145dda131c548e3ab73811c7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36371,
+            "name": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 3",
+            "url": "https://myanimelist.net/anime/36371/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_3",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1782/103917.jpg?s=f7cbddff6a47822d9cf25c25e17db8b0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 6978,
+            "name": "Ginga Eiyuu Densetsu",
+            "url": "https://myanimelist.net/manga/6978/Ginga_Eiyuu_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/155231.jpg?s=dd9388d562be0048a06a76359ce2a62a",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11941,
+            "name": "Ginga Eiyuu Densetsu",
+            "url": "https://myanimelist.net/manga/11941/Ginga_Eiyuu_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/40341.jpg?s=f867adb462a3c989aa17f92b32d52964",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 95,
+            "name": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44598.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 424,
+            "name": "Shiozawa, Kaneto",
+            "url": "https://myanimelist.net/people/424/Kaneto_Shiozawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12357.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 4726,
+    "url": "https://myanimelist.net/anime/4726/Druaga_no_Tou__The_Sword_of_Uruk",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75647.jpg",
+    "title": "Druaga no Tou: The Sword of Uruk",
+    "title_english": "Tower of Druaga: The Sword of Uruk",
+    "title_japanese": "ドルアーガの塔 ～the Sword of URUK～",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-01-09T00:00:00+00:00",
+        "to": "2009-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2009
+            }
+        },
+        "string": "Jan 9, 2009 to Mar 27, 2009"
+    },
+    "score": 7.24,
+    "scored_by": 34537,
+    "rank": 2600,
+    "popularity": 1856,
+    "members": 66210,
+    "favorites": 91,
+    "premiered": "Winter 2009",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

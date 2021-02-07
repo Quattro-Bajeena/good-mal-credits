@@ -1,0 +1,44 @@
+{
+    "mal_id": 25777,
+    "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg",
+    "title": "Shingeki no Kyojin Season 2",
+    "title_english": "Attack on Titan Season 2",
+    "title_japanese": "進撃の巨人 Season2",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-04-01T00:00:00+00:00",
+        "to": "2017-06-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 17,
+                "month": 6,
+                "year": 2017
+            }
+        },
+        "string": "Apr 1, 2017 to Jun 17, 2017"
+    },
+    "score": 8.44,
+    "scored_by": 979700,
+    "rank": 133,
+    "popularity": 17,
+    "members": 1550745,
+    "favorites": 17572,
+    "premiered": "Spring 2017",
+    "studios": [
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

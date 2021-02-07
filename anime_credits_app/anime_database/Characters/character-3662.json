@@ -1,0 +1,85 @@
+{
+    "mal_id": 3662,
+    "url": "https://myanimelist.net/character/3662/Isaac_Dian",
+    "name": "Isaac Dian",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4189,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/117856.jpg",
+    "animeography": [
+        {
+            "mal_id": 2251,
+            "name": "Baccano!",
+            "url": "https://myanimelist.net/anime/2251/Baccano",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/14547.jpg?s=ada1c44b182e1547807edc745e9b1960",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3901,
+            "name": "Baccano! Specials",
+            "url": "https://myanimelist.net/anime/3901/Baccano_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/9129.jpg?s=1b7efa152bfb919dcd53a953ac3e87a0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6746,
+            "name": "Durarara!!",
+            "url": "https://myanimelist.net/anime/6746/Durarara",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/71772.jpg?s=e1d801dee0f590432ecd7c98c726218a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8408,
+            "name": "Durarara!! Specials",
+            "url": "https://myanimelist.net/anime/8408/Durarara_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/28684.jpg?s=c109bc3ff83e81f6f8fc3791cd669150",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1342,
+            "name": "Baccano!",
+            "url": "https://myanimelist.net/manga/1342/Baccano",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172736.jpg?s=722c5631983937aa4820f4e9a4241272",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 173,
+            "name": "Onosaka, Masaya",
+            "url": "https://myanimelist.net/people/173/Masaya_Onosaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/14617.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 669,
+            "name": "Riegel, Sam",
+            "url": "https://myanimelist.net/people/669/Sam_Riegel",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/10613.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 10700,
+            "name": "Spieß, Felix",
+            "url": "https://myanimelist.net/people/10700/Felix_Spieß",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/9255.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 26419,
+            "name": "Wilhelm, Marc",
+            "url": "https://myanimelist.net/people/26419/Marc_Wilhelm",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49217.jpg",
+            "language": "French"
+        }
+    ]
+}

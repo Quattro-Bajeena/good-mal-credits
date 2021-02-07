@@ -1,0 +1,44 @@
+{
+    "mal_id": 635,
+    "url": "https://myanimelist.net/anime/635/Juubee-chan__Lovely_Gantai_no_Himitsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/60987.jpg",
+    "title": "Juubee-chan: Lovely Gantai no Himitsu",
+    "title_english": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+    "title_japanese": "十兵衛ちゃん ーラブリー眼帯の秘密",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-04-06T00:00:00+00:00",
+        "to": "1999-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 1999
+            }
+        },
+        "string": "Apr 6, 1999 to Jun 29, 1999"
+    },
+    "score": 6.67,
+    "scored_by": 6433,
+    "rank": 5056,
+    "popularity": 4070,
+    "members": 15600,
+    "favorites": 31,
+    "premiered": "Spring 1999",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

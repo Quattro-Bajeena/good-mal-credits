@@ -1,0 +1,44 @@
+{
+    "mal_id": 14941,
+    "url": "https://myanimelist.net/anime/14941/AKB0048__Next_Stage",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/44450.jpg",
+    "title": "AKB0048: Next Stage",
+    "title_english": "AKB0048: Next Stage",
+    "title_japanese": "AKB0048 next stage",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-01-06T00:00:00+00:00",
+        "to": "2013-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2013
+            }
+        },
+        "string": "Jan 6, 2013 to Mar 31, 2013"
+    },
+    "score": 7.66,
+    "scored_by": 17103,
+    "rank": 1118,
+    "popularity": 2859,
+    "members": 32062,
+    "favorites": 333,
+    "premiered": "Winter 2013",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

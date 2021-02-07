@@ -1,0 +1,44 @@
+{
+    "mal_id": 39569,
+    "url": "https://myanimelist.net/anime/39569/Sora_no_Aosa_wo_Shiru_Hito_yo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1468/102527.jpg",
+    "title": "Sora no Aosa wo Shiru Hito yo",
+    "title_english": "Her Blue Sky",
+    "title_japanese": "空の青さを知る人よ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-10-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 11, 2019"
+    },
+    "score": 7.53,
+    "scored_by": 15777,
+    "rank": 1479,
+    "popularity": 2167,
+    "members": 53534,
+    "favorites": 185,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1835,
+            "type": "anime",
+            "name": "CloverWorks",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ]
+}

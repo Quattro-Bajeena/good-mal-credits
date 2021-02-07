@@ -1,0 +1,44 @@
+{
+    "mal_id": 23311,
+    "url": "https://myanimelist.net/anime/23311/Garo__Honoo_no_Kokuin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/63667.jpg",
+    "title": "Garo: Honoo no Kokuin",
+    "title_english": "GARO: THE ANIMATION",
+    "title_japanese": "牙狼〈GARO〉-炎の刻印-",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "to": "2015-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2014 to Mar 28, 2015"
+    },
+    "score": 7.41,
+    "scored_by": 41000,
+    "rank": 1885,
+    "popularity": 1215,
+    "members": 119559,
+    "favorites": 418,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

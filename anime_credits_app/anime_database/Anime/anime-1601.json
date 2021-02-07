@@ -1,0 +1,44 @@
+{
+    "mal_id": 1601,
+    "url": "https://myanimelist.net/anime/1601/Red_Garden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/25411.jpg",
+    "title": "Red Garden",
+    "title_english": "Red Garden",
+    "title_japanese": "レッド ガーデン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "to": "2007-03-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 14,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 4, 2006 to Mar 14, 2007"
+    },
+    "score": 7.1,
+    "scored_by": 8699,
+    "rank": 3191,
+    "popularity": 2577,
+    "members": 38657,
+    "favorites": 145,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 912,
+    "url": "https://myanimelist.net/anime/912/Ninkuu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1983/92770.jpg",
+    "title": "Ninkuu",
+    "title_english": null,
+    "title_japanese": "忍空",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 55,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-01-14T00:00:00+00:00",
+        "to": "1996-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 1,
+                "year": 1995
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 1996
+            }
+        },
+        "string": "Jan 14, 1995 to Feb 24, 1996"
+    },
+    "score": 7.04,
+    "scored_by": 995,
+    "rank": 3500,
+    "popularity": 6535,
+    "members": 4841,
+    "favorites": 18,
+    "premiered": "Winter 1995",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

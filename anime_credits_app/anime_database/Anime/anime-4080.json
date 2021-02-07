@@ -1,0 +1,44 @@
+{
+    "mal_id": 4080,
+    "url": "https://myanimelist.net/anime/4080/Kyou_kara_Maou_3rd_Series",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/22639.jpg",
+    "title": "Kyou kara Maou! 3rd Series",
+    "title_english": null,
+    "title_japanese": "今日からマ王！第3シリーズ",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-03T00:00:00+00:00",
+        "to": "2009-02-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 19,
+                "month": 2,
+                "year": 2009
+            }
+        },
+        "string": "Apr 3, 2008 to Feb 19, 2009"
+    },
+    "score": 7.81,
+    "scored_by": 11012,
+    "rank": 810,
+    "popularity": 3046,
+    "members": 28390,
+    "favorites": 143,
+    "premiered": "Spring 2008",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

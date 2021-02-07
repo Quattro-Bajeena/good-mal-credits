@@ -1,0 +1,50 @@
+{
+    "mal_id": 8684,
+    "url": "https://myanimelist.net/character/8684/Reiji_Moritsugu",
+    "name": "Reiji Moritsugu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 13,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/87554.jpg",
+    "animeography": [
+        {
+            "mal_id": 3653,
+            "name": "Kurogane no Linebarrels",
+            "url": "https://myanimelist.net/anime/3653/Kurogane_no_Linebarrels",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/50375.jpg?s=b93f13d92fe3379101b439636e4db5bc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7540,
+            "name": "Kurogane no Linebarrels Specials",
+            "url": "https://myanimelist.net/anime/7540/Kurogane_no_Linebarrels_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/25929.jpg?s=783cdeff4c91e09f7d0c0c40a7bbcaf2",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 3638,
+            "name": "Kurogane no Linebarrel",
+            "url": "https://myanimelist.net/manga/3638/Kurogane_no_Linebarrel",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/188887.jpg?s=ddb9d6675df71145af0c1409d32a8fbe",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 513,
+            "name": "Nakamura, Yuuichi",
+            "url": "https://myanimelist.net/people/513/Yuuichi_Nakamura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42161.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

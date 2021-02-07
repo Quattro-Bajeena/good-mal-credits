@@ -1,0 +1,73 @@
+{
+    "mal_id": 74647,
+    "url": "https://myanimelist.net/character/74647/Butch_Cassidy",
+    "name": "Butch Cassidy",
+    "name_kanji": null,
+    "nicknames": [
+        "Robert LeRoy Parker"
+    ],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/316997.jpg",
+    "animeography": [
+        {
+            "mal_id": 31339,
+            "name": "Drifters",
+            "url": "https://myanimelist.net/anime/31339/Drifters",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/80271.jpg?s=e7c46616789590a87b376fb14e3ecc89",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36480,
+            "name": "Drifters (OVA)",
+            "url": "https://myanimelist.net/anime/36480/Drifters_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1027/97819.jpg?s=e156f98590c09b260fb8b6cee7092547",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 38360,
+            "name": "Drifters: The Outlandish Knight",
+            "url": "https://myanimelist.net/anime/38360/Drifters__The_Outlandish_Knight",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1987/97778.jpg?s=9988b5996200f9e50d15ce60f2942588",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13801,
+            "name": "Drifters",
+            "url": "https://myanimelist.net/manga/13801/Drifters",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/33949.jpg?s=4654f2e283a8cd0b6462e93396e61aa8",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 212,
+            "name": "Ono, Daisuke",
+            "url": "https://myanimelist.net/people/212/Daisuke_Ono",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54593.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 44078,
+            "name": "Trentalance, Gabriele",
+            "url": "https://myanimelist.net/people/44078/Gabriele_Trentalance",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47540.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 48870,
+            "name": "Teruel, Carles",
+            "url": "https://myanimelist.net/people/48870/Carles_Teruel",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        }
+    ]
+}

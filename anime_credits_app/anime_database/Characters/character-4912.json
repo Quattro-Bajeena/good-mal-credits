@@ -1,0 +1,101 @@
+{
+    "mal_id": 4912,
+    "url": "https://myanimelist.net/character/4912/Nagi_Springfield",
+    "name": "Nagi Springfield",
+    "name_kanji": null,
+    "nicknames": [
+        "Thousand Master"
+    ],
+    "member_favorites": 70,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/190370.jpg",
+    "animeography": [
+        {
+            "mal_id": 157,
+            "name": "Mahou Sensei Negima!",
+            "url": "https://myanimelist.net/anime/157/Mahou_Sensei_Negima",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/89535.jpg?s=ba63d31dabcf7a2d947c0bbd8006b2bf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1546,
+            "name": "Negima!?",
+            "url": "https://myanimelist.net/anime/1546/Negima",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/73997.jpg?s=77f7a1f6517782dfd11970fff0623a5b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7135,
+            "name": "Mahou Sensei Negima! Movie: Anime Final",
+            "url": "https://myanimelist.net/anime/7135/Mahou_Sensei_Negima_Movie__Anime_Final",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/29541.jpg?s=1120ed384bca8000bcdafda548a94e8d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 33478,
+            "name": "UQ Holder!: Mahou Sensei Negima! 2",
+            "url": "https://myanimelist.net/anime/33478/UQ_Holder__Mahou_Sensei_Negima_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/88354.jpg?s=4b0b47625381fe2c7be480a4c3c34c90",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 15,
+            "name": "Mahou Sensei Negima!",
+            "url": "https://myanimelist.net/manga/15/Mahou_Sensei_Negima",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/51855.jpg?s=802b49a678048c961969af6ef3ec2458",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 597,
+            "name": "Negima!? Neo",
+            "url": "https://myanimelist.net/manga/597/Negima_Neo",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/156574.jpg?s=26dc33ea342902ec6e91997e6d21d61a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 57765,
+            "name": "UQ Holder!",
+            "url": "https://myanimelist.net/manga/57765/UQ_Holder",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/112577.jpg?s=d4e4a561aa8c348c68317dcc39ec1a23",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 99,
+            "name": "Sawashiro, Miyuki",
+            "url": "https://myanimelist.net/people/99/Miyuki_Sawashiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54600.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 160,
+            "name": "Koyasu, Takehito",
+            "url": "https://myanimelist.net/people/160/Takehito_Koyasu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10264.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 182,
+            "name": "Baker, Troy",
+            "url": "https://myanimelist.net/people/182/Troy_Baker",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/30201.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14753,
+            "name": "Kang, Su Jin",
+            "url": "https://myanimelist.net/people/14753/Su_Jin_Kang",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15289.jpg",
+            "language": "Korean"
+        }
+    ]
+}

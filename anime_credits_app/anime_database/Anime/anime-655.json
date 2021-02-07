@@ -1,0 +1,50 @@
+{
+    "mal_id": 655,
+    "url": "https://myanimelist.net/anime/655/Galaxy_Angel_4",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75307.jpg",
+    "title": "Galaxy Angel 4",
+    "title_english": null,
+    "title_japanese": "ギャラクシーエンジェル4",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-07-07T00:00:00+00:00",
+        "to": "2004-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 2004
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Jul 7, 2004 to Sep 29, 2004"
+    },
+    "score": 7.22,
+    "scored_by": 2661,
+    "rank": 2701,
+    "popularity": 5718,
+    "members": 6789,
+    "favorites": 11,
+    "premiered": "Summer 2004",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 91,
+            "type": "anime",
+            "name": "feel.",
+            "url": "https://myanimelist.net/anime/producer/91/feel"
+        }
+    ]
+}

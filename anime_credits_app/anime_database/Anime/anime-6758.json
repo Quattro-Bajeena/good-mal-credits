@@ -1,0 +1,44 @@
+{
+    "mal_id": 6758,
+    "url": "https://myanimelist.net/anime/6758/Tatakau_Shisho__The_Book_of_Bantorra",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/22769.jpg",
+    "title": "Tatakau Shisho: The Book of Bantorra",
+    "title_english": "Armed Librarians: The Book of Bantorra",
+    "title_japanese": "戦う司書 The Book of Bantorra",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-02T00:00:00+00:00",
+        "to": "2010-04-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 2,
+                "month": 4,
+                "year": 2010
+            }
+        },
+        "string": "Oct 2, 2009 to Apr 2, 2010"
+    },
+    "score": 7.24,
+    "scored_by": 13703,
+    "rank": 2621,
+    "popularity": 2131,
+    "members": 54270,
+    "favorites": 181,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 287,
+            "type": "anime",
+            "name": "David Production",
+            "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+    ]
+}

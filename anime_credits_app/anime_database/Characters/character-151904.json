@@ -1,0 +1,37 @@
+{
+    "mal_id": 151904,
+    "url": "https://myanimelist.net/character/151904/Katsumi_Kanzaki",
+    "name": "Katsumi Kanzaki",
+    "name_kanji": null,
+    "nicknames": [
+        "Professor"
+    ],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/332636.jpg",
+    "animeography": [
+        {
+            "mal_id": 35248,
+            "name": "18if",
+            "url": "https://myanimelist.net/anime/35248/18if",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/86743.jpg?s=70f425794a45fe4c1faa2addd8f83e7f",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 160,
+            "name": "Koyasu, Takehito",
+            "url": "https://myanimelist.net/people/160/Takehito_Koyasu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10264.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

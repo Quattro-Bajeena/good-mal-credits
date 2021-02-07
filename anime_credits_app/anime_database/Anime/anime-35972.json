@@ -1,0 +1,56 @@
+{
+    "mal_id": 35972,
+    "url": "https://myanimelist.net/anime/35972/Fairy_Tail__Final_Series",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1536/93863.jpg",
+    "title": "Fairy Tail: Final Series",
+    "title_english": "Fairy Tail Final Series",
+    "title_japanese": "FAIRY TAIL ファイナルシリーズ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-07T00:00:00+00:00",
+        "to": "2019-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2019
+            }
+        },
+        "string": "Oct 7, 2018 to Sep 29, 2019"
+    },
+    "score": 7.55,
+    "scored_by": 125999,
+    "rank": 1424,
+    "popularity": 431,
+    "members": 316620,
+    "favorites": 4407,
+    "premiered": "Fall 2018",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        },
+        {
+            "mal_id": 397,
+            "type": "anime",
+            "name": "Bridge",
+            "url": "https://myanimelist.net/anime/producer/397/Bridge"
+        },
+        {
+            "mal_id": 1835,
+            "type": "anime",
+            "name": "CloverWorks",
+            "url": "https://myanimelist.net/anime/producer/1835/CloverWorks"
+        }
+    ]
+}

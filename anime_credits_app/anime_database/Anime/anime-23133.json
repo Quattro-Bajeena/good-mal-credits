@@ -1,0 +1,50 @@
+{
+    "mal_id": 23133,
+    "url": "https://myanimelist.net/anime/23133/M3__Sono_Kuroki_Hagane",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/60273.jpg",
+    "title": "M3: Sono Kuroki Hagane",
+    "title_english": null,
+    "title_japanese": "M3～ソノ黒キ鋼～",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-22T00:00:00+00:00",
+        "to": "2014-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Apr 22, 2014 to Sep 30, 2014"
+    },
+    "score": 6.61,
+    "scored_by": 15198,
+    "rank": 5340,
+    "popularity": 2217,
+    "members": 51516,
+    "favorites": 80,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 605,
+            "type": "anime",
+            "name": "C2C",
+            "url": "https://myanimelist.net/anime/producer/605/C2C"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2337,
+    "url": "https://myanimelist.net/anime/2337/Tetsujin_28-gou_2004",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/53585.jpg",
+    "title": "Tetsujin 28-gou (2004)",
+    "title_english": "Tetsujin 28",
+    "title_japanese": "鉄人２８号 (2004)",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-04-08T00:00:00+00:00",
+        "to": "2004-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2004
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Apr 8, 2004 to Sep 30, 2004"
+    },
+    "score": 7.32,
+    "scored_by": 769,
+    "rank": 2276,
+    "popularity": 7306,
+    "members": 3659,
+    "favorites": 35,
+    "premiered": "Spring 2004",
+    "studios": [
+        {
+            "mal_id": 455,
+            "type": "anime",
+            "name": "Palm Studio",
+            "url": "https://myanimelist.net/anime/producer/455/Palm_Studio"
+        }
+    ]
+}

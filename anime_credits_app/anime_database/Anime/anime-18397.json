@@ -1,0 +1,44 @@
+{
+    "mal_id": 18397,
+    "url": "https://myanimelist.net/anime/18397/Shingeki_no_Kyojin_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/59221.jpg",
+    "title": "Shingeki no Kyojin OVA",
+    "title_english": null,
+    "title_japanese": "進撃の巨人ＯＡＤ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-12-09T00:00:00+00:00",
+        "to": "2014-08-08T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 12,
+                "year": 2013
+            },
+            "to": {
+                "day": 8,
+                "month": 8,
+                "year": 2014
+            }
+        },
+        "string": "Dec 9, 2013 to Aug 8, 2014"
+    },
+    "score": 7.83,
+    "scored_by": 166109,
+    "rank": 770,
+    "popularity": 475,
+    "members": 296133,
+    "favorites": 1079,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

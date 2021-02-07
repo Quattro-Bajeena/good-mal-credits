@@ -1,0 +1,44 @@
+{
+    "mal_id": 10513,
+    "url": "https://myanimelist.net/anime/10513/Usavich_IV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/54015.jpg",
+    "title": "Usavich IV",
+    "title_english": "Usavich IV",
+    "title_japanese": "ウサビッチ IV",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-23T00:00:00+00:00",
+        "to": "2011-09-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 15,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 23, 2011 to Sep 15, 2011"
+    },
+    "score": 6.65,
+    "scored_by": 1394,
+    "rank": 5159,
+    "popularity": 8302,
+    "members": 2456,
+    "favorites": 1,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 330,
+            "type": "anime",
+            "name": "Kanaban Graphics",
+            "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+        }
+    ]
+}

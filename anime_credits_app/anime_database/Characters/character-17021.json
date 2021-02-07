@@ -1,0 +1,53 @@
+{
+    "mal_id": 17021,
+    "url": "https://myanimelist.net/character/17021/Masaomi_Heike",
+    "name": "Masaomi Heike",
+    "name_kanji": null,
+    "nicknames": [
+        "Code:02",
+        "The Wonder "
+    ],
+    "member_favorites": 66,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/193669.jpg",
+    "animeography": [
+        {
+            "mal_id": 11703,
+            "name": "Code:Breaker",
+            "url": "https://myanimelist.net/anime/11703/Code_Breaker",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/57251.jpg?s=b82b26183d45f2505ae0b40266e9f451",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 15633,
+            "name": "Code:Breaker OVA",
+            "url": "https://myanimelist.net/anime/15633/Code_Breaker_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1388/98050.jpg?s=8dcc1a22750b9e77a9b67583ab66fd96",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 8341,
+            "name": "Code:Breaker",
+            "url": "https://myanimelist.net/manga/8341/Code_Breaker",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15122.jpg?s=3f1aac34e4d19d670aa2677a16597610",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 12480,
+            "name": "Kimura, Subaru",
+            "url": "https://myanimelist.net/people/12480/Subaru_Kimura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/44247.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1482,
+    "url": "https://myanimelist.net/anime/1482/DGray-man",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg",
+    "title": "D.Gray-man",
+    "title_english": "D.Gray-man",
+    "title_japanese": "ディー・グレイマン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 103,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-03T00:00:00+00:00",
+        "to": "2008-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Oct 3, 2006 to Sep 30, 2008"
+    },
+    "score": 8.05,
+    "scored_by": 216410,
+    "rank": 479,
+    "popularity": 192,
+    "members": 566131,
+    "favorites": 13987,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

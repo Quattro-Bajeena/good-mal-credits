@@ -1,0 +1,63 @@
+{
+    "mal_id": 4152,
+    "url": "https://myanimelist.net/character/4152/Toma",
+    "name": "Toma",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 8,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/174235.jpg",
+    "animeography": [
+        {
+            "mal_id": 478,
+            "name": "Sousei no Aquarion",
+            "url": "https://myanimelist.net/anime/478/Sousei_no_Aquarion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/76291.jpg?s=ae2756d6962705cb100e9f86389d1dcc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2170,
+            "name": "Sousei no Aquarion OVA",
+            "url": "https://myanimelist.net/anime/2170/Sousei_no_Aquarion_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/72745.jpg?s=1367ce9e4c0b4d5b6900aa08047b4d7c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6032,
+            "name": "Aquarion Movie: Ippatsu Gyakuten-hen",
+            "url": "https://myanimelist.net/anime/6032/Aquarion_Movie__Ippatsu_Gyakuten-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/53887.jpg?s=d39602210ca9976da84d743162196c87",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10447,
+            "name": "Aquarion Evol",
+            "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=1e746182f11d6bf55b58b2a0ea6f4d7a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 6,
+            "name": "Morikawa, Toshiyuki",
+            "url": "https://myanimelist.net/people/6/Toshiyuki_Morikawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54699.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20238,
+            "name": "Bonino, Giorgio",
+            "url": "https://myanimelist.net/people/20238/Giorgio_Bonino",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22858.jpg",
+            "language": "Italian"
+        }
+    ]
+}

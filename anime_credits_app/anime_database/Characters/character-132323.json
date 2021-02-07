@@ -1,0 +1,73 @@
+{
+    "mal_id": 132323,
+    "url": "https://myanimelist.net/character/132323/Kyou_Goshouin",
+    "name": "Kyou Goshouin",
+    "name_kanji": null,
+    "nicknames": [
+        "Apricot"
+    ],
+    "member_favorites": 65,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/302656.jpg",
+    "animeography": [
+        {
+            "mal_id": 31404,
+            "name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+            "url": "https://myanimelist.net/anime/31404/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/79414.jpg?s=bdb35c664f224d7801c3717b4e434d48",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 57835,
+            "name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+            "url": "https://myanimelist.net/manga/57835/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/175122.jpg?s=15ad4d6a84768456ccd90492372251b3",
+            "role": "Main"
+        },
+        {
+            "mal_id": 77359,
+            "name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+            "url": "https://myanimelist.net/manga/77359/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/157551.jpg?s=8513c231b5a0e59ecbcf4f0fde9e5db9",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 98,
+            "name": "Hatano, Wataru",
+            "url": "https://myanimelist.net/people/98/Wataru_Hatano",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37165.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 25437,
+            "name": "Ichimichi, Mao",
+            "url": "https://myanimelist.net/people/25437/Mao_Ichimichi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56420.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 35117,
+            "name": "Rodak, Mallorie",
+            "url": "https://myanimelist.net/people/35117/Mallorie_Rodak",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40976.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 40046,
+            "name": "Schreier, Nadine",
+            "url": "https://myanimelist.net/people/40046/Nadine_Schreier",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40338.jpg",
+            "language": "German"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2707,
+    "url": "https://myanimelist.net/anime/2707/Majime_ni_Fumajime_Kaiketsu_Zorori",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/31033.jpg",
+    "title": "Majime ni Fumajime Kaiketsu Zorori",
+    "title_english": null,
+    "title_japanese": "まじめにふまじめ　かいけつゾロリ",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 97,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-02-13T00:00:00+00:00",
+        "to": "2007-01-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 2,
+                "year": 2005
+            },
+            "to": {
+                "day": 28,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "Feb 13, 2005 to Jan 28, 2007"
+    },
+    "score": 6.72,
+    "scored_by": 258,
+    "rank": 4821,
+    "popularity": 10669,
+    "members": 895,
+    "favorites": 6,
+    "premiered": "Winter 2005",
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2236,
+    "url": "https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/2432.jpg",
+    "title": "Toki wo Kakeru Shoujo",
+    "title_english": "The Girl Who Leapt Through Time",
+    "title_japanese": "時をかける少女",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 15, 2006"
+    },
+    "score": 8.2,
+    "scored_by": 362503,
+    "rank": 316,
+    "popularity": 164,
+    "members": 616167,
+    "favorites": 5358,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

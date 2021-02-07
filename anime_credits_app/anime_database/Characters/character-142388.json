@@ -1,0 +1,49 @@
+{
+    "mal_id": 142388,
+    "url": "https://myanimelist.net/character/142388/Testa_Lagusa",
+    "name": "Testa Lagusa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/310080.jpg",
+    "animeography": [
+        {
+            "mal_id": 32998,
+            "name": "91 Days",
+            "url": "https://myanimelist.net/anime/32998/91_Days",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/80515.jpg?s=fe8d42b4a3dccae2bf1592cbb47effce",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 33964,
+            "name": "91 Days: Mijikai Rousoku",
+            "url": "https://myanimelist.net/anime/33964/91_Days__Mijikai_Rousoku",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/81707.jpg?s=ccbb4a0edac5b1e5186ae73989a8d652",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34777,
+            "name": "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita",
+            "url": "https://myanimelist.net/anime/34777/91_Days__Toki_no_Asase_Subete_no_Kinou_Ashita_Mata_Ashita",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/87263.jpg?s=ff3f2926aa2e3d9192d7345735f12363",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 25329,
+            "name": "Mikami, Satoshi",
+            "url": "https://myanimelist.net/people/25329/Satoshi_Mikami",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/56194.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

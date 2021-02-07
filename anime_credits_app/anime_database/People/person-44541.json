@@ -1,0 +1,49 @@
+{
+    "mal_id": 44541,
+    "url": "https://myanimelist.net/people/44541/Hisatoshi_Shimizu",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Hisatoshi Shimizu",
+    "given_name": "久敏",
+    "family_name": "清水",
+    "birthday": null,
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 35134,
+                "url": "https://myanimelist.net/anime/35134/Koukyoushihen_Eureka_Seven_Hi-Evolution_1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1334/90827.jpg?s=19cf5d3a5d87cc9d0f5f800d7135c91d",
+                "name": "Koukyoushihen Eureka Seven Hi-Evolution 1"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 37013,
+                "url": "https://myanimelist.net/anime/37013/Sex__Prologue",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1499/94818.jpg?s=78ac19bb89ab84e2aeb7a2f129c16cbc",
+                "name": "Sex: Prologue"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 42668,
+                "url": "https://myanimelist.net/anime/42668/Taisou_Zamurai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1484/109365.jpg?s=b58a9c23edefe46f4df97742929cbd84",
+                "name": "Taisou Zamurai"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 37976,
+                "url": "https://myanimelist.net/anime/37976/Zombieland_Saga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1094/95453.jpg?s=cfec7e71053f2788a505c09d75fda1de",
+                "name": "Zombieland Saga"
+            }
+        }
+    ]
+}

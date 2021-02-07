@@ -1,0 +1,37 @@
+{
+    "mal_id": 40312,
+    "url": "https://myanimelist.net/anime/40312/Southpaw",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1993/102813.jpg",
+    "title": "Southpaw",
+    "title_english": null,
+    "title_japanese": "サウスポー",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-08-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 8,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 27, 2019"
+    },
+    "score": 5.17,
+    "scored_by": 361,
+    "rank": 10331,
+    "popularity": 11963,
+    "members": 526,
+    "favorites": 4,
+    "premiered": null,
+    "studios": []
+}

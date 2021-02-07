@@ -46,17 +46,22 @@ function update_bar(){
         if(response['state'] == 'SUCCESS') {
             change_bar_description("Download completed");
             change_bar_fill(1,1, interval_time);
+
             setTimeout( () => {
                 window.location.reload();
             }, 1000)
         }
-        else{
+        else if(response['info'] != null){
             change_bar_description(response['info']['status']);
             change_bar_fill(response['info']['current'],response['info']['total'], interval_time );
-            setTimeout(update_bar, interval_time)
+            setTimeout(update_bar, interval_time);
+        }
+        else{
+            setTimeout(update_bar, interval_time * 4);
         }
     })
 }
+
 
 update_bar()
 

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3737,
+    "url": "https://myanimelist.net/anime/3737/Usavich",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/15660.jpg",
+    "title": "Usavich",
+    "title_english": "Usavich",
+    "title_japanese": "ウサビッチ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-01-01T00:00:00+00:00",
+        "to": "2007-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            }
+        },
+        "string": "2006 to 2007"
+    },
+    "score": 6.97,
+    "scored_by": 3500,
+    "rank": 3760,
+    "popularity": 5954,
+    "members": 6080,
+    "favorites": 22,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 330,
+            "type": "anime",
+            "name": "Kanaban Graphics",
+            "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+        }
+    ]
+}

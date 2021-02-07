@@ -1,0 +1,65 @@
+{
+    "mal_id": 133884,
+    "url": "https://myanimelist.net/character/133884/Arthur",
+    "name": "Arthur",
+    "name_kanji": null,
+    "nicknames": [
+        "Divine King"
+    ],
+    "member_favorites": 7,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/300353.jpg",
+    "animeography": [
+        {
+            "mal_id": 31710,
+            "name": "Divine Gate",
+            "url": "https://myanimelist.net/anime/31710/Divine_Gate",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/77844.jpg?s=3966166c75b278b65908949b3e950ec2",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 513,
+            "name": "Nakamura, Yuuichi",
+            "url": "https://myanimelist.net/people/513/Yuuichi_Nakamura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42161.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 9078,
+            "name": "Doty, Terri",
+            "url": "https://myanimelist.net/people/9078/Terri_Doty",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/17879.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 42667,
+            "name": "Borko, Vincent",
+            "url": "https://myanimelist.net/people/42667/Vincent_Borko",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46060.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 44666,
+            "name": "Böll, Nicolas",
+            "url": "https://myanimelist.net/people/44666/Nicolas_Böll",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48069.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 46308,
+            "name": "Albarracín, Luisma",
+            "url": "https://myanimelist.net/people/46308/Luisma_Albarracín",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49892.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

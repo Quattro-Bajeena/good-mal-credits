@@ -1,0 +1,50 @@
+{
+    "mal_id": 31588,
+    "url": "https://myanimelist.net/anime/31588/All_Out",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/78649.jpg",
+    "title": "All Out!!",
+    "title_english": "All Out!!",
+    "title_japanese": "オールアウト!!",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-07T00:00:00+00:00",
+        "to": "2017-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Oct 7, 2016 to Mar 31, 2017"
+    },
+    "score": 7.09,
+    "scored_by": 35775,
+    "rank": 3243,
+    "popularity": 1534,
+    "members": 89098,
+    "favorites": 321,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

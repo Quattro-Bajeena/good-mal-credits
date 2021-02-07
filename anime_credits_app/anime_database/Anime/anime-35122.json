@@ -1,0 +1,37 @@
+{
+    "mal_id": 35122,
+    "url": "https://myanimelist.net/anime/35122/Shingeki_no_Kyotou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/84716.jpg",
+    "title": "Shingeki no Kyotou",
+    "title_english": "Attack on Skytree",
+    "title_japanese": "進撃の巨塔",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-04-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 10, 2017"
+    },
+    "score": 6.37,
+    "scored_by": 4052,
+    "rank": 6526,
+    "popularity": 3841,
+    "members": 17806,
+    "favorites": 126,
+    "premiered": null,
+    "studios": []
+}

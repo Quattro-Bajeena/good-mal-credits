@@ -1,0 +1,44 @@
+{
+    "mal_id": 25013,
+    "url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+    "title": "Akatsuki no Yona",
+    "title_english": "Yona of the Dawn",
+    "title_japanese": "暁のヨナ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-07T00:00:00+00:00",
+        "to": "2015-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 7, 2014 to Mar 24, 2015"
+    },
+    "score": 8.06,
+    "scored_by": 280400,
+    "rank": 466,
+    "popularity": 185,
+    "members": 582756,
+    "favorites": 12568,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

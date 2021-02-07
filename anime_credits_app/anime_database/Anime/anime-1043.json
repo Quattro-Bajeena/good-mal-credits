@@ -1,0 +1,44 @@
+{
+    "mal_id": 1043,
+    "url": "https://myanimelist.net/anime/1043/Tokyo_Babylon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/20546.jpg",
+    "title": "Tokyo Babylon",
+    "title_english": null,
+    "title_japanese": "東京ＢＡＢＹＬＯＮ",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-10-21T00:00:00+00:00",
+        "to": "1994-03-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 10,
+                "year": 1992
+            },
+            "to": {
+                "day": 21,
+                "month": 3,
+                "year": 1994
+            }
+        },
+        "string": "Oct 21, 1992 to Mar 21, 1994"
+    },
+    "score": 6.72,
+    "scored_by": 7358,
+    "rank": 4798,
+    "popularity": 4023,
+    "members": 16013,
+    "favorites": 31,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

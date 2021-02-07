@@ -1,0 +1,44 @@
+{
+    "mal_id": 34403,
+    "url": "https://myanimelist.net/anime/34403/Hajimete_no_Gal",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/86826.jpg",
+    "title": "Hajimete no Gal",
+    "title_english": "My First Girlfriend is a Gal",
+    "title_japanese": "はじめてのギャル",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-07-12T00:00:00+00:00",
+        "to": "2017-09-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 7,
+                "year": 2017
+            },
+            "to": {
+                "day": 13,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Jul 12, 2017 to Sep 13, 2017"
+    },
+    "score": 6.32,
+    "scored_by": 173552,
+    "rank": 6763,
+    "popularity": 411,
+    "members": 329782,
+    "favorites": 1116,
+    "premiered": "Summer 2017",
+    "studios": [
+        {
+            "mal_id": 951,
+            "type": "anime",
+            "name": "NAZ",
+            "url": "https://myanimelist.net/anime/producer/951/NAZ"
+        }
+    ]
+}

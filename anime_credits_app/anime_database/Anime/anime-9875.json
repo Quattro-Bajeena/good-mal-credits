@@ -1,0 +1,44 @@
+{
+    "mal_id": 9875,
+    "url": "https://myanimelist.net/anime/9875/Anime_Tenchou_x_Touhou_Project",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/27303.jpg",
+    "title": "Anime Tenchou x Touhou Project",
+    "title_english": null,
+    "title_japanese": "アニメ店長x東方Project",
+    "type": "Special",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-11-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 11,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 20, 2010"
+    },
+    "score": 6.71,
+    "scored_by": 1748,
+    "rank": 4842,
+    "popularity": 4381,
+    "members": 13090,
+    "favorites": 65,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 43,
+            "type": "anime",
+            "name": "ufotable",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ]
+}

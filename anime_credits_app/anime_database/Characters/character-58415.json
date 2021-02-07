@@ -1,0 +1,50 @@
+{
+    "mal_id": 58415,
+    "url": "https://myanimelist.net/character/58415/Kutou",
+    "name": " Kutou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/157397.jpg",
+    "animeography": [
+        {
+            "mal_id": 10681,
+            "name": "Blood-C: The Last Dark",
+            "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg?s=f60856d9d3cd40f11eab3b310e35ea64",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 26182,
+            "name": "Blood-C",
+            "url": "https://myanimelist.net/manga/26182/Blood-C",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/173357.jpg?s=5e022b7b6add7d3ca7b0014b96a70420",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 95,
+            "name": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44598.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 31351,
+            "name": "Gerhardt, Sven",
+            "url": "https://myanimelist.net/people/31351/Sven_Gerhardt",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32503.jpg",
+            "language": "German"
+        }
+    ]
+}

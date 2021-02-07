@@ -1,0 +1,44 @@
+{
+    "mal_id": 31404,
+    "url": "https://myanimelist.net/anime/31404/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/79414.jpg",
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "title_english": "And you thought there is never a girl online?",
+    "title_japanese": "ネトゲの嫁は女の子じゃないと思った？",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-04-07T00:00:00+00:00",
+        "to": "2016-06-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2016
+            }
+        },
+        "string": "Apr 7, 2016 to Jun 23, 2016"
+    },
+    "score": 6.84,
+    "scored_by": 192746,
+    "rank": 4284,
+    "popularity": 346,
+    "members": 380600,
+    "favorites": 1052,
+    "premiered": "Spring 2016",
+    "studios": [
+        {
+            "mal_id": 439,
+            "type": "anime",
+            "name": "Project No.9",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+    ]
+}

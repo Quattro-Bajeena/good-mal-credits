@@ -1,0 +1,50 @@
+{
+    "mal_id": 31163,
+    "url": "https://myanimelist.net/anime/31163/Dimension_W",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/86304.jpg",
+    "title": "Dimension W",
+    "title_english": "Dimension W",
+    "title_japanese": "Dimension W",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-01-10T00:00:00+00:00",
+        "to": "2016-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 10, 2016 to Mar 27, 2016"
+    },
+    "score": 7.23,
+    "scored_by": 116179,
+    "rank": 2651,
+    "popularity": 573,
+    "members": 251820,
+    "favorites": 790,
+    "premiered": "Winter 2016",
+    "studios": [
+        {
+            "mal_id": 1109,
+            "type": "anime",
+            "name": "Orange",
+            "url": "https://myanimelist.net/anime/producer/1109/Orange"
+        },
+        {
+            "mal_id": 1127,
+            "type": "anime",
+            "name": "Studio 3Hz",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+        }
+    ]
+}

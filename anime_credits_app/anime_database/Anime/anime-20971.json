@@ -1,0 +1,44 @@
+{
+    "mal_id": 20971,
+    "url": "https://myanimelist.net/anime/20971/Kiniro_no_Corda__Blue♪Sky",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/59779.jpg",
+    "title": "Kiniro no Corda: Blue♪Sky",
+    "title_english": "La corda d'oro: Blue♪Sky",
+    "title_japanese": "金色のコルダ Blue♪Sky",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-06T00:00:00+00:00",
+        "to": "2014-06-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 22,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 6, 2014 to Jun 22, 2014"
+    },
+    "score": 6.43,
+    "scored_by": 8368,
+    "rank": 6278,
+    "popularity": 3383,
+    "members": 23169,
+    "favorites": 38,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 333,
+            "type": "anime",
+            "name": "TYO Animations",
+            "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+        }
+    ]
+}

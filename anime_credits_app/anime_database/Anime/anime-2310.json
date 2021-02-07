@@ -1,0 +1,44 @@
+{
+    "mal_id": 2310,
+    "url": "https://myanimelist.net/anime/2310/Chou_Kidou_Densetsu_DinaGiga",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/19534.jpg",
+    "title": "Chou Kidou Densetsu DinaGiga",
+    "title_english": "Super Mobile Legend Dinagiga",
+    "title_japanese": "超機動伝説ダイナギガ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-07-15T00:00:00+00:00",
+        "to": "1998-08-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 1998
+            },
+            "to": {
+                "day": 26,
+                "month": 8,
+                "year": 1998
+            }
+        },
+        "string": "Jul 15, 1998 to Aug 26, 1998"
+    },
+    "score": 4.97,
+    "scored_by": 377,
+    "rank": 10585,
+    "popularity": 10151,
+    "members": 1124,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

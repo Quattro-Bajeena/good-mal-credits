@@ -1,0 +1,78 @@
+{
+    "mal_id": 2127,
+    "url": "https://myanimelist.net/character/2127/Giran",
+    "name": "Giran",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/45207.jpg",
+    "animeography": [
+        {
+            "mal_id": 223,
+            "name": "Dragon Ball",
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=cb01725131e0f95825c49acdbc66d426",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 813,
+            "name": "Dragon Ball Z",
+            "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=ea5b28e879ab9f9502487e014a997c57",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 22777,
+            "name": "Dragon Ball Kai (2014)",
+            "url": "https://myanimelist.net/anime/22777/Dragon_Ball_Kai_2014",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/59275.jpg?s=9ef146bafcd67bed7bb85fc924ec7a91",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 42,
+            "name": "Dragon Ball",
+            "url": "https://myanimelist.net/manga/42/Dragon_Ball",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/54545.jpg?s=9be9961e38559ad41de31abeed6471bc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 23446,
+            "name": "Dragon Ball SD",
+            "url": "https://myanimelist.net/manga/23446/Dragon_Ball_SD",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/135399.jpg?s=e38417cc05ac9b9bff34f9cead4b95d1",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 330,
+            "name": "Ginga, Banjou",
+            "url": "https://myanimelist.net/people/330/Banjou_Ginga",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/44678.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1345,
+            "name": "Chandler, Andrew",
+            "url": "https://myanimelist.net/people/1345/Andrew_Chandler",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/20725.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 39446,
+            "name": "Castro, Mauro",
+            "url": "https://myanimelist.net/people/39446/Mauro_Castro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41109.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

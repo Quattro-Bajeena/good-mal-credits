@@ -1,0 +1,44 @@
+{
+    "mal_id": 14713,
+    "url": "https://myanimelist.net/anime/14713/Kamisama_Hajimemashita",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/85429.jpg",
+    "title": "Kamisama Hajimemashita",
+    "title_english": "Kamisama Kiss",
+    "title_japanese": "神様はじめました",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-02T00:00:00+00:00",
+        "to": "2012-12-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": 25,
+                "month": 12,
+                "year": 2012
+            }
+        },
+        "string": "Oct 2, 2012 to Dec 25, 2012"
+    },
+    "score": 8.04,
+    "scored_by": 218650,
+    "rank": 495,
+    "popularity": 298,
+    "members": 430568,
+    "favorites": 10178,
+    "premiered": "Fall 2012",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

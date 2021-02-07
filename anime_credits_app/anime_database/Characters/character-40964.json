@@ -1,0 +1,49 @@
+{
+    "mal_id": 40964,
+    "url": "https://myanimelist.net/character/40964/Souichirou_Mikuni",
+    "name": "Souichirou Mikuni",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 44,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/120117.jpg",
+    "animeography": [
+        {
+            "mal_id": 10163,
+            "name": "C: The Money of Soul and Possibility Control",
+            "url": "https://myanimelist.net/anime/10163/C__The_Money_of_Soul_and_Possibility_Control",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/50551.jpg?s=792c615ced5a9d9d0f35fbd8e5115c80",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11269,
+            "name": "Hosomi, Daisuke",
+            "url": "https://myanimelist.net/people/11269/Daisuke_Hosomi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/11475.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14827,
+            "name": "Seong, Wan Gyeong",
+            "url": "https://myanimelist.net/people/14827/Wan_Gyeong_Seong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18717.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 36269,
+            "name": "Dutel, Julien",
+            "url": "https://myanimelist.net/people/36269/Julien_Dutel",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49221.jpg",
+            "language": "French"
+        }
+    ]
+}

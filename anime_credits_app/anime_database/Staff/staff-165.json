@@ -1,0 +1,555 @@
+{
+    "mal_id": 165,
+    "staff": [
+        {
+            "mal_id": 6497,
+            "url": "https://myanimelist.net/people/6497/Matt_Greenfield",
+            "name": "Greenfield, Matt",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/10086.jpg?s=e2d375e61f5738fb82162c81b4782ee7",
+            "positions": [
+                "Producer",
+                "Script",
+                "ADR Director"
+            ]
+        },
+        {
+            "mal_id": 6519,
+            "url": "https://myanimelist.net/people/6519/Masahiko_Minami",
+            "name": "Minami, Masahiko",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39506.jpg?s=5923ba65357bfe5ddc10cd468bc991e5",
+            "positions": [
+                "Producer"
+            ]
+        },
+        {
+            "mal_id": 9326,
+            "url": "https://myanimelist.net/people/9326/Shirou_Sasaki",
+            "name": "Sasaki, Shirou",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Producer"
+            ]
+        },
+        {
+            "mal_id": 4075,
+            "url": "https://myanimelist.net/people/4075/Yutaka_Izubuchi",
+            "name": "Izubuchi, Yutaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/25789.jpg?s=398a69ba9d77dec2d8926de6601afa8a",
+            "positions": [
+                "Director",
+                "Script",
+                "Storyboard",
+                "Creator",
+                "Screenplay",
+                "Mechanical Design"
+            ]
+        },
+        {
+            "mal_id": 7194,
+            "url": "https://myanimelist.net/people/7194/Youta_Tsuruoka",
+            "name": "Tsuruoka, Youta",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54363.jpg?s=e9397021c644288d39561c1c734a0352",
+            "positions": [
+                "Sound Director"
+            ]
+        },
+        {
+            "mal_id": 6518,
+            "url": "https://myanimelist.net/people/6518/Masahiro_Andou",
+            "name": "Andou, Masahiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54559.jpg?s=95fb5b9f2c788018da597b044fbb3e4c",
+            "positions": [
+                "Episode Director",
+                "Storyboard"
+            ]
+        },
+        {
+            "mal_id": 5151,
+            "url": "https://myanimelist.net/people/5151/Mitsuo_Iso",
+            "name": "Iso, Mitsuo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/14013.jpg?s=0d4fbf53757dd648e0a10d7acdaec390",
+            "positions": [
+                "Episode Director",
+                "Script",
+                "Storyboard",
+                "In-Between Animation",
+                "Special Effects",
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 9856,
+            "url": "https://myanimelist.net/people/9856/Susumu_Kudou",
+            "name": "Kudou, Susumu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/35477.jpg?s=80fac79cee2ac2af6fee2fb34872c8f2",
+            "positions": [
+                "Episode Director"
+            ]
+        },
+        {
+            "mal_id": 6389,
+            "url": "https://myanimelist.net/people/6389/Souichi_Masui",
+            "name": "Masui, Souichi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43899.jpg?s=9174ff7121c341b84609cdc29380c6e7",
+            "positions": [
+                "Episode Director",
+                "Animation Check"
+            ]
+        },
+        {
+            "mal_id": 12352,
+            "url": "https://myanimelist.net/people/12352/Akitoshi_Yokoyama",
+            "name": "Yokoyama, Akitoshi",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Episode Director",
+                "Storyboard",
+                "Key Animation",
+                "Assistant Animation Director"
+            ]
+        },
+        {
+            "mal_id": 6490,
+            "url": "https://myanimelist.net/people/6490/Shou_Aikawa",
+            "name": "Aikawa, Shou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40965.jpg?s=cb19c513472da6de7370f9b722cf8183",
+            "positions": [
+                "Script"
+            ]
+        },
+        {
+            "mal_id": 3067,
+            "url": "https://myanimelist.net/people/3067/Ichirou_Ookouchi",
+            "name": "Ookouchi, Ichirou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/43160.jpg?s=3ff5b9ae27f3ef374a1cd4bab4a056e3",
+            "positions": [
+                "Script",
+                "Series Composition"
+            ]
+        },
+        {
+            "mal_id": 2701,
+            "url": "https://myanimelist.net/people/2701/Hiroshi_Oonogi",
+            "name": "Oonogi, Hiroshi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39180.jpg?s=08a215e784f0031c4266850dcd5691d8",
+            "positions": [
+                "Script"
+            ]
+        },
+        {
+            "mal_id": 39440,
+            "url": "https://myanimelist.net/people/39440/Fumihiko_Takayama",
+            "name": "Takayama, Fumihiko",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/44735.jpg?s=ec1d64505f5a4cd11237723e971a9e57",
+            "positions": [
+                "Script",
+                "Series Composition"
+            ]
+        },
+        {
+            "mal_id": 2501,
+            "url": "https://myanimelist.net/people/2501/Shoji_Kawamori",
+            "name": "Kawamori, Shoji",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/20337.jpg?s=eb2f9acba46312f9d0042794bf9064e0",
+            "positions": [
+                "Storyboard"
+            ]
+        },
+        {
+            "mal_id": 2762,
+            "url": "https://myanimelist.net/people/2762/Tensai_Okamura",
+            "name": "Okamura, Tensai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/43615.jpg?s=a3f0fe76f30c48d78de20220a960f17d",
+            "positions": [
+                "Storyboard"
+            ]
+        },
+        {
+            "mal_id": 508,
+            "url": "https://myanimelist.net/people/508/Yoko_Kanno",
+            "name": "Kanno, Yoko",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/24673.jpg?s=17962c37fc1480afe6068f365493b3be",
+            "positions": [
+                "Theme Song Composition"
+            ]
+        },
+        {
+            "mal_id": 90,
+            "url": "https://myanimelist.net/people/90/Maaya_Sakamoto",
+            "name": "Sakamoto, Maaya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/57912.jpg?s=d071040a2c0d703b8447811f8ab37b7e",
+            "positions": [
+                "Theme Song Performance"
+            ]
+        },
+        {
+            "mal_id": 27397,
+            "url": "https://myanimelist.net/people/27397/Misao_Abe",
+            "name": "Abe, Misao",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 34457,
+            "url": "https://myanimelist.net/people/34457/Toshiko_Baba",
+            "name": "Baba, Toshiko",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 5062,
+            "url": "https://myanimelist.net/people/5062/Youji_Enokido",
+            "name": "Enokido, Youji",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/32721.jpg?s=75d237e5719308108b67dec2bafd7e11",
+            "positions": [
+                "Screenplay"
+            ]
+        },
+        {
+            "mal_id": 40130,
+            "url": "https://myanimelist.net/people/40130/Masami_Gotou",
+            "name": "Gotou, Masami",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "2nd Key Animation"
+            ]
+        },
+        {
+            "mal_id": 13747,
+            "url": "https://myanimelist.net/people/13747/Kouji_Haneda",
+            "name": "Haneda, Kouji",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 19982,
+            "url": "https://myanimelist.net/people/19982/Katsuhiro_Hashi",
+            "name": "Hashi, Katsuhiro",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Background Art"
+            ]
+        },
+        {
+            "mal_id": 6330,
+            "url": "https://myanimelist.net/people/6330/Ichiko_Hashimoto",
+            "name": "Hashimoto, Ichiko",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/20287.jpg?s=dec03a14515f8bd700115e3ac6e7a217",
+            "positions": [
+                "Music"
+            ]
+        },
+        {
+            "mal_id": 46727,
+            "url": "https://myanimelist.net/people/46727/Hideki_Hashimoto",
+            "name": "Hashimoto, Hideki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 34991,
+            "url": "https://myanimelist.net/people/34991/Junichi_Higashi",
+            "name": "Higashi, Junichi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39684.jpg?s=134f7a5ec1a3a7d2d29fdcdc6b005284",
+            "positions": [
+                "Art Director"
+            ]
+        },
+        {
+            "mal_id": 8303,
+            "url": "https://myanimelist.net/people/8303/Takeshi_Honda",
+            "name": "Honda, Takeshi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54580.jpg?s=7cf3d9870cc70d9c5def21d4e84380d2",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 46637,
+            "url": "https://myanimelist.net/people/46637/Ai_Ishimori",
+            "name": "Ishimori, Ai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/50397.jpg?s=222f41917c13f4e7146d7333af22deb6",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 37760,
+            "url": "https://myanimelist.net/people/37760/Yoshio_Kajiwara",
+            "name": "Kajiwara, Yoshio",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Background Art"
+            ]
+        },
+        {
+            "mal_id": 40117,
+            "url": "https://myanimelist.net/people/40117/Shuuichi_Kaneko",
+            "name": "Kaneko, Shuuichi",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Special Effects",
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 39484,
+            "url": "https://myanimelist.net/people/39484/Hiroki_Kanno",
+            "name": "Kanno, Hiroki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Animation Director",
+                "Character Design",
+                "Key Animation",
+                "Assistant Animation Director"
+            ]
+        },
+        {
+            "mal_id": 8531,
+            "url": "https://myanimelist.net/people/8531/Toshihiro_Kawamoto",
+            "name": "Kawamoto, Toshihiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/6758.jpg?s=9908d71498edcdde9f3d4c6842f6042f",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 47300,
+            "url": "https://myanimelist.net/people/47300/Masakazu_Kawazoe",
+            "name": "Kawazoe, Masakazu",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 18875,
+            "url": "https://myanimelist.net/people/18875/Thierry_Kazazian",
+            "name": "Kazazian, Thierry",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/30931.jpg?s=59e20145d0f9baa45277cb9b75bdcb9b",
+            "positions": [
+                "ADR Director"
+            ]
+        },
+        {
+            "mal_id": 41533,
+            "url": "https://myanimelist.net/people/41533/Eiji_Komatsu",
+            "name": "Komatsu, Eiji",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 6160,
+            "url": "https://myanimelist.net/people/6160/Chiaki_Konaka",
+            "name": "Konaka, Chiaki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54404.jpg?s=a2ca889d922e1e70755776dd734a794e",
+            "positions": [
+                "Screenplay"
+            ]
+        },
+        {
+            "mal_id": 12701,
+            "url": "https://myanimelist.net/people/12701/Toshiyuki_Kubooka",
+            "name": "Kubooka, Toshiyuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/22207.jpg?s=1afd60ef293e02ebd2aa6d74334b7a26",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 14305,
+            "url": "https://myanimelist.net/people/14305/Shizuo_Kurahashi",
+            "name": "Kurahashi, Shizuo",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Sound Effects"
+            ]
+        },
+        {
+            "mal_id": 20142,
+            "url": "https://myanimelist.net/people/20142/Ikuo_Kuwana",
+            "name": "Kuwana, Ikuo",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Animation Director"
+            ]
+        },
+        {
+            "mal_id": 34061,
+            "url": "https://myanimelist.net/people/34061/Sadako_Minamisawa",
+            "name": "Minamisawa, Sadako",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Background Art"
+            ]
+        },
+        {
+            "mal_id": 25461,
+            "url": "https://myanimelist.net/people/25461/Yoshihiro_Nagamori",
+            "name": "Nagamori, Yoshihiro",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 6801,
+            "url": "https://myanimelist.net/people/6801/Yutaka_Nakamura",
+            "name": "Nakamura, Yutaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12115.jpg?s=aff3acb03b238a001c68233cda5c85d4",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 38905,
+            "url": "https://myanimelist.net/people/38905/Shihoko_Nakayama",
+            "name": "Nakayama, Shihoko",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Color Design"
+            ]
+        },
+        {
+            "mal_id": 12847,
+            "url": "https://myanimelist.net/people/12847/Nobutoshi_Ogura",
+            "name": "Ogura, Nobutoshi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/13161.jpg?s=4a95ca3a17a301c76d772eef88db271c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 38681,
+            "url": "https://myanimelist.net/people/38681/Ken_Ootsuka",
+            "name": "Ootsuka, Ken",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/57904.jpg?s=77955a24277020af709dbc2fe64798a5",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 17295,
+            "url": "https://myanimelist.net/people/17295/Tsunenori_Saitou",
+            "name": "Saitou, Tsunenori",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Assistant Animation Director",
+                "Special Effects",
+                "Animation Director",
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 41345,
+            "url": "https://myanimelist.net/people/41345/Masayuki_Satou",
+            "name": "Satou, Masayuki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 39433,
+            "url": "https://myanimelist.net/people/39433/Hideki_Takahashi",
+            "name": "Takahashi, Hideki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 29527,
+            "url": "https://myanimelist.net/people/29527/Takashi_Tomioka",
+            "name": "Tomioka, Takashi",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Animation Director",
+                "Assistant Animation Director",
+                "2nd Key Animation"
+            ]
+        },
+        {
+            "mal_id": 9618,
+            "url": "https://myanimelist.net/people/9618/Richard_Wagner",
+            "name": "Wagner, Richard",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/7158.jpg?s=a947d31dad7f091b7ef9a285d33528b9",
+            "positions": [
+                "Music"
+            ]
+        },
+        {
+            "mal_id": 5954,
+            "url": "https://myanimelist.net/people/5954/Keisuke_Watabe",
+            "name": "Watabe, Keisuke",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 7449,
+            "url": "https://myanimelist.net/people/7449/Akihiro_Yamada",
+            "name": "Yamada, Akihiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/4467.jpg?s=15da995a97a0443b66f127f6d2fb16e4",
+            "positions": [
+                "Character Design"
+            ]
+        },
+        {
+            "mal_id": 24705,
+            "url": "https://myanimelist.net/people/24705/Shigeyuki_Yamamori",
+            "name": "Yamamori, Shigeyuki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Editing"
+            ]
+        },
+        {
+            "mal_id": 11476,
+            "url": "https://myanimelist.net/people/11476/Kimitoshi_Yamane",
+            "name": "Yamane, Kimitoshi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/35559.jpg?s=68f6f4d4ff38b56bf8cc5cc363239534",
+            "positions": [
+                "Mechanical Design"
+            ]
+        },
+        {
+            "mal_id": 44035,
+            "url": "https://myanimelist.net/people/44035/Masahito_Yamashita",
+            "name": "Yamashita, Masahito",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 17999,
+            "url": "https://myanimelist.net/people/17999/Yuu_Yamashita",
+            "name": "Yamashita, Yuu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/21819.jpg?s=637101145967873ab862d63f3b8bac75",
+            "positions": [
+                "Key Animation"
+            ]
+        },
+        {
+            "mal_id": 40958,
+            "url": "https://myanimelist.net/people/40958/Takuji_Yoshimoto",
+            "name": "Yoshimoto, Takuji",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Key Animation"
+            ]
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 
 html{
     font-family: Arial, Helvetica, sans-serif;
+    
     font-size: 1em;
 }
 
@@ -8,13 +9,113 @@ body {
     margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
-    background-color: #f4f6fa;
+    background-color: white;
     
     /* margin: 20px 15% 20px 15%; */
-    width: 1300px;
+    width: 1500px;
 }
 
 
-#mainBlock{
+#searchBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: center;
+
+    background-color: rgb(156, 27, 53);
+    
+    
+    height: 80px;
+
+    border-radius: 10px;
+    overflow: hidden;
+
+    
+}
+
+#searchBox label {
+    display: flex;
+    align-items: center;
 
 }
+
+#searchBox label input[type="radio"]{
+    display: none;
+    visibility: hidden;
+    size: 0;
+    
+}
+
+#searchBox label input[type="radio"]:checked + span{
+    background-color: red;
+    
+}
+
+#searchBox label span{
+    background-color:darkred;
+    color: antiquewhite;
+    font-size: 1.5em;
+    padding: 15px;
+    margin: 0px 5px;
+
+    border-radius: 10px;
+    overflow: hidden;
+
+
+}
+
+#searchBox label span:hover{
+    /* color:rgb(83, 36, 28); */
+    background-color:rgb(184, 71, 63);
+}
+
+
+
+#searchBox #searchBar{
+    width: 800px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    height: max-content;
+
+
+}
+
+#searchBox #searchBar input{
+    flex-grow: 1;
+
+    padding: 0;
+    
+    border: 0;
+    height: 50px;
+    font-size: 1.5em;
+
+}
+
+
+
+#searchBox #searchBar button{
+    background-color: lightgray;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/55/Magnifying_glass_icon.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 40px;
+
+    width: 50px;
+    height: 50px;
+    border: none;
+    cursor: pointer; 
+}
+
+#searchBox #searchBar button:hover{
+    
+    background-color: rgb(170, 150, 150);
+    
+}
+
+

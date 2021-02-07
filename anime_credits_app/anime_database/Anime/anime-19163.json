@@ -1,0 +1,44 @@
+{
+    "mal_id": 19163,
+    "url": "https://myanimelist.net/anime/19163/Date_A_Live_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/76003.jpg",
+    "title": "Date A Live II",
+    "title_english": "Date A Live II",
+    "title_japanese": "デート・ア・ライブⅡ",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-12T00:00:00+00:00",
+        "to": "2014-06-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 14,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 12, 2014 to Jun 14, 2014"
+    },
+    "score": 7.24,
+    "scored_by": 265727,
+    "rank": 2597,
+    "popularity": 291,
+    "members": 443425,
+    "favorites": 3024,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 1053,
+            "type": "anime",
+            "name": "Production IMS",
+            "url": "https://myanimelist.net/anime/producer/1053/Production_IMS"
+        }
+    ]
+}

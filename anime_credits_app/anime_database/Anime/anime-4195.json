@@ -1,0 +1,44 @@
+{
+    "mal_id": 4195,
+    "url": "https://myanimelist.net/anime/4195/Kodomo_no_Jikan__Ni_Gakki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/39447.jpg",
+    "title": "Kodomo no Jikan: Ni Gakki",
+    "title_english": null,
+    "title_japanese": "こどものじかん 2学期",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-02-20T00:00:00+00:00",
+        "to": "2009-07-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 2,
+                "year": 2009
+            },
+            "to": {
+                "day": 24,
+                "month": 7,
+                "year": 2009
+            }
+        },
+        "string": "Feb 20, 2009 to Jul 24, 2009"
+    },
+    "score": 7.11,
+    "scored_by": 15383,
+    "rank": 3173,
+    "popularity": 3039,
+    "members": 28497,
+    "favorites": 33,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 51,
+            "type": "anime",
+            "name": "Diomedéa",
+            "url": "https://myanimelist.net/anime/producer/51/Diomed%C3%A9a"
+        }
+    ]
+}

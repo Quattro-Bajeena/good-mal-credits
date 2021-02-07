@@ -1,0 +1,57 @@
+{
+    "mal_id": 30594,
+    "url": "https://myanimelist.net/character/30594/Alphonse_Medici_Borgiani",
+    "name": "Alphonse Medici Borgiani",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 6,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/85009.jpg",
+    "animeography": [
+        {
+            "mal_id": 6747,
+            "name": "Dance in the Vampire Bund",
+            "url": "https://myanimelist.net/anime/6747/Dance_in_the_Vampire_Bund",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/23561.jpg?s=33fce455b26017a9235ec3a7cd4189f2",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 7627,
+            "name": "Dance in the Vampire Bund",
+            "url": "https://myanimelist.net/manga/7627/Dance_in_the_Vampire_Bund",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/10431.jpg?s=a8ad727949ede010a9e45b630d47381d",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1122,
+            "name": "Kuroda, Takaya",
+            "url": "https://myanimelist.net/people/1122/Takaya_Kuroda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/43530.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 28363,
+            "name": "Koch, Michael-Che",
+            "url": "https://myanimelist.net/people/28363/Michael-Che_Koch",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46169.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 45712,
+            "name": "Audouy, Hyppolite",
+            "url": "https://myanimelist.net/people/45712/Hyppolite_Audouy",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        }
+    ]
+}

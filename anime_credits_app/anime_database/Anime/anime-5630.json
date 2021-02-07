@@ -1,0 +1,44 @@
+{
+    "mal_id": 5630,
+    "url": "https://myanimelist.net/anime/5630/Higashi_no_Eden",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+    "title": "Higashi no Eden",
+    "title_english": "Eden of The East",
+    "title_japanese": "東のエデン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-10T00:00:00+00:00",
+        "to": "2009-06-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 19,
+                "month": 6,
+                "year": 2009
+            }
+        },
+        "string": "Apr 10, 2009 to Jun 19, 2009"
+    },
+    "score": 7.83,
+    "scored_by": 214901,
+    "rank": 781,
+    "popularity": 269,
+    "members": 460086,
+    "favorites": 4137,
+    "premiered": "Spring 2009",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

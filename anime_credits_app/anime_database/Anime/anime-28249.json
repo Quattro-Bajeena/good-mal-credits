@@ -1,0 +1,50 @@
+{
+    "mal_id": 28249,
+    "url": "https://myanimelist.net/anime/28249/Arslan_Senki_TV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/73588.jpg",
+    "title": "Arslan Senki (TV)",
+    "title_english": "The Heroic Legend of Arslan",
+    "title_japanese": "アルスラーン戦記",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-04-05T00:00:00+00:00",
+        "to": "2015-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Apr 5, 2015 to Sep 27, 2015"
+    },
+    "score": 7.71,
+    "scored_by": 130509,
+    "rank": 1000,
+    "popularity": 458,
+    "members": 302244,
+    "favorites": 1522,
+    "premiered": "Spring 2015",
+    "studios": [
+        {
+            "mal_id": 537,
+            "type": "anime",
+            "name": "SANZIGEN",
+            "url": "https://myanimelist.net/anime/producer/537/SANZIGEN"
+        },
+        {
+            "mal_id": 839,
+            "type": "anime",
+            "name": "LIDENFILMS",
+            "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+    ]
+}

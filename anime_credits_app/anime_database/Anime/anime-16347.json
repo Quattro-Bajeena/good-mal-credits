@@ -1,0 +1,44 @@
+{
+    "mal_id": 16347,
+    "url": "https://myanimelist.net/anime/16347/Usavich_V",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/54017.jpg",
+    "title": "Usavich V",
+    "title_english": "Usavich V",
+    "title_japanese": "ウサビッチ V",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-12-05T00:00:00+00:00",
+        "to": "2013-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 12,
+                "year": 2012
+            },
+            "to": {
+                "day": 12,
+                "month": 7,
+                "year": 2013
+            }
+        },
+        "string": "Dec 5, 2012 to Jul 12, 2013"
+    },
+    "score": 6.33,
+    "scored_by": 905,
+    "rank": 6744,
+    "popularity": 9203,
+    "members": 1718,
+    "favorites": 0,
+    "premiered": "Winter 2013",
+    "studios": [
+        {
+            "mal_id": 330,
+            "type": "anime",
+            "name": "Kanaban Graphics",
+            "url": "https://myanimelist.net/anime/producer/330/Kanaban_Graphics"
+        }
+    ]
+}

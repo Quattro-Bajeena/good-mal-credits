@@ -1,0 +1,35 @@
+{
+    "mal_id": 97143,
+    "url": "https://myanimelist.net/character/97143/Saint-Germain",
+    "name": " Saint-Germain",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/235323.jpg",
+    "animeography": [
+        {
+            "mal_id": 19855,
+            "name": "Nobunagun",
+            "url": "https://myanimelist.net/anime/19855/Nobunagun",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/58141.jpg?s=734c71801de5021c5492fafbbf141d56",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 68,
+            "name": "Yusa, Kouji",
+            "url": "https://myanimelist.net/people/68/Kouji_Yusa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44651.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 40028,
+    "url": "https://myanimelist.net/anime/40028/Shingeki_no_Kyojin__The_Final_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+    "title": "Shingeki no Kyojin: The Final Season",
+    "title_english": "Attack on Titan Final Season",
+    "title_japanese": "進撃の巨人 The Final Season",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 16,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "2020-12-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 12,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 7, 2020 to ?"
+    },
+    "score": 9.18,
+    "scored_by": 238661,
+    "rank": 2,
+    "popularity": 142,
+    "members": 660991,
+    "favorites": 37360,
+    "premiered": "Winter 2021",
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

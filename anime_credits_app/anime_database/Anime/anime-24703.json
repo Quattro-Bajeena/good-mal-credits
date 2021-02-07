@@ -1,0 +1,44 @@
+{
+    "mal_id": 24703,
+    "url": "https://myanimelist.net/anime/24703/High_School_DxD_BorN",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/73642.jpg",
+    "title": "High School DxD BorN",
+    "title_english": "High School DxD BorN",
+    "title_japanese": "ハイスクールD×D BorN",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-04-04T00:00:00+00:00",
+        "to": "2015-06-20T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2015
+            },
+            "to": {
+                "day": 20,
+                "month": 6,
+                "year": 2015
+            }
+        },
+        "string": "Apr 4, 2015 to Jun 20, 2015"
+    },
+    "score": 7.46,
+    "scored_by": 347198,
+    "rank": 1703,
+    "popularity": 196,
+    "members": 564702,
+    "favorites": 3921,
+    "premiered": "Spring 2015",
+    "studios": [
+        {
+            "mal_id": 120,
+            "type": "anime",
+            "name": "TNK",
+            "url": "https://myanimelist.net/anime/producer/120/TNK"
+        }
+    ]
+}

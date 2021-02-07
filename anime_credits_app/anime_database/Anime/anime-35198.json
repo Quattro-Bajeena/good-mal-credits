@@ -1,0 +1,44 @@
+{
+    "mal_id": 35198,
+    "url": "https://myanimelist.net/anime/35198/Free__Take_Your_Marks",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/87928.jpg",
+    "title": "Free!: Take Your Marks",
+    "title_english": "Free! -Take Your Marks-",
+    "title_japanese": "特別版 Free!-Take Your Marks-",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-10-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 28, 2017"
+    },
+    "score": 7.75,
+    "scored_by": 15298,
+    "rank": 930,
+    "popularity": 2343,
+    "members": 46930,
+    "favorites": 109,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Kyoto Animation",
+            "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+    ]
+}

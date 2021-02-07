@@ -1,0 +1,44 @@
+{
+    "mal_id": 5386,
+    "url": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/15118.jpg",
+    "title": "Miyamoto Musashi: Souken ni Haseru Yume",
+    "title_english": "Musashi: The Dream of the Last Samurai",
+    "title_japanese": "宮本武蔵 ―双剣に馳せる夢―",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-06-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 6,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 13, 2009"
+    },
+    "score": 6.39,
+    "scored_by": 1468,
+    "rank": 6449,
+    "popularity": 6225,
+    "members": 5442,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 23777,
+    "url": "https://myanimelist.net/anime/23777/Shingeki_no_Kyojin_Movie_2__Jiyuu_no_Tsubasa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/72510.jpg",
+    "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+    "title_english": "Attack on Titan: Wings of Freedom",
+    "title_japanese": "劇場版「進撃の巨人」後編～自由の翼～",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-06-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 27, 2015"
+    },
+    "score": 7.75,
+    "scored_by": 27341,
+    "rank": 921,
+    "popularity": 1699,
+    "members": 77896,
+    "favorites": 198,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

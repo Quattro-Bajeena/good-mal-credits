@@ -1,0 +1,44 @@
+{
+    "mal_id": 31339,
+    "url": "https://myanimelist.net/anime/31339/Drifters",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/80271.jpg",
+    "title": "Drifters",
+    "title_english": "Drifters",
+    "title_japanese": "DRIFTERS",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-10-07T00:00:00+00:00",
+        "to": "2016-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2016
+            }
+        },
+        "string": "Oct 7, 2016 to Dec 23, 2016"
+    },
+    "score": 7.94,
+    "scored_by": 195805,
+    "rank": 619,
+    "popularity": 324,
+    "members": 406969,
+    "favorites": 3072,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 1360,
+            "type": "anime",
+            "name": "Hoods Drifters Studio",
+            "url": "https://myanimelist.net/anime/producer/1360/Hoods_Drifters_Studio"
+        }
+    ]
+}

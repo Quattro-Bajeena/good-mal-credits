@@ -1,0 +1,44 @@
+{
+    "mal_id": 1571,
+    "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg",
+    "title": "Ghost Hunt",
+    "title_english": "Ghost Hunt",
+    "title_japanese": "ゴーストハント",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-04T00:00:00+00:00",
+        "to": "2007-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 4, 2006 to Mar 28, 2007"
+    },
+    "score": 7.81,
+    "scored_by": 84483,
+    "rank": 813,
+    "popularity": 758,
+    "members": 193560,
+    "favorites": 3001,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

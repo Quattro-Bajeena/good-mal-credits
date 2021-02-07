@@ -1,0 +1,45 @@
+{
+    "mal_id": 42639,
+    "url": "https://myanimelist.net/character/42639/Ataru_Kawahara",
+    "name": "Ataru Kawahara",
+    "name_kanji": null,
+    "nicknames": [
+        "Acchan"
+    ],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/232741.jpg",
+    "animeography": [
+        {
+            "mal_id": 20031,
+            "name": "D-Frag!",
+            "url": "https://myanimelist.net/anime/20031/D-Frag",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/53407.jpg?s=155820fc29b0a4c01424e4920345f7f4",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 14721,
+            "name": "D-Frag!",
+            "url": "https://myanimelist.net/manga/14721/D-Frag",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/188780.jpg?s=e4cbac6ae5823c9b5bc31c8731ffefe0",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 86,
+            "name": "Fukuyama, Jun",
+            "url": "https://myanimelist.net/people/86/Jun_Fukuyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60810.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

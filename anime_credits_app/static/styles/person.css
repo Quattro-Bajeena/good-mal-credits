@@ -1,7 +1,11 @@
 
-#mainBlock{
+/* .mainBlock{
     display: grid;
-    grid-template-columns: 200px auto;
+    grid-template-columns: min-content auto;
     grid-auto-flow: column;
 
 }
+
+.personInfo{
+
+} */

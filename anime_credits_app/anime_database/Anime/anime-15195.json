@@ -1,0 +1,44 @@
+{
+    "mal_id": 15195,
+    "url": "https://myanimelist.net/anime/15195/Hetalia__The_Beautiful_World",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/46073.jpg",
+    "title": "Hetalia: The Beautiful World",
+    "title_english": "Hetalia: The Beautiful World",
+    "title_japanese": "ヘタリア The Beautiful World",
+    "type": "ONA",
+    "source": "Web manga",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-01-25T00:00:00+00:00",
+        "to": "2013-06-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Jan 25, 2013 to Jun 21, 2013"
+    },
+    "score": 7.54,
+    "scored_by": 28009,
+    "rank": 1451,
+    "popularity": 1978,
+    "members": 60899,
+    "favorites": 754,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

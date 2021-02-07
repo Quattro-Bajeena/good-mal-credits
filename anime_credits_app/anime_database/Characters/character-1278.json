@@ -1,0 +1,57 @@
+{
+    "mal_id": 1278,
+    "url": "https://myanimelist.net/character/1278/Lin_Koujo",
+    "name": "Lin Koujo",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 114,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/30455.jpg",
+    "animeography": [
+        {
+            "mal_id": 1571,
+            "name": "Ghost Hunt",
+            "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg?s=2a4d5c791ef4d7c5d0b60c0deeef864c",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 158,
+            "name": "Ghost Hunt",
+            "url": "https://myanimelist.net/manga/158/Ghost_Hunt",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/181311.jpg?s=244aef6bfa4caa66dc3c1f5f835b4e97",
+            "role": "Main"
+        },
+        {
+            "mal_id": 14269,
+            "name": "Akuryou Series",
+            "url": "https://myanimelist.net/manga/14269/Akuryou_Series",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/28683.jpg?s=db1a49b9e2298f6d3e46adf1f10de536",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 41697,
+            "name": "Ghost Hunt: Akumu no Sumu Ie",
+            "url": "https://myanimelist.net/manga/41697/Ghost_Hunt__Akumu_no_Sumu_Ie",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/181307.jpg?s=e8a11cc7032469de500ead28d59c6d0c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 109,
+            "name": "Narita, Ken",
+            "url": "https://myanimelist.net/people/109/Ken_Narita",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/25305.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

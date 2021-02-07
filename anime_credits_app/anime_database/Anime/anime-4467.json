@@ -1,0 +1,44 @@
+{
+    "mal_id": 4467,
+    "url": "https://myanimelist.net/anime/4467/Universe",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/8532.jpg",
+    "title": "Universe",
+    "title_english": null,
+    "title_japanese": "ユニバース",
+    "type": "Music",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2007"
+    },
+    "score": 6.51,
+    "scored_by": 1119,
+    "rank": 5833,
+    "popularity": 8890,
+    "members": 1928,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

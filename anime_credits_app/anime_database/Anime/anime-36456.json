@@ -1,0 +1,44 @@
+{
+    "mal_id": 36456,
+    "url": "https://myanimelist.net/anime/36456/Boku_no_Hero_Academia_3rd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "title": "Boku no Hero Academia 3rd Season",
+    "title_english": "My Hero Academia 3",
+    "title_japanese": "僕のヒーローアカデミア",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-04-07T00:00:00+00:00",
+        "to": "2018-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2018
+            }
+        },
+        "string": "Apr 7, 2018 to Sep 29, 2018"
+    },
+    "score": 8.26,
+    "scored_by": 816630,
+    "rank": 254,
+    "popularity": 31,
+    "members": 1318210,
+    "favorites": 13508,
+    "premiered": "Spring 2018",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

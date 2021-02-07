@@ -1,0 +1,44 @@
+{
+    "mal_id": 28623,
+    "url": "https://myanimelist.net/anime/28623/Koutetsujou_no_Kabaneri",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/79164.jpg",
+    "title": "Koutetsujou no Kabaneri",
+    "title_english": "Kabaneri of the Iron Fortress",
+    "title_japanese": "甲鉄城のカバネリ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-04-08T00:00:00+00:00",
+        "to": "2016-07-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": 1,
+                "month": 7,
+                "year": 2016
+            }
+        },
+        "string": "Apr 8, 2016 to Jul 1, 2016"
+    },
+    "score": 7.26,
+    "scored_by": 313146,
+    "rank": 2533,
+    "popularity": 181,
+    "members": 590345,
+    "favorites": 2757,
+    "premiered": "Spring 2016",
+    "studios": [
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

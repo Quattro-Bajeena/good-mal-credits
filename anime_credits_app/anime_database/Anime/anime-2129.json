@@ -1,0 +1,44 @@
+{
+    "mal_id": 2129,
+    "url": "https://myanimelist.net/anime/2129/True_Tears",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/18578.jpg",
+    "title": "True Tears",
+    "title_english": "True Tears",
+    "title_japanese": "true tears",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-01-06T00:00:00+00:00",
+        "to": "2008-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2008
+            }
+        },
+        "string": "Jan 6, 2008 to Mar 30, 2008"
+    },
+    "score": 7.36,
+    "scored_by": 87004,
+    "rank": 2091,
+    "popularity": 807,
+    "members": 182824,
+    "favorites": 926,
+    "premiered": "Winter 2008",
+    "studios": [
+        {
+            "mal_id": 132,
+            "type": "anime",
+            "name": "P.A. Works",
+            "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+        }
+    ]
+}

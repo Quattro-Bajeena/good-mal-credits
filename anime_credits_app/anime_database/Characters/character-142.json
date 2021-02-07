@@ -1,0 +1,85 @@
+{
+    "mal_id": 142,
+    "url": "https://myanimelist.net/character/142/Komui_Lee",
+    "name": "Komui Lee",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 315,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/74738.jpg",
+    "animeography": [
+        {
+            "mal_id": 1482,
+            "name": "D.Gray-man",
+            "url": "https://myanimelist.net/anime/1482/DGray-man",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg?s=87611631a62dd77169b716e6ef2f4b3f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32370,
+            "name": "D.Gray-man Hallow",
+            "url": "https://myanimelist.net/anime/32370/DGray-man_Hallow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/80766.jpg?s=63f5c8054b7b229a027fe22748ecfb26",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 24,
+            "name": "D.Gray-man",
+            "url": "https://myanimelist.net/manga/24/DGray-man",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/28084.jpg?s=f748aa4ff3a0153e7f1f116574c70beb",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 20,
+            "name": "Konishi, Katsuyuki",
+            "url": "https://myanimelist.net/people/20/Katsuyuki_Konishi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42160.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 527,
+            "name": "Inoue, Gou",
+            "url": "https://myanimelist.net/people/527/Gou_Inoue",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/16797.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7868,
+            "name": "Maday, Gábor",
+            "url": "https://myanimelist.net/people/7868/Gábor_Maday",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5128.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 9908,
+            "name": "Moreau, Mathieu",
+            "url": "https://myanimelist.net/people/9908/Mathieu_Moreau",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28823.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 14829,
+            "name": "Kim, Il",
+            "url": "https://myanimelist.net/people/14829/Il_Kim",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15757.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 44937,
+            "name": "Draeger, Sascha",
+            "url": "https://myanimelist.net/people/44937/Sascha_Draeger",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48319.jpg",
+            "language": "German"
+        }
+    ]
+}

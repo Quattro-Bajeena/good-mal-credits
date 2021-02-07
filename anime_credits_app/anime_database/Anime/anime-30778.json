@@ -1,0 +1,44 @@
+{
+    "mal_id": 30778,
+    "url": "https://myanimelist.net/anime/30778/Fairy_Tail_Movie_2__Dragon_Cry",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/85391.jpg",
+    "title": "Fairy Tail Movie 2: Dragon Cry",
+    "title_english": null,
+    "title_japanese": "劇場版 FAIRY TAIL 『DRAGON CRY』",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-05-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 5,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 6, 2017"
+    },
+    "score": 7.53,
+    "scored_by": 62632,
+    "rank": 1494,
+    "popularity": 1130,
+    "members": 129823,
+    "favorites": 760,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

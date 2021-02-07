@@ -1,0 +1,44 @@
+{
+    "mal_id": 6033,
+    "url": "https://myanimelist.net/anime/6033/Dragon_Ball_Kai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/14065.jpg",
+    "title": "Dragon Ball Kai",
+    "title_english": "Dragon Ball Z Kai",
+    "title_japanese": "ドラゴンボール改",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 97,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-05T00:00:00+00:00",
+        "to": "2011-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2011
+            }
+        },
+        "string": "Apr 5, 2009 to Mar 27, 2011"
+    },
+    "score": 7.73,
+    "scored_by": 156528,
+    "rank": 966,
+    "popularity": 532,
+    "members": 265957,
+    "favorites": 2619,
+    "premiered": "Spring 2009",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

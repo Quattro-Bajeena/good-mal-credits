@@ -1,0 +1,43 @@
+{
+    "mal_id": 146551,
+    "url": "https://myanimelist.net/character/146551/Sekito_Kirishima",
+    "name": "Sekito Kirishima",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/323009.jpg",
+    "animeography": [
+        {
+            "mal_id": 31588,
+            "name": "All Out!!",
+            "url": "https://myanimelist.net/anime/31588/All_Out",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/78649.jpg?s=492d3e6e4a54ecdfd6b2154b75d6816a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 70739,
+            "name": "All Out!!",
+            "url": "https://myanimelist.net/manga/70739/All_Out",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/124809.jpg?s=28169129212dfba36cc34438ffad99b5",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 26705,
+            "name": "Kobayashi, Yuusuke",
+            "url": "https://myanimelist.net/people/26705/Yuusuke_Kobayashi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53729.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

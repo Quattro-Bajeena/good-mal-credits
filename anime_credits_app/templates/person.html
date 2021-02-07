@@ -2,6 +2,11 @@
 
 {% block head %}
 <title>gMs - {{person.name}}</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_page.css')}}">
 <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/person.css')}}">
 {% endblock %}
 
@@ -9,41 +14,41 @@
 
 {% block main %}
 
-<div class="personInfo" class="infoSection">
+<div class="personInfo infoSection">
     <img class="mainImage" src={{person.image_url}}>
     <p><b>Name: </b>{{person.name}} </p>
     <p><b>Birthday: </b>{{person.birthday | format_date}} </p>
+    <p><a href={{person.url}} target="_blank">MAL link</a></p>
     <br>
 </div>
 
-<hr>
-<div class="personTables">
+<div class="tableSection">
 {% if len(person.staff_credits) > 0 %}
 
 <table id="personCreditsTable" class="contentTable">
-    <thead class="contentTableHead">
+    <thead>
         <tr>
             <th></th>
-            <th class="sortableColHeader">title</th>
-            <th class="sortableColHeader">position</th>
+            <th class="sortableColHeader">TITLE</th>
+            <th class="sortableColHeader">POSITION</th>
 
-            <th class="sortableColHeader">members</th>
-            <th class="sortableColHeader">popularity</th>
+            <th class="sortableColHeader">MEMBERS</th>
+            <th class="sortableColHeader">POPULARITY</th>
 
-            <th class="sortableColHeader">score</th>
-            <th class="sortableColHeader">rank</th>
+            <th class="sortableColHeader">SCORE</th>
+            <th class="sortableColHeader">RANK</th>
 
-            <th class="sortableColHeader">aired</th>
-            <th class="sortableColHeader">age when aired</th>
+            <th class="sortableColHeader">AIRED</th>
+            <th class="sortableColHeader">AGE WHEN AIRED</th>
 
         </tr>
     </thead>
 
 
-    <tbody class="contentTableBody">
+    <tbody>
         {% for credit in person.staff_credits %}
         <tr>
-            <td><img class="tableImage" src={{credit.anime.image_url}}></td>
+            <td class="imageCell"><img class="tableImage" src={{credit.anime.image_url}}></td>
             <td><a href={{url_for('anime_staff', mal_id=credit.anime.mal_id)}} >{{credit.anime.title}}</a></td>
             <td>{{credit.position}}</td>
 
@@ -63,11 +68,12 @@
     
 </table>
 
-<hr>
 
 {% else %}
 <p><b>No anime staff credits</b></p>
 {% endif %}
+
+
 
 {% if len(person.voice_acting_roles) > 0 %}
 
@@ -75,20 +81,20 @@
     <thead class="contentTableHead">
         <tr>
             <th></th>
-            <th class="sortableColHeader">anime</th>
+            <th class="sortableColHeader">ANIME</th>
 
             <th></th>
-            <th class="sortableColHeader">character</th>
-            <th class="sortableColHeader">character favourites</th>
+            <th class="sortableColHeader">CHARACTER</th>
+            <th class="sortableColHeader">CHARACTER FAVOURITES</th>
 
-            <th class="sortableColHeader">anime members</th>
-            <th class="sortableColHeader">popularity</th>
+            <th class="sortableColHeader">ANIME MEMBERS</th>
+            <th class="sortableColHeader">POPULARITY</th>
 
-            <th class="sortableColHeader">score</th>
-            <th class="sortableColHeader">rank</th>
+            <th class="sortableColHeader">SCORE</th>
+            <th class="sortableColHeader">RANK</th>
             
-            <th class="sortableColHeader">aired</th>
-            <th class="sortableColHeader">age when aired</th>
+            <th class="sortableColHeader">AIRED</th>
+            <th class="sortableColHeader">AGE WHEN AIRED</th>
             
         </tr>
     </thead>
@@ -98,9 +104,9 @@
         {% for role in person.voice_acting_roles %}
 
         <tr>
-            <td><img class="tableImage" src={{role.anime.image_url}} ></td>
+            <td class="imageCell"><img class="tableImage" src={{role.anime.image_url}} ></td>
             <td><a href="{{url_for('anime_staff', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
-            <td><img class="tableImage" src={{role.character.image_url}} ></td>
+            <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites}}</td>
 

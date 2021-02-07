@@ -1,0 +1,44 @@
+{
+    "mal_id": 2589,
+    "url": "https://myanimelist.net/anime/2589/Black_Cat_TV__Toozakaru_Neko",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/22527.jpg",
+    "title": "Black Cat (TV): Toozakaru Neko",
+    "title_english": null,
+    "title_japanese": "ブラックキャット 第14.5話 遠ざかる猫",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-07-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 7,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 26, 2006"
+    },
+    "score": 7.14,
+    "scored_by": 8755,
+    "rank": 3018,
+    "popularity": 3671,
+    "members": 19731,
+    "favorites": 34,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

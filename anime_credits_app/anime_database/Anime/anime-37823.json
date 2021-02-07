@@ -1,0 +1,44 @@
+{
+    "mal_id": 37823,
+    "url": "https://myanimelist.net/anime/37823/Conception",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1849/95019.jpg",
+    "title": "Conception",
+    "title_english": null,
+    "title_japanese": "CONCEPTION（コンセプション）",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-10T00:00:00+00:00",
+        "to": "2018-12-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 26,
+                "month": 12,
+                "year": 2018
+            }
+        },
+        "string": "Oct 10, 2018 to Dec 26, 2018"
+    },
+    "score": 4.66,
+    "scored_by": 25581,
+    "rank": 10820,
+    "popularity": 1611,
+    "members": 82856,
+    "favorites": 144,
+    "premiered": "Fall 2018",
+    "studios": [
+        {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Gonzo",
+            "url": "https://myanimelist.net/anime/producer/3/Gonzo"
+        }
+    ]
+}

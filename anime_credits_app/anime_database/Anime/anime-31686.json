@@ -1,0 +1,37 @@
+{
+    "mal_id": 31686,
+    "url": "https://myanimelist.net/anime/31686/Shigeru",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/76371.jpg",
+    "title": "Shigeru",
+    "title_english": null,
+    "title_japanese": "しげる",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-06-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 6,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 14, 2014"
+    },
+    "score": 3.24,
+    "scored_by": 764,
+    "rank": 11002,
+    "popularity": 9956,
+    "members": 1238,
+    "favorites": 4,
+    "premiered": null,
+    "studios": []
+}

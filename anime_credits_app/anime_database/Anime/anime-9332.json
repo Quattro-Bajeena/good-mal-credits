@@ -1,0 +1,44 @@
+{
+    "mal_id": 9332,
+    "url": "https://myanimelist.net/anime/9332/hack__Quantum",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/28371.jpg",
+    "title": ".hack//Quantum",
+    "title_english": null,
+    "title_japanese": ".hack//Quantum",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-01-28T00:00:00+00:00",
+        "to": "2011-04-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 1,
+                "year": 2011
+            },
+            "to": {
+                "day": 7,
+                "month": 4,
+                "year": 2011
+            }
+        },
+        "string": "Jan 28, 2011 to Apr 7, 2011"
+    },
+    "score": 7.18,
+    "scored_by": 17918,
+    "rank": 2837,
+    "popularity": 2663,
+    "members": 36425,
+    "favorites": 80,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 290,
+            "type": "anime",
+            "name": "Kinema Citrus",
+            "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+        }
+    ]
+}

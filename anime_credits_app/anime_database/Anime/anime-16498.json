@@ -1,0 +1,44 @@
+{
+    "mal_id": 16498,
+    "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "title": "Shingeki no Kyojin",
+    "title_english": "Attack on Titan",
+    "title_japanese": "進撃の巨人",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-04-07T00:00:00+00:00",
+        "to": "2013-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Apr 7, 2013 to Sep 29, 2013"
+    },
+    "score": 8.48,
+    "scored_by": 1687691,
+    "rank": 114,
+    "popularity": 2,
+    "members": 2482194,
+    "favorites": 126315,
+    "premiered": "Spring 2013",
+    "studios": [
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

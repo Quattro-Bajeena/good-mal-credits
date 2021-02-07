@@ -1,0 +1,44 @@
+{
+    "mal_id": 33486,
+    "url": "https://myanimelist.net/anime/33486/Boku_no_Hero_Academia_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+    "title": "Boku no Hero Academia 2nd Season",
+    "title_english": "My Hero Academia 2",
+    "title_japanese": "僕のヒーローアカデミア",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-04-01T00:00:00+00:00",
+        "to": "2017-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            }
+        },
+        "string": "Apr 1, 2017 to Sep 30, 2017"
+    },
+    "score": 8.34,
+    "scored_by": 1052591,
+    "rank": 188,
+    "popularity": 13,
+    "members": 1592068,
+    "favorites": 18832,
+    "premiered": "Spring 2017",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

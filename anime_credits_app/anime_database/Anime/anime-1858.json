@@ -1,0 +1,44 @@
+{
+    "mal_id": 1858,
+    "url": "https://myanimelist.net/anime/1858/Gakuen_Utopia_Manabi_Straight",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/4907.jpg",
+    "title": "Gakuen Utopia Manabi Straight!",
+    "title_english": null,
+    "title_japanese": "がくえんゆーとぴあ まなびストレート！",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-01-08T00:00:00+00:00",
+        "to": "2007-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2007
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Jan 8, 2007 to Mar 26, 2007"
+    },
+    "score": 7.28,
+    "scored_by": 9206,
+    "rank": 2428,
+    "popularity": 3147,
+    "members": 26872,
+    "favorites": 103,
+    "premiered": "Winter 2007",
+    "studios": [
+        {
+            "mal_id": 43,
+            "type": "anime",
+            "name": "ufotable",
+            "url": "https://myanimelist.net/anime/producer/43/ufotable"
+        }
+    ]
+}

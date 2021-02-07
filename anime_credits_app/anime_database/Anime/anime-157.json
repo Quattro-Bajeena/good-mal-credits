@@ -1,0 +1,44 @@
+{
+    "mal_id": 157,
+    "url": "https://myanimelist.net/anime/157/Mahou_Sensei_Negima",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/89535.jpg",
+    "title": "Mahou Sensei Negima!",
+    "title_english": "Negima!",
+    "title_japanese": "魔法先生 ネギま！",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-01-06T00:00:00+00:00",
+        "to": "2005-06-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 2005
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2005
+            }
+        },
+        "string": "Jan 6, 2005 to Jun 30, 2005"
+    },
+    "score": 6.98,
+    "scored_by": 54250,
+    "rank": 3713,
+    "popularity": 1204,
+    "members": 120833,
+    "favorites": 601,
+    "premiered": "Winter 2005",
+    "studios": [
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

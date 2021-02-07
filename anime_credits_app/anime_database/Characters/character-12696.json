@@ -1,0 +1,64 @@
+{
+    "mal_id": 12696,
+    "url": "https://myanimelist.net/character/12696/Raikou_Shimizu",
+    "name": "Raikou Shimizu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 153,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/92118.jpg",
+    "animeography": [
+        {
+            "mal_id": 3655,
+            "name": "Nabari no Ou",
+            "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg?s=d8c1cd39491cce6aa3134c688331eae7",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1721,
+            "name": "Nabari no Ou",
+            "url": "https://myanimelist.net/manga/1721/Nabari_no_Ou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/30490.jpg?s=fe30f0123088e726202d07f340ef37fe",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 95,
+            "name": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44598.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6420,
+            "name": "Crescentini, Stefano",
+            "url": "https://myanimelist.net/people/6420/Stefano_Crescentini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37231.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 10733,
+            "name": "Popovic, Frédéric",
+            "url": "https://myanimelist.net/people/10733/Frédéric_Popovic",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33041.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 14933,
+            "name": "Jeong, Myeong Jun",
+            "url": "https://myanimelist.net/people/14933/Myeong_Jun_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15677.jpg",
+            "language": "Korean"
+        }
+    ]
+}

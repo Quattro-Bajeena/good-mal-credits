@@ -1,0 +1,43 @@
+{
+    "mal_id": 138968,
+    "url": "https://myanimelist.net/character/138968/Seijun_Makita",
+    "name": "Seijun Makita",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/381941.jpg",
+    "animeography": [
+        {
+            "mal_id": 31163,
+            "name": "Dimension W",
+            "url": "https://myanimelist.net/anime/31163/Dimension_W",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/86304.jpg?s=5ec220161d16499bba8b29ae4cd89513",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 42279,
+            "name": "Dimension W",
+            "url": "https://myanimelist.net/manga/42279/Dimension_W",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/219581.jpg?s=81f0fdd7d76ba352ae49d372582bba90",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1538,
+            "name": "Aoyama, Yutaka",
+            "url": "https://myanimelist.net/people/1538/Yutaka_Aoyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/53973.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1602,
+            "name": "Tatum, John Michael",
+            "url": "https://myanimelist.net/people/1602/John_Michael_Tatum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48126.jpg",
+            "language": "English"
+        }
+    ]
+}

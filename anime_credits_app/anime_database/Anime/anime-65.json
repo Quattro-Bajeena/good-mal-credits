@@ -1,0 +1,44 @@
+{
+    "mal_id": 65,
+    "url": "https://myanimelist.net/anime/65/Rozen_Maiden__Träumend",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/10242.jpg",
+    "title": "Rozen Maiden: Träumend",
+    "title_english": "Rozen Maiden: Träumend",
+    "title_japanese": "ローゼンメイデン トロイメント",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-21T00:00:00+00:00",
+        "to": "2006-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 2006
+            }
+        },
+        "string": "Oct 21, 2005 to Jan 27, 2006"
+    },
+    "score": 7.65,
+    "scored_by": 52957,
+    "rank": 1148,
+    "popularity": 1470,
+    "members": 93474,
+    "favorites": 516,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 70,
+            "type": "anime",
+            "name": "Nomad",
+            "url": "https://myanimelist.net/anime/producer/70/Nomad"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1588,
+    "url": "https://myanimelist.net/anime/1588/Mamoru-kun_ni_Megami_no_Shukufuku_wo",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/75243.jpg",
+    "title": "Mamoru-kun ni Megami no Shukufuku wo!",
+    "title_english": "Venus to Mamoru!",
+    "title_japanese": "護くんに女神の祝福を！",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-06T00:00:00+00:00",
+        "to": "2007-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2007
+            }
+        },
+        "string": "Oct 6, 2006 to Mar 30, 2007"
+    },
+    "score": 7.08,
+    "scored_by": 9074,
+    "rank": 3296,
+    "popularity": 3357,
+    "members": 23506,
+    "favorites": 52,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 218,
+            "type": "anime",
+            "name": "Zexcs",
+            "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+        }
+    ]
+}

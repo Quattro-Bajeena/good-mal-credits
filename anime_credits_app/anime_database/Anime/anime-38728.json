@@ -1,0 +1,37 @@
+{
+    "mal_id": 38728,
+    "url": "https://myanimelist.net/anime/38728/Onami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1760/96646.jpg",
+    "title": "Onami",
+    "title_english": "Onami",
+    "title_japanese": "Onami",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-01-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 21, 2018"
+    },
+    "score": 5.02,
+    "scored_by": 122,
+    "rank": 10557,
+    "popularity": 14691,
+    "members": 210,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

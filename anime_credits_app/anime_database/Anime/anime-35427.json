@@ -1,0 +1,44 @@
+{
+    "mal_id": 35427,
+    "url": "https://myanimelist.net/anime/35427/Animegataris",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/89686.jpg",
+    "title": "Animegataris",
+    "title_english": "Anime-Gataris",
+    "title_japanese": "アニメガタリズ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-10-08T00:00:00+00:00",
+        "to": "2017-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 2017
+            }
+        },
+        "string": "Oct 8, 2017 to Dec 24, 2017"
+    },
+    "score": 6.42,
+    "scored_by": 23832,
+    "rank": 6304,
+    "popularity": 1971,
+    "members": 61139,
+    "favorites": 89,
+    "premiered": "Fall 2017",
+    "studios": [
+        {
+            "mal_id": 318,
+            "type": "anime",
+            "name": "WAO World",
+            "url": "https://myanimelist.net/anime/producer/318/WAO_World"
+        }
+    ]
+}
