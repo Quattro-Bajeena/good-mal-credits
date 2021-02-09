@@ -1,0 +1,149 @@
+{
+    "mal_id": 597,
+    "url": "https://myanimelist.net/people/597/Sue_Ulu",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/630.jpg",
+    "name": "Sue Ulu",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1963-10-28T00:00:00+00:00",
+    "member_favorites": 6,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1802,
+                "url": "https://myanimelist.net/anime/1802/Dirty_Pair_Flash",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1405/91068.jpg?s=fbee44cf736f2b1737c0371087522ddf",
+                "name": "Dirty Pair Flash"
+            },
+            "character": {
+                "mal_id": 4480,
+                "url": "https://myanimelist.net/character/4480/Kei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/148913.jpg?s=f7d3af7be3377549e5bbaa3bce0eb7b1",
+                "name": "Kei"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 12343,
+                "url": "https://myanimelist.net/anime/12343/Dirty_Pair_Flash_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/35253.jpg?s=a69a57614695d6b6721b4bd8b8783328",
+                "name": "Dirty Pair Flash 2"
+            },
+            "character": {
+                "mal_id": 4480,
+                "url": "https://myanimelist.net/character/4480/Kei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/148913.jpg?s=f7d3af7be3377549e5bbaa3bce0eb7b1",
+                "name": "Kei"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 12347,
+                "url": "https://myanimelist.net/anime/12347/Dirty_Pair_Flash_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/35247.jpg?s=ea7c1ad8877603f7a608249383fa7ae0",
+                "name": "Dirty Pair Flash 3"
+            },
+            "character": {
+                "mal_id": 4480,
+                "url": "https://myanimelist.net/character/4480/Kei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/148913.jpg?s=f7d3af7be3377549e5bbaa3bce0eb7b1",
+                "name": "Kei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 268,
+                "url": "https://myanimelist.net/anime/268/Golden_Boy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg?s=8aae6be2e68e281a8bfe363a42d2169a",
+                "name": "Golden Boy"
+            },
+            "character": {
+                "mal_id": 15219,
+                "url": "https://myanimelist.net/character/15219/Ayuko_Hayami",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/283859.jpg?s=a0eabeab8170205696de3e354203ed4a",
+                "name": "Hayami, Ayuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1280,
+                "url": "https://myanimelist.net/anime/1280/Mamono_Hunter_Youko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1276/97039.jpg?s=40adb37ddab204ab21a9e483000012c6",
+                "name": "Mamono Hunter Youko"
+            },
+            "character": {
+                "mal_id": 35569,
+                "url": "https://myanimelist.net/character/35569/Haruka_Mano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/97018.jpg?s=1a54823fbf3b6dd7f1dbfba6b3690cdb",
+                "name": "Mano, Haruka"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1443,
+                "url": "https://myanimelist.net/anime/1443/Sol_Bianca",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/49503.jpg?s=4789ab1d744f48335412ad0c51102fa6",
+                "name": "Sol Bianca"
+            },
+            "character": {
+                "mal_id": 27938,
+                "url": "https://myanimelist.net/character/27938/Janny_Mann",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/130359.jpg?s=96d16ee284df0299c77c73e9ba873ac2",
+                "name": "Mann, Janny"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

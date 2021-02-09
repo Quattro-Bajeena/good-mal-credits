@@ -1,0 +1,29 @@
+{
+    "mal_id": 52961,
+    "url": "https://myanimelist.net/people/52961/Kyle_Sturdivant",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Kyle Sturdivant",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1261,
+                "url": "https://myanimelist.net/character/1261/Kaworu_Nagisa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/175413.jpg?s=ad967d353aa6817881ebad57486dc06a",
+                "name": "Nagisa, Kaworu"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

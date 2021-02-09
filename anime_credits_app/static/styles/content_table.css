@@ -28,11 +28,11 @@
     font-size: 0.9em;
 }
 
-.contentTable th{
-    padding: 15px 35px 15px 5px;
+.contentTable .mainHeader th{
+    padding: 10px 35px 10px 5px;
 }
 
-.contentTable th:hover{
+.contentTable .mainHeader th:hover{
     color:rgb(36, 26, 26);
 }
 
@@ -83,4 +83,22 @@
     position: absolute;
 }
 
+
+.contentTable .clearFilter{
+    cursor: pointer;
+}
+.contentTable .clearFilter:hover{
+    color:rgb(36, 26, 26);
+}
+
+.contentTable .filterHeader th{
+    padding: 8px;
+}
+
+.contentTable .filterHeader input{
+    display: block;
+    border: 0;
+    width: 90%;
+    
+}
 

@@ -1,0 +1,74 @@
+{
+    "mal_id": 6715,
+    "url": "https://myanimelist.net/people/6715/Liliana_Sorrentino",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/3454.jpg",
+    "name": "Liliana Sorrentino",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2759,
+                "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=0b67af75f2a2ea439d3d90958df219ae",
+                "name": "Evangelion: 1.0 You Are (Not) Alone"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3388,
+                "url": "https://myanimelist.net/anime/3388/Majokko_Megu-chan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/53681.jpg?s=fb20a6ac7702432811f5ceb0877bfcb5",
+                "name": "Majokko Megu-chan"
+            },
+            "character": {
+                "mal_id": 12343,
+                "url": "https://myanimelist.net/character/12343/Non_Gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/232495.jpg?s=7f88cb9e4b6d9fad19ba8097e1dcab4c",
+                "name": "Gou, Non"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            },
+            "character": {
+                "mal_id": 1251,
+                "url": "https://myanimelist.net/character/1251/Ritsuko_Akagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108139.jpg?s=e3eadda877273c7e2b22b4b7b3afaa31",
+                "name": "Akagi, Ritsuko"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

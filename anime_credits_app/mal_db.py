@@ -310,9 +310,10 @@ def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
     studio_db = Studio.query.get(mal_id)
     if not studio_db:
         studio_db = add_studio(studio)
-        studio_db.anime.append(anime_db)
     elif not use_cached:
         update_studio(studio_db, studio)
+
+    studio_db.anime.append(anime_db)
     return studio_db
 
 
@@ -483,6 +484,9 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
         anime = mal.get_resource('anime', role['anime']['mal_id'], use_cached=use_cached)
         anime_db = get_anime_db( anime, use_cached)
 
+        for studio in anime['studios']:
+            studio_db = get_studio_db(studio, anime_db, use_cached)
+
         status.update_status(("updating voice acting roles", f"{role['character']['name']} from {anime['title']}"))
 
         
@@ -503,11 +507,13 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
 
     for staff_position in person['anime_staff_positions']:
         anime = mal.get_resource('anime', staff_position['anime']['mal_id'], use_cached=use_cached)
-
         anime_db = get_anime_db(anime, use_cached)
 
-        position = staff_position['position']
+        for studio in anime['studios']:
+            studio_db = get_studio_db(studio, anime_db, use_cached)
+            print("NEW STUDIO ADDED", anime_db.title ,studio_db.name)
 
+        position = staff_position['position']
         staff_member_db = get_staff_member_db(anime,person, position, person_db, anime_db, use_cached)
 
         status.update_status(("updating staff credits", f"{position} in {anime['title']}"))

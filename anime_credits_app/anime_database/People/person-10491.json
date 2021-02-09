@@ -1,0 +1,104 @@
+{
+    "mal_id": 10491,
+    "url": "https://myanimelist.net/people/10491/Toni_Rodríguez",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/8960.jpg",
+    "name": "Toni Rodríguez",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1969-12-31T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 301,
+                "url": "https://myanimelist.net/anime/301/Cinderella_Boy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/89194.jpg?s=b548c91abd27a05f3b92043e825c5965",
+                "name": "Cinderella Boy"
+            },
+            "character": {
+                "mal_id": 19762,
+                "url": "https://myanimelist.net/character/19762/Rella_Cindy_Shirayuki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/108486.jpg?s=c8b72fb7dee75d3843b8184ebe0ea9f8",
+                "name": "Shirayuki, Rella Cindy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 3765,
+                "url": "https://myanimelist.net/character/3765/Kiyomi_Takada",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/36947.jpg?s=d36ad2c6c0a0e8062ca1ef33131c9075",
+                "name": "Takada, Kiyomi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 257,
+                "url": "https://myanimelist.net/anime/257/Ikkitousen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23091.jpg?s=d286e23f94aa6f731fcff64a77e80330",
+                "name": "Ikkitousen"
+            },
+            "character": {
+                "mal_id": 7367,
+                "url": "https://myanimelist.net/character/7367/Koudai_Chinkyuu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/89361.jpg?s=6183e40410a7710f203d20a85ca1a8d8",
+                "name": "Chinkyuu, Koudai"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5231,
+                "url": "https://myanimelist.net/anime/5231/Inazuma_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1854/94704.jpg?s=97a18d07b029f14b01a81a1f85be8dac",
+                "name": "Inazuma Eleven"
+            },
+            "character": {
+                "mal_id": 31781,
+                "url": "https://myanimelist.net/character/31781/Hitomiko_Kira",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/84821.jpg?s=9e377a4656362d221e59a9896e0c0158",
+                "name": "Kira, Hitomiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1259,
+                "url": "https://myanimelist.net/character/1259/Misato_Katsuragi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/53130.jpg?s=7471d5234eca2f0f80792c9bf98ea9e6",
+                "name": "Katsuragi, Misato"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1713,
+                "url": "https://myanimelist.net/anime/1713/Submarine_Super_99",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/49109.jpg?s=dc64263d34fa4bec29996c597996c203",
+                "name": "Submarine Super 99"
+            },
+            "character": {
+                "mal_id": 113537,
+                "url": "https://myanimelist.net/character/113537/Ze_Strait",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/267739.jpg?s=989ad7a88dd254436347f68cd09160c5",
+                "name": "Ze Strait"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

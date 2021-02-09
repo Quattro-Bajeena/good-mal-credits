@@ -1,0 +1,224 @@
+{
+    "mal_id": 10734,
+    "url": "https://myanimelist.net/people/10734/Tony_Joudrier",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Tony Joudrier",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1351,
+                "url": "https://myanimelist.net/anime/1351/Angel_Cop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg?s=42ad6dae916be813c668147b7dc344c4",
+                "name": "Angel Cop"
+            },
+            "character": {
+                "mal_id": 33769,
+                "url": "https://myanimelist.net/character/33769/Asura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/262155.jpg?s=c2d00e751ae7868fe65e8c8b813e5269",
+                "name": "Asura"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1351,
+                "url": "https://myanimelist.net/anime/1351/Angel_Cop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1377/110296.jpg?s=42ad6dae916be813c668147b7dc344c4",
+                "name": "Angel Cop"
+            },
+            "character": {
+                "mal_id": 39429,
+                "url": "https://myanimelist.net/character/39429/Tachihara",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/262193.jpg?s=247d2fd4d45afad91cc9f130b7f82ecc",
+                "name": "Tachihara"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            },
+            "character": {
+                "mal_id": 1252,
+                "url": "https://myanimelist.net/character/1252/Shigeru_Aoba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/145219.jpg?s=ce73460a76fb4e13073d3ccc8614cb38",
+                "name": "Aoba, Shigeru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 10990,
+                "url": "https://myanimelist.net/character/10990/Lujon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/57304.jpg?s=d5cc9208ca653b898ab1fb9cb0646b89",
+                "name": "Lujon"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 136,
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19473.jpg?s=ebc060a61ea40c597b642a84ee74a53c",
+                "name": "Hunter x Hunter"
+            },
+            "character": {
+                "mal_id": 29,
+                "url": "https://myanimelist.net/character/29/Leorio_Paladiknight",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/174519.jpg?s=ce2cbfa07f089435a97359eafbb6899a",
+                "name": "Paladiknight, Leorio"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 137,
+                "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/137.jpg?s=4f30bcfc2addf5466e4a525cd68cdc84",
+                "name": "Hunter x Hunter: Original Video Animation"
+            },
+            "character": {
+                "mal_id": 29,
+                "url": "https://myanimelist.net/character/29/Leorio_Paladiknight",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/174519.jpg?s=ce2cbfa07f089435a97359eafbb6899a",
+                "name": "Paladiknight, Leorio"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 496,
+                "url": "https://myanimelist.net/anime/496/Kamui_no_Ken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1073/94233.jpg?s=478c57d7fed95df31e1019e7e6993d94",
+                "name": "Kamui no Ken"
+            },
+            "character": {
+                "mal_id": 36271,
+                "url": "https://myanimelist.net/character/36271/Koozunosuke_Oguri",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/98718.jpg?s=82e021a32f58277f2adf3d8ef894f181",
+                "name": "Oguri, Koozunosuke"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3898,
+                "url": "https://myanimelist.net/anime/3898/Mazinger_Z_tai_Devilman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6985.jpg?s=04003a8664056f31bc42bbaa3257b979",
+                "name": "Mazinger Z tai Devilman"
+            },
+            "character": {
+                "mal_id": 17651,
+                "url": "https://myanimelist.net/character/17651/Dr_Hell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/352079.jpg?s=2220b0f25a74902b736e9194c43707fe",
+                "name": "Dr. Hell"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1252,
+                "url": "https://myanimelist.net/character/1252/Shigeru_Aoba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/145219.jpg?s=ce73460a76fb4e13073d3ccc8614cb38",
+                "name": "Aoba, Shigeru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 401,
+                "url": "https://myanimelist.net/anime/401/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Seisou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1971/90877.jpg?s=bc431377888920f0e30cabf4bb714762",
+                "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen"
+            },
+            "character": {
+                "mal_id": 3792,
+                "url": "https://myanimelist.net/character/3792/Kenji_Himura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/53597.jpg?s=ef77bd47d36ce467f73692f36ae55310",
+                "name": "Himura, Kenji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            },
+            "character": {
+                "mal_id": 5883,
+                "url": "https://myanimelist.net/character/5883/Alan_Gabriel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/282827.jpg?s=e0aecdbcd97ae9323a333269f539aed6",
+                "name": "Gabriel, Alan"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1130,
+                "url": "https://myanimelist.net/anime/1130/Windaria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/25497.jpg?s=58a91a67f08dfe8b2ff5dc456978836e",
+                "name": "Windaria"
+            },
+            "character": {
+                "mal_id": 35107,
+                "url": "https://myanimelist.net/character/35107/Jill",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/292755.jpg?s=efbaf9a0fb5beae1e123ada9b3f662c5",
+                "name": "Jill"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            },
+            "character": {
+                "mal_id": 242,
+                "url": "https://myanimelist.net/character/242/Tsume",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/74310.jpg?s=43e9a7b4d7663ec451eabfcda31e0217",
+                "name": "Tsume"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1023,
+                "url": "https://myanimelist.net/anime/1023/Wolfs_Rain_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/22397.jpg?s=edc5971c61818a5af4f7ad30f6aaee15",
+                "name": "Wolf's Rain OVA"
+            },
+            "character": {
+                "mal_id": 242,
+                "url": "https://myanimelist.net/character/242/Tsume",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/74310.jpg?s=43e9a7b4d7663ec451eabfcda31e0217",
+                "name": "Tsume"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

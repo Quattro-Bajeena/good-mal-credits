@@ -27,7 +27,7 @@
 
 <table id="staffTable" class="contentTable">
     <thead>
-        <tr>
+        <tr class="mainHeader">
             <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">NAME</th>
             <th class="sortableColHeader">POSITION</th>
@@ -35,6 +35,16 @@
             <th class="sortableColHeader">BIRTHDAY</th>
             <th class="sortableColHeader">AGE AT PREMIERE</th>
             <th class="sortableColHeader">NO. OF CREDITS</th>
+        </tr>
+
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterText"><input type="text"></th>
+            <th class="filterText"><input type="text"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>  
         </tr>
     </thead>
 
@@ -58,7 +68,7 @@
 
 <table id="voiceActorsTable" class="contentTable">
     <thead class="contentTableHead">
-        <tr>
+        <tr class="mainHeader">
             <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">CHARACTER</th>
             <th class="sortableColHeader">FAVOURITES</th>
@@ -71,6 +81,20 @@
             <th class="sortableColHeader">AGE AT PREMIERE</th>
             <th class="sortableColHeader">LANGUAGE</th>
             <th class="sortableColHeader">NO. OF ROLES</th>
+        </tr>
+
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterText"><input type="text"></th>
+            <th></th>
+            <th class="filterText"><input type="text"></th>
+            <th></th>
+            <th class="filterText"><input type="text"></th>
+            <th></th>  
+            <th></th>  
+            <th></th>  
+            <th class="filterText"><input type="text"></th>
+            <th></th>  
         </tr>
     </thead>
 

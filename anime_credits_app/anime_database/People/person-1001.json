@@ -1,0 +1,299 @@
+{
+    "mal_id": 1001,
+    "url": "https://myanimelist.net/people/1001/Markus_Pfeiffer",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/21671.jpg",
+    "name": "Markus Pfeiffer",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 4,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 857,
+                "url": "https://myanimelist.net/anime/857/Air_Gear",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/18227.jpg?s=8fd48a328675af128332810fd30ecc06",
+                "name": "Air Gear"
+            },
+            "character": {
+                "mal_id": 11849,
+                "url": "https://myanimelist.net/character/11849/Sora_Takeuchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/71871.jpg?s=ca5ff41b8ba2a2259a2615167dfc8070",
+                "name": "Takeuchi, Sora"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1498,
+                "url": "https://myanimelist.net/anime/1498/Black_Blood_Brothers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/13804.jpg?s=63309cabcd55b2da754ab0da1db532b6",
+                "name": "Black Blood Brothers"
+            },
+            "character": {
+                "mal_id": 782,
+                "url": "https://myanimelist.net/character/782/Jirou_Mochizuki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/60999.jpg?s=c25458aa22695c99f3c9c1f18c8289fd",
+                "name": "Mochizuki, Jirou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1520,
+                "url": "https://myanimelist.net/anime/1520/Black_Jack",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg?s=e7ab653a100ca9fe18fc7c553e2043df",
+                "name": "Black Jack"
+            },
+            "character": {
+                "mal_id": 1344,
+                "url": "https://myanimelist.net/character/1344/Kuroo_Hazama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/302564.jpg?s=36d058c240d5572cbcbf96d133971be0",
+                "name": "Hazama, Kuroo"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 10055,
+                "url": "https://myanimelist.net/anime/10055/Black_Jack__Heian_Sento",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/27872.jpg?s=d4007d66c6315e437a2551fb7bb29ec3",
+                "name": "Black Jack: Heian Sento"
+            },
+            "character": {
+                "mal_id": 1344,
+                "url": "https://myanimelist.net/character/1344/Kuroo_Hazama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/302564.jpg?s=36d058c240d5572cbcbf96d133971be0",
+                "name": "Hazama, Kuroo"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 564,
+                "url": "https://myanimelist.net/character/564/Uryuu_Ishida",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/139189.jpg?s=4b91d0ef5e3e05a492b242b261f9ee72",
+                "name": "Ishida, Uryuu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1575,
+                "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/50331.jpg?s=b888ba366704a4d7b6f507005f558968",
+                "name": "Code Geass: Hangyaku no Lelouch"
+            },
+            "character": {
+                "mal_id": 1115,
+                "url": "https://myanimelist.net/character/1115/Kaname_Ougi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/61063.jpg?s=514eacf33d1083dca2c9bcd5dd61f349",
+                "name": "Ougi, Kaname"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2904,
+                "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/9391.jpg?s=6e6190c9daf0a579f94ed915106470cf",
+                "name": "Code Geass: Hangyaku no Lelouch R2"
+            },
+            "character": {
+                "mal_id": 1115,
+                "url": "https://myanimelist.net/character/1115/Kaname_Ougi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/61063.jpg?s=514eacf33d1083dca2c9bcd5dd61f349",
+                "name": "Ougi, Kaname"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 1929,
+                "url": "https://myanimelist.net/character/1929/Reiji_Namikawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/57873.jpg?s=ed69e04087ba8f1ca6ed6fc44b7ce832",
+                "name": "Namikawa, Reiji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 2138,
+                "url": "https://myanimelist.net/character/2138/General_Blue",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/71121.jpg?s=9ccabd7cb211a91b535b8c4e4dbf0777",
+                "name": "General Blue"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 34662,
+                "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/86573.jpg?s=4e0d50810f2655fc6dcfd6e306e066e6",
+                "name": "Fate/Apocrypha"
+            },
+            "character": {
+                "mal_id": 151606,
+                "url": "https://myanimelist.net/character/151606/Kuro_no_Caster",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/333412.jpg?s=5474147f070f701850287d2b4d9c67d7",
+                "name": "Kuro no Caster"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 267,
+                "url": "https://myanimelist.net/anime/267/Gungrave",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.jpg?s=7e1494d25ddef47ba1a6f2ef4122b7f0",
+                "name": "Gungrave"
+            },
+            "character": {
+                "mal_id": 1610,
+                "url": "https://myanimelist.net/character/1610/Harry_MacDowel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/272979.jpg?s=e557deb13e0dab472f3eb87d7b0c3d74",
+                "name": "MacDowel, Harry"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 97,
+                "url": "https://myanimelist.net/anime/97/Last_Exile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg?s=a8fa15483440ba9a639ea96554142faa",
+                "name": "Last Exile"
+            },
+            "character": {
+                "mal_id": 2798,
+                "url": "https://myanimelist.net/character/2798/Claus_Valca",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/56456.jpg?s=8e9d4123897fad3e4a769cb7cda33b4c",
+                "name": "Valca, Claus"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2460,
+                "url": "https://myanimelist.net/anime/2460/Maison_Ikkoku__Kanketsu-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/27059.jpg?s=c61f7dac240e03a409e3800ecfdc8c79",
+                "name": "Maison Ikkoku: Kanketsu-hen"
+            },
+            "character": {
+                "mal_id": 4746,
+                "url": "https://myanimelist.net/character/4746/Yuusaku_Godai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/63663.jpg?s=701d41dbbf75e56ec6406f8113464985",
+                "name": "Godai, Yuusaku"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1261,
+                "url": "https://myanimelist.net/character/1261/Kaworu_Nagisa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/175413.jpg?s=ad967d353aa6817881ebad57486dc06a",
+                "name": "Nagisa, Kaworu"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 322,
+                "url": "https://myanimelist.net/anime/322/Paradise_Kiss",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/80636.jpg?s=f12b12fb9c2e6de8fbc30fd0d3ba8c95",
+                "name": "Paradise Kiss"
+            },
+            "character": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/character/430/George_Koizumi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/125631.jpg?s=22d5718b1dad7188046f53bf5a09515a",
+                "name": "Koizumi, George"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 417,
+                "url": "https://myanimelist.net/anime/417/Ragnarök_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2589.jpg?s=e63a2e7bfbf798245d0ed09dba1bf50d",
+                "name": "Ragnarök The Animation"
+            },
+            "character": {
+                "mal_id": 2905,
+                "url": "https://myanimelist.net/character/2905/Iruga",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/68438.jpg?s=52902d164b2a3832c5831602fb9f7a70",
+                "name": "Iruga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 166,
+                "url": "https://myanimelist.net/anime/166/Samurai_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1190/95421.jpg?s=f24995569a07f8c9a624395698145bf2",
+                "name": "Samurai 7"
+            },
+            "character": {
+                "mal_id": 159,
+                "url": "https://myanimelist.net/character/159/Kyuzo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/80680.jpg?s=4d185744944654025922fdd8202ea47d",
+                "name": "Kyuzo"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            },
+            "character": {
+                "mal_id": 391,
+                "url": "https://myanimelist.net/character/391/Jin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/62969.jpg?s=47dca04931d8f67f388059a173ff2f82",
+                "name": "Jin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 152,
+                "url": "https://myanimelist.net/anime/152/Solty_Rei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75582.jpg?s=4b18e4f42812c03977e68321c06598b6",
+                "name": "Solty Rei"
+            },
+            "character": {
+                "mal_id": 6910,
+                "url": "https://myanimelist.net/character/6910/Larry_Anderson",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/181465.jpg?s=fad1279ae6ea9f8a8f1238b378f6783e",
+                "name": "Anderson, Larry"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -27,8 +27,8 @@
 
 <table id="personCreditsTable" class="contentTable">
     <thead>
-        <tr>
-            <th></th>
+        <tr class="mainHeader">
+            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">TITLE</th>
             <th class="sortableColHeader">POSITION</th>
 
@@ -38,11 +38,23 @@
             <th class="sortableColHeader">SCORE</th>
             <th class="sortableColHeader">RANK</th>
 
-            <th class="sortableColHeader">AIRED</th>
-            <th class="sortableColHeader">AGE WHEN AIRED</th>
+            <th class="sortableColHeader">YEAR</th>
+            <th class="sortableColHeader">AGE</th>
 
             <th class="sortableColHeader">STUDIO</th>
+        </tr>
 
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterText"><input type="text"> </th>
+            <th class="filterText"><input type="text"> </th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th class="filterText"><input type="text"> </th>
         </tr>
     </thead>
 
@@ -51,20 +63,20 @@
         {% for credit in person.staff_credits %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{credit.anime.image_url}}></td>
-            <td><a href={{url_for('anime_staff', mal_id=credit.anime.mal_id)}} >{{credit.anime.title}}</a></td>
+            <td><a href="{{url_for('anime_staff', mal_id=credit.anime.mal_id)}}" >{{credit.anime.title}}</a></td>
             <td>{{credit.position}}</td>
 
-            <td>{{credit.anime.members}}</td>
-            <td>{{credit.anime.popularity}}</td>
+            <td>{{credit.anime.members | format_big_number}}</td>
+            <td>{{credit.anime.popularity | format_big_number}}</td>
 
             <td>{{credit.anime.score}}</td>
-            <td>{{credit.anime.rank}}</td>
+            <td>{{credit.anime.rank | format_big_number}}</td>
             
-            <td>{{credit.anime.aired_from | format_date}}</td>
+            <td>{{credit.anime.aired_from | format_year}}</td>
             <td>{{ staff_age( credit.anime.aired_from, person.birthday) }}</td>
 
             {% if len(credit.anime.studios) > 0 %}
-            <td>{{credit.anime.studios[0]}}</td>
+            <td>{{credit.anime.studios[0].name}}</td>
             {% else %}
             <td>-</td>
             {% endif %}
@@ -87,11 +99,11 @@
 
 <table id="personVoiceActingTable" class="contentTable">
     <thead class="contentTableHead">
-        <tr>
+        <tr class="mainHeader">
             <th></th>
             <th class="sortableColHeader">ANIME</th>
 
-            <th></th>
+            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">CHARACTER</th>
             <th class="sortableColHeader">CHARACTER FAVOURITES</th>
 
@@ -105,6 +117,19 @@
             <th class="sortableColHeader">AGE WHEN AIRED</th>
             
         </tr>
+
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterText"><input type="text"> </th>
+            <th></th>
+            <th class="filterText"><input type="text"> </th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
     </thead>
 
     <tbody class="contentTableBody">
@@ -116,15 +141,15 @@
             <td><a href="{{url_for('anime_staff', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
             <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
             <td>{{role.character.name}}</td>
-            <td>{{role.character.member_favorites}}</td>
+            <td>{{role.character.member_favorites | format_big_number}}</td>
 
-            <td>{{role.anime.members}}</td>
-            <td>{{role.anime.popularity}}</td>
+            <td>{{role.anime.members | format_big_number}}</td>
+            <td>{{role.anime.popularity | format_big_number}}</td>
 
             <td>{{role.anime.score}}</td>
-            <td>{{role.anime.rank}}</td>
+            <td>{{role.anime.rank | format_big_number}}</td>
             
-            <td>{{role.anime.aired_from | format_date}}</td>
+            <td>{{role.anime.aired_from | format_year}}</td>
             <td>{{staff_age( role.anime.aired_from, person.birthday)}}</td>
         </tr>
 
@@ -142,8 +167,8 @@
 
 <table id="personMangaTable" class="contentTable">
     <thead>
-        <tr>
-            <th></th>
+        <tr class="mainHeader">
+            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">TITLE</th>
             <th class="sortableColHeader">POSITION</th>
 
@@ -153,14 +178,29 @@
             <th class="sortableColHeader">SCORE</th>
             <th class="sortableColHeader">RANK</th>
 
-            <th class="sortableColHeader">PUBLISHED FROM</th>
-            <th class="sortableColHeader">PUBLISHED TO</th>
+            <th class="sortableColHeader">YEAR START</th>
+            <th class="sortableColHeader">YEAR END</th>
 
             <th class="sortableColHeader">AGE AT START</th>
             <th class="sortableColHeader">AGE AT END</th>
 
-            <th class="sortableColHeader">SERIALIZATION</th>
+            <th class="sortableColHeader">MAGAZINE</th>
 
+        </tr>
+
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterText"><input type="text"></th>
+            <th class="filterText"><input type="text"></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th class="filterText"><input type="text"></th>
         </tr>
     </thead>
 
@@ -172,14 +212,14 @@
             <td>{{credit.manga.title}}</td>
             <td>{{credit.position}}</td>
 
-            <td>{{credit.manga.members}}</td>
-            <td>{{credit.manga.popularity}}</td>
+            <td>{{credit.manga.members | format_big_number}}</td>
+            <td>{{credit.manga.popularity | format_big_number}}</td>
 
             <td>{{credit.manga.score}}</td>
-            <td>{{credit.manga.rank}}</td>
+            <td>{{credit.manga.rank | format_big_number}}</td>
             
-            <td>{{credit.manga.published_from | format_date}}</td>
-            <td>{{credit.manga.published_to | format_date}}</td>
+            <td>{{credit.manga.published_from | format_year}}</td>
+            <td>{{credit.manga.published_to | format_year}}</td>
 
             <td>{{ staff_age( credit.manga.published_from, person.birthday) }}</td>
             <td>{{ staff_age( credit.manga.published_to, person.birthday) }}</td>
