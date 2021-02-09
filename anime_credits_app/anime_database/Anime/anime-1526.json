@@ -1,0 +1,44 @@
+{
+    "mal_id": 1526,
+    "url": "https://myanimelist.net/anime/1526/Pokemon_Movie_08__Mew_to_Hadou_no_Yuusha_Lucario",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/79257.jpg",
+    "title": "Pokemon Movie 08: Mew to Hadou no Yuusha Lucario",
+    "title_english": "Pokemon: Lucario and the Mystery of Mew",
+    "title_japanese": "ポケットモンスターアドバンスジェネレーション ミュウと波導の勇者　ルカリオ",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 2005"
+    },
+    "score": 7.31,
+    "scored_by": 55102,
+    "rank": 2283,
+    "popularity": 1560,
+    "members": 87380,
+    "favorites": 144,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

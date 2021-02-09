@@ -1,0 +1,44 @@
+{
+    "mal_id": 37498,
+    "url": "https://myanimelist.net/anime/37498/Black_Fox",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1217/103378.jpg",
+    "title": "Black Fox",
+    "title_english": "Blackfox",
+    "title_japanese": "BLACKFOX",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-10-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 5, 2019"
+    },
+    "score": 6.78,
+    "scored_by": 24162,
+    "rank": 4516,
+    "popularity": 1964,
+    "members": 61766,
+    "favorites": 129,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1127,
+            "type": "anime",
+            "name": "Studio 3Hz",
+            "url": "https://myanimelist.net/anime/producer/1127/Studio_3Hz"
+        }
+    ]
+}

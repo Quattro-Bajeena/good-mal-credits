@@ -6,7 +6,7 @@
     "given_name": null,
     "family_name": null,
     "birthday": "1968-10-11T00:00:00+00:00",
-    "member_favorites": 277,
+    "member_favorites": 279,
     "voice_acting_roles": [
         {
             "role": "Supporting",
@@ -2695,5 +2695,6 @@
                 "name": "Youseiki Suikoden"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -6,7 +6,7 @@
     "given_name": "教子",
     "family_name": "小林",
     "birthday": null,
-    "member_favorites": 32,
+    "member_favorites": 33,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -351,5 +351,6 @@
                 "name": "Zone of the Enders: Dolores, I"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

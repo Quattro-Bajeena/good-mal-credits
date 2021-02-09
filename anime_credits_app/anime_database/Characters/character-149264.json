@@ -1,0 +1,36 @@
+{
+    "mal_id": 149264,
+    "url": "https://myanimelist.net/character/149264/Ichigo",
+    "name": "Ichigo",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/325082.jpg",
+    "animeography": [
+        {
+            "mal_id": 34106,
+            "name": "Kyoukai no Rinne (TV) 3rd Season",
+            "url": "https://myanimelist.net/anime/34106/Kyoukai_no_Rinne_TV_3rd_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/85289.jpg?s=ea283f0a2155716efe93337960524f73",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13558,
+            "name": "Kyoukai no Rinne",
+            "url": "https://myanimelist.net/manga/13558/Kyoukai_no_Rinne",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/160168.jpg?s=a58097dbb1e56e47fae3504437231947",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

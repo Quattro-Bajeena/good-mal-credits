@@ -82,7 +82,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 1690,
                 "url": "https://myanimelist.net/anime/1690/Bokura_no",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 1690,
                 "url": "https://myanimelist.net/anime/1690/Bokura_no",
@@ -154,7 +154,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 8086,
                 "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu",
@@ -163,7 +163,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 8086,
                 "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu",
@@ -442,7 +442,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Check",
             "anime": {
                 "mal_id": 360,
                 "url": "https://myanimelist.net/anime/360/Himiko-den",
@@ -451,7 +451,7 @@
             }
         },
         {
-            "position": "Animation Check",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 360,
                 "url": "https://myanimelist.net/anime/360/Himiko-den",
@@ -739,7 +739,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 1210,
                 "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso",
@@ -748,7 +748,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 1210,
                 "url": "https://myanimelist.net/anime/1210/NHK_ni_Youkoso",
@@ -1009,6 +1009,15 @@
             }
         },
         {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 198,
+                "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg?s=983531719c8394a0310737197178b718",
+                "name": "Speed Grapher"
+            }
+        },
+        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 198,
@@ -1019,15 +1028,6 @@
         },
         {
             "position": "Storyboard",
-            "anime": {
-                "mal_id": 198,
-                "url": "https://myanimelist.net/anime/198/Speed_Grapher",
-                "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg?s=983531719c8394a0310737197178b718",
-                "name": "Speed Grapher"
-            }
-        },
-        {
-            "position": "Episode Director",
             "anime": {
                 "mal_id": 198,
                 "url": "https://myanimelist.net/anime/198/Speed_Grapher",
@@ -1170,5 +1170,6 @@
                 "name": "Zettai Karen Children"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

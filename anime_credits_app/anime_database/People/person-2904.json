@@ -36,5 +36,79 @@
                 "name": "Uchuu Kazoku Carlvinson"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 86014,
+                "url": "https://myanimelist.net/manga/86014/Hoshi_ni_Idomu",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/149371.jpg?s=e11feb86614fbef0ef0b43120f171b14",
+                "name": "Hoshi ni Idomu"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 85033,
+                "url": "https://myanimelist.net/manga/85033/Kidou_Senshi_Gundam__The_Anthology",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/147401.jpg?s=c0ae581b41335bfc9dc44e9bf69a1923",
+                "name": "Kidou Senshi Gundam: The Anthology"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 45663,
+                "url": "https://myanimelist.net/manga/45663/Kouya_no_Jouki_Musume",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/82608.jpg?s=6075cd052fadb1fd3d81d3e315abe074",
+                "name": "Kouya no Jouki Musume"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 3027,
+                "url": "https://myanimelist.net/manga/3027/LuCu_LuCu",
+                "image_url": "https://cdn.myanimelist.net/images/manga/5/26174.jpg?s=9ac5180a8dbc6b405fdac331b83f02a2",
+                "name": "LuCu LuCu"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 28311,
+                "url": "https://myanimelist.net/manga/28311/Manga_Science",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/45429.jpg?s=eaf0f3c147402438084c30915d5fa9fa",
+                "name": "Manga Science"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 70195,
+                "url": "https://myanimelist.net/manga/70195/Nippon_Furusato_Chinbotsu",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/120179.jpg?s=cfbbe12004942627456d3428ce3941b5",
+                "name": "Nippon Furusato Chinbotsu"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 20994,
+                "url": "https://myanimelist.net/manga/20994/Uchuu_Kazoku_Carlvinson",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/172509.jpg?s=7846dc2dbb80450292c5cca3b3460636",
+                "name": "Uchuu Kazoku Carlvinson"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 13720,
+                "url": "https://myanimelist.net/manga/13720/Wahhaman",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/19414.jpg?s=66db54eb73aeb7a5e8898016d3620d08",
+                "name": "Wahhaman"
+            }
+        }
     ]
 }

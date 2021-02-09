@@ -1,0 +1,44 @@
+{
+    "mal_id": 10105,
+    "url": "https://myanimelist.net/anime/10105/Bavi_Stock",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/27876.jpg",
+    "title": "Bavi Stock",
+    "title_english": null,
+    "title_japanese": "バビ・ストック",
+    "type": "OVA",
+    "source": "Novel",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1985-12-10T00:00:00+00:00",
+        "to": "1986-11-10T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 12,
+                "year": 1985
+            },
+            "to": {
+                "day": 10,
+                "month": 11,
+                "year": 1986
+            }
+        },
+        "string": "Dec 10, 1985 to Nov 10, 1986"
+    },
+    "score": 5.08,
+    "scored_by": 264,
+    "rank": 10478,
+    "popularity": 10715,
+    "members": 875,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 288,
+            "type": "anime",
+            "name": "Kaname Productions",
+            "url": "https://myanimelist.net/anime/producer/288/Kaname_Productions"
+        }
+    ]
+}

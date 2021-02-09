@@ -1,0 +1,77 @@
+{
+    "mal_id": 30244,
+    "url": "https://myanimelist.net/character/30244/Nello_Daas",
+    "name": "Nello Daas",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/81107.jpg",
+    "animeography": [
+        {
+            "mal_id": 2553,
+            "name": "Flanders no Inu",
+            "url": "https://myanimelist.net/anime/2553/Flanders_no_Inu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/17492.jpg?s=6803bfedd5b4af89683b0a95a63628fe",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2623,
+            "name": "Flanders no Inu (Movie)",
+            "url": "https://myanimelist.net/anime/2623/Flanders_no_Inu_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/75599.jpg?s=ba2c014265e941346211bdc8862f9afb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2624,
+            "name": "Flanders no Inu, Boku no Patrasche",
+            "url": "https://myanimelist.net/anime/2624/Flanders_no_Inu_Boku_no_Patrasche",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/22953.jpg?s=705de054097d74fe205844c9d0529206",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 648,
+            "name": "Tsumura, Makoto",
+            "url": "https://myanimelist.net/people/648/Makoto_Tsumura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/31619.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1110,
+            "name": "De Filippis, Alessio",
+            "url": "https://myanimelist.net/people/1110/Alessio_De_Filippis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37187.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1677,
+            "name": "Acerbo, Rossella",
+            "url": "https://myanimelist.net/people/1677/Rossella_Acerbo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1576.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 14837,
+            "name": "Lee, Gye Yun",
+            "url": "https://myanimelist.net/people/14837/Gye_Yun_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15409.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 29661,
+            "name": "Kita, Michie",
+            "url": "https://myanimelist.net/people/29661/Michie_Kita",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/30949.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

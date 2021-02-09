@@ -1,0 +1,44 @@
+{
+    "mal_id": 3836,
+    "url": "https://myanimelist.net/anime/3836/Meiken_Jolie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/22959.jpg",
+    "title": "Meiken Jolie",
+    "title_english": "Belle and Sebastian",
+    "title_japanese": "名犬ジョリィ",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1981-04-07T00:00:00+00:00",
+        "to": "1982-06-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 1981
+            },
+            "to": {
+                "day": 22,
+                "month": 6,
+                "year": 1982
+            }
+        },
+        "string": "Apr 7, 1981 to Jun 22, 1982"
+    },
+    "score": 6.72,
+    "scored_by": 749,
+    "rank": 4810,
+    "popularity": 8739,
+    "members": 2057,
+    "favorites": 6,
+    "premiered": "Spring 1981",
+    "studios": [
+        {
+            "mal_id": 246,
+            "type": "anime",
+            "name": "Visual 80",
+            "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+        }
+    ]
+}

@@ -55,7 +55,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 6032,
                 "url": "https://myanimelist.net/anime/6032/Aquarion_Movie__Ippatsu_Gyakuten-hen",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 6032,
                 "url": "https://myanimelist.net/anime/6032/Aquarion_Movie__Ippatsu_Gyakuten-hen",
@@ -127,7 +127,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 6702,
                 "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
@@ -136,7 +136,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 6702,
                 "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
@@ -676,7 +676,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 6773,
                 "url": "https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final",
@@ -685,7 +685,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 6773,
                 "url": "https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final",
@@ -936,5 +936,6 @@
                 "name": "Yagami-kun no Katei no Jijou"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

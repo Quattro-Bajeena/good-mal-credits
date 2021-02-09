@@ -217,7 +217,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3505,
                 "url": "https://myanimelist.net/anime/3505/Yuusha_Shirei_Dagwon",
@@ -226,7 +226,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 3505,
                 "url": "https://myanimelist.net/anime/3505/Yuusha_Shirei_Dagwon",
@@ -270,5 +270,6 @@
                 "name": "Yuusha Tokkyuu Might Gaine"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1335,
+    "url": "https://myanimelist.net/anime/1335/Koukaku_Kidoutai__Stand_Alone_Complex_-_Tachikoma_na_Hibi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/4166.jpg",
+    "title": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
+    "title_english": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+    "title_japanese": "攻殻機動隊 STAND ALONE COMPLEX: Section9 Science File “タチコマな日々”",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-10-01T00:00:00+00:00",
+        "to": "2003-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2002
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Oct 1, 2002 to Mar 25, 2003"
+    },
+    "score": 7.16,
+    "scored_by": 11136,
+    "rank": 2945,
+    "popularity": 3366,
+    "members": 23351,
+    "favorites": 35,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

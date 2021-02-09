@@ -19,8 +19,14 @@
     {% else %}
         creator.
     {% endif %}
-    You can feel proud of yourself, this page is downloading just for you.
-    Wait a little for all of the needed info. It can tak up to 5 minutes.
+
+    {% if downloading_right_now %}
+        You can feel proud of yourself, this page is downloading just for you.
+        Wait a little for all of the needed info. It can take up to 5 minutes.
+    {% else %}
+        You can feel proud of yourself, this page will be downloaded just for you.
+        Right now it's queued for download so come back in a few minutes.
+    {% endif %}
     </p>
 </div>
 
@@ -29,7 +35,13 @@
     <div class="progressBarBack">
         <div class="progressBarTop" id="pageDownloadBar"></div>
     </div>
-    <div class="downloadStatus" id="pageDownloadStatus">Preparing to download</div>
+    <div class="downloadStatus" id="pageDownloadStatus">
+        {% if downloading_right_now %}
+        Preparing to download
+        {% else %}
+        Download is queued
+        {% endif %}
+    </div>
 </div>
 
 

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1549,
+    "url": "https://myanimelist.net/anime/1549/1000-nen_Joou__Queen_Millennia",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/2398.jpg",
+    "title": "1000-nen Joou: Queen Millennia",
+    "title_english": null,
+    "title_japanese": "1000年女王 Queen Millennia",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-03-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 1982
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 13, 1982"
+    },
+    "score": 6.84,
+    "scored_by": 1190,
+    "rank": 4272,
+    "popularity": 7300,
+    "members": 3668,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

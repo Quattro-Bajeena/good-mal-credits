@@ -46,7 +46,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Assistant Animation Director",
             "anime": {
                 "mal_id": 812,
                 "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "position": "Assistant Animation Director",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 812,
                 "url": "https://myanimelist.net/anime/812/Chikyuu_Shoujo_Arjuna",
@@ -437,7 +437,7 @@
             "anime": {
                 "mal_id": 42825,
                 "url": "https://myanimelist.net/anime/42825/Project_Scard__Praeter_no_Kizu",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg?s=46735f0588530b3962069ae7bee282b3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1239/111647.jpg?s=0a410d56581912f7895239f04727e388",
                 "name": "Project Scard: Praeter no Kizu"
             }
         },
@@ -541,7 +541,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 26123,
                 "url": "https://myanimelist.net/anime/26123/Seitokai_Yakuindomo_OVA",
@@ -550,7 +550,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 26123,
                 "url": "https://myanimelist.net/anime/26123/Seitokai_Yakuindomo_OVA",
@@ -653,9 +653,10 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

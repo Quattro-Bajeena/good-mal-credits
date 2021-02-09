@@ -6,7 +6,7 @@
     "given_name": "洋之",
     "family_name": "今石",
     "birthday": "1971-10-04T00:00:00+00:00",
-    "member_favorites": 6021,
+    "member_favorites": 6043,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -1654,6 +1654,35 @@
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
                 "image_url": "https://cdn.myanimelist.net/images/anime/13/75517.jpg?s=ce2800416b7f6f0fe6a5092244fdc8d0",
                 "name": "Zoku Sayonara Zetsubou Sensei"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 8173,
+                "url": "https://myanimelist.net/manga/8173/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/11144.jpg?s=50ab323a0546aac7bf090f0d07dadfeb",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 16066,
+                "url": "https://myanimelist.net/manga/16066/Getter_Robo_Anthology__Shinka_no_Ishi",
+                "image_url": "https://cdn.myanimelist.net/images/manga/5/163886.jpg?s=61bfe298c532e8bc0e0367a0cd9f4db7",
+                "name": "Getter Robo Anthology: Shinka no Ishi"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 40419,
+                "url": "https://myanimelist.net/manga/40419/Panty___Stocking_with_Garterbelt",
+                "image_url": "https://cdn.myanimelist.net/images/manga/4/71727.jpg?s=7c7104dfbc7ecec4e9a445aaab671446",
+                "name": "Panty & Stocking with Garterbelt"
             }
         }
     ]

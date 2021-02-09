@@ -1,0 +1,44 @@
+{
+    "mal_id": 4447,
+    "url": "https://myanimelist.net/anime/4447/Detective_Conan_Movie_12__Full_Score_of_Fear",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/22766.jpg",
+    "title": "Detective Conan Movie 12: Full Score of Fear",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 戦慄の楽譜（フルスコア）",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 19, 2008"
+    },
+    "score": 7.82,
+    "scored_by": 20755,
+    "rank": 791,
+    "popularity": 2687,
+    "members": 35848,
+    "favorites": 23,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

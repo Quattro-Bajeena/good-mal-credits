@@ -1,0 +1,44 @@
+{
+    "mal_id": 371,
+    "url": "https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1733/90336.jpg",
+    "title": "Cardcaptor Sakura Movie 1",
+    "title_english": "Cardcaptor Sakura The Movie",
+    "title_japanese": "劇場版 カードキャプターさくら",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-08-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 21, 1999"
+    },
+    "score": 7.65,
+    "scored_by": 49427,
+    "rank": 1155,
+    "popularity": 1607,
+    "members": 82982,
+    "favorites": 1378,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 5922,
+    "url": "https://myanimelist.net/anime/5922/Tenjouhen__Utsunomiko",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/12812.jpg",
+    "title": "Tenjouhen: Utsunomiko",
+    "title_english": null,
+    "title_japanese": "天上編・宇宙皇子",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-09-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 9,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 22, 1990"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 12391,
+    "popularity": 11652,
+    "members": 597,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

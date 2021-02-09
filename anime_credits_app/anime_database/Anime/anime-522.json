@@ -1,0 +1,44 @@
+{
+    "mal_id": 522,
+    "url": "https://myanimelist.net/anime/522/Metropolis",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/75601.jpg",
+    "title": "Metropolis",
+    "title_english": null,
+    "title_japanese": "メトロポリス",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-05-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 26, 2001"
+    },
+    "score": 7.54,
+    "scored_by": 35289,
+    "rank": 1460,
+    "popularity": 1686,
+    "members": 78047,
+    "favorites": 499,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

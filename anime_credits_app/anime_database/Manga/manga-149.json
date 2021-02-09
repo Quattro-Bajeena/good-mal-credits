@@ -1,0 +1,52 @@
+{
+    "mal_id": 149,
+    "url": "https://myanimelist.net/manga/149/Blame",
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/174389.jpg",
+    "title": "Blame!",
+    "title_english": "Blame!",
+    "title_japanese": "BLAME!",
+    "type": "Manga",
+    "volumes": 10,
+    "chapters": 66,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "1996-11-25T00:00:00+00:00",
+        "to": "2003-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 1996
+            },
+            "to": {
+                "day": 25,
+                "month": 7,
+                "year": 2003
+            }
+        },
+        "string": "Nov  25, 1996 to Jul  25, 2003"
+    },
+    "score": 8.32,
+    "scored_by": 25488,
+    "rank": 243,
+    "popularity": 85,
+    "members": 82451,
+    "favorites": 5679,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ]
+}

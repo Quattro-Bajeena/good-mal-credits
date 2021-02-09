@@ -1,0 +1,36 @@
+{
+    "mal_id": 103535,
+    "url": "https://myanimelist.net/character/103535/Rompers",
+    "name": "Rompers",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/240275.jpg",
+    "animeography": [
+        {
+            "mal_id": 23213,
+            "name": "Kantoku Fuyuki Todoki",
+            "url": "https://myanimelist.net/anime/23213/Kantoku_Fuyuki_Todoki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/60065.jpg?s=aed4fe5447e09b67d30e42ebfe15c674",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 19393,
+            "name": "Kantoku Fuyuki Todoki",
+            "url": "https://myanimelist.net/manga/19393/Kantoku_Fuyuki_Todoki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/29840.jpg?s=c3681ddffd94e1a8e7baaa96020f480e",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

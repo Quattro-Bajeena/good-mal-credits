@@ -1,0 +1,42 @@
+{
+    "mal_id": 43252,
+    "url": "https://myanimelist.net/character/43252/Kayano_Kawahira",
+    "name": "Kayano Kawahira",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/144367.jpg",
+    "animeography": [
+        {
+            "mal_id": 940,
+            "name": "Inukami!",
+            "url": "https://myanimelist.net/anime/940/Inukami",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg?s=eba2a8239437cde41fff4e43e5b38a01",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2132,
+            "name": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
+            "url": "https://myanimelist.net/anime/2132/Inukami_The_Movie__Tokumei_Reiteki_Sousakan_Karina_Shirou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/2268.jpg?s=f406688a9534c328f36538722b89c8ee",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 927,
+            "name": "Kyouda, Hisako",
+            "url": "https://myanimelist.net/people/927/Hisako_Kyouda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46081.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

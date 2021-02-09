@@ -6,7 +6,7 @@
     "given_name": "すしお",
     "family_name": null,
     "birthday": "1976-11-05T00:00:00+00:00",
-    "member_favorites": 425,
+    "member_favorites": 427,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -945,5 +945,6 @@
                 "name": "Yume no Ukiyo ni Saitemina"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -540,5 +540,52 @@
                 "name": "Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 90148,
+                "url": "https://myanimelist.net/manga/90148/SM_Girls__Saber_Marionette_R",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/157909.jpg?s=c527788ea66cb48144b0d65e992974da",
+                "name": "SM Girls: Saber Marionette R"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 85886,
+                "url": "https://myanimelist.net/manga/85886/Vandread",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/152092.jpg?s=a2cd6f4de9cff9874d94c9662311f75c",
+                "name": "Vandread"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 85888,
+                "url": "https://myanimelist.net/manga/85888/Vandread__The_Extra_Stage",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/184339.jpg?s=1ba176746a16fe76d8312820f06f5267",
+                "name": "Vandread: The Extra Stage"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 85887,
+                "url": "https://myanimelist.net/manga/85887/Vandread__The_Second_Stage",
+                "image_url": "https://cdn.myanimelist.net/images/manga/4/184340.jpg?s=b348391ee1e9cecd6b72ff9bd9b57d8a",
+                "name": "Vandread: The Second Stage"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 63251,
+                "url": "https://myanimelist.net/manga/63251/Walkure_Romanze",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/108341.jpg?s=2bc1c3df244a0a75d5ce6a919eaa7e87",
+                "name": "Walkure Romanze"
+            }
+        }
     ]
 }

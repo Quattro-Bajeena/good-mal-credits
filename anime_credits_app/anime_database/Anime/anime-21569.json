@@ -1,0 +1,44 @@
+{
+    "mal_id": 21569,
+    "url": "https://myanimelist.net/anime/21569/Pokemon_Movie_17__Hakai_no_Mayu_to_Diancie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/59743.jpg",
+    "title": "Pokemon Movie 17: Hakai no Mayu to Diancie",
+    "title_english": "Pokemon the Movie: Diancie and the Cocoon of Destruction",
+    "title_japanese": "ポケモン・ザ・ムービーXY『破壊の繭とディアンシー』",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 19, 2014"
+    },
+    "score": 6.47,
+    "scored_by": 16600,
+    "rank": 6036,
+    "popularity": 3046,
+    "members": 28376,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

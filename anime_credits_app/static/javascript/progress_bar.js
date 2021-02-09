@@ -28,21 +28,28 @@ function change_bar_description(description){
         text = description;
     }
     else{
-        text = "Finished"
+        text = "Finished";
     }
     bar_status.innerText = text;
     
 }
 
 
-let interval_time = 500
+let interval_time = 1000;
+let pending;
 function update_bar(){
     
     fetch(progress_url)
     .then(response => response.json())
     .then(response => {
         //console.log(response);
-        
+        //State pending
+
+        if(pending == true && response['info'] != null){
+            pending = false;
+            window.location.reload();
+        }
+
         if(response['state'] == 'SUCCESS') {
             change_bar_description("Download completed");
             change_bar_fill(1,1, interval_time);
@@ -52,11 +59,18 @@ function update_bar(){
             }, 1000)
         }
         else if(response['info'] != null){
+            //normal download situation
+
             change_bar_description(response['info']['status']);
             change_bar_fill(response['info']['current'],response['info']['total'], interval_time );
             setTimeout(update_bar, interval_time);
         }
+        else if(response['state'] == 'PENDING') {
+            pending = true;
+            setTimeout(update_bar, 10000);
+        }
         else{
+
             setTimeout(update_bar, interval_time * 4);
         }
     })

@@ -1,0 +1,44 @@
+{
+    "mal_id": 8247,
+    "url": "https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/26792.jpg",
+    "title": "Bleach Movie 4: Jigoku-hen",
+    "title_english": "Bleach the Movie: Hell Verse",
+    "title_japanese": "劇場版 BLEACH 地獄篇",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-12-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 12,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 4, 2010"
+    },
+    "score": 7.61,
+    "scored_by": 92510,
+    "rank": 1252,
+    "popularity": 927,
+    "members": 158151,
+    "favorites": 415,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

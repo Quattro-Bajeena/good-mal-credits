@@ -1,0 +1,44 @@
+{
+    "mal_id": 543,
+    "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg",
+    "title": "Vampire Hunter D (2000)",
+    "title_english": "Vampire Hunter D: Bloodlust",
+    "title_japanese": "バンパイアハンターD",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-08-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 25, 2000"
+    },
+    "score": 7.89,
+    "scored_by": 67834,
+    "rank": 685,
+    "popularity": 1168,
+    "members": 125765,
+    "favorites": 1389,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

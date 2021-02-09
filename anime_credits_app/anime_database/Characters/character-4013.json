@@ -1,0 +1,308 @@
+{
+    "mal_id": 4013,
+    "url": "https://myanimelist.net/character/4013/Mamoru_Chiba",
+    "name": "Mamoru Chiba",
+    "name_kanji": null,
+    "nicknames": [
+        "Darien Shields",
+        "Tuxedo Mask",
+        "Endymion",
+        "Moonlight Knight",
+        "Mamo-chan"
+    ],
+    "member_favorites": 935,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/160873.jpg",
+    "animeography": [
+        {
+            "mal_id": 530,
+            "name": "Bishoujo Senshi Sailor Moon",
+            "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg?s=6381625676ae012e2151b1d95509fafa",
+            "role": "Main"
+        },
+        {
+            "mal_id": 531,
+            "name": "Bishoujo Senshi Sailor Moon R: The Movie",
+            "url": "https://myanimelist.net/anime/531/Bishoujo_Senshi_Sailor_Moon_R__The_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/18897.jpg?s=808b440fad8059f24dc9393d7655ab37",
+            "role": "Main"
+        },
+        {
+            "mal_id": 532,
+            "name": "Bishoujo Senshi Sailor Moon S",
+            "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg?s=2b331d435083ef65f9489f3a723accef",
+            "role": "Main"
+        },
+        {
+            "mal_id": 740,
+            "name": "Bishoujo Senshi Sailor Moon R",
+            "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg?s=66b13b279af00c597c0b27e28f459590",
+            "role": "Main"
+        },
+        {
+            "mal_id": 996,
+            "name": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+            "url": "https://myanimelist.net/anime/996/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/996.jpg?s=4fc2f99921629a364595e918a146b8d0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 997,
+            "name": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito",
+            "url": "https://myanimelist.net/anime/997/Bishoujo_Senshi_Sailor_Moon_S__Kaguya-hime_no_Koibito",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/18896.jpg?s=27d63806fefc54fcb0b6d03af4088a2e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1239,
+            "name": "Bishoujo Senshi Sailor Moon SuperS",
+            "url": "https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg?s=b90ff85358adf333771dab8bc64820e8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1240,
+            "name": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+            "url": "https://myanimelist.net/anime/1240/Bishoujo_Senshi_Sailor_Moon_SuperS__Sailor_9_Senshi_Shuuketsu_Black_Dream_Hole_no_Kiseki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/17831.jpg?s=8b2da08c0f021777e81ff78850d41360",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1278,
+            "name": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+            "url": "https://myanimelist.net/anime/1278/Bishoujo_Senshi_Sailor_Moon_SuperS_Gaiden__Ami-chan_no_Hatsukoi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/68371.jpg?s=70443fe78a81439ec56ceb06b52f8eba",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2937,
+            "name": "Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi",
+            "url": "https://myanimelist.net/anime/2937/Bishoujo_Senshi_Sailor_Moon_R__Make_Up_Sailor_Senshi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/64547.jpg?s=a3f1a22d8ae82fe94d010d9dd791c01d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3076,
+            "name": "Bishoujo Senshi Sailor Moon SuperS Specials",
+            "url": "https://myanimelist.net/anime/3076/Bishoujo_Senshi_Sailor_Moon_SuperS_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/4619.jpg?s=5fc83c69ff0f8f799ffb5a3bf6153e84",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8756,
+            "name": "Bishoujo Senshi Sailor Moon Memorial",
+            "url": "https://myanimelist.net/anime/8756/Bishoujo_Senshi_Sailor_Moon_Memorial",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/46773.jpg?s=a57a93e51a9e11af8bedbc7fa044c188",
+            "role": "Main"
+        },
+        {
+            "mal_id": 13931,
+            "name": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+            "url": "https://myanimelist.net/anime/13931/Bishoujo_Senshi_Sailor_Moon__Sailor_Stars_-_Hero_Club",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/69247.jpg?s=7815626b9f717b1c8bbe4b8e9f789695",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14751,
+            "name": "Bishoujo Senshi Sailor Moon Crystal",
+            "url": "https://myanimelist.net/anime/14751/Bishoujo_Senshi_Sailor_Moon_Crystal",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/60085.jpg?s=983ef9dcffe4cc64611133c687ad7932",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25375,
+            "name": "Moon Pride",
+            "url": "https://myanimelist.net/anime/25375/Moon_Pride",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/64765.jpg?s=73e13c17df7cf1a5e7b3e19659f46a1f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 31733,
+            "name": "Bishoujo Senshi Sailor Moon Crystal Season III",
+            "url": "https://myanimelist.net/anime/31733/Bishoujo_Senshi_Sailor_Moon_Crystal_Season_III",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/78859.jpg?s=b20970e2f63add031b9c12753f311da9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 40024,
+            "name": "Bishoujo Senshi Sailor Moon Eternal Movie 1",
+            "url": "https://myanimelist.net/anime/40024/Bishoujo_Senshi_Sailor_Moon_Eternal_Movie_1",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1312/110461.jpg?s=b806767b31837ce2f3a79fa5b90e7eaf",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 92,
+            "name": "Bishoujo Senshi Sailor Moon",
+            "url": "https://myanimelist.net/manga/92/Bishoujo_Senshi_Sailor_Moon",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/126449.jpg?s=4568644636e167134d435f1fbd9ddb64",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 74,
+            "name": "Nojima, Kenji",
+            "url": "https://myanimelist.net/people/74/Kenji_Nojima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46155.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 287,
+            "name": "Ogata, Megumi",
+            "url": "https://myanimelist.net/people/287/Megumi_Ogata",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12105.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1298,
+            "name": "Romano, Rino",
+            "url": "https://myanimelist.net/people/1298/Rino_Romano",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/1295.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1378,
+            "name": "Proctor, Toby",
+            "url": "https://myanimelist.net/people/1378/Toby_Proctor",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33659.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1393,
+            "name": "Corazza, Vincent",
+            "url": "https://myanimelist.net/people/1393/Vincent_Corazza",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/24115.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5605,
+            "name": "Romero, Cássius",
+            "url": "https://myanimelist.net/people/5605/Cássius_Romero",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34219.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 7786,
+            "name": "Holl, Nándor",
+            "url": "https://myanimelist.net/people/7786/Nándor_Holl",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5043.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 10024,
+            "name": "Reyero, Gerardo",
+            "url": "https://myanimelist.net/people/10024/Gerardo_Reyero",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15503.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 10593,
+            "name": "Auer, Dominik",
+            "url": "https://myanimelist.net/people/10593/Dominik_Auer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/9100.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 14829,
+            "name": "Kim, Il",
+            "url": "https://myanimelist.net/people/14829/Il_Kim",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15757.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 15921,
+            "name": "Debreczeny, Csaba",
+            "url": "https://myanimelist.net/people/15921/Csaba_Debreczeny",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18203.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 17169,
+            "name": "Fohrman, Zvika",
+            "url": "https://myanimelist.net/people/17169/Zvika_Fohrman",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/19791.jpg",
+            "language": "Hebrew"
+        },
+        {
+            "mal_id": 19934,
+            "name": "von Stegmann, Matthias",
+            "url": "https://myanimelist.net/people/19934/Matthias_von_Stegmann",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        },
+        {
+            "mal_id": 20092,
+            "name": "Meli, Manuel",
+            "url": "https://myanimelist.net/people/20092/Manuel_Meli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/38667.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 23613,
+            "name": "Ogouz, Philippe",
+            "url": "https://myanimelist.net/people/23613/Philippe_Ogouz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26391.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 26405,
+            "name": "Ribeiro, Vincent",
+            "url": "https://myanimelist.net/people/26405/Vincent_Ribeiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28513.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 26523,
+            "name": "Bourlé, Bastien",
+            "url": "https://myanimelist.net/people/26523/Bastien_Bourlé",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33205.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 32927,
+            "name": "Daymond, Robbie",
+            "url": "https://myanimelist.net/people/32927/Robbie_Daymond",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42942.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 42696,
+            "name": "Raspe, Johannes",
+            "url": "https://myanimelist.net/people/42696/Johannes_Raspe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46291.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43640,
+            "name": "Marchetti, César",
+            "url": "https://myanimelist.net/people/43640/César_Marchetti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/45314.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 45991,
+            "name": "Guillén, Maria Rosa",
+            "url": "https://myanimelist.net/people/45991/Maria_Rosa_Guillén",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49709.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

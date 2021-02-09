@@ -1,0 +1,52 @@
+{
+    "mal_id": 13723,
+    "url": "https://myanimelist.net/manga/13723/Sidonia_no_Kishi",
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/141085.jpg",
+    "title": "Sidonia no Kishi",
+    "title_english": "Knights of Sidonia",
+    "title_japanese": "シドニアの騎士",
+    "type": "Manga",
+    "volumes": 15,
+    "chapters": 78,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-25T00:00:00+00:00",
+        "to": "2015-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2015
+            }
+        },
+        "string": "Apr  25, 2009 to Sep  25, 2015"
+    },
+    "score": 7.8,
+    "scored_by": 8359,
+    "rank": 1167,
+    "popularity": 457,
+    "members": 23053,
+    "favorites": 787,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ]
+}

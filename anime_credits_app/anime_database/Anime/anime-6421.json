@@ -1,0 +1,44 @@
+{
+    "mal_id": 6421,
+    "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg",
+    "title": "Fullmetal Alchemist: Brotherhood Specials",
+    "title_english": "Fullmetal Alchemist: Brotherhood OVA Collection",
+    "title_japanese": "鋼の錬金術師",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-08-26T00:00:00+00:00",
+        "to": "2010-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2010
+            }
+        },
+        "string": "Aug 26, 2009 to Aug 25, 2010"
+    },
+    "score": 8.03,
+    "scored_by": 60387,
+    "rank": 508,
+    "popularity": 1160,
+    "members": 126393,
+    "favorites": 215,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

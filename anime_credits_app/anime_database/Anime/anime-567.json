@@ -1,0 +1,44 @@
+{
+    "mal_id": 567,
+    "url": "https://myanimelist.net/anime/567/The_Big_O",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg",
+    "title": "The Big O",
+    "title_english": "The Big O",
+    "title_japanese": "THEビッグオー",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-10-13T00:00:00+00:00",
+        "to": "2003-03-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 1999
+            },
+            "to": {
+                "day": 27,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Oct 13, 1999 to Mar 27, 2003"
+    },
+    "score": 7.53,
+    "scored_by": 29829,
+    "rank": 1477,
+    "popularity": 1729,
+    "members": 75241,
+    "favorites": 814,
+    "premiered": "Fall 1999",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

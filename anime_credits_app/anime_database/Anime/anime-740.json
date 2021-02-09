@@ -1,0 +1,44 @@
+{
+    "mal_id": 740,
+    "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg",
+    "title": "Bishoujo Senshi Sailor Moon R",
+    "title_english": "Sailor Moon R",
+    "title_japanese": "美少女戦士セーラームーン R",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 43,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-03-06T00:00:00+00:00",
+        "to": "1994-03-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 1993
+            },
+            "to": {
+                "day": 12,
+                "month": 3,
+                "year": 1994
+            }
+        },
+        "string": "Mar 6, 1993 to Mar 12, 1994"
+    },
+    "score": 7.69,
+    "scored_by": 66525,
+    "rank": 1052,
+    "popularity": 1208,
+    "members": 120361,
+    "favorites": 846,
+    "premiered": "Spring 1993",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

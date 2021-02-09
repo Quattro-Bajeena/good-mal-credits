@@ -1,0 +1,99 @@
+{
+    "mal_id": 33600,
+    "url": "https://myanimelist.net/character/33600/Hyuuma_Hoshi",
+    "name": "Hyuuma Hoshi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/365331.jpg",
+    "animeography": [
+        {
+            "mal_id": 5834,
+            "name": "Kyojin no Hoshi",
+            "url": "https://myanimelist.net/anime/5834/Kyojin_no_Hoshi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/59519.jpg?s=a389f240e944407c809aeacf0564cd31",
+            "role": "Main"
+        },
+        {
+            "mal_id": 15875,
+            "name": "Shin Kyojin no Hoshi",
+            "url": "https://myanimelist.net/anime/15875/Shin_Kyojin_no_Hoshi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/72511.jpg?s=8206f516dc4d2de9bf8d94a173746dd8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 16486,
+            "name": "Shin Kyojin no Hoshi II",
+            "url": "https://myanimelist.net/anime/16486/Shin_Kyojin_no_Hoshi_II",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1344/91228.jpg?s=538aaace0ced8d785d68fd7a22ae0756",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17441,
+            "name": "Kyojin no Hoshi: Chizome no Kesshousen",
+            "url": "https://myanimelist.net/anime/17441/Kyojin_no_Hoshi__Chizome_no_Kesshousen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/46613.jpg?s=d505ea5a7ac5ed0ebf587b998c82458d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17443,
+            "name": "Kyojin no Hoshi: Ike Ike Hyuuma",
+            "url": "https://myanimelist.net/anime/17443/Kyojin_no_Hoshi__Ike_Ike_Hyuuma",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/46615.jpg?s=69827864f98ff5851a820caa4208a841",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17445,
+            "name": "Kyojin no Hoshi: Dai League Ball",
+            "url": "https://myanimelist.net/anime/17445/Kyojin_no_Hoshi__Dai_League_Ball",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/46617.jpg?s=b10801398e6bc879af0eb2f7ff2121ab",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17447,
+            "name": "Kyojin no Hoshi: Shukumei no Taiketsu",
+            "url": "https://myanimelist.net/anime/17447/Kyojin_no_Hoshi__Shukumei_no_Taiketsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/46619.jpg?s=5aa612ac43a4f79d40179970b1484725",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 15305,
+            "name": "Kyojin no Hoshi",
+            "url": "https://myanimelist.net/manga/15305/Kyojin_no_Hoshi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203669.jpg?s=8971d560e26691301739b3c763c99294",
+            "role": "Main"
+        },
+        {
+            "mal_id": 15315,
+            "name": "Shin Kyojin no Hoshi",
+            "url": "https://myanimelist.net/manga/15315/Shin_Kyojin_no_Hoshi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/203670.jpg?s=1790eaf985851c6eeaa497d81f5c25f3",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1160,
+            "name": "Garbolino, Davide",
+            "url": "https://myanimelist.net/people/1160/Davide_Garbolino",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/1284.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 20371,
+    "url": "https://myanimelist.net/anime/20371/Sekaiichi_Hatsukoi_Movie__Yokozawa_Takafumi_no_Baai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/65927.jpg",
+    "title": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+    "title_english": null,
+    "title_japanese": "劇場版 世界一初恋 横澤隆史の場合",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-03-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 3,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 15, 2014"
+    },
+    "score": 7.95,
+    "scored_by": 24658,
+    "rank": 598,
+    "popularity": 2233,
+    "members": 50622,
+    "favorites": 227,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2512,
+    "url": "https://myanimelist.net/anime/2512/Detective_Conan_OVA_02__16_Suspects",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/71317.jpg",
+    "title": "Detective Conan OVA 02: 16 Suspects",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 16人の容疑者!?",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002"
+    },
+    "score": 7.33,
+    "scored_by": 7153,
+    "rank": 2216,
+    "popularity": 4298,
+    "members": 13701,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

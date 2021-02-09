@@ -1,0 +1,44 @@
+{
+    "mal_id": 17897,
+    "url": "https://myanimelist.net/anime/17897/Hana_wa_Saku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/47699.jpg",
+    "title": "Hana wa Saku",
+    "title_english": "Flowers Will Bloom",
+    "title_japanese": "花は咲く",
+    "type": "Special",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-03-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 3,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 20, 2013"
+    },
+    "score": 6.26,
+    "scored_by": 776,
+    "rank": 7056,
+    "popularity": 9368,
+    "members": 1605,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 569,
+            "type": "anime",
+            "name": "MAPPA",
+            "url": "https://myanimelist.net/anime/producer/569/MAPPA"
+        }
+    ]
+}

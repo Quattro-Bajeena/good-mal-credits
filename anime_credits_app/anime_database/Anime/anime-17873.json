@@ -1,0 +1,44 @@
+{
+    "mal_id": 17873,
+    "url": "https://myanimelist.net/anime/17873/Pokemon_Best_Wishes_Season_2__Decolora_Adventure",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/49285.jpg",
+    "title": "Pokemon Best Wishes! Season 2: Decolora Adventure",
+    "title_english": "Pokémon: Black & White: Adventures in Unova and Beyond",
+    "title_japanese": "ポケットモンスター ベストウイッシュ シーズン２ デコロラアドベンチャー",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-04-25T00:00:00+00:00",
+        "to": "2013-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Apr 25, 2013 to Sep 26, 2013"
+    },
+    "score": 6.3,
+    "scored_by": 15738,
+    "rank": 6896,
+    "popularity": 3002,
+    "members": 29261,
+    "favorites": 25,
+    "premiered": "Spring 2013",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

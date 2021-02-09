@@ -1,0 +1,44 @@
+{
+    "mal_id": 2520,
+    "url": "https://myanimelist.net/anime/2520/Dragon_Ball_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/24380.jpg",
+    "title": "Dragon Ball Specials",
+    "title_english": "Dragon Ball Specials",
+    "title_japanese": "ドラゴンボール",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-06-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 6,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 8, 1988"
+    },
+    "score": 6.74,
+    "scored_by": 12209,
+    "rank": 4704,
+    "popularity": 3270,
+    "members": 24940,
+    "favorites": 38,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

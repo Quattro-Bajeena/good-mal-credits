@@ -1,0 +1,44 @@
+{
+    "mal_id": 891,
+    "url": "https://myanimelist.net/anime/891/Dragon_Ball_Movie_2__Majinjou_no_Nemurihime",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1285/90340.jpg",
+    "title": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+    "title_english": "Dragon Ball: Sleeping Princess in Devil's Castle",
+    "title_japanese": "ドラゴンボール 魔神城のねむり姫",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-07-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 7,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 18, 1987"
+    },
+    "score": 6.79,
+    "scored_by": 26072,
+    "rank": 4487,
+    "popularity": 2311,
+    "members": 47718,
+    "favorites": 34,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

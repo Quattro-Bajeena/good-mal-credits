@@ -992,21 +992,6 @@
                 "name": "One Piece"
             },
             "character": {
-                "mal_id": 82259,
-                "url": "https://myanimelist.net/character/82259/Isshou",
-                "image_url": "https://cdn.myanimelist.net/images/characters/14/235827.jpg?s=0f40f2c99aae06acd1f7dcb058747311",
-                "name": "Isshou"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 21,
-                "url": "https://myanimelist.net/anime/21/One_Piece",
-                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
-                "name": "One Piece"
-            },
-            "character": {
                 "mal_id": 9322,
                 "url": "https://myanimelist.net/character/9322/Carne",
                 "image_url": "https://cdn.myanimelist.net/images/characters/10/49511.jpg?s=58201ab667aecb3ebc33c615e364e78b",
@@ -1026,6 +1011,21 @@
                 "url": "https://myanimelist.net/character/21688/Zenny",
                 "image_url": "https://cdn.myanimelist.net/images/characters/16/51459.jpg?s=8044a3a377fef14a6badd75d08a5cc08",
                 "name": "Zenny"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 82259,
+                "url": "https://myanimelist.net/character/82259/Isshou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/235827.jpg?s=0f40f2c99aae06acd1f7dcb058747311",
+                "name": "Isshou"
             }
         },
         {
@@ -1493,7 +1493,7 @@
             }
         },
         {
-            "position": "Producer",
+            "position": "Recording Engineer",
             "anime": {
                 "mal_id": 1629,
                 "url": "https://myanimelist.net/anime/1629/Devilman_Lady",
@@ -1502,7 +1502,7 @@
             }
         },
         {
-            "position": "Recording Engineer",
+            "position": "Producer",
             "anime": {
                 "mal_id": 1629,
                 "url": "https://myanimelist.net/anime/1629/Devilman_Lady",
@@ -2284,5 +2284,6 @@
                 "name": "Zone of the Enders: Dolores, I"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

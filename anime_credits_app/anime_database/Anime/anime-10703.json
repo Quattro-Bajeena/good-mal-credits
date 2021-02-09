@@ -1,0 +1,44 @@
+{
+    "mal_id": 10703,
+    "url": "https://myanimelist.net/anime/10703/Detective_Conan_OVA_11__A_Secret_Order_from_London",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/29489.jpg",
+    "title": "Detective Conan OVA 11: A Secret Order from London",
+    "title_english": null,
+    "title_japanese": "名探偵コナン ～ロンドンからの㊙指令 (ロンドンからのマル秘指令)",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-05-30T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 5,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 30, 2011"
+    },
+    "score": 7.39,
+    "scored_by": 4995,
+    "rank": 1952,
+    "popularity": 4815,
+    "members": 10415,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

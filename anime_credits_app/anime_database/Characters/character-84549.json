@@ -1,0 +1,50 @@
+{
+    "mal_id": 84549,
+    "url": "https://myanimelist.net/character/84549/Midori_Sakurazawa",
+    "name": "Midori Sakurazawa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 40,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/262731.jpg",
+    "animeography": [
+        {
+            "mal_id": 14397,
+            "name": "Chihayafuru 2",
+            "url": "https://myanimelist.net/anime/14397/Chihayafuru_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/47435.jpg?s=3b6f3e7b1e7117d286943ded5f284bcc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37379,
+            "name": "Chihayafuru 3",
+            "url": "https://myanimelist.net/anime/37379/Chihayafuru_3",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1898/110709.jpg?s=ccd8c48448aa34c35ceb224cf97c1859",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13245,
+            "name": "Chihayafuru",
+            "url": "https://myanimelist.net/manga/13245/Chihayafuru",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/135341.jpg?s=4773a7c2a8c0903e9c7f832b9c74a198",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 811,
+            "name": "Wittels, Stephanie",
+            "url": "https://myanimelist.net/people/811/Stephanie_Wittels",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46057.jpg",
+            "language": "English"
+        }
+    ]
+}

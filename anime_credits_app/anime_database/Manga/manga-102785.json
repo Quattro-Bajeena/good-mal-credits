@@ -1,0 +1,52 @@
+{
+    "mal_id": 102785,
+    "url": "https://myanimelist.net/manga/102785/Ningyou_no_Kuni",
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/195239.jpg",
+    "title": "Ningyou no Kuni",
+    "title_english": "Aposimz",
+    "title_japanese": "人形の国",
+    "type": "Manga",
+    "volumes": null,
+    "chapters": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "2017-02-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb  25, 2017 to ?"
+    },
+    "score": 7.28,
+    "scored_by": 1051,
+    "rank": 4421,
+    "popularity": 2118,
+    "members": 6051,
+    "favorites": 68,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 100,
+            "type": "manga",
+            "name": "Shounen Sirius",
+            "url": "https://myanimelist.net/manga/magazine/100/Shounen_Sirius"
+        }
+    ]
+}

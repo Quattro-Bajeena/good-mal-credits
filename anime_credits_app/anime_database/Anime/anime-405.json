@@ -1,0 +1,44 @@
+{
+    "mal_id": 405,
+    "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/18913.jpg",
+    "title": "Blood: The Last Vampire",
+    "title_english": "Blood: The Last Vampire",
+    "title_japanese": "BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-11-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 11,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 18, 2000"
+    },
+    "score": 6.91,
+    "scored_by": 51787,
+    "rank": 3986,
+    "popularity": 1488,
+    "members": 92503,
+    "favorites": 241,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

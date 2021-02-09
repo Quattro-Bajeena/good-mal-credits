@@ -1,0 +1,44 @@
+{
+    "mal_id": 1269,
+    "url": "https://myanimelist.net/anime/1269/Bio_Hunter",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/17896.jpg",
+    "title": "Bio Hunter",
+    "title_english": null,
+    "title_japanese": "バイオ・ハンター",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-12-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 12,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 8, 1995"
+    },
+    "score": 5.94,
+    "scored_by": 4632,
+    "rank": 8390,
+    "popularity": 4821,
+    "members": 10368,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

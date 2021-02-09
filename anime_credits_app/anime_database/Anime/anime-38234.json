@@ -1,0 +1,44 @@
+{
+    "mal_id": 38234,
+    "url": "https://myanimelist.net/anime/38234/One_Piece_Movie_14__Stampede",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg",
+    "title": "One Piece Movie 14: Stampede",
+    "title_english": null,
+    "title_japanese": "劇場版『ONE PIECE STAMPEDE』（スタンピード）",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-08-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 8,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 9, 2019"
+    },
+    "score": 8.18,
+    "scored_by": 41129,
+    "rank": 331,
+    "popularity": 1748,
+    "members": 75091,
+    "favorites": 641,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

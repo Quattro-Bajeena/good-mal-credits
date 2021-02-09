@@ -1,0 +1,35 @@
+{
+    "mal_id": 25485,
+    "url": "https://myanimelist.net/character/25485/Ongo",
+    "name": "Ongo",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/76302.jpg",
+    "animeography": [
+        {
+            "mal_id": 2524,
+            "name": "Jungle de Ikou!",
+            "url": "https://myanimelist.net/anime/2524/Jungle_de_Ikou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/3097.jpg?s=df63899060d9037ba234b7aee8eb9f0b",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 319,
+            "name": "Marshall, Mona",
+            "url": "https://myanimelist.net/people/319/Mona_Marshall",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39414.jpg",
+            "language": "English"
+        }
+    ]
+}

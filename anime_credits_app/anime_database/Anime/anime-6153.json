@@ -1,0 +1,44 @@
+{
+    "mal_id": 6153,
+    "url": "https://myanimelist.net/anime/6153/Saint_Seiya_Recap",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/55471.jpg",
+    "title": "Saint Seiya Recap",
+    "title_english": "Saint Seiya: Summary",
+    "title_japanese": "聖闘士星矢 総集編",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-01-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 1,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 25, 2003"
+    },
+    "score": 7.15,
+    "scored_by": 2669,
+    "rank": 2997,
+    "popularity": 6045,
+    "members": 5856,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

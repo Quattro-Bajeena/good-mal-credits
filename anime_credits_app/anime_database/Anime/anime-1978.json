@@ -1,0 +1,44 @@
+{
+    "mal_id": 1978,
+    "url": "https://myanimelist.net/anime/1978/Onkyo_Seimeitai_Noiseman",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/19521.jpg",
+    "title": "Onkyo Seimeitai Noiseman",
+    "title_english": "Noiseman Sound Insect",
+    "title_japanese": "音響生命体ノイズマン",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-11-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 11,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 22, 1997"
+    },
+    "score": 6.52,
+    "scored_by": 3894,
+    "rank": 5793,
+    "popularity": 5293,
+    "members": 8193,
+    "favorites": 18,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Studio 4°C",
+            "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+        }
+    ]
+}

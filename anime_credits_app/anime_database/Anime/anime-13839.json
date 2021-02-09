@@ -1,0 +1,44 @@
+{
+    "mal_id": 13839,
+    "url": "https://myanimelist.net/anime/13839/Detective_Conan_OVA_12__The_Miracle_of_Excalibur",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/59513.jpg",
+    "title": "Detective Conan OVA 12: The Miracle of Excalibur",
+    "title_english": null,
+    "title_japanese": "名探偵コナン　えくすかりばあの奇跡",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-05-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 5,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 24, 2012"
+    },
+    "score": 7.04,
+    "scored_by": 4177,
+    "rank": 3481,
+    "popularity": 5118,
+    "members": 8890,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

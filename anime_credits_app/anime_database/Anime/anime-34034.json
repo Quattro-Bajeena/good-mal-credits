@@ -1,0 +1,44 @@
+{
+    "mal_id": 34034,
+    "url": "https://myanimelist.net/anime/34034/Pokemon_Sun___Moon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/84673.jpg",
+    "title": "Pokemon Sun & Moon",
+    "title_english": "Pokémon the Series: Sun & Moon",
+    "title_japanese": "ポケットモンスター サン＆ムーン",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 146,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-11-17T00:00:00+00:00",
+        "to": "2019-11-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 11,
+                "year": 2016
+            },
+            "to": {
+                "day": 3,
+                "month": 11,
+                "year": 2019
+            }
+        },
+        "string": "Nov 17, 2016 to Nov 3, 2019"
+    },
+    "score": 6.85,
+    "scored_by": 22003,
+    "rank": 4224,
+    "popularity": 1883,
+    "members": 65844,
+    "favorites": 515,
+    "premiered": "Fall 2016",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

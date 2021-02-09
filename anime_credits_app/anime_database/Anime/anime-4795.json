@@ -1,0 +1,44 @@
+{
+    "mal_id": 4795,
+    "url": "https://myanimelist.net/anime/4795/Pokemon__Pika_Pika_Hoshizora_Camp",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1258/97387.jpg",
+    "title": "Pokemon: Pika Pika Hoshizora Camp",
+    "title_english": "Pokemon: Camp Pikachu",
+    "title_japanese": "ピカピカ星空キャンプ",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2002"
+    },
+    "score": 6.52,
+    "scored_by": 8048,
+    "rank": 5797,
+    "popularity": 4080,
+    "members": 15548,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

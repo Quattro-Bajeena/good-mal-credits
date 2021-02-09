@@ -1,0 +1,44 @@
+{
+    "mal_id": 14059,
+    "url": "https://myanimelist.net/anime/14059/Kimagure_Orange☆Road__Tanabata_Special",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/38827.jpg",
+    "title": "Kimagure Orange☆Road: Tanabata Special",
+    "title_english": null,
+    "title_japanese": "きまぐれオレンジ★ロード 総集編 七夕スペシャル",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-11-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 11,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 21, 1987"
+    },
+    "score": 6.64,
+    "scored_by": 396,
+    "rank": 5182,
+    "popularity": 9708,
+    "members": 1399,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1010,
+    "url": "https://myanimelist.net/anime/1010/Ranma_½__Chou_Musabetsu_Kessen_Ranma_Team_vs_Densetsu_no_Houou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1985/107722.jpg",
+    "title": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+    "title_english": "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+    "title_japanese": "らんま１／２ 超無差別決戦！ 乱馬チームVS伝説の鳳凰",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-08-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 8,
+                "year": 1994
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 20, 1994"
+    },
+    "score": 7.38,
+    "scored_by": 6823,
+    "rank": 1991,
+    "popularity": 4281,
+    "members": 13835,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

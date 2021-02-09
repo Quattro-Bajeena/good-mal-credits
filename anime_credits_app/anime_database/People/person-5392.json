@@ -6,7 +6,7 @@
     "given_name": "真宏",
     "family_name": "前田",
     "birthday": "1963-03-14T00:00:00+00:00",
-    "member_favorites": 67,
+    "member_favorites": 69,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -46,7 +46,7 @@
             }
         },
         {
-            "position": "Director",
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 1051,
                 "url": "https://myanimelist.net/anime/1051/Ao_no_6-gou",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "position": "Mechanical Design",
+            "position": "Director",
             "anime": {
                 "mal_id": 1051,
                 "url": "https://myanimelist.net/anime/1051/Ao_no_6-gou",
@@ -208,7 +208,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1157,
                 "url": "https://myanimelist.net/anime/1157/Final_Fantasy__Unlimited",
@@ -217,7 +217,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 1157,
                 "url": "https://myanimelist.net/anime/1157/Final_Fantasy__Unlimited",
@@ -898,6 +898,17 @@
                 "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1918/93715.jpg?s=ca6dbc7372075a79c6bb761519bd667e",
                 "name": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 4519,
+                "url": "https://myanimelist.net/manga/4519/Gankutsuou",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/138607.jpg?s=a1cd2c39bcac6f951655579d8c1dfa31",
+                "name": "Gankutsuou"
             }
         }
     ]

@@ -181,7 +181,7 @@
             }
         },
         {
-            "position": "Background Art",
+            "position": "Art Director",
             "anime": {
                 "mal_id": 14837,
                 "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
@@ -190,7 +190,7 @@
             }
         },
         {
-            "position": "Art Director",
+            "position": "Background Art",
             "anime": {
                 "mal_id": 14837,
                 "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
@@ -595,7 +595,7 @@
             }
         },
         {
-            "position": "Background Art",
+            "position": "Art Director",
             "anime": {
                 "mal_id": 14181,
                 "url": "https://myanimelist.net/anime/14181/Oedo_wa_Nemurenai",
@@ -604,7 +604,7 @@
             }
         },
         {
-            "position": "Art Director",
+            "position": "Background Art",
             "anime": {
                 "mal_id": 14181,
                 "url": "https://myanimelist.net/anime/14181/Oedo_wa_Nemurenai",
@@ -883,7 +883,7 @@
             }
         },
         {
-            "position": "Background Art",
+            "position": "Art Director",
             "anime": {
                 "mal_id": 12431,
                 "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai",
@@ -892,7 +892,7 @@
             }
         },
         {
-            "position": "Art Director",
+            "position": "Background Art",
             "anime": {
                 "mal_id": 12431,
                 "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai",
@@ -928,7 +928,7 @@
             }
         },
         {
-            "position": "Background Art",
+            "position": "Art Director",
             "anime": {
                 "mal_id": 15911,
                 "url": "https://myanimelist.net/anime/15911/Yuyushiki",
@@ -937,7 +937,7 @@
             }
         },
         {
-            "position": "Art Director",
+            "position": "Background Art",
             "anime": {
                 "mal_id": 15911,
                 "url": "https://myanimelist.net/anime/15911/Yuyushiki",
@@ -945,5 +945,6 @@
                 "name": "Yuyushiki"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

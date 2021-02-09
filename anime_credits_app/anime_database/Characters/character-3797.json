@@ -1,0 +1,70 @@
+{
+    "mal_id": 3797,
+    "url": "https://myanimelist.net/character/3797/Paprika",
+    "name": "Paprika",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 680,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/177123.jpg",
+    "animeography": [
+        {
+            "mal_id": 1943,
+            "name": "Paprika",
+            "url": "https://myanimelist.net/anime/1943/Paprika",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg?s=02e7bd06edea3b0d66457885dffbf4c0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 733,
+            "name": "Robinson, Cindy",
+            "url": "https://myanimelist.net/people/733/Cindy_Robinson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/13063.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 767,
+            "name": "De Bortoli, Federica",
+            "url": "https://myanimelist.net/people/767/Federica_De_Bortoli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/811.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 5136,
+            "name": "Quinto, Letícia",
+            "url": "https://myanimelist.net/people/5136/Letícia_Quinto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34189.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 7326,
+            "name": "Trifol, Nuria",
+            "url": "https://myanimelist.net/people/7326/Nuria_Trifol",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4272.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 9072,
+            "name": "Neugebauer, Veronika Aryana",
+            "url": "https://myanimelist.net/people/9072/Veronika_Aryana_Neugebauer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/6664.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 21429,
+            "name": "Marot, Kelly",
+            "url": "https://myanimelist.net/people/21429/Kelly_Marot",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/24617.jpg",
+            "language": "French"
+        }
+    ]
+}

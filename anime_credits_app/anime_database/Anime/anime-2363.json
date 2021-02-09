@@ -1,0 +1,44 @@
+{
+    "mal_id": 2363,
+    "url": "https://myanimelist.net/anime/2363/Pokemon_Housoukyoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/21390.jpg",
+    "title": "Pokemon Housoukyoku",
+    "title_english": "Pokemon Chronicles",
+    "title_japanese": "ポケモン放送局",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-12-03T00:00:00+00:00",
+        "to": "2004-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 12,
+                "year": 2002
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2004
+            }
+        },
+        "string": "Dec 3, 2002 to Sep 28, 2004"
+    },
+    "score": 6.86,
+    "scored_by": 11943,
+    "rank": 4208,
+    "popularity": 3367,
+    "members": 23354,
+    "favorites": 68,
+    "premiered": "Winter 2003",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

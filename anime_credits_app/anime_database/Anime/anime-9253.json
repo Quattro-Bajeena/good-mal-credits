@@ -1,0 +1,44 @@
+{
+    "mal_id": 9253,
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+    "title": "Steins;Gate",
+    "title_english": "Steins;Gate",
+    "title_japanese": "STEINS;GATE",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-06T00:00:00+00:00",
+        "to": "2011-09-14T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 14,
+                "month": 9,
+                "year": 2011
+            }
+        },
+        "string": "Apr 6, 2011 to Sep 14, 2011"
+    },
+    "score": 9.11,
+    "scored_by": 950398,
+    "rank": 3,
+    "popularity": 9,
+    "members": 1761445,
+    "favorites": 147852,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 314,
+            "type": "anime",
+            "name": "White Fox",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "mal_id": 31520,
+    "url": "https://myanimelist.net/character/31520/Rune_Balot",
+    "name": "Rune Balot",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 145,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/84803.jpg",
+    "animeography": [
+        {
+            "mal_id": 8100,
+            "name": "Mardock Scramble: The First Compression",
+            "url": "https://myanimelist.net/anime/8100/Mardock_Scramble__The_First_Compression",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/26215.jpg?s=06fe9a3d1ee9bbac8d62e770762c4a94",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10624,
+            "name": "Mardock Scramble: The Second Combustion",
+            "url": "https://myanimelist.net/anime/10624/Mardock_Scramble__The_Second_Combustion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/29197.jpg?s=9e6561d70efab672333f1c168d29046f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 12053,
+            "name": "Mardock Scramble: The Third Exhaust",
+            "url": "https://myanimelist.net/anime/12053/Mardock_Scramble__The_Third_Exhaust",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/39309.jpg?s=119032fbc93d699e72598defa055bea2",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 21371,
+            "name": "Mardock Scramble",
+            "url": "https://myanimelist.net/manga/21371/Mardock_Scramble",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/196522.jpg?s=c91c3fd30c589050b39aa15a864ddcfc",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 151,
+            "name": "Haag, Hilary",
+            "url": "https://myanimelist.net/people/151/Hilary_Haag",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41024.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 21893,
+            "name": "Nonnenmacher, Marie",
+            "url": "https://myanimelist.net/people/21893/Marie_Nonnenmacher",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/25163.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 39442,
+            "name": "Bau, Eva",
+            "url": "https://myanimelist.net/people/39442/Eva_Bau",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 45885,
+            "name": "Schwabe, Anneke",
+            "url": "https://myanimelist.net/people/45885/Anneke_Schwabe",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        }
+    ]
+}

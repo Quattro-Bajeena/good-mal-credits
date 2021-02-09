@@ -1,0 +1,64 @@
+{
+    "mal_id": 57467,
+    "url": "https://myanimelist.net/character/57467/Hiroshi_Umino",
+    "name": "Hiroshi Umino",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/156587.jpg",
+    "animeography": [
+        {
+            "mal_id": 1553,
+            "name": "Queen Emeraldas",
+            "url": "https://myanimelist.net/anime/1553/Queen_Emeraldas",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/21120.jpg?s=b67752ebb146fbcdb8ee470dab74eb76",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 26486,
+            "name": "Queen Emeraldas",
+            "url": "https://myanimelist.net/manga/26486/Queen_Emeraldas",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/76225.jpg?s=5336a054832a8b7b8fe6cb9b7cf51d35",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 764,
+            "name": "Alto, Massimiliano",
+            "url": "https://myanimelist.net/people/764/Massimiliano_Alto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/812.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1178,
+            "name": "Lafforque, Stéphanie",
+            "url": "https://myanimelist.net/people/1178/Stéphanie_Lafforque",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 17529,
+            "name": "Burke, Martin",
+            "url": "https://myanimelist.net/people/17529/Martin_Burke",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/20077.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20332,
+            "name": "Jiménez, Ariadna",
+            "url": "https://myanimelist.net/people/20332/Ariadna_Jiménez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48085.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

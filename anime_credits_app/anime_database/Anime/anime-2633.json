@@ -1,0 +1,44 @@
+{
+    "mal_id": 2633,
+    "url": "https://myanimelist.net/anime/2633/The☆Doraemons__Dokidoki_Kikansha_Daibakusou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/59531.jpg",
+    "title": "The☆Doraemons: Dokidoki Kikansha Daibakusou!",
+    "title_english": null,
+    "title_japanese": "ザ☆ドラえもんズ ドキドキ機関車大爆走！",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-03-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 4, 2000"
+    },
+    "score": 6.28,
+    "scored_by": 378,
+    "rank": 7000,
+    "popularity": 10291,
+    "members": 1062,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

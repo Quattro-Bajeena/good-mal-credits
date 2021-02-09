@@ -1,0 +1,85 @@
+{
+    "mal_id": 5278,
+    "url": "https://myanimelist.net/character/5278/Tomoko_Saeki",
+    "name": "Tomoko Saeki",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 13,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/82892.jpg",
+    "animeography": [
+        {
+            "mal_id": 563,
+            "name": "DNA²",
+            "url": "https://myanimelist.net/anime/563/DNA²",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1433/103506.jpg?s=87f6a6ffaa3c94a1d6a747ca765f4243",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1187,
+            "name": "DNA² OVA",
+            "url": "https://myanimelist.net/anime/1187/DNA²_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/4537.jpg?s=3d344d9d760c6df32669e0420fd7c99e",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 683,
+            "name": "DNA²: Dokoka de Nakushita Aitsu no Aitsu",
+            "url": "https://myanimelist.net/manga/683/DNA²__Dokoka_de_Nakushita_Aitsu_no_Aitsu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177761.jpg?s=7040d36f19692ce1fae0e011b85bde44",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 767,
+            "name": "De Bortoli, Federica",
+            "url": "https://myanimelist.net/people/767/Federica_De_Bortoli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/811.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 5137,
+            "name": "Pereira, Silvia Suzy",
+            "url": "https://myanimelist.net/people/5137/Silvia_Suzy_Pereira",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41069.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9235,
+            "name": "Hernandez, Maria Teresa",
+            "url": "https://myanimelist.net/people/9235/Maria_Teresa_Hernandez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/38589.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 14865,
+            "name": "Soyeon",
+            "url": "https://myanimelist.net/people/14865/Soyeon",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15463.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 18883,
+            "name": "Estrada, Marta",
+            "url": "https://myanimelist.net/people/18883/Marta_Estrada",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 20388,
+            "name": "Bleynie, Nathalie",
+            "url": "https://myanimelist.net/people/20388/Nathalie_Bleynie",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/28779.jpg",
+            "language": "French"
+        }
+    ]
+}

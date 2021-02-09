@@ -42,6 +42,38 @@ class Anime(db.Model):
         return f"Anime: {self.title} - {self.mal_id}"
 
 
+class Manga(db.Model):
+    mal_id = db.Column(db.Integer, primary_key=True)
+    url = db.Column(db.String(200))
+
+    title = db.Column(db.String(200), nullable=False)
+    title_english = db.Column(db.String(200))
+    title_japanese = db.Column(db.String(200))
+
+    image_url = db.Column(db.String(200))
+    status = db.Column(db.String(50))
+    work_type = db.Column(db.String(50))
+
+    volumes = db.Column(db.Integer)
+    chapters = db.Column(db.Integer)
+
+    publishing = db.Column(db.String(50))
+    published_from = db.Column(db.DateTime)
+    published_to = db.Column(db.DateTime)
+
+    rank = db.Column(db.Integer)
+    score = db.Column(db.Float)
+    scored_by = db. Column(db.Integer)
+    
+    popularity = db.Column(db.Integer)
+    members = db.Column(db.Integer)
+    favorites = db.Column(db.Integer)
+
+    serialization = db.Column(db.String(100))
+
+    authors = db.relationship('MangaAuthor', backref='manga', lazy=True)
+
+
 class Person(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     url = db.Column(db.String(200))
@@ -54,13 +86,13 @@ class Person(db.Model):
 
     staff_credits = db.relationship('StaffMember', backref='person', lazy=True)
     voice_acting_roles = db.relationship('VoiceActor', backref='person', lazy=True)
+    published_manga = db.relationship('MangaAuthor', backref='person', lazy=True)
 
 
     def __repr__(self):
         return f"Person: {self.name} - {self.mal_id}"
 
 
-  
 class Character(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     url = db.Column(db.String(200))
@@ -98,6 +130,13 @@ class VoiceActor(db.Model):
         return f"VoiceActor {self.role} - anime: {self.anime_id}"
 
 
+class MangaAuthor(db.Model):
+    id = db.Column(db.String(200), primary_key=True)
+    position = db.Column(db.String(100))
+    author_type = db.Column(db.String(100))
+    person_id = db.Column(db.Integer, db.ForeignKey('person.mal_id'))
+    manga_id = db.Column(db.Integer, db.ForeignKey('manga.mal_id'))
+
 class Studio(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     # just type in MAL api
@@ -116,7 +155,8 @@ class PageStatus(db.Model):
     exists = db.Column(db.Boolean, default=False, nullable=False)
 
     last_modified = db.Column(db.DateTime)
-    updating = db.Column(db.Boolean)
+    updating = db.Column(db.Boolean, default=False)
+    scheduled_to_update = db.Column(db.Boolean, default=False)
     
     task_id = db.Column(db.String(100))
 

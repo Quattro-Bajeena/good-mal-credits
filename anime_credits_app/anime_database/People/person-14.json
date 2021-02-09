@@ -6,7 +6,7 @@
     "given_name": "めぐみ",
     "family_name": "林原",
     "birthday": "1967-03-30T00:00:00+00:00",
-    "member_favorites": 7840,
+    "member_favorites": 7930,
     "voice_acting_roles": [
         {
             "role": "Main",
@@ -1322,6 +1322,21 @@
                 "name": "Evangelion: 1.0 You Are (Not) Alone"
             },
             "character": {
+                "mal_id": 1258,
+                "url": "https://myanimelist.net/character/1258/Yui_Ikari",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=1945dbc089abfc66cd448ddd6c10721f",
+                "name": "Ikari, Yui"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2759,
+                "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=0b67af75f2a2ea439d3d90958df219ae",
+                "name": "Evangelion: 1.0 You Are (Not) Alone"
+            },
+            "character": {
                 "mal_id": 1892,
                 "url": "https://myanimelist.net/character/1892/Pen_Pen",
                 "image_url": "https://cdn.myanimelist.net/images/characters/7/346982.jpg?s=8afe966bbe9c7411defb8cb6bc7615be",
@@ -1341,21 +1356,6 @@
                 "url": "https://myanimelist.net/character/86/Rei_Ayanami",
                 "image_url": "https://cdn.myanimelist.net/images/characters/11/314932.jpg?s=a7f83ab52d74dd53349354e1527ae610",
                 "name": "Ayanami, Rei"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 2759,
-                "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=0b67af75f2a2ea439d3d90958df219ae",
-                "name": "Evangelion: 1.0 You Are (Not) Alone"
-            },
-            "character": {
-                "mal_id": 1258,
-                "url": "https://myanimelist.net/character/1258/Yui_Ikari",
-                "image_url": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=1945dbc089abfc66cd448ddd6c10721f",
-                "name": "Ikari, Yui"
             }
         },
         {
@@ -2357,10 +2357,10 @@
                 "name": "Kyoukai no Rinne (TV) 3rd Season"
             },
             "character": {
-                "mal_id": 137619,
-                "url": "https://myanimelist.net/character/137619/Otome_Rokudou",
-                "image_url": "https://cdn.myanimelist.net/images/characters/15/323053.jpg?s=5c9d0d871b24dd642b619f91c9ce4666",
-                "name": "Rokudou, Otome"
+                "mal_id": 149264,
+                "url": "https://myanimelist.net/character/149264/Ichigo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/325082.jpg?s=33b35a325004a5c92af9c59990f1a2cf",
+                "name": "Ichigo"
             }
         },
         {
@@ -2372,10 +2372,10 @@
                 "name": "Kyoukai no Rinne (TV) 3rd Season"
             },
             "character": {
-                "mal_id": 149264,
-                "url": "https://myanimelist.net/character/149264/Ichigo",
-                "image_url": "https://cdn.myanimelist.net/images/characters/4/325082.jpg?s=33b35a325004a5c92af9c59990f1a2cf",
-                "name": "Ichigo"
+                "mal_id": 137619,
+                "url": "https://myanimelist.net/character/137619/Otome_Rokudou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/323053.jpg?s=5c9d0d871b24dd642b619f91c9ce4666",
+                "name": "Rokudou, Otome"
             }
         },
         {
@@ -2904,6 +2904,21 @@
             }
         },
         {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5395,
+                "url": "https://myanimelist.net/anime/5395/Nekketsu_Saikyou_Go-Saurer",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg?s=9c99a00a1100dad49f270ef31369b4d3",
+                "name": "Nekketsu Saikyou Go-Saurer"
+            },
+            "character": {
+                "mal_id": 37758,
+                "url": "https://myanimelist.net/character/37758/Harue_Yamamoto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/378928.jpg?s=b29825832cae25ee9d035172b07cbc25",
+                "name": "Yamamoto, Harue"
+            }
+        },
+        {
             "role": "Main",
             "anime": {
                 "mal_id": 5395,
@@ -2934,21 +2949,6 @@
             }
         },
         {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 5395,
-                "url": "https://myanimelist.net/anime/5395/Nekketsu_Saikyou_Go-Saurer",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg?s=9c99a00a1100dad49f270ef31369b4d3",
-                "name": "Nekketsu Saikyou Go-Saurer"
-            },
-            "character": {
-                "mal_id": 37758,
-                "url": "https://myanimelist.net/character/37758/Harue_Yamamoto",
-                "image_url": "https://cdn.myanimelist.net/images/characters/8/378928.jpg?s=b29825832cae25ee9d035172b07cbc25",
-                "name": "Yamamoto, Harue"
-            }
-        },
-        {
             "role": "Main",
             "anime": {
                 "mal_id": 5925,
@@ -2961,6 +2961,21 @@
                 "url": "https://myanimelist.net/character/172785/Iruinedo",
                 "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
                 "name": "Iruinedo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            },
+            "character": {
+                "mal_id": 1258,
+                "url": "https://myanimelist.net/character/1258/Yui_Ikari",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=1945dbc089abfc66cd448ddd6c10721f",
+                "name": "Ikari, Yui"
             }
         },
         {
@@ -2996,10 +3011,10 @@
         {
             "role": "Supporting",
             "anime": {
-                "mal_id": 30,
-                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
-                "name": "Neon Genesis Evangelion"
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
             },
             "character": {
                 "mal_id": 1258,
@@ -3026,10 +3041,10 @@
         {
             "role": "Supporting",
             "anime": {
-                "mal_id": 31,
-                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
-                "name": "Neon Genesis Evangelion: Death & Rebirth"
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
             },
             "character": {
                 "mal_id": 1258,
@@ -3051,21 +3066,6 @@
                 "url": "https://myanimelist.net/character/86/Rei_Ayanami",
                 "image_url": "https://cdn.myanimelist.net/images/characters/11/314932.jpg?s=a7f83ab52d74dd53349354e1527ae610",
                 "name": "Ayanami, Rei"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 32,
-                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
-                "name": "Neon Genesis Evangelion: The End of Evangelion"
-            },
-            "character": {
-                "mal_id": 1258,
-                "url": "https://myanimelist.net/character/1258/Yui_Ikari",
-                "image_url": "https://cdn.myanimelist.net/images/characters/12/108140.jpg?s=1945dbc089abfc66cd448ddd6c10721f",
-                "name": "Ikari, Yui"
             }
         },
         {
@@ -3377,51 +3377,6 @@
                 "name": "Pokemon"
             },
             "character": {
-                "mal_id": 34708,
-                "url": "https://myanimelist.net/character/34708/Rumika",
-                "image_url": "https://cdn.myanimelist.net/images/characters/13/94432.jpg?s=9f6791015a6311174d3a6e188c5049a7",
-                "name": "Rumika"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 527,
-                "url": "https://myanimelist.net/anime/527/Pokemon",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
-                "name": "Pokemon"
-            },
-            "character": {
-                "mal_id": 35805,
-                "url": "https://myanimelist.net/character/35805/Lugia",
-                "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=1f663bf7f92b529a5d80d1beb0c33771",
-                "name": "Lugia"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 527,
-                "url": "https://myanimelist.net/anime/527/Pokemon",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
-                "name": "Pokemon"
-            },
-            "character": {
-                "mal_id": 3935,
-                "url": "https://myanimelist.net/character/3935/Musashi",
-                "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
-                "name": "Musashi"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 527,
-                "url": "https://myanimelist.net/anime/527/Pokemon",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
-                "name": "Pokemon"
-            },
-            "character": {
                 "mal_id": 37821,
                 "url": "https://myanimelist.net/character/37821/Vincent",
                 "image_url": "https://cdn.myanimelist.net/images/characters/3/396679.jpg?s=7f6b18144e209913a7539a27fd87d773",
@@ -3456,6 +3411,51 @@
                 "url": "https://myanimelist.net/character/107581/Mayor_of_Big_City",
                 "image_url": "https://cdn.myanimelist.net/images/characters/8/248095.jpg?s=1ad530c3c0ad4e0c29e7d61fe3fd931a",
                 "name": "Mayor of Big City"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 527,
+                "url": "https://myanimelist.net/anime/527/Pokemon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
+                "name": "Pokemon"
+            },
+            "character": {
+                "mal_id": 34708,
+                "url": "https://myanimelist.net/character/34708/Rumika",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/94432.jpg?s=9f6791015a6311174d3a6e188c5049a7",
+                "name": "Rumika"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 527,
+                "url": "https://myanimelist.net/anime/527/Pokemon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
+                "name": "Pokemon"
+            },
+            "character": {
+                "mal_id": 35805,
+                "url": "https://myanimelist.net/character/35805/Lugia",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/394888.jpg?s=1f663bf7f92b529a5d80d1beb0c33771",
+                "name": "Lugia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 527,
+                "url": "https://myanimelist.net/anime/527/Pokemon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=900d9478581ca135c068a9bb4825e6fd",
+                "name": "Pokemon"
+            },
+            "character": {
+                "mal_id": 3935,
+                "url": "https://myanimelist.net/character/3935/Musashi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
+                "name": "Musashi"
             }
         },
         {
@@ -3527,21 +3527,6 @@
                 "name": "Pokemon Advanced Generation"
             },
             "character": {
-                "mal_id": 129785,
-                "url": "https://myanimelist.net/character/129785/Pokemon_Zukan",
-                "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=e7a13b4e6dbff1370130deefae0bd109",
-                "name": "Pokemon Zukan"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 1564,
-                "url": "https://myanimelist.net/anime/1564/Pokemon_Advanced_Generation",
-                "image_url": "https://cdn.myanimelist.net/images/anime/3/85774.jpg?s=942653d8294dc8d572f7de61547f8053",
-                "name": "Pokemon Advanced Generation"
-            },
-            "character": {
                 "mal_id": 3935,
                 "url": "https://myanimelist.net/character/3935/Musashi",
                 "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
@@ -3591,6 +3576,21 @@
                 "url": "https://myanimelist.net/character/97841/Eevee",
                 "image_url": "https://cdn.myanimelist.net/images/characters/8/359157.jpg?s=dfb5dea691d9406d7cd02a8a07782ea3",
                 "name": "Eevee"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1564,
+                "url": "https://myanimelist.net/anime/1564/Pokemon_Advanced_Generation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/85774.jpg?s=942653d8294dc8d572f7de61547f8053",
+                "name": "Pokemon Advanced Generation"
+            },
+            "character": {
+                "mal_id": 129785,
+                "url": "https://myanimelist.net/character/129785/Pokemon_Zukan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/284318.jpg?s=e7a13b4e6dbff1370130deefae0bd109",
+                "name": "Pokemon Zukan"
             }
         },
         {
@@ -3692,21 +3692,6 @@
                 "name": "Pokemon Diamond & Pearl"
             },
             "character": {
-                "mal_id": 34708,
-                "url": "https://myanimelist.net/character/34708/Rumika",
-                "image_url": "https://cdn.myanimelist.net/images/characters/13/94432.jpg?s=9f6791015a6311174d3a6e188c5049a7",
-                "name": "Rumika"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 1565,
-                "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg?s=9364f05eb666d98bf57747718698729c",
-                "name": "Pokemon Diamond & Pearl"
-            },
-            "character": {
                 "mal_id": 3935,
                 "url": "https://myanimelist.net/character/3935/Musashi",
                 "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
@@ -3726,6 +3711,21 @@
                 "url": "https://myanimelist.net/character/176741/Fushigidane",
                 "image_url": "https://cdn.myanimelist.net/images/characters/6/396691.jpg?s=73ec773623e076e71c5b07d2d9fe35af",
                 "name": "Fushigidane"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1565,
+                "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg?s=9364f05eb666d98bf57747718698729c",
+                "name": "Pokemon Diamond & Pearl"
+            },
+            "character": {
+                "mal_id": 34708,
+                "url": "https://myanimelist.net/character/34708/Rumika",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/94432.jpg?s=9f6791015a6311174d3a6e188c5049a7",
+                "name": "Rumika"
             }
         },
         {
@@ -3752,10 +3752,10 @@
                 "name": "Pokemon Movie 01: Mewtwo no Gyakushuu"
             },
             "character": {
-                "mal_id": 3935,
-                "url": "https://myanimelist.net/character/3935/Musashi",
-                "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
-                "name": "Musashi"
+                "mal_id": 176741,
+                "url": "https://myanimelist.net/character/176741/Fushigidane",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/396691.jpg?s=73ec773623e076e71c5b07d2d9fe35af",
+                "name": "Fushigidane"
             }
         },
         {
@@ -3767,10 +3767,10 @@
                 "name": "Pokemon Movie 01: Mewtwo no Gyakushuu"
             },
             "character": {
-                "mal_id": 176741,
-                "url": "https://myanimelist.net/character/176741/Fushigidane",
-                "image_url": "https://cdn.myanimelist.net/images/characters/6/396691.jpg?s=73ec773623e076e71c5b07d2d9fe35af",
-                "name": "Fushigidane"
+                "mal_id": 3935,
+                "url": "https://myanimelist.net/character/3935/Musashi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg?s=fd8e5c99a4e4c0fb149cfb83c68d2507",
+                "name": "Musashi"
             }
         },
         {
@@ -4224,21 +4224,6 @@
             }
         },
         {
-            "role": "Main",
-            "anime": {
-                "mal_id": 1709,
-                "url": "https://myanimelist.net/anime/1709/Pokemon__Mewtwo_Ware_wa_Koko_ni_Ari",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/87922.jpg?s=bfb3b558032fd84564448b2771a93946",
-                "name": "Pokemon: Mewtwo! Ware wa Koko ni Ari"
-            },
-            "character": {
-                "mal_id": 3891,
-                "url": "https://myanimelist.net/character/3891/Pikachu",
-                "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=765b397845abb9dc40e14851273768ff",
-                "name": "Pikachu"
-            }
-        },
-        {
             "role": "Supporting",
             "anime": {
                 "mal_id": 1709,
@@ -4266,6 +4251,21 @@
                 "url": "https://myanimelist.net/character/176741/Fushigidane",
                 "image_url": "https://cdn.myanimelist.net/images/characters/6/396691.jpg?s=73ec773623e076e71c5b07d2d9fe35af",
                 "name": "Fushigidane"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1709,
+                "url": "https://myanimelist.net/anime/1709/Pokemon__Mewtwo_Ware_wa_Koko_ni_Ari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/87922.jpg?s=bfb3b558032fd84564448b2771a93946",
+                "name": "Pokemon: Mewtwo! Ware wa Koko ni Ari"
+            },
+            "character": {
+                "mal_id": 3891,
+                "url": "https://myanimelist.net/character/3891/Pikachu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/289627.jpg?s=765b397845abb9dc40e14851273768ff",
+                "name": "Pikachu"
             }
         },
         {
@@ -5252,10 +5252,10 @@
                 "name": "Sore Ike! Anpanman"
             },
             "character": {
-                "mal_id": 34077,
-                "url": "https://myanimelist.net/character/34077/Komusubiman",
-                "image_url": "https://cdn.myanimelist.net/images/characters/14/236471.jpg?s=8a4c2cda3d90ab3cb921532cdcff2741",
-                "name": "Komusubiman"
+                "mal_id": 96989,
+                "url": "https://myanimelist.net/character/96989/Pirima-chan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/228497.jpg?s=e3ab8884f9e19c76f3c9f85581b1c376",
+                "name": "Pirima-chan"
             }
         },
         {
@@ -5267,10 +5267,10 @@
                 "name": "Sore Ike! Anpanman"
             },
             "character": {
-                "mal_id": 96989,
-                "url": "https://myanimelist.net/character/96989/Pirima-chan",
-                "image_url": "https://cdn.myanimelist.net/images/characters/12/228497.jpg?s=e3ab8884f9e19c76f3c9f85581b1c376",
-                "name": "Pirima-chan"
+                "mal_id": 34077,
+                "url": "https://myanimelist.net/character/34077/Komusubiman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/236471.jpg?s=8a4c2cda3d90ab3cb921532cdcff2741",
+                "name": "Komusubiman"
             }
         },
         {
@@ -5773,7 +5773,7 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             },
             "character": {
@@ -5924,7 +5924,7 @@
             }
         },
         {
-            "position": "Inserted Song Performance",
+            "position": "Theme Song Performance",
             "anime": {
                 "mal_id": 375,
                 "url": "https://myanimelist.net/anime/375/Bannou_Bunka_Neko-Musume_1998",
@@ -5933,7 +5933,7 @@
             }
         },
         {
-            "position": "Theme Song Performance",
+            "position": "Inserted Song Performance",
             "anime": {
                 "mal_id": 375,
                 "url": "https://myanimelist.net/anime/375/Bannou_Bunka_Neko-Musume_1998",
@@ -6290,6 +6290,17 @@
                 "url": "https://myanimelist.net/anime/2114/Tenkuu_Senki_Shurato__Sousei_e_no_Anto",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1728/92419.jpg?s=5993f01bcaf4d25d19f4119885a107f5",
                 "name": "Tenkuu Senki Shurato: Sousei e no Anto"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 49821,
+                "url": "https://myanimelist.net/manga/49821/Ashita_ga_Aru_sa__Sweet_Time_Express",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/90855.jpg?s=dfdf9760469a97a7831f9591f276f09a",
+                "name": "Ashita ga Aru sa: Sweet Time Express"
             }
         }
     ]

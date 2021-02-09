@@ -1,0 +1,44 @@
+{
+    "mal_id": 1505,
+    "url": "https://myanimelist.net/anime/1505/Detective_Conan_Movie_09__Strategy_Above_the_Depths",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/20983.jpg",
+    "title": "Detective Conan Movie 09: Strategy Above the Depths",
+    "title_english": null,
+    "title_japanese": "名探偵コナン　水平線上の陰謀",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-04-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 9, 2005"
+    },
+    "score": 7.82,
+    "scored_by": 22003,
+    "rank": 790,
+    "popularity": 2622,
+    "members": 37672,
+    "favorites": 25,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

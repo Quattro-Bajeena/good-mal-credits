@@ -1,0 +1,44 @@
+{
+    "mal_id": 528,
+    "url": "https://myanimelist.net/anime/528/Pokemon_Movie_01__Mewtwo_no_Gyakushuu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/65699.jpg",
+    "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+    "title_english": "Pokemon: The First Movie",
+    "title_japanese": "ポケットモンスター ミュウツーの逆襲",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-07-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 7,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 18, 1998"
+    },
+    "score": 7.63,
+    "scored_by": 131441,
+    "rank": 1186,
+    "popularity": 755,
+    "members": 194524,
+    "favorites": 337,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

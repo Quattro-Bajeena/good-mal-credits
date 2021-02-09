@@ -1018,7 +1018,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 1712,
                 "url": "https://myanimelist.net/anime/1712/Shin_Seiki_Den_Mars",
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "position": "Mechanical Design",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 1712,
                 "url": "https://myanimelist.net/anime/1712/Shin_Seiki_Den_Mars",
@@ -1332,5 +1332,6 @@
                 "name": "Youjuu Toshi"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

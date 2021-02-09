@@ -1,0 +1,50 @@
+{
+    "mal_id": 1008,
+    "url": "https://myanimelist.net/anime/1008/Ranma_½__Yomigaeru_Kioku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/63453.jpg",
+    "title": "Ranma ½: Yomigaeru Kioku",
+    "title_english": null,
+    "title_japanese": "らんま1/2 SPECIAL よみがえる記憶",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-12-16T00:00:00+00:00",
+        "to": "1995-02-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 12,
+                "year": 1994
+            },
+            "to": {
+                "day": 17,
+                "month": 2,
+                "year": 1995
+            }
+        },
+        "string": "Dec 16, 1994 to Feb 17, 1995"
+    },
+    "score": 7.63,
+    "scored_by": 7832,
+    "rank": 1189,
+    "popularity": 4020,
+    "members": 16047,
+    "favorites": 38,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

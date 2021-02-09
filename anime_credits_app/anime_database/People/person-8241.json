@@ -6,7 +6,7 @@
     "given_name": null,
     "family_name": null,
     "birthday": null,
-    "member_favorites": 258,
+    "member_favorites": 259,
     "voice_acting_roles": [
         {
             "role": "Supporting",
@@ -174,21 +174,6 @@
             }
         },
         {
-            "role": "Main",
-            "anime": {
-                "mal_id": 225,
-                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
-                "name": "Dragon Ball GT"
-            },
-            "character": {
-                "mal_id": 246,
-                "url": "https://myanimelist.net/character/246/Gokuu_Son",
-                "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=5e590aa5ed2aec207d670800bc94be65",
-                "name": "Son, Gokuu"
-            }
-        },
-        {
             "role": "Supporting",
             "anime": {
                 "mal_id": 225,
@@ -201,6 +186,21 @@
                 "url": "https://myanimelist.net/character/2152/Gokuu_Jr_Son",
                 "image_url": "https://cdn.myanimelist.net/images/characters/15/116675.jpg?s=d3d621002bc86c3ca7a86f2754a8aef3",
                 "name": "Son, Gokuu Jr."
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 246,
+                "url": "https://myanimelist.net/character/246/Gokuu_Son",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=5e590aa5ed2aec207d670800bc94be65",
+                "name": "Son, Gokuu"
             }
         },
         {
@@ -309,21 +309,6 @@
             }
         },
         {
-            "role": "Main",
-            "anime": {
-                "mal_id": 813,
-                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
-                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
-                "name": "Dragon Ball Z"
-            },
-            "character": {
-                "mal_id": 246,
-                "url": "https://myanimelist.net/character/246/Gokuu_Son",
-                "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=5e590aa5ed2aec207d670800bc94be65",
-                "name": "Son, Gokuu"
-            }
-        },
-        {
             "role": "Supporting",
             "anime": {
                 "mal_id": 813,
@@ -336,6 +321,21 @@
                 "url": "https://myanimelist.net/character/2151/Chiaotzu",
                 "image_url": "https://cdn.myanimelist.net/images/characters/13/52822.jpg?s=5d989e6803993bb66520ec12c8c87599",
                 "name": "Chiaotzu"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 246,
+                "url": "https://myanimelist.net/character/246/Gokuu_Son",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg?s=5e590aa5ed2aec207d670800bc94be65",
+                "name": "Son, Gokuu"
             }
         },
         {
@@ -709,5 +709,6 @@
                 "name": "Sword Gai The Animation Part II"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

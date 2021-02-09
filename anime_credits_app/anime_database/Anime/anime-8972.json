@@ -1,0 +1,44 @@
+{
+    "mal_id": 8972,
+    "url": "https://myanimelist.net/anime/8972/Mahou_no_Princess_Minky_Momo_vs_Mahou_no_Tenshi_Creamy_Mami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/24837.jpg",
+    "title": "Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami",
+    "title_english": null,
+    "title_japanese": "魔法のプリンセスミンキーモモvs魔法の天使クリィーミーマミ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1985-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 8,
+                "year": 1985
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 3, 1985"
+    },
+    "score": 5.87,
+    "scored_by": 478,
+    "rank": 8617,
+    "popularity": 9964,
+    "members": 1236,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

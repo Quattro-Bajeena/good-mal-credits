@@ -1,0 +1,44 @@
+{
+    "mal_id": 25517,
+    "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/67807.jpg",
+    "title": "Magic Kaito 1412",
+    "title_english": null,
+    "title_japanese": "まじっく快斗1412",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-04T00:00:00+00:00",
+        "to": "2015-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 4, 2014 to Mar 28, 2015"
+    },
+    "score": 7.88,
+    "scored_by": 40477,
+    "rank": 698,
+    "popularity": 1466,
+    "members": 94299,
+    "favorites": 903,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 56,
+            "type": "anime",
+            "name": "A-1 Pictures",
+            "url": "https://myanimelist.net/anime/producer/56/A-1_Pictures"
+        }
+    ]
+}

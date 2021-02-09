@@ -1,0 +1,64 @@
+{
+    "mal_id": 50795,
+    "url": "https://myanimelist.net/character/50795/Zen_Kirishima",
+    "name": "Zen Kirishima",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 80,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/234417.jpg",
+    "animeography": [
+        {
+            "mal_id": 11123,
+            "name": "Sekaiichi Hatsukoi 2",
+            "url": "https://myanimelist.net/anime/11123/Sekaiichi_Hatsukoi_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/34871.jpg?s=8e07055967ea620f43739157807a3d40",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 20371,
+            "name": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+            "url": "https://myanimelist.net/anime/20371/Sekaiichi_Hatsukoi_Movie__Yokozawa_Takafumi_no_Baai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/65927.jpg?s=52b7a31ea98b63482140c77fdc6c14c2",
+            "role": "Main"
+        },
+        {
+            "mal_id": 20815,
+            "name": "Sekaiichi Hatsukoi: Valentine-hen",
+            "url": "https://myanimelist.net/anime/20815/Sekaiichi_Hatsukoi__Valentine-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/55723.jpg?s=c712130d9b4687886c02fc49a0779fd1",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25649,
+            "name": "Junjou Romantica 3",
+            "url": "https://myanimelist.net/anime/25649/Junjou_Romantica_3",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/74170.jpg?s=924eee97425773638e9d17f08365c716",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 765,
+            "name": "Junjou Romantica",
+            "url": "https://myanimelist.net/manga/765/Junjou_Romantica",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/206960.jpg?s=7af98c323b6f4e236d42ed04ee3917ba",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31105,
+            "name": "Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai",
+            "url": "https://myanimelist.net/manga/31105/Sekaiichi_Hatsukoi__Yokozawa_Takafumi_no_Baai",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/81400.jpg?s=f40c867a059b256df67eac6f2e3e0842",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

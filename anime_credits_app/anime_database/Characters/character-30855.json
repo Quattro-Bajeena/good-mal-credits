@@ -1,0 +1,57 @@
+{
+    "mal_id": 30855,
+    "url": "https://myanimelist.net/character/30855/Adroc_Thurston",
+    "name": "Adroc Thurston",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 6,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/140335.jpg",
+    "animeography": [
+        {
+            "mal_id": 237,
+            "name": "Koukyoushihen Eureka Seven",
+            "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=42acdcedbf03ea752e096ccb36c3d61d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4246,
+            "name": "Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai",
+            "url": "https://myanimelist.net/anime/4246/Koukyoushihen_Eureka_Seven__Pocket_ga_Niji_de_Ippai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/12896.jpg?s=73022dc0cd41917a9a5ec4ef78c00f59",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 35134,
+            "name": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+            "url": "https://myanimelist.net/anime/35134/Koukyoushihen_Eureka_Seven_Hi-Evolution_1",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1334/90827.jpg?s=c5c4d0975466690fc835d1e737dc11db",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1037,
+            "name": "Koukyoushihen Eureka seveN",
+            "url": "https://myanimelist.net/manga/1037/Koukyoushihen_Eureka_seveN",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/161332.jpg?s=1c0e92a8fc5bdfb44c2e75c0b923412e",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9528,
+            "name": "Tatasciore, Fred",
+            "url": "https://myanimelist.net/people/9528/Fred_Tatasciore",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43283.jpg",
+            "language": "English"
+        }
+    ]
+}

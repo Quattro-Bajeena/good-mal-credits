@@ -1,0 +1,35 @@
+{
+    "mal_id": 96581,
+    "url": "https://myanimelist.net/character/96581/Arusaemon",
+    "name": "Arusaemon",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 21545,
+            "name": "Choubakumatsu Shounen Seiki Takamaru",
+            "url": "https://myanimelist.net/anime/21545/Choubakumatsu_Shounen_Seiki_Takamaru",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/56779.jpg?s=5894afa5e1e95fb7453250a630c75fc9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 21547,
+            "name": "Shin Choubakumatsu Shounen Seiki Takamaru",
+            "url": "https://myanimelist.net/anime/21547/Shin_Choubakumatsu_Shounen_Seiki_Takamaru",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/56783.jpg?s=d0ac10638c593cb944f89408f55f063d",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

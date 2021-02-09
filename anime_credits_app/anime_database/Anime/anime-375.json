@@ -1,0 +1,44 @@
+{
+    "mal_id": 375,
+    "url": "https://myanimelist.net/anime/375/Bannou_Bunka_Neko-Musume_1998",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/2875.jpg",
+    "title": "Bannou Bunka Neko-Musume (1998)",
+    "title_english": "All Purpose Cultural Cat Girl Nuku Nuku TV",
+    "title_japanese": "万能文化猫娘",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-01-07T00:00:00+00:00",
+        "to": "1998-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 1998
+            }
+        },
+        "string": "Jan 7, 1998 to Mar 25, 1998"
+    },
+    "score": 6.53,
+    "scored_by": 2159,
+    "rank": 5732,
+    "popularity": 5965,
+    "members": 6068,
+    "favorites": 7,
+    "premiered": "Winter 1998",
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

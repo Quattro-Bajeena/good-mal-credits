@@ -1,0 +1,44 @@
+{
+    "mal_id": 2045,
+    "url": "https://myanimelist.net/anime/2045/Mahou_no_Tenshi_Creamy_Mami__Eien_no_Once_More",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/85159.jpg",
+    "title": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+    "title_english": null,
+    "title_japanese": "魔法の天使クリィミーマミ　永遠のワンスモア",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1984-10-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 10,
+                "year": 1984
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 28, 1984"
+    },
+    "score": 6.26,
+    "scored_by": 257,
+    "rank": 7068,
+    "popularity": 10365,
+    "members": 1030,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

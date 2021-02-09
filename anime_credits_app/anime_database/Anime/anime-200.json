@@ -1,0 +1,44 @@
+{
+    "mal_id": 200,
+    "url": "https://myanimelist.net/anime/200/Tenshi_na_Konamaiki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/32701.jpg",
+    "title": "Tenshi na Konamaiki",
+    "title_english": "Cheeky Angel",
+    "title_japanese": "天使な小生意気",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-04-06T00:00:00+00:00",
+        "to": "2003-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 4,
+                "year": 2002
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2003
+            }
+        },
+        "string": "Apr 6, 2002 to Mar 29, 2003"
+    },
+    "score": 7.48,
+    "scored_by": 7857,
+    "rank": 1652,
+    "popularity": 3414,
+    "members": 22712,
+    "favorites": 133,
+    "premiered": "Spring 2002",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

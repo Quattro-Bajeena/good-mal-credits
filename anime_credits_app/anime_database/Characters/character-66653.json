@@ -1,0 +1,42 @@
+{
+    "mal_id": 66653,
+    "url": "https://myanimelist.net/character/66653/Martti_Halme",
+    "name": "Martti Halme",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/173797.jpg",
+    "animeography": [
+        {
+            "mal_id": 3162,
+            "name": "Makiba no Shoujo Katri",
+            "url": "https://myanimelist.net/anime/3162/Makiba_no_Shoujo_Katri",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/66877.jpg?s=adf029766e9ba8dc0512f5b7b35515fd",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 23763,
+            "name": "Torrisi, Paolo",
+            "url": "https://myanimelist.net/people/23763/Paolo_Torrisi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/26661.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 32345,
+            "name": "Tober, Bea",
+            "url": "https://myanimelist.net/people/32345/Bea_Tober",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33203.jpg",
+            "language": "German"
+        }
+    ]
+}

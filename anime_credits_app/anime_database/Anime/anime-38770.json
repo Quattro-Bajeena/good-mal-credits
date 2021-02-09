@@ -1,0 +1,44 @@
+{
+    "mal_id": 38770,
+    "url": "https://myanimelist.net/anime/38770/Detective_Conan_Movie_23__The_Fist_of_Blue_Sapphire",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1010/98309.jpg",
+    "title": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+    "title_english": null,
+    "title_japanese": "劇場版 名探偵コナン 紺青の拳（フィスト）",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-04-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 12, 2019"
+    },
+    "score": 7.82,
+    "scored_by": 7303,
+    "rank": 792,
+    "popularity": 4111,
+    "members": 15444,
+    "favorites": 55,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

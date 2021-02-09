@@ -504,5 +504,25 @@
                 "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 4603,
+                "url": "https://myanimelist.net/manga/4603/Aa_Megami-sama__First_End",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/161788.jpg?s=a9e79ae19b76a01180565c78f9299e9b",
+                "name": "Aa! Megami-sama!: First End"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 58679,
+                "url": "https://myanimelist.net/manga/58679/Gankutsuou",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/101605.jpg?s=35e72a6fe862f6a7fd26440caf49af0b",
+                "name": "Gankutsuou"
+            }
+        }
     ]
 }

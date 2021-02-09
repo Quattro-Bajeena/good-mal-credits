@@ -1,0 +1,56 @@
+{
+    "mal_id": 52683,
+    "url": "https://myanimelist.net/character/52683/Honey_Queen",
+    "name": "Honey Queen",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/385910.jpg",
+    "animeography": [
+        {
+            "mal_id": 460,
+            "name": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+            "url": "https://myanimelist.net/anime/460/One_Piece_Movie_2__Nejimaki-jima_no_Daibouken",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/3299.jpg?s=47ec8e3f0c4a48215094abe27f95e13e",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9249,
+            "name": "Dutron, Olivia",
+            "url": "https://myanimelist.net/people/9249/Olivia_Dutron",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 9985,
+            "name": "Massironi, Cinzia",
+            "url": "https://myanimelist.net/people/9985/Cinzia_Massironi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37629.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 45671,
+            "name": "Wagener, Ulla",
+            "url": "https://myanimelist.net/people/45671/Ulla_Wagener",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49177.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 45981,
+            "name": "Monrós, Caridad",
+            "url": "https://myanimelist.net/people/45981/Caridad_Monrós",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        }
+    ]
+}

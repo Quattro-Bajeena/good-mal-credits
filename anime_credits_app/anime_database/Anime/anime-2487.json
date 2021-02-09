@@ -1,0 +1,44 @@
+{
+    "mal_id": 2487,
+    "url": "https://myanimelist.net/anime/2487/Kyouryuu_Boukenki_Jura_Tripper",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1084/96242.jpg",
+    "title": "Kyouryuu Boukenki Jura Tripper",
+    "title_english": null,
+    "title_japanese": "恐竜冒険記ジュラトリッパー",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 39,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-04-02T00:00:00+00:00",
+        "to": "1995-12-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 1995
+            },
+            "to": {
+                "day": 24,
+                "month": 12,
+                "year": 1995
+            }
+        },
+        "string": "Apr 2, 1995 to Dec 24, 1995"
+    },
+    "score": 6.67,
+    "scored_by": 385,
+    "rank": 5058,
+    "popularity": 9725,
+    "members": 1386,
+    "favorites": 8,
+    "premiered": "Spring 1995",
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

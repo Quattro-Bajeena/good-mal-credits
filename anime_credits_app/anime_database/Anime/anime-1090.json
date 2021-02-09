@@ -1,0 +1,44 @@
+{
+    "mal_id": 1090,
+    "url": "https://myanimelist.net/anime/1090/Mobile_Suit_Gundam_I",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75772.jpg",
+    "title": "Mobile Suit Gundam I",
+    "title_english": null,
+    "title_japanese": "劇場版　機動戦士ガンダム I　特別編",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1981-03-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 1981
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 14, 1981"
+    },
+    "score": 7.29,
+    "scored_by": 15133,
+    "rank": 2391,
+    "popularity": 3190,
+    "members": 26220,
+    "favorites": 36,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

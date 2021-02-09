@@ -1,0 +1,44 @@
+{
+    "mal_id": 3069,
+    "url": "https://myanimelist.net/anime/3069/Yamato_yo_Towa_ni",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/83042.jpg",
+    "title": "Yamato yo Towa ni",
+    "title_english": "Be Forever Yamato",
+    "title_japanese": "ヤマトよ永遠に",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1980-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 1980
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 1980"
+    },
+    "score": 6.61,
+    "scored_by": 845,
+    "rank": 5315,
+    "popularity": 8093,
+    "members": 2649,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

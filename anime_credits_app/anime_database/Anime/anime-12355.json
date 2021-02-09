@@ -1,0 +1,44 @@
+{
+    "mal_id": 12355,
+    "url": "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/35721.jpg",
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "title_english": "Wolf Children",
+    "title_japanese": "おおかみこどもの雨と雪",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-07-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 7,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 21, 2012"
+    },
+    "score": 8.64,
+    "scored_by": 346646,
+    "rank": 57,
+    "popularity": 169,
+    "members": 609524,
+    "favorites": 10144,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 555,
+            "type": "anime",
+            "name": "Studio Chizu",
+            "url": "https://myanimelist.net/anime/producer/555/Studio_Chizu"
+        }
+    ]
+}

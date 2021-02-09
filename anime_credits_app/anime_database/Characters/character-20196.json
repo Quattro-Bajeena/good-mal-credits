@@ -1,0 +1,56 @@
+{
+    "mal_id": 20196,
+    "url": "https://myanimelist.net/character/20196/Momoko_Sakurayama",
+    "name": "Momoko Sakurayama",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/259251.jpg",
+    "animeography": [
+        {
+            "mal_id": 324,
+            "name": "Kidou Keisatsu Patlabor: On Television",
+            "url": "https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/59293.jpg?s=d3b9d0271d53cbeecc4e29fafc8921c7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1289,
+            "name": "Kidou Keisatsu Patlabor: New OVA",
+            "url": "https://myanimelist.net/anime/1289/Kidou_Keisatsu_Patlabor__New_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1183/96504.jpg?s=afe89bef38fd94410e4ceed20ec6ca78",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 905,
+            "name": "McInerney, Kathleen",
+            "url": "https://myanimelist.net/people/905/Kathleen_McInerney",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/35511.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 8474,
+            "name": "Conley, Shannon",
+            "url": "https://myanimelist.net/people/8474/Shannon_Conley",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/38942.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 40627,
+            "name": "Monteiro, Christiane",
+            "url": "https://myanimelist.net/people/40627/Christiane_Monteiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43167.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

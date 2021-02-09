@@ -1,0 +1,36 @@
+{
+    "mal_id": 4000,
+    "url": "https://myanimelist.net/character/4000/Chizuna_Takashiro",
+    "name": "Chizuna Takashiro",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 21,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/81256.jpg",
+    "animeography": [
+        {
+            "mal_id": 258,
+            "name": "Hitsuji no Uta",
+            "url": "https://myanimelist.net/anime/258/Hitsuji_no_Uta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/18066.jpg?s=6e6eb5487f644e54598578e317f1a2c4",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 405,
+            "name": "Hitsuji no Uta",
+            "url": "https://myanimelist.net/manga/405/Hitsuji_no_Uta",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/173240.jpg?s=738e11097deea9ad107f0197674076b3",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

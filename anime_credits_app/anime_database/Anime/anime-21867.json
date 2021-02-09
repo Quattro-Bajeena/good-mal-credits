@@ -1,0 +1,44 @@
+{
+    "mal_id": 21867,
+    "url": "https://myanimelist.net/anime/21867/The_Disappearance_of_Conan_Edogawa__The_Worst_Two_Days_in_History",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/67289.jpg",
+    "title": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 江戸川コナン失踪事件～史上最悪の二日間～",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-12-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 12,
+                "year": 2014
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 26, 2014"
+    },
+    "score": 7.78,
+    "scored_by": 4911,
+    "rank": 880,
+    "popularity": 4944,
+    "members": 9750,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

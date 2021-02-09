@@ -1,0 +1,44 @@
+{
+    "mal_id": 6288,
+    "url": "https://myanimelist.net/anime/6288/Mobile_Suit_Gundam_00_The_Movie__A_Wakening_of_the_Trailblazer",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/30563.jpg",
+    "title": "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer",
+    "title_english": null,
+    "title_japanese": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-09-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 9,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 18, 2010"
+    },
+    "score": 7.31,
+    "scored_by": 32461,
+    "rank": 2316,
+    "popularity": 2196,
+    "members": 52120,
+    "favorites": 232,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 15875,
+    "url": "https://myanimelist.net/anime/15875/Shin_Kyojin_no_Hoshi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/72511.jpg",
+    "title": "Shin Kyojin no Hoshi",
+    "title_english": null,
+    "title_japanese": "新巨人の星",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1977-10-01T00:00:00+00:00",
+        "to": "1978-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 1977
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 1978
+            }
+        },
+        "string": "Oct 1, 1977 to Sep 30, 1978"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11934,
+    "popularity": 12215,
+    "members": 477,
+    "favorites": 1,
+    "premiered": "Fall 1977",
+    "studios": []
+}

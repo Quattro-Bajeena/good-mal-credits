@@ -1,0 +1,44 @@
+{
+    "mal_id": 10798,
+    "url": "https://myanimelist.net/anime/10798/Un-Go",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/33009.jpg",
+    "title": "Un-Go",
+    "title_english": "Un-Go",
+    "title_japanese": "UN-GO アン ゴ",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-10-14T00:00:00+00:00",
+        "to": "2011-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 2011
+            }
+        },
+        "string": "Oct 14, 2011 to Dec 23, 2011"
+    },
+    "score": 7.4,
+    "scored_by": 49798,
+    "rank": 1920,
+    "popularity": 1140,
+    "members": 128370,
+    "favorites": 625,
+    "premiered": "Fall 2011",
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

@@ -6,7 +6,7 @@
     "given_name": "順一",
     "family_name": "佐藤",
     "birthday": "1960-03-11T00:00:00+00:00",
-    "member_favorites": 716,
+    "member_favorites": 719,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -145,15 +145,6 @@
             }
         },
         {
-            "position": "Series Composition",
-            "anime": {
-                "mal_id": 477,
-                "url": "https://myanimelist.net/anime/477/Aria_the_Animation",
-                "image_url": "https://cdn.myanimelist.net/images/anime/2/77620.jpg?s=4748f4f7bf22756966c472bca9222595",
-                "name": "Aria the Animation"
-            }
-        },
-        {
             "position": "Storyboard",
             "anime": {
                 "mal_id": 477,
@@ -164,6 +155,15 @@
         },
         {
             "position": "Director",
+            "anime": {
+                "mal_id": 477,
+                "url": "https://myanimelist.net/anime/477/Aria_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/77620.jpg?s=4748f4f7bf22756966c472bca9222595",
+                "name": "Aria the Animation"
+            }
+        },
+        {
+            "position": "Series Composition",
             "anime": {
                 "mal_id": 477,
                 "url": "https://myanimelist.net/anime/477/Aria_the_Animation",
@@ -271,7 +271,7 @@
             }
         },
         {
-            "position": "Script",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 2563,
                 "url": "https://myanimelist.net/anime/2563/Aria_the_OVA__Arietta",
@@ -280,7 +280,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Script",
             "anime": {
                 "mal_id": 2563,
                 "url": "https://myanimelist.net/anime/2563/Aria_the_OVA__Arietta",
@@ -523,15 +523,6 @@
             }
         },
         {
-            "position": "Storyboard",
-            "anime": {
-                "mal_id": 127,
-                "url": "https://myanimelist.net/anime/127/Gate_Keepers",
-                "image_url": "https://cdn.myanimelist.net/images/anime/12/15226.jpg?s=8c7c717eddc2577f92c6c59b4bd7940d",
-                "name": "Gate Keepers"
-            }
-        },
-        {
             "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 127,
@@ -543,6 +534,15 @@
         {
             "position": "Storyboard",
             "anime": {
+                "mal_id": 127,
+                "url": "https://myanimelist.net/anime/127/Gate_Keepers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/15226.jpg?s=8c7c717eddc2577f92c6c59b4bd7940d",
+                "name": "Gate Keepers"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
                 "mal_id": 128,
                 "url": "https://myanimelist.net/anime/128/Gate_Keepers_21",
                 "image_url": "https://cdn.myanimelist.net/images/anime/6/75569.jpg?s=360cc5487f4e0131fcd9491146a466f5",
@@ -550,7 +550,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 128,
                 "url": "https://myanimelist.net/anime/128/Gate_Keepers_21",
@@ -1018,7 +1018,7 @@
             }
         },
         {
-            "position": "Script",
+            "position": "Executive Producer",
             "anime": {
                 "mal_id": 629,
                 "url": "https://myanimelist.net/anime/629/Mahoutsukai_Tai",
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "position": "Executive Producer",
+            "position": "Script",
             "anime": {
                 "mal_id": 629,
                 "url": "https://myanimelist.net/anime/629/Mahoutsukai_Tai",
@@ -1054,7 +1054,7 @@
             }
         },
         {
-            "position": "Publicity",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 629,
                 "url": "https://myanimelist.net/anime/629/Mahoutsukai_Tai",
@@ -1063,7 +1063,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Publicity",
             "anime": {
                 "mal_id": 629,
                 "url": "https://myanimelist.net/anime/629/Mahoutsukai_Tai",
@@ -1693,7 +1693,7 @@
             }
         },
         {
-            "position": "Co-Director",
+            "position": "Original Creator",
             "anime": {
                 "mal_id": 171,
                 "url": "https://myanimelist.net/anime/171/Strange_Dawn",
@@ -1702,7 +1702,7 @@
             }
         },
         {
-            "position": "Original Creator",
+            "position": "Co-Director",
             "anime": {
                 "mal_id": 171,
                 "url": "https://myanimelist.net/anime/171/Strange_Dawn",
@@ -1747,6 +1747,15 @@
             }
         },
         {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 9055,
+                "url": "https://myanimelist.net/anime/9055/Tamayura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/28362.jpg?s=314780a231abed82b0b74dc45c9726fd",
+                "name": "Tamayura"
+            }
+        },
+        {
             "position": "Sound Director",
             "anime": {
                 "mal_id": 9055,
@@ -1757,15 +1766,6 @@
         },
         {
             "position": "Script",
-            "anime": {
-                "mal_id": 9055,
-                "url": "https://myanimelist.net/anime/9055/Tamayura",
-                "image_url": "https://cdn.myanimelist.net/images/anime/4/28362.jpg?s=314780a231abed82b0b74dc45c9726fd",
-                "name": "Tamayura"
-            }
-        },
-        {
-            "position": "Storyboard",
             "anime": {
                 "mal_id": 9055,
                 "url": "https://myanimelist.net/anime/9055/Tamayura",
@@ -1810,7 +1810,7 @@
             }
         },
         {
-            "position": "Sound Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 10232,
                 "url": "https://myanimelist.net/anime/10232/Tamayura__Hitotose",
@@ -1819,7 +1819,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Sound Director",
             "anime": {
                 "mal_id": 10232,
                 "url": "https://myanimelist.net/anime/10232/Tamayura__Hitotose",
@@ -2194,6 +2194,80 @@
                 "url": "https://myanimelist.net/anime/19953/Zetsumetsu_Kigu_Shoujo__Amazing_Twins",
                 "image_url": "https://cdn.myanimelist.net/images/anime/7/57269.jpg?s=44ed2d1964469827570b71fc9c21e363",
                 "name": "Zetsumetsu Kigu Shoujo: Amazing Twins"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 27303,
+                "url": "https://myanimelist.net/manga/27303/Mahou_Tsukai_Tai",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/44037.jpg?s=7a788c0b65409e9b41bde98acb2ca0ef",
+                "name": "Mahou Tsukai Tai!"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 9806,
+                "url": "https://myanimelist.net/manga/9806/Mahou_Tsukai_Tai",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/13131.jpg?s=39fbdf16b31e8328fa4449667570775b",
+                "name": "Mahou Tsukai Tai!"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 28935,
+                "url": "https://myanimelist.net/manga/28935/Mortal_Metal_Shibagane",
+                "image_url": "https://cdn.myanimelist.net/images/manga/5/74471.jpg?s=79c7ca208f0d488844d319ee4e6d861a",
+                "name": "Mortal Metal Shibagane"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 42543,
+                "url": "https://myanimelist.net/manga/42543/One_Off",
+                "image_url": "https://cdn.myanimelist.net/images/manga/4/86727.jpg?s=6cc1b155ed6776916523e16b4ae1e22e",
+                "name": "One Off"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 1581,
+                "url": "https://myanimelist.net/manga/1581/Princess_Tutu",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/211192.jpg?s=90b96b6822c399258a96d3ac9f3a7948",
+                "name": "Princess Tutu"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 1248,
+                "url": "https://myanimelist.net/manga/1248/Shin_Shirayuki-hime_Densetsu_Pretear",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/5198.jpg?s=cf778fa2b5f96b407b0f704da9de82ed",
+                "name": "Shin Shirayuki-hime Densetsu Pretear"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 28933,
+                "url": "https://myanimelist.net/manga/28933/Tamayura",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/46421.jpg?s=0f3e5613f4f9f045f30f5ca0b8f19f07",
+                "name": "Tamayura"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 62039,
+                "url": "https://myanimelist.net/manga/62039/Tamayura__Hitotose",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/106747.jpg?s=ec1d89f259b8fe18e24420a099364555",
+                "name": "Tamayura: Hitotose"
             }
         }
     ]

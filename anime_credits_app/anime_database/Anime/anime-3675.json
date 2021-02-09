@@ -1,0 +1,44 @@
+{
+    "mal_id": 3675,
+    "url": "https://myanimelist.net/anime/3675/Andromeda_Stories",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/75156.jpg",
+    "title": "Andromeda Stories",
+    "title_english": null,
+    "title_japanese": "アンドロメダ・ストーリーズ",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-08-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 8,
+                "year": 1982
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 22, 1982"
+    },
+    "score": 5.78,
+    "scored_by": 462,
+    "rank": 8880,
+    "popularity": 9568,
+    "members": 1479,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

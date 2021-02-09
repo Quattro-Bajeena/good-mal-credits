@@ -1,0 +1,44 @@
+{
+    "mal_id": 258,
+    "url": "https://myanimelist.net/anime/258/Hitsuji_no_Uta",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/18066.jpg",
+    "title": "Hitsuji no Uta",
+    "title_english": null,
+    "title_japanese": "羊のうた",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-05-25T00:00:00+00:00",
+        "to": "2004-02-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 5,
+                "year": 2003
+            },
+            "to": {
+                "day": 25,
+                "month": 2,
+                "year": 2004
+            }
+        },
+        "string": "May 25, 2003 to Feb 25, 2004"
+    },
+    "score": 6.23,
+    "scored_by": 5749,
+    "rank": 7222,
+    "popularity": 4150,
+    "members": 14892,
+    "favorites": 38,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

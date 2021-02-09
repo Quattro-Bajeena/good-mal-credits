@@ -1,0 +1,71 @@
+{
+    "mal_id": 19321,
+    "url": "https://myanimelist.net/character/19321/Hiroshi_Shiba",
+    "name": "Hiroshi Shiba",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 7,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/62746.jpg",
+    "animeography": [
+        {
+            "mal_id": 2157,
+            "name": "Koutetsushin Jeeg",
+            "url": "https://myanimelist.net/anime/2157/Koutetsushin_Jeeg",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/21712.jpg?s=4d1b65391e1efabebe19f6e1453ae352",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4198,
+            "name": "Koutetsu Jeeg",
+            "url": "https://myanimelist.net/anime/4198/Koutetsu_Jeeg",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1467/92724.jpg?s=778c61b38096640054c97f6c532b4144",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 30723,
+            "name": "Koutetsu Jeeg",
+            "url": "https://myanimelist.net/manga/30723/Koutetsu_Jeeg",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/53969.jpg?s=f98508d990d6f25e66fab077b6877b8d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 37701,
+            "name": "Super Robot Retsuden",
+            "url": "https://myanimelist.net/manga/37701/Super_Robot_Retsuden",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/67733.jpg?s=f941eab608a19ca466c442cbb231185f",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 95,
+            "name": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/44598.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42688,
+            "name": "Di Martino, Danilo",
+            "url": "https://myanimelist.net/people/42688/Danilo_Di_Martino",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 42909,
+            "name": "Malaspina, Romano",
+            "url": "https://myanimelist.net/people/42909/Romano_Malaspina",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46475.jpg",
+            "language": "Italian"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "mal_id": 98549,
+    "url": "https://myanimelist.net/character/98549/Ichi",
+    "name": "Ichi",
+    "name_kanji": null,
+    "nicknames": [
+        "Itchy"
+    ],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/231857.jpg",
+    "animeography": [
+        {
+            "mal_id": 2471,
+            "name": "Doraemon (1979)",
+            "url": "https://myanimelist.net/anime/2471/Doraemon_1979",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/3953.jpg?s=3186d062a0e3022daf0aaafcde20db62",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2629,
+            "name": "Doraemon and Itchy the Stray",
+            "url": "https://myanimelist.net/anime/2629/Doraemon_and_Itchy_the_Stray",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/57845.jpg?s=5bd258c696c7fa2f08facda5b56880cb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2656,
+            "name": "Doraemon Movie 25: Nobita no Wan Nyan Jikuuden",
+            "url": "https://myanimelist.net/anime/2656/Doraemon_Movie_25__Nobita_no_Wan_Nyan_Jikuuden",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/72430.jpg?s=0ef10e30e7d8cc27dba71df3655c0cef",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1032,
+            "name": "Doraemon",
+            "url": "https://myanimelist.net/manga/1032/Doraemon",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/41460.jpg?s=f1365e653fadfbc0aa262ff86ee3973e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 12471,
+            "name": "Daichouhen Doraemon",
+            "url": "https://myanimelist.net/manga/12471/Daichouhen_Doraemon",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/176656.jpg?s=398ca9fc98fed6057c6148c366027955",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

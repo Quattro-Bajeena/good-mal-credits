@@ -1,0 +1,42 @@
+{
+    "mal_id": 53105,
+    "url": "https://myanimelist.net/character/53105/Suehiko_Itou",
+    "name": "Suehiko Itou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/145913.jpg",
+    "animeography": [
+        {
+            "mal_id": 1506,
+            "name": "Detective Conan Movie 10: Requiem of the Detectives",
+            "url": "https://myanimelist.net/anime/1506/Detective_Conan_Movie_10__Requiem_of_the_Detectives",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg?s=309d6f2d879594af4d958b73b00107bb",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 32341,
+            "name": "Moeseritz, Tim",
+            "url": "https://myanimelist.net/people/32341/Tim_Moeseritz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33189.jpg",
+            "language": "German"
+        }
+    ]
+}

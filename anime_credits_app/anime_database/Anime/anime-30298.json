@@ -1,0 +1,44 @@
+{
+    "mal_id": 30298,
+    "url": "https://myanimelist.net/anime/30298/Mahou_no_Princess_Minky_Momo__Yume_wo_Dakishimete_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/72623.jpg",
+    "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete Specials",
+    "title_english": null,
+    "title_japanese": "魔法のプリンセス　ミンキーモモ（夢を抱きしめて）",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": null,
+        "to": null,
+        "prop": {
+            "from": {
+                "day": null,
+                "month": null,
+                "year": null
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Not available"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 15349,
+    "popularity": 11938,
+    "members": 534,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

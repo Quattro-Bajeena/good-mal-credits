@@ -6,7 +6,7 @@
     "given_name": "悠介",
     "family_name": "竹田",
     "birthday": "1968-10-18T00:00:00+00:00",
-    "member_favorites": 23,
+    "member_favorites": 25,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -900,5 +900,6 @@
                 "name": "Yamato 2520"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

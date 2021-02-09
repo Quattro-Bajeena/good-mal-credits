@@ -6,7 +6,7 @@
     "given_name": "秀明",
     "family_name": "庵野",
     "birthday": "1960-05-22T00:00:00+00:00",
-    "member_favorites": 17065,
+    "member_favorites": 17188,
     "voice_acting_roles": [
         {
             "role": "Supporting",
@@ -65,7 +65,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 306,
                 "url": "https://myanimelist.net/anime/306/Abenobashi_Mahou☆Shoutengai",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 306,
                 "url": "https://myanimelist.net/anime/306/Abenobashi_Mahou☆Shoutengai",
@@ -155,7 +155,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 532,
                 "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S",
@@ -164,7 +164,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 532,
                 "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S",
@@ -200,7 +200,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 2724,
                 "url": "https://myanimelist.net/anime/2724/Daicon_Opening_Animations",
@@ -209,7 +209,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 2724,
                 "url": "https://myanimelist.net/anime/2724/Daicon_Opening_Animations",
@@ -227,15 +227,6 @@
             }
         },
         {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 2759,
-                "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=0b67af75f2a2ea439d3d90958df219ae",
-                "name": "Evangelion: 1.0 You Are (Not) Alone"
-            }
-        },
-        {
             "position": "Script",
             "anime": {
                 "mal_id": 2759,
@@ -254,7 +245,7 @@
             }
         },
         {
-            "position": "Screenplay",
+            "position": "Creator",
             "anime": {
                 "mal_id": 2759,
                 "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
@@ -263,7 +254,16 @@
             }
         },
         {
-            "position": "Creator",
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2759,
+                "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=0b67af75f2a2ea439d3d90958df219ae",
+                "name": "Evangelion: 1.0 You Are (Not) Alone"
+            }
+        },
+        {
+            "position": "Screenplay",
             "anime": {
                 "mal_id": 2759,
                 "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
@@ -281,7 +281,7 @@
             }
         },
         {
-            "position": "Creator",
+            "position": "Script",
             "anime": {
                 "mal_id": 3784,
                 "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
@@ -290,7 +290,34 @@
             }
         },
         {
-            "position": "Script",
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3784,
+                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
+                "name": "Evangelion: 2.0 You Can (Not) Advance"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 3784,
+                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
+                "name": "Evangelion: 2.0 You Can (Not) Advance"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 3784,
+                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
+                "name": "Evangelion: 2.0 You Can (Not) Advance"
+            }
+        },
+        {
+            "position": "Creator",
             "anime": {
                 "mal_id": 3784,
                 "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
@@ -310,42 +337,6 @@
         {
             "position": "Director",
             "anime": {
-                "mal_id": 3784,
-                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
-                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
-                "name": "Evangelion: 2.0 You Can (Not) Advance"
-            }
-        },
-        {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 3784,
-                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
-                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
-                "name": "Evangelion: 2.0 You Can (Not) Advance"
-            }
-        },
-        {
-            "position": "Storyboard",
-            "anime": {
-                "mal_id": 3784,
-                "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
-                "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=8556ecfcdc3985b259cc0ebb33b59a6b",
-                "name": "Evangelion: 2.0 You Can (Not) Advance"
-            }
-        },
-        {
-            "position": "Director",
-            "anime": {
-                "mal_id": 3785,
-                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
-                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
-                "name": "Evangelion: 3.0 You Can (Not) Redo"
-            }
-        },
-        {
-            "position": "Key Animation",
-            "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
                 "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
@@ -354,15 +345,6 @@
         },
         {
             "position": "Storyboard",
-            "anime": {
-                "mal_id": 3785,
-                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
-                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
-                "name": "Evangelion: 3.0 You Can (Not) Redo"
-            }
-        },
-        {
-            "position": "Planning",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -372,6 +354,15 @@
         },
         {
             "position": "Creator",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            }
+        },
+        {
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -389,15 +380,6 @@
             }
         },
         {
-            "position": "Mechanical Design",
-            "anime": {
-                "mal_id": 3785,
-                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
-                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
-                "name": "Evangelion: 3.0 You Can (Not) Redo"
-            }
-        },
-        {
             "position": "Executive Producer",
             "anime": {
                 "mal_id": 3785,
@@ -407,7 +389,25 @@
             }
         },
         {
-            "position": "Creator",
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 3785,
+                "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=168dbb42694752d23854724941036e8c",
+                "name": "Evangelion: 3.0 You Can (Not) Redo"
+            }
+        },
+        {
+            "position": "Planning",
             "anime": {
                 "mal_id": 3786,
                 "url": "https://myanimelist.net/anime/3786/Evangelion__30_10_Thrice_Upon_a_Time",
@@ -425,30 +425,12 @@
             }
         },
         {
-            "position": "Planning",
+            "position": "Creator",
             "anime": {
                 "mal_id": 3786,
                 "url": "https://myanimelist.net/anime/3786/Evangelion__30_10_Thrice_Upon_a_Time",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1421/110903.jpg?s=743fc693bd225b16951b6974ab32ed8f",
                 "name": "Evangelion: 3.0+1.0 Thrice Upon a Time"
-            }
-        },
-        {
-            "position": "Mechanical Design",
-            "anime": {
-                "mal_id": 227,
-                "url": "https://myanimelist.net/anime/227/FLCL",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
-                "name": "FLCL"
-            }
-        },
-        {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 227,
-                "url": "https://myanimelist.net/anime/227/FLCL",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
-                "name": "FLCL"
             }
         },
         {
@@ -463,6 +445,24 @@
         {
             "position": "Mechanical Design",
             "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 227,
+                "url": "https://myanimelist.net/anime/227/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/77356.jpg?s=01dede82ddcba105074abbcaceff0a05",
+                "name": "FLCL"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
                 "mal_id": 1251,
                 "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
                 "image_url": "https://cdn.myanimelist.net/images/anime/2/52681.jpg?s=ab07e7690062a95bb7048a791fc73e5f",
@@ -488,7 +488,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 1251,
                 "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
@@ -551,6 +551,15 @@
             }
         },
         {
+            "position": "Director",
+            "anime": {
+                "mal_id": 34930,
+                "url": "https://myanimelist.net/anime/34930/Joubuna_Tire",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/84311.jpg?s=ef26f4f1826805cf95f2fb7b6ad27b6f",
+                "name": "Joubuna Tire!"
+            }
+        },
+        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 34930,
@@ -560,34 +569,7 @@
             }
         },
         {
-            "position": "Director",
-            "anime": {
-                "mal_id": 34930,
-                "url": "https://myanimelist.net/anime/34930/Joubuna_Tire",
-                "image_url": "https://cdn.myanimelist.net/images/anime/5/84311.jpg?s=ef26f4f1826805cf95f2fb7b6ad27b6f",
-                "name": "Joubuna Tire!"
-            }
-        },
-        {
             "position": "Storyboard",
-            "anime": {
-                "mal_id": 145,
-                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
-                "name": "Kareshi Kanojo no Jijou"
-            }
-        },
-        {
-            "position": "Script",
-            "anime": {
-                "mal_id": 145,
-                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
-                "name": "Kareshi Kanojo no Jijou"
-            }
-        },
-        {
-            "position": "Director",
             "anime": {
                 "mal_id": 145,
                 "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
@@ -614,6 +596,24 @@
             }
         },
         {
+            "position": "Script",
+            "anime": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
+                "name": "Kareshi Kanojo no Jijou"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1222/108880.jpg?s=cb0cf10c407ee623f8ddd408969e1ada",
+                "name": "Kareshi Kanojo no Jijou"
+            }
+        },
+        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 572,
@@ -623,7 +623,7 @@
             }
         },
         {
-            "position": "Executive Producer",
+            "position": "Planning",
             "anime": {
                 "mal_id": 33741,
                 "url": "https://myanimelist.net/anime/33741/Kidou_Keisatsu_Patlabor__Reboot",
@@ -632,7 +632,7 @@
             }
         },
         {
-            "position": "Planning",
+            "position": "Executive Producer",
             "anime": {
                 "mal_id": 33741,
                 "url": "https://myanimelist.net/anime/33741/Kidou_Keisatsu_Patlabor__Reboot",
@@ -668,7 +668,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "In-Between Animation",
             "anime": {
                 "mal_id": 1088,
                 "url": "https://myanimelist.net/anime/1088/Macross",
@@ -677,7 +677,7 @@
             }
         },
         {
-            "position": "In-Between Animation",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1088,
                 "url": "https://myanimelist.net/anime/1088/Macross",
@@ -794,15 +794,6 @@
             }
         },
         {
-            "position": "Director",
-            "anime": {
-                "mal_id": 30,
-                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
-                "name": "Neon Genesis Evangelion"
-            }
-        },
-        {
             "position": "Script",
             "anime": {
                 "mal_id": 30,
@@ -812,7 +803,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Director",
             "anime": {
                 "mal_id": 30,
                 "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
@@ -830,15 +821,6 @@
             }
         },
         {
-            "position": "Storyboard",
-            "anime": {
-                "mal_id": 30,
-                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
-                "name": "Neon Genesis Evangelion"
-            }
-        },
-        {
             "position": "Creator",
             "anime": {
                 "mal_id": 30,
@@ -857,30 +839,21 @@
             }
         },
         {
-            "position": "Screenplay",
+            "position": "Key Animation",
             "anime": {
-                "mal_id": 31,
-                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
-                "name": "Neon Genesis Evangelion: Death & Rebirth"
-            }
-        },
-        {
-            "position": "Setting",
-            "anime": {
-                "mal_id": 31,
-                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
-                "name": "Neon Genesis Evangelion: Death & Rebirth"
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
             }
         },
         {
             "position": "Storyboard",
             "anime": {
-                "mal_id": 31,
-                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
-                "name": "Neon Genesis Evangelion: Death & Rebirth"
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
             }
         },
         {
@@ -894,15 +867,6 @@
         },
         {
             "position": "Mechanical Design",
-            "anime": {
-                "mal_id": 31,
-                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
-                "name": "Neon Genesis Evangelion: Death & Rebirth"
-            }
-        },
-        {
-            "position": "Director",
             "anime": {
                 "mal_id": 31,
                 "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
@@ -920,12 +884,66 @@
             }
         },
         {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
             "position": "Animation Director",
             "anime": {
                 "mal_id": 31,
                 "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
                 "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
                 "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Setting",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
             }
         },
         {
@@ -956,7 +974,7 @@
             }
         },
         {
-            "position": "Director",
+            "position": "Music",
             "anime": {
                 "mal_id": 32,
                 "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
@@ -974,33 +992,6 @@
             }
         },
         {
-            "position": "Animation Director",
-            "anime": {
-                "mal_id": 32,
-                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
-                "name": "Neon Genesis Evangelion: The End of Evangelion"
-            }
-        },
-        {
-            "position": "Screenplay",
-            "anime": {
-                "mal_id": 32,
-                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
-                "name": "Neon Genesis Evangelion: The End of Evangelion"
-            }
-        },
-        {
-            "position": "Music",
-            "anime": {
-                "mal_id": 32,
-                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
-                "name": "Neon Genesis Evangelion: The End of Evangelion"
-            }
-        },
-        {
             "position": "Storyboard",
             "anime": {
                 "mal_id": 32,
@@ -1010,7 +1001,16 @@
             }
         },
         {
-            "position": "Original Creator",
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            }
+        },
+        {
+            "position": "Editing",
             "anime": {
                 "mal_id": 28149,
                 "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
@@ -1028,7 +1028,7 @@
             }
         },
         {
-            "position": "Editing",
+            "position": "Executive Producer",
             "anime": {
                 "mal_id": 28149,
                 "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
@@ -1037,7 +1037,7 @@
             }
         },
         {
-            "position": "Executive Producer",
+            "position": "Original Creator",
             "anime": {
                 "mal_id": 28149,
                 "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
@@ -1052,15 +1052,6 @@
                 "url": "https://myanimelist.net/anime/1060/Oruchuban_Ebichu",
                 "image_url": "https://cdn.myanimelist.net/images/anime/4/79591.jpg?s=d6b6b70a86723644a11c5b5bf1212e21",
                 "name": "Oruchuban Ebichu"
-            }
-        },
-        {
-            "position": "Animation Director",
-            "anime": {
-                "mal_id": 1034,
-                "url": "https://myanimelist.net/anime/1034/Ouritsu_Uchuugun__Honneamise_no_Tsubasa",
-                "image_url": "https://cdn.myanimelist.net/images/anime/6/74639.jpg?s=5b67201826dd9973067258413d0cefc3",
-                "name": "Ouritsu Uchuugun: Honneamise no Tsubasa"
             }
         },
         {
@@ -1083,6 +1074,15 @@
         },
         {
             "position": "Layout",
+            "anime": {
+                "mal_id": 1034,
+                "url": "https://myanimelist.net/anime/1034/Ouritsu_Uchuugun__Honneamise_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74639.jpg?s=5b67201826dd9973067258413d0cefc3",
+                "name": "Ouritsu Uchuugun: Honneamise no Tsubasa"
+            }
+        },
+        {
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1034,
                 "url": "https://myanimelist.net/anime/1034/Ouritsu_Uchuugun__Honneamise_no_Tsubasa",
@@ -1154,6 +1154,15 @@
             }
         },
         {
+            "position": "Original Creator",
+            "anime": {
+                "mal_id": 47307,
+                "url": "https://myanimelist.net/anime/47307/Shin_Gengou_Nyankogelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1695/111498.jpg?s=f823f587f1943be29e541631b40ad46b",
+                "name": "Shin Gengou Nyankogelion"
+            }
+        },
+        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 9965,
@@ -1190,7 +1199,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1642,
                 "url": "https://myanimelist.net/anime/1642/Sugar_Sugar_Rune",
@@ -1199,7 +1208,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 1642,
                 "url": "https://myanimelist.net/anime/1642/Sugar_Sugar_Rune",
@@ -1226,6 +1235,15 @@
             }
         },
         {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 1002,
+                "url": "https://myanimelist.net/anime/1002/Top_wo_Nerae_2_Diebuster",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/50475.jpg?s=14e8419ff0f4b619973058f588a92c4e",
+                "name": "Top wo Nerae 2! Diebuster"
+            }
+        },
+        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 1002,
@@ -1244,12 +1262,30 @@
             }
         },
         {
-            "position": "2nd Key Animation",
+            "position": "Key Animation",
             "anime": {
-                "mal_id": 1002,
-                "url": "https://myanimelist.net/anime/1002/Top_wo_Nerae_2_Diebuster",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/50475.jpg?s=14e8419ff0f4b619973058f588a92c4e",
-                "name": "Top wo Nerae 2! Diebuster"
+                "mal_id": 1911,
+                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
+                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
+            }
+        },
+        {
+            "position": "Screenplay",
+            "anime": {
+                "mal_id": 1911,
+                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
+                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 1911,
+                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
+                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
             }
         },
         {
@@ -1262,34 +1298,7 @@
             }
         },
         {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 1911,
-                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
-                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
-            }
-        },
-        {
             "position": "Storyboard",
-            "anime": {
-                "mal_id": 1911,
-                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
-                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
-            }
-        },
-        {
-            "position": "Screenplay",
-            "anime": {
-                "mal_id": 1911,
-                "url": "https://myanimelist.net/anime/1911/Top_wo_Nerae___Top_wo_Nerae_2_Gattai_Movie",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1/1911.jpg?s=78b38eedafb3d573436a2fd312510b76",
-                "name": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
-            }
-        },
-        {
-            "position": "Screenplay",
             "anime": {
                 "mal_id": 949,
                 "url": "https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster",
@@ -1298,16 +1307,7 @@
             }
         },
         {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 949,
-                "url": "https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg?s=e5de31f40f6023eced5db77710240003",
-                "name": "Top wo Nerae! Gunbuster"
-            }
-        },
-        {
-            "position": "Storyboard",
+            "position": "Screenplay",
             "anime": {
                 "mal_id": 949,
                 "url": "https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster",
@@ -1325,12 +1325,12 @@
             }
         },
         {
-            "position": "Screenplay",
+            "position": "Key Animation",
             "anime": {
-                "mal_id": 5462,
-                "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
-                "image_url": "https://cdn.myanimelist.net/images/anime/4/11213.jpg?s=1946de1b9f23443e5bb34d8bdc405dfc",
-                "name": "Top wo Nerae! Kagaku Kouza"
+                "mal_id": 949,
+                "url": "https://myanimelist.net/anime/949/Top_wo_Nerae_Gunbuster",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1303/92309.jpg?s=e5de31f40f6023eced5db77710240003",
+                "name": "Top wo Nerae! Gunbuster"
             }
         },
         {
@@ -1344,6 +1344,15 @@
         },
         {
             "position": "Sound Effects",
+            "anime": {
+                "mal_id": 5462,
+                "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/11213.jpg?s=1946de1b9f23443e5bb34d8bdc405dfc",
+                "name": "Top wo Nerae! Kagaku Kouza"
+            }
+        },
+        {
+            "position": "Screenplay",
             "anime": {
                 "mal_id": 5462,
                 "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
@@ -1370,7 +1379,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 12851,
                 "url": "https://myanimelist.net/anime/12851/Ultraman_USA",
@@ -1379,7 +1388,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 12851,
                 "url": "https://myanimelist.net/anime/12851/Ultraman_USA",
@@ -1406,7 +1415,7 @@
             }
         },
         {
-            "position": "Editing",
+            "position": "Executive Producer",
             "anime": {
                 "mal_id": 36030,
                 "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
@@ -1415,7 +1424,7 @@
             }
         },
         {
-            "position": "Executive Producer",
+            "position": "Editing",
             "anime": {
                 "mal_id": 36030,
                 "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
@@ -1423,5 +1432,6 @@
                 "name": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

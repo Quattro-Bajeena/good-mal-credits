@@ -1,0 +1,44 @@
+{
+    "mal_id": 679,
+    "url": "https://myanimelist.net/anime/679/Shadow_Skill_1996",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
+    "title": "Shadow Skill (1996)",
+    "title_english": "Shadow Skill: The Movie",
+    "title_japanese": "影技 SHADOW SKILL",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-09-21T00:00:00+00:00",
+        "to": "1996-11-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 1996
+            },
+            "to": {
+                "day": 21,
+                "month": 11,
+                "year": 1996
+            }
+        },
+        "string": "Sep 21, 1996 to Nov 21, 1996"
+    },
+    "score": 6.59,
+    "scored_by": 2026,
+    "rank": 5405,
+    "popularity": 6672,
+    "members": 4614,
+    "favorites": 13,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1131,
+            "type": "anime",
+            "name": "Zero-G Room",
+            "url": "https://myanimelist.net/anime/producer/1131/Zero-G_Room"
+        }
+    ]
+}

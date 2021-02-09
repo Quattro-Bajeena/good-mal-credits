@@ -1,0 +1,44 @@
+{
+    "mal_id": 3620,
+    "url": "https://myanimelist.net/anime/3620/Blue_Seed_Omake",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/6211.jpg",
+    "title": "Blue Seed Omake",
+    "title_english": null,
+    "title_japanese": "ブルーシード おまけ",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-01-21T00:00:00+00:00",
+        "to": "1996-06-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 1995
+            },
+            "to": {
+                "day": 21,
+                "month": 6,
+                "year": 1996
+            }
+        },
+        "string": "Jan 21, 1995 to Jun 21, 1996"
+    },
+    "score": 6.85,
+    "scored_by": 1095,
+    "rank": 4242,
+    "popularity": 8129,
+    "members": 2616,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

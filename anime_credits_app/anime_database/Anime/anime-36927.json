@@ -1,0 +1,50 @@
+{
+    "mal_id": 36927,
+    "url": "https://myanimelist.net/anime/36927/Pokemon_Movie_21__Minna_no_Monogatari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1580/90795.jpg",
+    "title": "Pokemon Movie 21: Minna no Monogatari",
+    "title_english": "Pokémon the Movie: The Power of Us",
+    "title_japanese": "劇場版ポケットモンスター みんなの物語",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2018"
+    },
+    "score": 7.19,
+    "scored_by": 11227,
+    "rank": 2798,
+    "popularity": 3503,
+    "members": 21836,
+    "favorites": 45,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        },
+        {
+            "mal_id": 858,
+            "type": "anime",
+            "name": "Wit Studio",
+            "url": "https://myanimelist.net/anime/producer/858/Wit_Studio"
+        }
+    ]
+}

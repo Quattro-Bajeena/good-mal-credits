@@ -1,0 +1,52 @@
+{
+    "mal_id": 12196,
+    "url": "https://myanimelist.net/manga/12196/Dead_Heads",
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/57209.jpg",
+    "title": "Dead Heads",
+    "title_english": null,
+    "title_japanese": "デッド・ヘッズ",
+    "type": "One-shot",
+    "volumes": null,
+    "chapters": 1,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2002"
+    },
+    "score": 6.23,
+    "scored_by": 1719,
+    "rank": 13261,
+    "popularity": 4453,
+    "members": 2851,
+    "favorites": 1,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ]
+}

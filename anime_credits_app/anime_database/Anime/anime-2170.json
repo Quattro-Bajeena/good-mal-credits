@@ -1,0 +1,44 @@
+{
+    "mal_id": 2170,
+    "url": "https://myanimelist.net/anime/2170/Sousei_no_Aquarion_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/72745.jpg",
+    "title": "Sousei no Aquarion OVA",
+    "title_english": null,
+    "title_japanese": "ＯＶＡ『創星のアクエリオン』",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-05-25T00:00:00+00:00",
+        "to": "2007-11-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": 22,
+                "month": 11,
+                "year": 2007
+            }
+        },
+        "string": "May 25, 2007 to Nov 22, 2007"
+    },
+    "score": 7.08,
+    "scored_by": 3958,
+    "rank": 3311,
+    "popularity": 4927,
+    "members": 9787,
+    "favorites": 12,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        }
+    ]
+}

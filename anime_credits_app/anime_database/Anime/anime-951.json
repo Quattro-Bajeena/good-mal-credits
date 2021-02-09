@@ -1,0 +1,44 @@
+{
+    "mal_id": 951,
+    "url": "https://myanimelist.net/anime/951/Chibi_Maruko-chan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/22476.jpg",
+    "title": "Chibi Maruko-chan",
+    "title_english": null,
+    "title_japanese": "ちびまる子ちゃん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 142,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-01-07T00:00:00+00:00",
+        "to": "1992-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 1992
+            }
+        },
+        "string": "Jan 7, 1990 to Sep 27, 1992"
+    },
+    "score": 7.64,
+    "scored_by": 3509,
+    "rank": 1172,
+    "popularity": 5061,
+    "members": 9227,
+    "favorites": 94,
+    "premiered": "Winter 1990",
+    "studios": [
+        {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+        }
+    ]
+}

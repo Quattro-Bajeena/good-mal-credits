@@ -1,0 +1,44 @@
+{
+    "mal_id": 155,
+    "url": "https://myanimelist.net/anime/155/X_1999",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
+    "title": "X/1999",
+    "title_english": "X - The Movie",
+    "title_japanese": "エックス, X/1999",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 8,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 3, 1996"
+    },
+    "score": 6.59,
+    "scored_by": 16341,
+    "rank": 5421,
+    "popularity": 2897,
+    "members": 31160,
+    "favorites": 129,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

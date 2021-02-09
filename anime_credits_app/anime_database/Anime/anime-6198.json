@@ -1,0 +1,44 @@
+{
+    "mal_id": 6198,
+    "url": "https://myanimelist.net/anime/6198/Detective_Conan_OVA_08__High_School_Girl_Detective_Sonoko_Suzukis_Case_Files",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/13791.jpg",
+    "title": "Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 女子高生探偵　鈴木園子の事件簿",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2008"
+    },
+    "score": 7.21,
+    "scored_by": 5251,
+    "rank": 2734,
+    "popularity": 4753,
+    "members": 10733,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

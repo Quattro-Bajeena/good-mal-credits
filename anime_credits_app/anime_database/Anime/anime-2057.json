@@ -1,0 +1,50 @@
+{
+    "mal_id": 2057,
+    "url": "https://myanimelist.net/anime/2057/Ojousama_Sousamou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1556/97264.jpg",
+    "title": "Ojousama Sousamou",
+    "title_english": "Debutante Detective Corps",
+    "title_japanese": "お嬢様捜査網",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-04-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 1, 1996"
+    },
+    "score": 4.88,
+    "scored_by": 1104,
+    "rank": 10668,
+    "popularity": 8223,
+    "members": 2529,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        },
+        {
+            "mal_id": 13,
+            "type": "anime",
+            "name": "Studio 4°C",
+            "url": "https://myanimelist.net/anime/producer/13/Studio_4%C2%B0C"
+        }
+    ]
+}

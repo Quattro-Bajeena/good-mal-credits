@@ -1,0 +1,35 @@
+{
+    "mal_id": 114721,
+    "url": "https://myanimelist.net/character/114721/Sophia_Ikaruga_Misurugi",
+    "name": "Sophia Ikaruga Misurugi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/261371.jpg",
+    "animeography": [
+        {
+            "mal_id": 25731,
+            "name": "Cross Ange: Tenshi to Ryuu no Rondo",
+            "url": "https://myanimelist.net/anime/25731/Cross_Ange__Tenshi_to_Ryuu_no_Rondo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/67515.jpg?s=66673b5533639957d8672d75fc14810f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1606,
+            "name": "Sumrall, Allison",
+            "url": "https://myanimelist.net/people/1606/Allison_Sumrall",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/43304.jpg",
+            "language": "English"
+        }
+    ]
+}

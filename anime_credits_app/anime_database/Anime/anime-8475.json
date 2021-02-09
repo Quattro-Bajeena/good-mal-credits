@@ -1,0 +1,44 @@
+{
+    "mal_id": 8475,
+    "url": "https://myanimelist.net/anime/8475/Asura",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/44289.jpg",
+    "title": "Asura",
+    "title_english": null,
+    "title_japanese": "アシュラ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-09-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 9,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 29, 2012"
+    },
+    "score": 7.06,
+    "scored_by": 12446,
+    "rank": 3380,
+    "popularity": 3097,
+    "members": 27667,
+    "favorites": 76,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

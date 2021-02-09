@@ -1,0 +1,302 @@
+{
+    "mal_id": 4014,
+    "url": "https://myanimelist.net/character/4014/Yamcha",
+    "name": "Yamcha",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 352,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg",
+    "animeography": [
+        {
+            "mal_id": 223,
+            "name": "Dragon Ball",
+            "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=cb01725131e0f95825c49acdbc66d426",
+            "role": "Main"
+        },
+        {
+            "mal_id": 225,
+            "name": "Dragon Ball GT",
+            "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=2c95078a31150ffe1b2f78c3a6e2f5e5",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 502,
+            "name": "Dragon Ball Movie 1: Shen Long no Densetsu",
+            "url": "https://myanimelist.net/anime/502/Dragon_Ball_Movie_1__Shen_Long_no_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1854/90339.jpg?s=3a299c5e2ab2946e95870dafe613a513",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 813,
+            "name": "Dragon Ball Z",
+            "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=ea5b28e879ab9f9502487e014a997c57",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 891,
+            "name": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+            "url": "https://myanimelist.net/anime/891/Dragon_Ball_Movie_2__Majinjou_no_Nemurihime",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1285/90340.jpg?s=a697aa6ff369732d42ca54f9870b161f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 892,
+            "name": "Dragon Ball Movie 3: Makafushigi Daibouken",
+            "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg?s=0ba493fe3442a3880f1b5a1283ab58fc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 893,
+            "name": "Dragon Ball Movie 4: Saikyou e no Michi",
+            "url": "https://myanimelist.net/anime/893/Dragon_Ball_Movie_4__Saikyou_e_no_Michi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg?s=91b67f978b12016cfe01f06cbc0480b7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 896,
+            "name": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+            "url": "https://myanimelist.net/anime/896/Dragon_Ball_Z_Movie_03__Chikyuu_Marugoto_Choukessen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg?s=306ceef3d8ce648b16851f8594078b68",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 902,
+            "name": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+            "url": "https://myanimelist.net/anime/902/Dragon_Ball_Z_Movie_09__Ginga_Girigiri_Bucchigiri_no_Sugoi_Yatsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1730/93672.jpg?s=0b9fa81af6ce0d1e9e7ecae31a91cd4d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2520,
+            "name": "Dragon Ball Specials",
+            "url": "https://myanimelist.net/anime/2520/Dragon_Ball_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/24380.jpg?s=bbda913b32ec47e180a98edf11f04374",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5152,
+            "name": "Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!",
+            "url": "https://myanimelist.net/anime/5152/Dragon_Ball__Ossu_Kaettekita_Son_Gokuu_to_Nakama-tachi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/82828.jpg?s=25e5131b0c95fa2b8277bbad39f936b2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6033,
+            "name": "Dragon Ball Kai",
+            "url": "https://myanimelist.net/anime/6033/Dragon_Ball_Kai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/14065.jpg?s=966331867cffc419c008fa137da0efcf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14837,
+            "name": "Dragon Ball Z Movie 14: Kami to Kami",
+            "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1734/93678.jpg?s=4d5be8bd1c0df01c766f21975b0fce56",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 22695,
+            "name": "Dragon Ball Z: Summer Vacation Special",
+            "url": "https://myanimelist.net/anime/22695/Dragon_Ball_Z__Summer_Vacation_Special",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/60343.jpg?s=eb83e7bd3e1369d6c5c50adf676beb80",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 22777,
+            "name": "Dragon Ball Kai (2014)",
+            "url": "https://myanimelist.net/anime/22777/Dragon_Ball_Kai_2014",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/59275.jpg?s=9ef146bafcd67bed7bb85fc924ec7a91",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 30694,
+            "name": "Dragon Ball Super",
+            "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg?s=8baf3ae056839e6bf102e4efee6c759b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 42,
+            "name": "Dragon Ball",
+            "url": "https://myanimelist.net/manga/42/Dragon_Ball",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/54545.jpg?s=9be9961e38559ad41de31abeed6471bc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 16110,
+            "name": "Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!",
+            "url": "https://myanimelist.net/manga/16110/Dragon_Ball__Ossu_Kaettekita_Son_Gokuu_to_Nakama-tachi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178356.jpg?s=e6ee8d9d6536da16f674edfe1bb64fb0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 23446,
+            "name": "Dragon Ball SD",
+            "url": "https://myanimelist.net/manga/23446/Dragon_Ball_SD",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/135399.jpg?s=e38417cc05ac9b9bff34f9cead4b95d1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 103047,
+            "name": "Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken",
+            "url": "https://myanimelist.net/manga/103047/Dragon_Ball_Gaiden__Tensei_shitara_Yamcha_Datta_Ken",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/202580.jpg?s=fa014a0a8a4f9426323945e3c10d6096",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 253,
+            "name": "Sabat, Christopher",
+            "url": "https://myanimelist.net/people/253/Christopher_Sabat",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/42874.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 994,
+            "name": "Cole, Ted",
+            "url": "https://myanimelist.net/people/994/Ted_Cole",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/20289.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1072,
+            "name": "George, Grant",
+            "url": "https://myanimelist.net/people/1072/Grant_George",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48362.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1150,
+            "name": "Legrand, Eric",
+            "url": "https://myanimelist.net/people/1150/Eric_Legrand",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/30181.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 1229,
+            "name": "Guerrieri, Vittorio",
+            "url": "https://myanimelist.net/people/1229/Vittorio_Guerrieri",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6123.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1236,
+            "name": "Sabre, Diego",
+            "url": "https://myanimelist.net/people/1236/Diego_Sabre",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/21749.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 5084,
+            "name": "Andreatto, Rodrigo",
+            "url": "https://myanimelist.net/people/5084/Rodrigo_Andreatto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41874.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 5684,
+            "name": "Barrero, Jesús",
+            "url": "https://myanimelist.net/people/5684/Jesús_Barrero",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/11346.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 7859,
+            "name": "Forgács, Péter",
+            "url": "https://myanimelist.net/people/7859/Péter_Forgács",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5125.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 8609,
+            "name": "Araújo, Márcio",
+            "url": "https://myanimelist.net/people/8609/Márcio_Araújo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/59113.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 10019,
+            "name": "Mendoza, Ricardo",
+            "url": "https://myanimelist.net/people/10019/Ricardo_Mendoza",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/8072.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 11916,
+            "name": "Hackenberger, Karlo",
+            "url": "https://myanimelist.net/people/11916/Karlo_Hackenberger",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/11155.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 12231,
+            "name": "Meese, Andreas",
+            "url": "https://myanimelist.net/people/12231/Andreas_Meese",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47328.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 13323,
+            "name": "Amajones, Affonso",
+            "url": "https://myanimelist.net/people/13323/Affonso_Amajones",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58691.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 14819,
+            "name": "Kim, Seung jun",
+            "url": "https://myanimelist.net/people/14819/Seung_jun_Kim",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15759.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 15849,
+            "name": "Mahan, Kerrigan",
+            "url": "https://myanimelist.net/people/15849/Kerrigan_Mahan",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41481.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 17159,
+            "name": "Atkin, Efron",
+            "url": "https://myanimelist.net/people/17159/Efron_Atkin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/19781.jpg",
+            "language": "Hebrew"
+        },
+        {
+            "mal_id": 26393,
+            "name": "Nouel, Antoine",
+            "url": "https://myanimelist.net/people/26393/Antoine_Nouel",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 46429,
+            "name": "Rand, Doug",
+            "url": "https://myanimelist.net/people/46429/Doug_Rand",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "English"
+        },
+        {
+            "mal_id": 46431,
+            "name": "Mann, Sharon",
+            "url": "https://myanimelist.net/people/46431/Sharon_Mann",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1565,
+    "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg",
+    "title": "Pokemon Diamond & Pearl",
+    "title_english": null,
+    "title_japanese": "ポケットモンスター ダイヤモンド&パール",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 191,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-09-28T00:00:00+00:00",
+        "to": "2010-09-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 9,
+                "year": 2006
+            },
+            "to": {
+                "day": 9,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Sep 28, 2006 to Sep 9, 2010"
+    },
+    "score": 7.2,
+    "scored_by": 59223,
+    "rank": 2785,
+    "popularity": 1367,
+    "members": 101891,
+    "favorites": 403,
+    "premiered": "Fall 2006",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

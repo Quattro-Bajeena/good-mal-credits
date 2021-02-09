@@ -1,0 +1,44 @@
+{
+    "mal_id": 36370,
+    "url": "https://myanimelist.net/anime/36370/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1215/103351.jpg",
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 2",
+    "title_english": null,
+    "title_japanese": "銀河英雄伝説 Die Neue These 星乱 第2章",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-10-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 25, 2019"
+    },
+    "score": 8.09,
+    "scored_by": 6740,
+    "rank": 428,
+    "popularity": 4192,
+    "members": 14636,
+    "favorites": 27,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

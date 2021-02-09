@@ -1,0 +1,44 @@
+{
+    "mal_id": 35798,
+    "url": "https://myanimelist.net/anime/35798/Detective_Conan_Movie_22__Zero_The_Enforcer",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/90104.jpg",
+    "title": "Detective Conan Movie 22: Zero The Enforcer",
+    "title_english": "Detective Conan: Zero the Enforcer",
+    "title_japanese": "劇場版 名探偵コナン ゼロの執行人",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-04-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 4,
+                "year": 2018
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 13, 2018"
+    },
+    "score": 7.8,
+    "scored_by": 8965,
+    "rank": 820,
+    "popularity": 3831,
+    "members": 17923,
+    "favorites": 59,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

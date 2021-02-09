@@ -1,0 +1,44 @@
+{
+    "mal_id": 1255,
+    "url": "https://myanimelist.net/anime/1255/Saint_Seiya__Shinku_no_Shounen_Densetsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/52889.jpg",
+    "title": "Saint Seiya: Shinku no Shounen Densetsu",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢 真紅の少年伝説",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-07-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 7,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 23, 1988"
+    },
+    "score": 7.23,
+    "scored_by": 7484,
+    "rank": 2630,
+    "popularity": 4356,
+    "members": 13245,
+    "favorites": 29,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

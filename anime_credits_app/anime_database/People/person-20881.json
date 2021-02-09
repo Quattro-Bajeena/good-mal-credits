@@ -293,7 +293,7 @@
             "anime": {
                 "mal_id": 39567,
                 "url": "https://myanimelist.net/anime/39567/Keishichou_Tokumubu_Tokushu_Kyouakuhan_Taisakushitsu_Dainanaka__Tokunana",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1331/108283.jpg?s=a233aa2ba97d0d01a05335b9dd25a207",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1556/111623.jpg?s=6f7f03408e74bc6259ae4e59488708c4",
                 "name": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana"
             }
         },
@@ -640,7 +640,7 @@
             }
         },
         {
-            "position": "Art Director",
+            "position": "Background Art",
             "anime": {
                 "mal_id": 1226,
                 "url": "https://myanimelist.net/anime/1226/Seihou_Tenshi_Angel_Links",
@@ -649,7 +649,7 @@
             }
         },
         {
-            "position": "Background Art",
+            "position": "Art Director",
             "anime": {
                 "mal_id": 1226,
                 "url": "https://myanimelist.net/anime/1226/Seihou_Tenshi_Angel_Links",
@@ -810,5 +810,6 @@
                 "name": "Zone of the Enders: Dolores, I"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -6,7 +6,7 @@
     "given_name": "健一",
     "family_name": "吉田",
     "birthday": null,
-    "member_favorites": 91,
+    "member_favorites": 92,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -64,7 +64,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 12471,
                 "url": "https://myanimelist.net/anime/12471/Eureka_Seven_AO",
@@ -73,7 +73,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 12471,
                 "url": "https://myanimelist.net/anime/12471/Eureka_Seven_AO",
@@ -118,7 +118,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 23259,
                 "url": "https://myanimelist.net/anime/23259/Gundam__G_no_Reconguista",
@@ -127,7 +127,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 23259,
                 "url": "https://myanimelist.net/anime/23259/Gundam__G_no_Reconguista",
@@ -262,7 +262,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 237,
                 "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
@@ -271,7 +271,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 237,
                 "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
@@ -630,5 +630,6 @@
                 "name": "Wolf's Rain OVA"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

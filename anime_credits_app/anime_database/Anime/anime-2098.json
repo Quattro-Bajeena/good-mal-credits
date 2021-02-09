@@ -1,0 +1,44 @@
+{
+    "mal_id": 2098,
+    "url": "https://myanimelist.net/anime/2098/Shin_Kimagure_Orange☆Road__Soshite_Ano_Natsu_no_Hajimari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1460/96602.jpg",
+    "title": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+    "title_english": null,
+    "title_japanese": "新きまぐれオレンジ☆ロード ～ そして、あの夏のはじまり",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-11-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 11,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 2, 1996"
+    },
+    "score": 7.43,
+    "scored_by": 3033,
+    "rank": 1798,
+    "popularity": 5679,
+    "members": 6921,
+    "favorites": 20,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1367,
+    "url": "https://myanimelist.net/anime/1367/Detective_Conan_Movie_08__Magician_of_the_Silver_Sky",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/20982.jpg",
+    "title": "Detective Conan Movie 08: Magician of the Silver Sky",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 銀翼の奇術師[マジシャン]",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-04-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 17, 2004"
+    },
+    "score": 8.11,
+    "scored_by": 25251,
+    "rank": 401,
+    "popularity": 2441,
+    "members": 42978,
+    "favorites": 45,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

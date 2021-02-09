@@ -7,25 +7,35 @@ from anime_credits_app import app_root, db
 from anime_credits_app.models import PageStatus
 
 
-
-
-def register_page_update_start(category, mal_id, task_id):
+def register_page_update_scheduled(category, mal_id, task_id):
     log = PageStatus.query.get(mal_id)
     if not log:
         log = PageStatus(
             mal_id = mal_id,
             category=category,
             exists = False,
-            updating=True,
+            updating=False,
+            scheduled_to_update = True,
             task_id = task_id
         )
         db.session.add(log)
-        print("created new page log")
+        print("scheduled to update - created new page log")
     else:
-        log.updating = True
+        log.scheduled_to_update = True
+        log.updating = False
         log.task_id = task_id
 
 
+    print("register_page_update (database commit)")
+    db.session.commit()
+    
+
+
+
+def register_page_update_start(mal_id):
+    log = PageStatus.query.get(mal_id)
+    log.updating = True
+    log.scheduled_to_update = False
     print("register_page_update_start")
     db.session.commit()
 
@@ -59,12 +69,13 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
 
     log = PageStatus.query.get(mal_id)
-    print("log", log)
+    print(f"check_page_update - log: {log} ")
     in_db = bool(log)
     exists = in_db and log.exists
 
     updating = in_db and log.updating
-    task_id =  updating and log.task_id
+    scheduled_to_update = in_db and log.scheduled_to_update
+    task_id =  (updating or scheduled_to_update) and log.task_id
 
     needs_update = exists and (not updating) and (time_limit and ( (datetime.now() - log.last_modified) > time_limit) )
 
@@ -75,6 +86,7 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
         'being_created' : being_created,
         'needs_update': needs_update,
         'updating' : updating,
+        'scheduled_to_update' : scheduled_to_update,
         'task_id' : task_id
         }
 

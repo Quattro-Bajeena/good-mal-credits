@@ -1,0 +1,35 @@
+{
+    "mal_id": 30729,
+    "url": "https://myanimelist.net/character/30729/Siu_Seen",
+    "name": "Siu Seen",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/81562.jpg",
+    "animeography": [
+        {
+            "mal_id": 315,
+            "name": "Xiao Qian",
+            "url": "https://myanimelist.net/anime/315/Xiao_Qian",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/28202.jpg?s=c55db229a3dd4dd52212c3ba478087c4",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1165,
+            "name": "Oliver, Nicole",
+            "url": "https://myanimelist.net/people/1165/Nicole_Oliver",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39901.jpg",
+            "language": "English"
+        }
+    ]
+}

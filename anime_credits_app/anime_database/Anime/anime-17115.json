@@ -1,0 +1,44 @@
+{
+    "mal_id": 17115,
+    "url": "https://myanimelist.net/anime/17115/Pokemon_Best_Wishes_Season_2__Episode_N",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/45749.jpg",
+    "title": "Pokemon Best Wishes! Season 2: Episode N",
+    "title_english": "Pokémon: Black & White: Adventures in Unova",
+    "title_japanese": "ポケットモンスター ベストウイッシュ シーズン2 エピソードN",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 14,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-01-17T00:00:00+00:00",
+        "to": "2013-04-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 18,
+                "month": 4,
+                "year": 2013
+            }
+        },
+        "string": "Jan 17, 2013 to Apr 18, 2013"
+    },
+    "score": 6.69,
+    "scored_by": 16826,
+    "rank": 4928,
+    "popularity": 2902,
+    "members": 31134,
+    "favorites": 97,
+    "premiered": "Winter 2013",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

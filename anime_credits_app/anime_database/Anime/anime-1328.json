@@ -1,0 +1,44 @@
+{
+    "mal_id": 1328,
+    "url": "https://myanimelist.net/anime/1328/One_Pound_Gospel",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/4115.jpg",
+    "title": "One Pound Gospel",
+    "title_english": "One Pound Gospel",
+    "title_japanese": "１ポンドの福音",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-12-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 12,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 2, 1988"
+    },
+    "score": 6.46,
+    "scored_by": 1501,
+    "rank": 6077,
+    "popularity": 7518,
+    "members": 3344,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 36,
+            "type": "anime",
+            "name": "Gallop",
+            "url": "https://myanimelist.net/anime/producer/36/Gallop"
+        }
+    ]
+}

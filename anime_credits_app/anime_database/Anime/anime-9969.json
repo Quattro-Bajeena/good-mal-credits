@@ -1,0 +1,44 @@
+{
+    "mal_id": 9969,
+    "url": "https://myanimelist.net/anime/9969/Gintama",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+    "title": "Gintama'",
+    "title_english": "Gintama Season 2",
+    "title_japanese": "銀魂'",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 51,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-04-04T00:00:00+00:00",
+        "to": "2012-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2011
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Apr 4, 2011 to Mar 26, 2012"
+    },
+    "score": 9.08,
+    "scored_by": 152132,
+    "rank": 7,
+    "popularity": 362,
+    "members": 363966,
+    "favorites": 6554,
+    "premiered": "Spring 2011",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

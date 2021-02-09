@@ -1,0 +1,44 @@
+{
+    "mal_id": 6567,
+    "url": "https://myanimelist.net/anime/6567/Urusei_Yatsura__The_Shougaibutsu_Suieitaikai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/38671.jpg",
+    "title": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+    "title_english": null,
+    "title_japanese": "ザ障害物水泳大会",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-12-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 12,
+                "year": 2008
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 23, 2008"
+    },
+    "score": 7.09,
+    "scored_by": 1391,
+    "rank": 3239,
+    "popularity": 7236,
+    "members": 3750,
+    "favorites": 10,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

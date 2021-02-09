@@ -1,0 +1,417 @@
+{
+    "mal_id": 3935,
+    "url": "https://myanimelist.net/character/3935/Musashi",
+    "name": "Musashi",
+    "name_kanji": null,
+    "nicknames": [
+        "Jessie",
+        "Jessica"
+    ],
+    "member_favorites": 320,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/278096.jpg",
+    "animeography": [
+        {
+            "mal_id": 527,
+            "name": "Pokemon",
+            "url": "https://myanimelist.net/anime/527/Pokemon",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/73834.jpg?s=a86778ee44bef6fd09b4d3f32c5c1765",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 528,
+            "name": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+            "url": "https://myanimelist.net/anime/528/Pokemon_Movie_01__Mewtwo_no_Gyakushuu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/65699.jpg?s=7a5f278efdca139d9a48019a361e1dd8",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1117,
+            "name": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+            "url": "https://myanimelist.net/anime/1117/Pokemon_Movie_02__Maboroshi_no_Pokemon_Lugia_Bakutan",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/41801.jpg?s=b7e750b9dce6d3a6124065458f5f6326",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1118,
+            "name": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+            "url": "https://myanimelist.net/anime/1118/Pokemon_Movie_03__Kesshoutou_no_Teiou_Entei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/80288.jpg?s=438403bd304acf69c07959c7e59c954b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1119,
+            "name": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+            "url": "https://myanimelist.net/anime/1119/Pokemon_Movie_04__Celebi_Toki_wo_Koeta_Deai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/41799.jpg?s=bc46ccb449479ce6cdcea4f0925870e9",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1120,
+            "name": "Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios",
+            "url": "https://myanimelist.net/anime/1120/Pokemon_Movie_05__Mizu_no_Miyako_no_Mamorigami_Latias_to_Latios",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/21317.jpg?s=6429e0ba7c1e6a579330c992e4e42507",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1121,
+            "name": "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi",
+            "url": "https://myanimelist.net/anime/1121/Pokemon_Movie_06__Nanayo_no_Negaiboshi_Jirachi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/75733.jpg?s=74c9038d1b58d5991a7db3522e06a4a4",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1122,
+            "name": "Pokemon Movie 07: Rekkuu no Houmonsha Deoxys",
+            "url": "https://myanimelist.net/anime/1122/Pokemon_Movie_07__Rekkuu_no_Houmonsha_Deoxys",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/21313.jpg?s=d2a22f2b84048aaefab4344c395ea649",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1526,
+            "name": "Pokemon Movie 08: Mew to Hadou no Yuusha Lucario",
+            "url": "https://myanimelist.net/anime/1526/Pokemon_Movie_08__Mew_to_Hadou_no_Yuusha_Lucario",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/79257.jpg?s=833cf41016617473e170e2de5c27eaa1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1527,
+            "name": "Pokemon: Senritsu no Mirage Pokemon",
+            "url": "https://myanimelist.net/anime/1527/Pokemon__Senritsu_no_Mirage_Pokemon",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1471/108232.jpg?s=bff8af0a45a716466b214b5f2b7bf04b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1564,
+            "name": "Pokemon Advanced Generation",
+            "url": "https://myanimelist.net/anime/1564/Pokemon_Advanced_Generation",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/85774.jpg?s=ecc7f9022b4e4335f8e928d4ab01632b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1565,
+            "name": "Pokemon Diamond & Pearl",
+            "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg?s=80aca3e825cc8820047423d3d0860bf4",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1709,
+            "name": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+            "url": "https://myanimelist.net/anime/1709/Pokemon__Mewtwo_Ware_wa_Koko_ni_Ari",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/87922.jpg?s=f5d0a1106369eab85392c12ed86cdb65",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2201,
+            "name": "Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy",
+            "url": "https://myanimelist.net/anime/2201/Pokemon_Movie_09__Pokemon_Ranger_to_Umi_no_Ouji_Manaphy",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/23168.jpg?s=53503fb4243c7d95dcc4d30d841a71cf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2363,
+            "name": "Pokemon Housoukyoku",
+            "url": "https://myanimelist.net/anime/2363/Pokemon_Housoukyoku",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/21390.jpg?s=9ed314b4d47df0a6addc4185e8bace2e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2847,
+            "name": "Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai",
+            "url": "https://myanimelist.net/anime/2847/Pokemon_Movie_10__Dialga_vs_Palkia_vs_Darkrai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1119/94419.jpg?s=0033c33f7f3927974fcbbfa807f07fea",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4026,
+            "name": "Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi",
+            "url": "https://myanimelist.net/anime/4026/Pokemon_Movie_11__Giratina_to_Sora_no_Hanataba_Sheimi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/21316.jpg?s=84d288359868a109a889db6b561f9b75",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5529,
+            "name": "Pokemon: Odoru Pokemon Himitsu Kichi",
+            "url": "https://myanimelist.net/anime/5529/Pokemon__Odoru_Pokemon_Himitsu_Kichi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/64891.jpg?s=d5b045aae607dce1a10c9bd768aa73cb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6178,
+            "name": "Pokemon Movie 12: Arceus Choukoku no Jikuu e",
+            "url": "https://myanimelist.net/anime/6178/Pokemon_Movie_12__Arceus_Choukoku_no_Jikuu_e",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/21315.jpg?s=61f1a9c8c5075269c15b36c033e49053",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7695,
+            "name": "Pokemon Movie 13: Genei no Hasha Zoroark",
+            "url": "https://myanimelist.net/anime/7695/Pokemon_Movie_13__Genei_no_Hasha_Zoroark",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/26915.jpg?s=ad1347c8a683c79f632654e4b3783ed2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 9107,
+            "name": "Pokemon Best Wishes!",
+            "url": "https://myanimelist.net/anime/9107/Pokemon_Best_Wishes",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/26135.jpg?s=d977a6c3536a25ad699d8ee55c9295d7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 9917,
+            "name": "Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom",
+            "url": "https://myanimelist.net/anime/9917/Pokemon_Movie_14_White__Victini_to_Kuroki_Eiyuu_Zekrom",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/29620.jpg?s=165370bf3cc63340171bb1cd7f590045",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10740,
+            "name": "Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram",
+            "url": "https://myanimelist.net/anime/10740/Pokemon_Movie_14_Black__Victini_to_Shiroki_Eiyuu_Reshiram",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/29621.jpg?s=4767c4933f08a296e5fc87cf53ec04d6",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 12671,
+            "name": "Pokemon Movie 15: Kyurem vs. Seikenshi",
+            "url": "https://myanimelist.net/anime/12671/Pokemon_Movie_15__Kyurem_vs_Seikenshi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/38311.jpg?s=24f72e4b05162eca9cf07486f96ba60f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 14093,
+            "name": "Pokemon Best Wishes! Season 2",
+            "url": "https://myanimelist.net/anime/14093/Pokemon_Best_Wishes_Season_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/39007.jpg?s=f47bd40026de87c2b2725e1136aaabfe",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 16680,
+            "name": "Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei",
+            "url": "https://myanimelist.net/anime/16680/Pokemon_Movie_16__Shinsoku_no_Genosect_-_Mewtwo_Kakusei",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/47615.jpg?s=ae5c3c240dc5792d85d7fdb4fc70b253",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 17115,
+            "name": "Pokemon Best Wishes! Season 2: Episode N",
+            "url": "https://myanimelist.net/anime/17115/Pokemon_Best_Wishes_Season_2__Episode_N",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/45749.jpg?s=a04d1ef6f73c108615d134b96aff5569",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 17873,
+            "name": "Pokemon Best Wishes! Season 2: Decolora Adventure",
+            "url": "https://myanimelist.net/anime/17873/Pokemon_Best_Wishes_Season_2__Decolora_Adventure",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/49285.jpg?s=f1b6288255d2374d51c475b4535856c6",
+            "role": "Main"
+        },
+        {
+            "mal_id": 19291,
+            "name": "Pokemon XY",
+            "url": "https://myanimelist.net/anime/19291/Pokemon_XY",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/54549.jpg?s=46a0cd926b49f97b4783b38be7c8a7b2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 21569,
+            "name": "Pokemon Movie 17: Hakai no Mayu to Diancie",
+            "url": "https://myanimelist.net/anime/21569/Pokemon_Movie_17__Hakai_no_Mayu_to_Diancie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/59743.jpg?s=8a46bf94bb88c220b7940136ced6b711",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 25805,
+            "name": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+            "url": "https://myanimelist.net/anime/25805/Pokemon_Movie_18__Ring_no_Choumajin_Hoopa",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/72143.jpg?s=418d904e20fdae336c9a819df2c66e4f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31231,
+            "name": "Pokemon Movie 19: Volcanion to Karakuri no Magearna",
+            "url": "https://myanimelist.net/anime/31231/Pokemon_Movie_19__Volcanion_to_Karakuri_no_Magearna",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/78818.jpg?s=95bafd2931dff6fcb3faa0a1e50d35b0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31592,
+            "name": "Pokemon XY&Z",
+            "url": "https://myanimelist.net/anime/31592/Pokemon_XY_Z",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1599/94412.jpg?s=7eac9e4cbb006f33ef13df3bc5e6035d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34034,
+            "name": "Pokemon Sun & Moon",
+            "url": "https://myanimelist.net/anime/34034/Pokemon_Sun___Moon",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/84673.jpg?s=307d2a426b520c35bacc0b4d1802ec39",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34540,
+            "name": "Pokemon Movie 20: Kimi ni Kimeta!",
+            "url": "https://myanimelist.net/anime/34540/Pokemon_Movie_20__Kimi_ni_Kimeta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/85787.jpg?s=0e7d8035aa22704cec7128b7b4d8176f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36927,
+            "name": "Pokemon Movie 21: Minna no Monogatari",
+            "url": "https://myanimelist.net/anime/36927/Pokemon_Movie_21__Minna_no_Monogatari",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1580/90795.jpg?s=535e018a93b5ab0b3d35cf1b1bcb2d39",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37966,
+            "name": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
+            "url": "https://myanimelist.net/anime/37966/Pokemon_Movie_22__Mewtwo_no_Gyakushuu_Evolution",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1796/99496.jpg?s=1ed635a68b3772b2725a2f01377dee17",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 40351,
+            "name": "Pokemon (2019)",
+            "url": "https://myanimelist.net/anime/40351/Pokemon_2019",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg?s=a83d612caf30b59640616b8740a6a75c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 40881,
+            "name": "Pokemon Movie 23: Coco",
+            "url": "https://myanimelist.net/anime/40881/Pokemon_Movie_23__Coco",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg?s=cf25bd5a6a9de47d3d443b1ea9032b4f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 858,
+            "name": "Dengeki! Pikachu",
+            "url": "https://myanimelist.net/manga/858/Dengeki_Pikachu",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/155945.jpg?s=b7194feadf02079228af242faa26648c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11726,
+            "name": "Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai",
+            "url": "https://myanimelist.net/manga/11726/Gekijouban_Pocket_Monsters_Diamond___Pearl__Dialga_vs_Palkia_vs_Darkrai",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/116405.jpg?s=4944a8e0cff1b8f6158096fb567bf533",
+            "role": "Main"
+        },
+        {
+            "mal_id": 24227,
+            "name": "Pokemon Ranger to Umi no Ouji Manaphy",
+            "url": "https://myanimelist.net/manga/24227/Pokemon_Ranger_to_Umi_no_Ouji_Manaphy",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/165765.jpg?s=ef2cb95936c86cfe5cc13e01a39c20f6",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 66,
+            "name": "Hiramatsu, Akiko",
+            "url": "https://myanimelist.net/people/66/Akiko_Hiramatsu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/13659.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1090,
+            "name": "Pacotto, Emanuela",
+            "url": "https://myanimelist.net/people/1090/Emanuela_Pacotto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/28987.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1325,
+            "name": "Knotz, Michele",
+            "url": "https://myanimelist.net/people/1325/Michele_Knotz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/13529.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1503,
+            "name": "Lillis, Rachael",
+            "url": "https://myanimelist.net/people/1503/Rachael_Lillis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/35121.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7792,
+            "name": "Kiss, Erika",
+            "url": "https://myanimelist.net/people/7792/Erika_Kiss",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5047.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 14773,
+            "name": "Wu, Jeong Sin",
+            "url": "https://myanimelist.net/people/14773/Jeong_Sin_Wu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15321.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 17723,
+            "name": "Bar shalom, Maya",
+            "url": "https://myanimelist.net/people/17723/Maya_Bar_shalom",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/20091.jpg",
+            "language": "Hebrew"
+        },
+        {
+            "mal_id": 17815,
+            "name": "Saddy, Flávia",
+            "url": "https://myanimelist.net/people/17815/Flávia_Saddy",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43170.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 19932,
+            "name": "Lössl, Claudia",
+            "url": "https://myanimelist.net/people/19932/Claudia_Lössl",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22650.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 26299,
+            "name": "Conet, Catherine",
+            "url": "https://myanimelist.net/people/26299/Catherine_Conet",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 33479,
+            "name": "de Sá, Isabel",
+            "url": "https://myanimelist.net/people/33479/Isabel_de_Sá",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/34445.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 42602,
+            "name": "Cavadenti, Scarlet",
+            "url": "https://myanimelist.net/people/42602/Scarlet_Cavadenti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/45956.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 44999,
+            "name": "Valencia, Amparo",
+            "url": "https://myanimelist.net/people/44999/Amparo_Valencia",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48312.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 45000,
+            "name": "Perez, Diana",
+            "url": "https://myanimelist.net/people/45000/Diana_Perez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48313.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

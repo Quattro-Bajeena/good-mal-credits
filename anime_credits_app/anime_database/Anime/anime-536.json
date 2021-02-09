@@ -1,0 +1,44 @@
+{
+    "mal_id": 536,
+    "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/2644.jpg",
+    "title": "Slayers: The Motion Picture",
+    "title_english": "Slayers: The Motion Picture",
+    "title_japanese": "劇場版スレイヤーズ",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-07-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 7,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 29, 1995"
+    },
+    "score": 7.3,
+    "scored_by": 11741,
+    "rank": 2348,
+    "popularity": 3550,
+    "members": 21041,
+    "favorites": 32,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

@@ -6,7 +6,7 @@
     "given_name": "賢一",
     "family_name": "小西",
     "birthday": "1968-06-23T00:00:00+00:00",
-    "member_favorites": 8,
+    "member_favorites": 7,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -522,5 +522,6 @@
                 "name": "Umi ga Kikoeru"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

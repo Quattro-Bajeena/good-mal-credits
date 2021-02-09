@@ -1,0 +1,42 @@
+{
+    "mal_id": 166677,
+    "url": "https://myanimelist.net/character/166677/Narrator",
+    "name": "Narrator",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 34443,
+            "name": "Baki",
+            "url": "https://myanimelist.net/anime/34443/Baki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1979/93135.jpg?s=da3ea5d949c3d73b8c107ad8af781499",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 43664,
+            "name": "Alonso, Renan",
+            "url": "https://myanimelist.net/people/43664/Renan_Alonso",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/61128.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

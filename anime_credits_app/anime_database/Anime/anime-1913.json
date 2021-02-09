@@ -1,0 +1,50 @@
+{
+    "mal_id": 1913,
+    "url": "https://myanimelist.net/anime/1913/Shonan_Junai_Gumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1941/98123.jpg",
+    "title": "Shonan Junai Gumi!",
+    "title_english": null,
+    "title_japanese": "湘南純愛組!",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-01-21T00:00:00+00:00",
+        "to": "1997-01-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 1,
+                "year": 1994
+            },
+            "to": {
+                "day": 24,
+                "month": 1,
+                "year": 1997
+            }
+        },
+        "string": "Jan 21, 1994 to Jan 24, 1997"
+    },
+    "score": 7.48,
+    "scored_by": 15128,
+    "rank": 1651,
+    "popularity": 2721,
+    "members": 35058,
+    "favorites": 139,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        },
+        {
+            "mal_id": 312,
+            "type": "anime",
+            "name": "Life Work",
+            "url": "https://myanimelist.net/anime/producer/312/Life_Work"
+        }
+    ]
+}

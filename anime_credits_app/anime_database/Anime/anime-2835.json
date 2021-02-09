@@ -1,0 +1,44 @@
+{
+    "mal_id": 2835,
+    "url": "https://myanimelist.net/anime/2835/Patalliro",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/56443.jpg",
+    "title": "Patalliro!",
+    "title_english": null,
+    "title_japanese": "パタリロ！",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 49,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-04-09T00:00:00+00:00",
+        "to": "1983-05-13T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 4,
+                "year": 1982
+            },
+            "to": {
+                "day": 13,
+                "month": 5,
+                "year": 1983
+            }
+        },
+        "string": "Apr 9, 1982 to May 13, 1983"
+    },
+    "score": 7.29,
+    "scored_by": 776,
+    "rank": 2369,
+    "popularity": 6167,
+    "members": 5587,
+    "favorites": 83,
+    "premiered": "Spring 1982",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

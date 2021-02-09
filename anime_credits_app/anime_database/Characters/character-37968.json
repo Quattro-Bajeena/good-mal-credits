@@ -1,0 +1,35 @@
+{
+    "mal_id": 37968,
+    "url": "https://myanimelist.net/character/37968/Bonnie_Fraser",
+    "name": "Bonnie Fraser",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/129599.jpg",
+    "animeography": [
+        {
+            "mal_id": 567,
+            "name": "The Big O",
+            "url": "https://myanimelist.net/anime/567/The_Big_O",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=2a4ce760b0c2361081bc49d902267a07",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 990,
+            "name": "Kramer, Steve",
+            "url": "https://myanimelist.net/people/990/Steve_Kramer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41889.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "mal_id": 7147,
+    "url": "https://myanimelist.net/character/7147/Opacho",
+    "name": "Opacho",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 12,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/88958.jpg",
+    "animeography": [
+        {
+            "mal_id": 154,
+            "name": "Shaman King",
+            "url": "https://myanimelist.net/anime/154/Shaman_King",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/18990.jpg?s=62d19c0d5b8522ba47a9d018fc37b3f6",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 50,
+            "name": "Shaman King",
+            "url": "https://myanimelist.net/manga/50/Shaman_King",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/57607.jpg?s=69546c03828397c0db450be7829e698d",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5683,
+            "name": "Byrd, Christine",
+            "url": "https://myanimelist.net/people/5683/Christine_Byrd",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/6465.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 5885,
+            "name": "Wick, Andrea",
+            "url": "https://myanimelist.net/people/5885/Andrea_Wick",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        },
+        {
+            "mal_id": 7887,
+            "name": "Ramos, Victoria",
+            "url": "https://myanimelist.net/people/7887/Victoria_Ramos",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53277.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 11667,
+            "name": "Narciso, Flávia",
+            "url": "https://myanimelist.net/people/11667/Flávia_Narciso",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59156.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 14851,
+            "name": "Bae, Jeong Mi",
+            "url": "https://myanimelist.net/people/14851/Jeong_Mi_Bae",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15423.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 35547,
+            "name": "Foresta, Loredana",
+            "url": "https://myanimelist.net/people/35547/Loredana_Foresta",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

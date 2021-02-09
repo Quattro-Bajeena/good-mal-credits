@@ -1,0 +1,129 @@
+{
+    "mal_id": 17620,
+    "url": "https://myanimelist.net/character/17620/Keel_Lorentz",
+    "name": "Keel Lorentz",
+    "name_kanji": null,
+    "nicknames": [
+        "Lorenz"
+    ],
+    "member_favorites": 7,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/109297.jpg",
+    "animeography": [
+        {
+            "mal_id": 30,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=1bb89f56bd9a2ad35d34fb3fb5599166",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31,
+            "name": "Neon Genesis Evangelion: Death & Rebirth",
+            "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=0107e0d7c156c0c67ad3ca2bc9f59288",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32,
+            "name": "Neon Genesis Evangelion: The End of Evangelion",
+            "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=301b12c0ca8878e4927175a479e86bcc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2759,
+            "name": "Evangelion: 1.0 You Are (Not) Alone",
+            "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=74017886b9e235cc4505717312a10872",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3784,
+            "name": "Evangelion: 2.0 You Can (Not) Advance",
+            "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=bfae8f8f985c7b58f174c58542013092",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3785,
+            "name": "Evangelion: 3.0 You Can (Not) Redo",
+            "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=ba44293fbbd95dced951c0c2d79560d0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 698,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/manga/698/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145061.jpg?s=e60c27b700cc77e9bd4e3736eac279de",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1436,
+            "name": "Mugihito",
+            "url": "https://myanimelist.net/people/1436/Mugihito",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/56764.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9867,
+            "name": "Jenkins, Bill",
+            "url": "https://myanimelist.net/people/9867/Bill_Jenkins",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/14253.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 12394,
+            "name": "Peeples, Rick",
+            "url": "https://myanimelist.net/people/12394/Rick_Peeples",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22211.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 13341,
+            "name": "Musy, Gianni",
+            "url": "https://myanimelist.net/people/13341/Gianni_Musy",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37687.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 17553,
+            "name": "Kuschmann, Bernd",
+            "url": "https://myanimelist.net/people/17553/Bernd_Kuschmann",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/20139.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 29623,
+            "name": "Boucaron, Gérard",
+            "url": "https://myanimelist.net/people/29623/Gérard_Boucaron",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 37865,
+            "name": "Díez, Eduardo",
+            "url": "https://myanimelist.net/people/37865/Eduardo_Díez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/52506.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 43083,
+            "name": "Booker, Thomas",
+            "url": "https://myanimelist.net/people/43083/Thomas_Booker",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/43305.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43719,
+            "name": "Moreno, Antônio",
+            "url": "https://myanimelist.net/people/43719/Antônio_Moreno",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47561.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

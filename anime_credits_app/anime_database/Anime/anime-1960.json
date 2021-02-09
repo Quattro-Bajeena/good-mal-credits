@@ -1,0 +1,44 @@
+{
+    "mal_id": 1960,
+    "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1960.jpg",
+    "title": "Sore Ike! Anpanman",
+    "title_english": null,
+    "title_japanese": "それいけ！アンパンマン",
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": null,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "1988-10-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 3, 1988 to ?"
+    },
+    "score": 6.38,
+    "scored_by": 719,
+    "rank": 6515,
+    "popularity": 8571,
+    "members": 2194,
+    "favorites": 18,
+    "premiered": "Fall 1988",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "mal_id": 120991,
+    "url": "https://myanimelist.net/character/120991/Christine_Gillum",
+    "name": "Christine Gillum",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/275853.jpg",
+    "animeography": [
+        {
+            "mal_id": 13391,
+            "name": "Rakuen Tsuihou",
+            "url": "https://myanimelist.net/anime/13391/Rakuen_Tsuihou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/87919.jpg?s=de157dbf803ebb36a671a91db0c30dbc",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 659,
+            "name": "Palencia, Brina",
+            "url": "https://myanimelist.net/people/659/Brina_Palencia",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48137.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43053,
+            "name": "Friede, Franciska",
+            "url": "https://myanimelist.net/people/43053/Franciska_Friede",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46548.jpg",
+            "language": "German"
+        }
+    ]
+}

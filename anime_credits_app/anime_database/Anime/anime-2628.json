@@ -1,0 +1,44 @@
+{
+    "mal_id": 2628,
+    "url": "https://myanimelist.net/anime/2628/The☆Doraemons__Strange_Sweets_Strange",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/28289.jpg",
+    "title": "The☆Doraemons: Strange, Sweets, Strange?",
+    "title_english": null,
+    "title_japanese": "ザ☆ドラえもんズ おかしなお菓子なオカシナナ？",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-03-06T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 6, 1999"
+    },
+    "score": 6.31,
+    "scored_by": 302,
+    "rank": 6816,
+    "popularity": 10690,
+    "members": 888,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

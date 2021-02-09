@@ -1,0 +1,37 @@
+{
+    "mal_id": 9421,
+    "url": "https://myanimelist.net/anime/9421/SMAnime",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/26092.jpg",
+    "title": "SMAnime",
+    "title_english": null,
+    "title_japanese": "スマアニメ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "2000"
+    },
+    "score": 6.46,
+    "scored_by": 164,
+    "rank": 6112,
+    "popularity": 12294,
+    "members": 463,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

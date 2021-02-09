@@ -1,0 +1,49 @@
+{
+    "mal_id": 28429,
+    "url": "https://myanimelist.net/character/28429/Ume",
+    "name": "Ume",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/72800.jpg",
+    "animeography": [
+        {
+            "mal_id": 212,
+            "name": "Project A-Ko",
+            "url": "https://myanimelist.net/anime/212/Project_A-Ko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/58391.jpg?s=ab8dd40c3491fc95736ac0befe333d24",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1296,
+            "name": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+            "url": "https://myanimelist.net/anime/1296/Project_A-Ko_2__Daitokuji_Zaibatsu_no_Inbou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/29213.jpg?s=a72a60fbde84bd311f978185e91e15d9",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1297,
+            "name": "Project A-Ko 3: Cinderella Rhapsody",
+            "url": "https://myanimelist.net/anime/1297/Project_A-Ko_3__Cinderella_Rhapsody",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1087/92669.jpg?s=85ea52ae91d3ad7ec9ac3f32696bf6e9",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1298,
+            "name": "Project A-Ko 4: Final",
+            "url": "https://myanimelist.net/anime/1298/Project_A-Ko_4__Final",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/29212.jpg?s=adab4fe495a0b02e4021e86905801fee",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

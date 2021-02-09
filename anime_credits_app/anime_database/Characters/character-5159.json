@@ -1,0 +1,49 @@
+{
+    "mal_id": 5159,
+    "url": "https://myanimelist.net/character/5159/Madoka_Midou",
+    "name": "Madoka Midou",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/126117.jpg",
+    "animeography": [
+        {
+            "mal_id": 1100,
+            "name": "Soreyuke! Uchuu Senkan Yamamoto Yohko",
+            "url": "https://myanimelist.net/anime/1100/Soreyuke_Uchuu_Senkan_Yamamoto_Yohko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1702/90153.jpg?s=08079a599bac4c064d8a5592e512ed80",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1618,
+            "name": "Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)",
+            "url": "https://myanimelist.net/anime/1618/Soreyuke_Uchuu_Senkan_Yamamoto_Yohko_1999",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/30937.jpg?s=8e4e7ca531d53e0bee8ca3f6d77558d8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1671,
+            "name": "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+            "url": "https://myanimelist.net/anime/1671/Soreyuke_Uchuu_Senkan_Yamamoto_Yohko_II",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg?s=8baaf032ce1ab303c3b2b40bf1de528f",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7120,
+            "name": "Austin, Hunter",
+            "url": "https://myanimelist.net/people/7120/Hunter_Austin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/4036.jpg",
+            "language": "English"
+        }
+    ]
+}

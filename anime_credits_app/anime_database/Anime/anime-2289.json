@@ -1,0 +1,44 @@
+{
+    "mal_id": 2289,
+    "url": "https://myanimelist.net/anime/2289/Akihabara_Dennou-gumi__2011-nen_no_Natsuyasumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1731/96495.jpg",
+    "title": "Akihabara Dennou-gumi: 2011-nen no Natsuyasumi",
+    "title_english": null,
+    "title_japanese": "劇場版 アキハバラ電脳組 2011年の夏休み",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-08-14T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 14, 1999"
+    },
+    "score": 6.68,
+    "scored_by": 782,
+    "rank": 4973,
+    "popularity": 8734,
+    "members": 2050,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

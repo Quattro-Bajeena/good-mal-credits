@@ -1,0 +1,44 @@
+{
+    "mal_id": 1118,
+    "url": "https://myanimelist.net/anime/1118/Pokemon_Movie_03__Kesshoutou_no_Teiou_Entei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/80288.jpg",
+    "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+    "title_english": "Pokemon 3: The Movie",
+    "title_japanese": "ポケットモンスター 結晶塔の帝王 ENTEI",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-07-08T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 8, 2000"
+    },
+    "score": 7.09,
+    "scored_by": 88221,
+    "rank": 3229,
+    "popularity": 1076,
+    "members": 136391,
+    "favorites": 130,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

@@ -64,7 +64,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 232,
                 "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
@@ -73,7 +73,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 232,
                 "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
@@ -154,7 +154,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 227,
                 "url": "https://myanimelist.net/anime/227/FLCL",
@@ -163,7 +163,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 227,
                 "url": "https://myanimelist.net/anime/227/FLCL",
@@ -487,7 +487,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 276,
                 "url": "https://myanimelist.net/anime/276/Mahoromatic__Automatic_Maiden",
@@ -496,7 +496,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 276,
                 "url": "https://myanimelist.net/anime/276/Mahoromatic__Automatic_Maiden",
@@ -514,7 +514,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 277,
                 "url": "https://myanimelist.net/anime/277/Mahoromatic__Motto_Utsukushii_Mono",
@@ -523,7 +523,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 277,
                 "url": "https://myanimelist.net/anime/277/Mahoromatic__Motto_Utsukushii_Mono",
@@ -568,7 +568,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Director",
             "anime": {
                 "mal_id": 7066,
                 "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
@@ -577,7 +577,7 @@
             }
         },
         {
-            "position": "Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 7066,
                 "url": "https://myanimelist.net/anime/7066/Mahoromatic__Tadaima_Okaeri",
@@ -1116,5 +1116,6 @@
                 "name": "Zoku Sayonara Zetsubou Sensei"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -1,0 +1,63 @@
+{
+    "mal_id": 34077,
+    "url": "https://myanimelist.net/character/34077/Komusubiman",
+    "name": "Komusubiman",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/236471.jpg",
+    "animeography": [
+        {
+            "mal_id": 1960,
+            "name": "Sore Ike! Anpanman",
+            "url": "https://myanimelist.net/anime/1960/Sore_Ike_Anpanman",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/1960.jpg?s=c5dfce24ddbc6ee14cc7b7796d342494",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10056,
+            "name": "Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken",
+            "url": "https://myanimelist.net/anime/10056/Sore_Ike_Anpanman__Kyouryuu_Nosshii_no_Daibouken",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/28052.jpg?s=f213af04ea168bd3bdb2649c25d8ea75",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 19433,
+            "name": "Sore Ike! Anpanman: Omusubiman",
+            "url": "https://myanimelist.net/anime/19433/Sore_Ike_Anpanman__Omusubiman",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/52081.jpg?s=0431cf9f6b3ef4e63b2a83fe0a4295f1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 21935,
+            "name": "Sore Ike! Anpanman: Anpanman to Okashi na Nakama",
+            "url": "https://myanimelist.net/anime/21935/Sore_Ike_Anpanman__Anpanman_to_Okashi_na_Nakama",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/57673.jpg?s=453079dbdfd48dc9e2cb9308d000c697",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 21961,
+            "name": "Sore Ike! Anpanman: Minna Atsumare! Anpanman World",
+            "url": "https://myanimelist.net/anime/21961/Sore_Ike_Anpanman__Minna_Atsumare_Anpanman_World",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/57713.jpg?s=55d4cd2c3270e45dd1dc29b72b79292e",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14995,
+            "name": "Jeong, Hye Ok",
+            "url": "https://myanimelist.net/people/14995/Hye_Ok_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15829.jpg",
+            "language": "Korean"
+        }
+    ]
+}

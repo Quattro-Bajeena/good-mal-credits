@@ -82,7 +82,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Assistant Animation Director",
             "anime": {
                 "mal_id": 1468,
                 "url": "https://myanimelist.net/anime/1468/Baoh_Raihousha",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "position": "Assistant Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1468,
                 "url": "https://myanimelist.net/anime/1468/Baoh_Raihousha",
@@ -262,7 +262,7 @@
             }
         },
         {
-            "position": "Mechanical Design",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 1251,
                 "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
@@ -271,7 +271,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 1251,
                 "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
@@ -496,7 +496,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Director",
             "anime": {
                 "mal_id": 1067,
                 "url": "https://myanimelist.net/anime/1067/Kishin_Houkou_Demonbane_TV",
@@ -505,7 +505,7 @@
             }
         },
         {
-            "position": "Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1067,
                 "url": "https://myanimelist.net/anime/1067/Kishin_Houkou_Demonbane_TV",
@@ -1162,7 +1162,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Special Effects",
             "anime": {
                 "mal_id": 6718,
                 "url": "https://myanimelist.net/anime/6718/Yamato_2520",
@@ -1171,7 +1171,7 @@
             }
         },
         {
-            "position": "Special Effects",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 6718,
                 "url": "https://myanimelist.net/anime/6718/Yamato_2520",
@@ -1188,5 +1188,6 @@
                 "name": "Yamato 2520"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

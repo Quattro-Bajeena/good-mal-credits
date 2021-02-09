@@ -1,0 +1,44 @@
+{
+    "mal_id": 1278,
+    "url": "https://myanimelist.net/anime/1278/Bishoujo_Senshi_Sailor_Moon_SuperS_Gaiden__Ami-chan_no_Hatsukoi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/68371.jpg",
+    "title": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+    "title_english": "Sailor Moon SuperS Plus: Ami's First Love",
+    "title_japanese": "美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-12-23T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 12,
+                "year": 1995
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 23, 1995"
+    },
+    "score": 7.3,
+    "scored_by": 10317,
+    "rank": 2342,
+    "popularity": 3547,
+    "members": 21081,
+    "favorites": 21,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

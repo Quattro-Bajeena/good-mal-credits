@@ -1,0 +1,52 @@
+{
+    "mal_id": 465,
+    "url": "https://myanimelist.net/manga/465/NOiSE",
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/177551.jpg",
+    "title": "NOiSE",
+    "title_english": "NOiSE",
+    "title_japanese": "NOiSE",
+    "type": "Manga",
+    "volumes": 1,
+    "chapters": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2000-01-01T00:00:00+00:00",
+        "to": "2001-01-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 1,
+                "year": 2000
+            },
+            "to": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            }
+        },
+        "string": "2000 to 2001"
+    },
+    "score": 7.3,
+    "scored_by": 7212,
+    "rank": 4221,
+    "popularity": 826,
+    "members": 14200,
+    "favorites": 119,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 4,
+            "type": "manga",
+            "name": "Afternoon",
+            "url": "https://myanimelist.net/manga/magazine/4/Afternoon"
+        }
+    ]
+}

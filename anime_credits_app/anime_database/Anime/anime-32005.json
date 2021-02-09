@@ -1,0 +1,44 @@
+{
+    "mal_id": 32005,
+    "url": "https://myanimelist.net/anime/32005/Detective_Conan_Movie_20__The_Darkest_Nightmare",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/78894.jpg",
+    "title": "Detective Conan Movie 20: The Darkest Nightmare",
+    "title_english": null,
+    "title_japanese": "劇場版　名探偵コナン　純黒の悪夢（ナイトメア）",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-04-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 4,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 16, 2016"
+    },
+    "score": 8.17,
+    "scored_by": 15249,
+    "rank": 339,
+    "popularity": 3085,
+    "members": 27964,
+    "favorites": 98,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

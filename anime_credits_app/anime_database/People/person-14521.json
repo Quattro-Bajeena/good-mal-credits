@@ -712,7 +712,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -721,7 +721,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -729,5 +729,6 @@
                 "name": "Zoku Sayonara Zetsubou Sensei"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -1,0 +1,44 @@
+{
+    "mal_id": 282,
+    "url": "https://myanimelist.net/anime/282/Angel_Heart",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/282.jpg",
+    "title": "Angel Heart",
+    "title_english": null,
+    "title_japanese": "エンジェル・ハート",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-04T00:00:00+00:00",
+        "to": "2006-09-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 26,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Oct 4, 2005 to Sep 26, 2006"
+    },
+    "score": 7.3,
+    "scored_by": 4210,
+    "rank": 2318,
+    "popularity": 4193,
+    "members": 14537,
+    "favorites": 72,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 4106,
+    "url": "https://myanimelist.net/anime/4106/Trigun__Badlands_Rumble",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/27969.jpg",
+    "title": "Trigun: Badlands Rumble",
+    "title_english": "Trigun - Badlands Rumble",
+    "title_japanese": "トライガン",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-04-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 2, 2010"
+    },
+    "score": 7.97,
+    "scored_by": 60480,
+    "rank": 572,
+    "popularity": 1279,
+    "members": 111372,
+    "favorites": 256,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

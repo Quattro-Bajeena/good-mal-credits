@@ -82,7 +82,7 @@
             }
         },
         {
-            "position": "Assistant Animation Director",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 477,
                 "url": "https://myanimelist.net/anime/477/Aria_the_Animation",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Assistant Animation Director",
             "anime": {
                 "mal_id": 477,
                 "url": "https://myanimelist.net/anime/477/Aria_the_Animation",
@@ -316,7 +316,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 120,
                 "url": "https://myanimelist.net/anime/120/Fruits_Basket",
@@ -325,7 +325,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 120,
                 "url": "https://myanimelist.net/anime/120/Fruits_Basket",
@@ -577,15 +577,6 @@
             }
         },
         {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 10372,
-                "url": "https://myanimelist.net/anime/10372/Kamisama_Dolls",
-                "image_url": "https://cdn.myanimelist.net/images/anime/4/50393.jpg?s=ea1f23794b0f8f3603d9727e96c1d6dc",
-                "name": "Kamisama Dolls"
-            }
-        },
-        {
             "position": "Storyboard",
             "anime": {
                 "mal_id": 10372,
@@ -597,6 +588,15 @@
         {
             "position": "Key Animation",
             "anime": {
+                "mal_id": 10372,
+                "url": "https://myanimelist.net/anime/10372/Kamisama_Dolls",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50393.jpg?s=ea1f23794b0f8f3603d9727e96c1d6dc",
+                "name": "Kamisama Dolls"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
                 "mal_id": 3349,
                 "url": "https://myanimelist.net/anime/3349/Kiddy_GiRL-AND",
                 "image_url": "https://cdn.myanimelist.net/images/anime/4/74159.jpg?s=cd49ec1cc2513593eef79f3d1a5979da",
@@ -604,7 +604,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3349,
                 "url": "https://myanimelist.net/anime/3349/Kiddy_GiRL-AND",
@@ -928,7 +928,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 10721,
                 "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
@@ -937,7 +937,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 10721,
                 "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
@@ -1306,7 +1306,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 688,
                 "url": "https://myanimelist.net/anime/688/Uta∽Kata",
@@ -1315,7 +1315,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 688,
                 "url": "https://myanimelist.net/anime/688/Uta∽Kata",
@@ -1333,7 +1333,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 689,
                 "url": "https://myanimelist.net/anime/689/Uta∽Kata__Shotou_no_Futanatsu",
@@ -1342,7 +1342,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 689,
                 "url": "https://myanimelist.net/anime/689/Uta∽Kata__Shotou_no_Futanatsu",
@@ -1429,6 +1429,26 @@
                 "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
                 "image_url": "https://cdn.myanimelist.net/images/anime/4/79738.jpg?s=e3cf8d1225948288a10e1f9684d0989b",
                 "name": "Zoku Natsume Yuujinchou"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 321,
+                "url": "https://myanimelist.net/manga/321/Gate_Keepers",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/35659.jpg?s=f17a516f81bb5e75467d9fe3bde0db54",
+                "name": "Gate Keepers"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 21981,
+                "url": "https://myanimelist.net/manga/21981/Gate_Keepers",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/125123.jpg?s=f1b996ad178f43ecf2bc41a4afb35890",
+                "name": "Gate Keepers"
             }
         }
     ]

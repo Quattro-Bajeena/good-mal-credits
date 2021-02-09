@@ -1,0 +1,44 @@
+{
+    "mal_id": 1671,
+    "url": "https://myanimelist.net/anime/1671/Soreyuke_Uchuu_Senkan_Yamamoto_Yohko_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg",
+    "title": "Soreyuke! Uchuu Senkan Yamamoto Yohko II",
+    "title_english": "Starship Girl Yamamoto Yohko II",
+    "title_japanese": "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ",
+    "type": "OVA",
+    "source": "Novel",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-08-06T00:00:00+00:00",
+        "to": "1997-12-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 8,
+                "year": 1997
+            },
+            "to": {
+                "day": 22,
+                "month": 12,
+                "year": 1997
+            }
+        },
+        "string": "Aug 6, 1997 to Dec 22, 1997"
+    },
+    "score": 6.27,
+    "scored_by": 621,
+    "rank": 7008,
+    "popularity": 8906,
+    "members": 1918,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

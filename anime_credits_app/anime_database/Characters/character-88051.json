@@ -1,0 +1,28 @@
+{
+    "mal_id": 88051,
+    "url": "https://myanimelist.net/character/88051/Kid",
+    "name": "Kid",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/216351.jpg",
+    "animeography": [
+        {
+            "mal_id": 19505,
+            "name": "Kaizoku Ouji",
+            "url": "https://myanimelist.net/anime/19505/Kaizoku_Ouji",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1677/100901.jpg?s=4310b8743149bfb2e66fb9a2f01e1712",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 392,
+    "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
+    "title": "Yuu☆Yuu☆Hakusho",
+    "title_english": "Yu Yu Hakusho: Ghost Files",
+    "title_japanese": "幽☆遊☆白書",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 112,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-10-10T00:00:00+00:00",
+        "to": "1995-01-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 10,
+                "year": 1992
+            },
+            "to": {
+                "day": 7,
+                "month": 1,
+                "year": 1995
+            }
+        },
+        "string": "Oct 10, 1992 to Jan 7, 1995"
+    },
+    "score": 8.45,
+    "scored_by": 215188,
+    "rank": 123,
+    "popularity": 256,
+    "members": 471700,
+    "favorites": 17644,
+    "premiered": "Fall 1992",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

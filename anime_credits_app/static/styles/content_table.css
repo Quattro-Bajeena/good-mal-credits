@@ -62,9 +62,6 @@
     padding-right: 15px;
 }
 
-.arrow{
-    position: absolute;
-}
 
 .contentTable a{
     text-decoration: underline;
@@ -75,3 +72,15 @@
 .contentTable a:hover{
     color: rgb(143, 8, 37);
 }
+
+.hideArrow{
+    cursor: pointer;
+    width: 30px;
+}
+
+.sortArrow{
+    width: 20px;
+    position: absolute;
+}
+
+

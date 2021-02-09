@@ -1,0 +1,79 @@
+{
+    "mal_id": 35797,
+    "url": "https://myanimelist.net/character/35797/Sorao",
+    "name": "Sorao",
+    "name_kanji": null,
+    "nicknames": [
+        "Corey"
+    ],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/255773.jpg",
+    "animeography": [
+        {
+            "mal_id": 528,
+            "name": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+            "url": "https://myanimelist.net/anime/528/Pokemon_Movie_01__Mewtwo_no_Gyakushuu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/65699.jpg?s=7a5f278efdca139d9a48019a361e1dd8",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34540,
+            "name": "Pokemon Movie 20: Kimi ni Kimeta!",
+            "url": "https://myanimelist.net/anime/34540/Pokemon_Movie_20__Kimi_ni_Kimeta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/85787.jpg?s=0e7d8035aa22704cec7128b7b4d8176f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 37966,
+            "name": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
+            "url": "https://myanimelist.net/anime/37966/Pokemon_Movie_22__Mewtwo_no_Gyakushuu_Evolution",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1796/99496.jpg?s=1ed635a68b3772b2725a2f01377dee17",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 118,
+            "name": "Kamiya, Hiroshi",
+            "url": "https://myanimelist.net/people/118/Hiroshi_Kamiya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58597.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1416,
+            "name": "Lewis, Ted",
+            "url": "https://myanimelist.net/people/1416/Ted_Lewis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/35665.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5084,
+            "name": "Andreatto, Rodrigo",
+            "url": "https://myanimelist.net/people/5084/Rodrigo_Andreatto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41874.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 43000,
+            "name": "Sesana, Paolo",
+            "url": "https://myanimelist.net/people/43000/Paolo_Sesana",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46495.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 45112,
+            "name": "Macoulis, Niko",
+            "url": "https://myanimelist.net/people/45112/Niko_Macoulis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48476.jpg",
+            "language": "German"
+        }
+    ]
+}

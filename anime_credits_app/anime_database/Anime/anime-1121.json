@@ -1,0 +1,44 @@
+{
+    "mal_id": 1121,
+    "url": "https://myanimelist.net/anime/1121/Pokemon_Movie_06__Nanayo_no_Negaiboshi_Jirachi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75733.jpg",
+    "title": "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi",
+    "title_english": "Pokemon: Jirachi Wishmaker",
+    "title_japanese": "ポケットモンスター・アドバンスジェネレーション  七夜の願い星 ジラーチ",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 19, 2003"
+    },
+    "score": 6.77,
+    "scored_by": 46330,
+    "rank": 4561,
+    "popularity": 1740,
+    "members": 74359,
+    "favorites": 99,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

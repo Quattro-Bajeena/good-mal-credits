@@ -144,5 +144,16 @@
                 "name": "Top wo Nerae! Gunbuster"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 25594,
+                "url": "https://myanimelist.net/manga/25594/Evangelion__ANIMA",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/41191.jpg?s=482d5ab6a9f0eb978929ace8bc320810",
+                "name": "Evangelion: ANIMA"
+            }
+        }
     ]
 }

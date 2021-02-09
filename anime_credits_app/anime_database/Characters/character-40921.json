@@ -1,0 +1,28 @@
+{
+    "mal_id": 40921,
+    "url": "https://myanimelist.net/character/40921/Madoushi",
+    "name": "Madoushi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 50,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/140111.jpg",
+    "animeography": [
+        {
+            "mal_id": 371,
+            "name": "Cardcaptor Sakura Movie 1",
+            "url": "https://myanimelist.net/anime/371/Cardcaptor_Sakura_Movie_1",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1733/90336.jpg?s=d0cdeaab56129f681a47d101e071af42",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 2022,
+    "url": "https://myanimelist.net/anime/2022/Fight",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1623/94539.jpg",
+    "title": "Fight!!",
+    "title_english": null,
+    "title_japanese": "FIGHT!!",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-06-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 6,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 18, 1993"
+    },
+    "score": 5.06,
+    "scored_by": 392,
+    "rank": 10505,
+    "popularity": 10310,
+    "members": 1058,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

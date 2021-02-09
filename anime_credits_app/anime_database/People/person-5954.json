@@ -109,7 +109,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Principle Drawing",
             "anime": {
                 "mal_id": 1845,
                 "url": "https://myanimelist.net/anime/1845/Gaiking__Legend_of_Daiku-Maryu",
@@ -118,7 +118,7 @@
             }
         },
         {
-            "position": "Principle Drawing",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1845,
                 "url": "https://myanimelist.net/anime/1845/Gaiking__Legend_of_Daiku-Maryu",
@@ -729,5 +729,6 @@
                 "name": "Zoids Fuzors"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

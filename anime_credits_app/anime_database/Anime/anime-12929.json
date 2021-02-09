@@ -1,0 +1,44 @@
+{
+    "mal_id": 12929,
+    "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg",
+    "title": "Saint Seiya Omega",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢Ω",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 97,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-04-01T00:00:00+00:00",
+        "to": "2014-03-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "to": {
+                "day": 30,
+                "month": 3,
+                "year": 2014
+            }
+        },
+        "string": "Apr 1, 2012 to Mar 30, 2014"
+    },
+    "score": 6.28,
+    "scored_by": 15396,
+    "rank": 6993,
+    "popularity": 2548,
+    "members": 39572,
+    "favorites": 178,
+    "premiered": "Spring 2012",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

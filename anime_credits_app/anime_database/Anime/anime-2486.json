@@ -1,0 +1,37 @@
+{
+    "mal_id": 2486,
+    "url": "https://myanimelist.net/anime/2486/Rumiko_Takahashi_Anthology",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/19614.jpg",
+    "title": "Rumiko Takahashi Anthology",
+    "title_english": null,
+    "title_japanese": "高橋留美子劇場",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-07-06T00:00:00+00:00",
+        "to": "2003-09-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2003
+            },
+            "to": {
+                "day": 28,
+                "month": 9,
+                "year": 2003
+            }
+        },
+        "string": "Jul 6, 2003 to Sep 28, 2003"
+    },
+    "score": 7.19,
+    "scored_by": 1515,
+    "rank": 2803,
+    "popularity": 6102,
+    "members": 5725,
+    "favorites": 3,
+    "premiered": "Summer 2003",
+    "studios": []
+}

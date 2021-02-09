@@ -6,7 +6,7 @@
     "given_name": "洋子",
     "family_name": "高橋",
     "birthday": "1966-08-28T00:00:00+00:00",
-    "member_favorites": 71,
+    "member_favorites": 72,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -129,11 +129,21 @@
         {
             "position": "Theme Song Performance",
             "anime": {
+                "mal_id": 47307,
+                "url": "https://myanimelist.net/anime/47307/Shin_Gengou_Nyankogelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1695/111498.jpg?s=f823f587f1943be29e541631b40ad46b",
+                "name": "Shin Gengou Nyankogelion"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
                 "mal_id": 42638,
                 "url": "https://myanimelist.net/anime/42638/Tsuki_no_Fuusen",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1221/108799.jpg?s=9be0af43c1973b3441dba3977f5b4c21",
                 "name": "Tsuki no Fuusen"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

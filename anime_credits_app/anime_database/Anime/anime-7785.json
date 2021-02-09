@@ -1,0 +1,44 @@
+{
+    "mal_id": 7785,
+    "url": "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/50457.jpg",
+    "title": "Yojouhan Shinwa Taikei",
+    "title_english": "The Tatami Galaxy",
+    "title_japanese": "四畳半神話大系",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 11,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-04-23T00:00:00+00:00",
+        "to": "2010-07-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 23,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 2,
+                "month": 7,
+                "year": 2010
+            }
+        },
+        "string": "Apr 23, 2010 to Jul 2, 2010"
+    },
+    "score": 8.61,
+    "scored_by": 98808,
+    "rank": 65,
+    "popularity": 451,
+    "members": 305714,
+    "favorites": 14255,
+    "premiered": "Spring 2010",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

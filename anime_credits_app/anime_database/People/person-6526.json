@@ -262,7 +262,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 4872,
                 "url": "https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei",
@@ -271,7 +271,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 4872,
                 "url": "https://myanimelist.net/anime/4872/Goku_Sayonara_Zetsubou_Sensei",
@@ -433,7 +433,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 5030,
                 "url": "https://myanimelist.net/anime/5030/Maria†Holic",
@@ -442,7 +442,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 5030,
                 "url": "https://myanimelist.net/anime/5030/Maria†Holic",
@@ -712,15 +712,6 @@
             }
         },
         {
-            "position": "Character Design",
-            "anime": {
-                "mal_id": 561,
-                "url": "https://myanimelist.net/anime/561/Sakura_Taisen",
-                "image_url": "https://cdn.myanimelist.net/images/anime/12/20378.jpg?s=628056746588b17c243655c925ee7d3c",
-                "name": "Sakura Taisen"
-            }
-        },
-        {
             "position": "Animation Director",
             "anime": {
                 "mal_id": 561,
@@ -732,6 +723,15 @@
         {
             "position": "Character Design",
             "anime": {
+                "mal_id": 561,
+                "url": "https://myanimelist.net/anime/561/Sakura_Taisen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20378.jpg?s=628056746588b17c243655c925ee7d3c",
+                "name": "Sakura Taisen"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
                 "mal_id": 2605,
                 "url": "https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei",
                 "image_url": "https://cdn.myanimelist.net/images/anime/5/6559.jpg?s=33157ad14a4327e74f3a51692667e8d6",
@@ -739,7 +739,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 2605,
                 "url": "https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei",
@@ -883,7 +883,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 6377,
                 "url": "https://myanimelist.net/anime/6377/Zan_Sayonara_Zetsubou_Sensei",
@@ -892,7 +892,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 6377,
                 "url": "https://myanimelist.net/anime/6377/Zan_Sayonara_Zetsubou_Sensei",
@@ -928,7 +928,7 @@
             }
         },
         {
-            "position": "Character Design",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -937,7 +937,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Character Design",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -945,5 +945,6 @@
                 "name": "Zoku Sayonara Zetsubou Sensei"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

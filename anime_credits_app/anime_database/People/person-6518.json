@@ -6,7 +6,7 @@
     "given_name": "真裕",
     "family_name": "安藤",
     "birthday": "1967-09-01T00:00:00+00:00",
-    "member_favorites": 189,
+    "member_favorites": 190,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -41,7 +41,7 @@
             "anime": {
                 "mal_id": 38753,
                 "url": "https://myanimelist.net/anime/38753/Araburu_Kisetsu_no_Otome-domo_yo",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1256/101166.jpg?s=f345ca8836dc7a2a28bf8e9e8155a98c",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1622/111483.jpg?s=e692aabcd7889b3c930bf7119ea6f7cc",
                 "name": "Araburu Kisetsu no Otome-domo yo."
             }
         },
@@ -774,5 +774,6 @@
                 "name": "Zetsuen no Tempest"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

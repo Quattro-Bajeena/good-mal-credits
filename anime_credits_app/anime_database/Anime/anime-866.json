@@ -1,0 +1,44 @@
+{
+    "mal_id": 866,
+    "url": "https://myanimelist.net/anime/866/Slayers_Premium",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/20969.jpg",
+    "title": "Slayers Premium",
+    "title_english": null,
+    "title_japanese": "スレイヤーズぷれみあむ",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-12-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 22, 2001"
+    },
+    "score": 7.21,
+    "scored_by": 8486,
+    "rank": 2718,
+    "popularity": 3912,
+    "members": 17083,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

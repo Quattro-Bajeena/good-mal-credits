@@ -1,0 +1,44 @@
+{
+    "mal_id": 4177,
+    "url": "https://myanimelist.net/anime/4177/Bounen_no_Xamdou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/23189.jpg",
+    "title": "Bounen no Xamdou",
+    "title_english": "Xam'd: Lost Memories",
+    "title_japanese": "亡念のザムド",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-07-15T00:00:00+00:00",
+        "to": "2009-02-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 4,
+                "month": 2,
+                "year": 2009
+            }
+        },
+        "string": "Jul 15, 2008 to Feb 4, 2009"
+    },
+    "score": 7.69,
+    "scored_by": 50551,
+    "rank": 1054,
+    "popularity": 1228,
+    "members": 117422,
+    "favorites": 1021,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

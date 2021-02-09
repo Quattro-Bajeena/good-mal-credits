@@ -53,7 +53,8 @@ def search_options(category, query):
 
     if category == 'people' and len(results) == 0:
         mal_id = adc.util.search_people_fallback(query)
-        return redirect(url_for('person', mal_id = mal_id))
+        if mal_id:
+            return redirect(url_for('person', mal_id = mal_id))
 
     return render_template('searching.html', results = results, category=category)
 
@@ -66,7 +67,6 @@ def page_downloading(task_id):
         'result': task.result,
         'info' : task.info
     }
-    # print(response)
     return response
 
 
@@ -77,34 +77,34 @@ def download(task_id):
 @app.route('/anime/<int:mal_id>')
 def anime_staff(mal_id):
     
-    category = 'staff'
+    # staffr -> characters_staff
+    category = 'characters_staff'
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
 
     print(page_status)
 
-    if page_status['being_created']:
+    if page_status['being_created'] or page_status['scheduled_to_update']:
         print("1111111111111")
-        return render_template('page_downloading.html', category=category, task_id = page_status['task_id'])
+        return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
         print("2222222222222222")
-        
-        task = tasks.update_resources_async.delay(category, mal_id, use_cached=True)
+        task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
+        lnc.register_page_update_scheduled(category, mal_id, task.id)
 
-
-        return render_template('page_downloading.html', category=category, task_id = task.id)
+        return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
         print("33333333333333")
         anime = models.Anime.query.get(mal_id)
-        task = tasks.update_resources_async.delay(category, mal_id, use_cached=False)
+        task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
 
-        return render_template("staff.html", anime = anime)
+        return render_template("characters_staff.html", anime = anime)
 
     else:
         print("4444444444444")
         anime = models.Anime.query.get(mal_id)
-        return render_template("staff.html", anime = anime)
+        return render_template("characters_staff.html", anime = anime)
 
 
 
@@ -116,20 +116,20 @@ def person(mal_id):
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
     print(page_status)
 
-    if page_status['being_created']:
+    if page_status['being_created'] or page_status['scheduled_to_update']:
         print("1111111111111")
-        return render_template('page_downloading.html', category=category, task_id = page_status['task_id'])
+        return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
         print("2222222222222222")
-        task = tasks.update_resources_async.delay(category, mal_id, use_cached=True)
-
-        return render_template('page_downloading.html', category=category, task_id = task.id)
+        task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
+        lnc.register_page_update_scheduled(category, mal_id, task.id)
+        return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
         print("33333333333333")
         person = models.Person.query.get(mal_id)
-        task = tasks.update_resources_async.delay(category, mal_id, use_cached=False)
+        task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
 
         return render_template("person.html", person = person)
     else:

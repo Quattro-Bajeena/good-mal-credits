@@ -1,0 +1,127 @@
+{
+    "mal_id": 2,
+    "url": "https://myanimelist.net/character/2/Faye_Valentine",
+    "name": "Faye Valentine",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 13572,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/264961.jpg",
+    "animeography": [
+        {
+            "mal_id": 1,
+            "name": "Cowboy Bebop",
+            "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=42d7666179a2851c99fada2e0ceb5da1",
+            "role": "Main"
+        },
+        {
+            "mal_id": 5,
+            "name": "Cowboy Bebop: Tengoku no Tobira",
+            "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=9fc0bb1715d9c781baafd44dfbee6b6a",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4037,
+            "name": "Cowboy Bebop: Yose Atsume Blues",
+            "url": "https://myanimelist.net/anime/4037/Cowboy_Bebop__Yose_Atsume_Blues",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/54341.jpg?s=2e040b88bf069acbaca8bda415ed2918",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 173,
+            "name": "Cowboy Bebop",
+            "url": "https://myanimelist.net/manga/173/Cowboy_Bebop",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/166652.jpg?s=11de80d1d5c75e063332dbe842bf9dd2",
+            "role": "Main"
+        },
+        {
+            "mal_id": 174,
+            "name": "Shooting Star Bebop: Cowboy Bebop",
+            "url": "https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/176770.jpg?s=a3520345bb069ba9db38811dc3a907d2",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 36,
+            "name": "Lee, Wendee",
+            "url": "https://myanimelist.net/people/36/Wendee_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/35525.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 540,
+            "name": "Ficher, Miriam",
+            "url": "https://myanimelist.net/people/540/Miriam_Ficher",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/51040.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 763,
+            "name": "De Bortoli, Barbara",
+            "url": "https://myanimelist.net/people/763/Barbara_De_Bortoli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/810.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 7809,
+            "name": "Németh, Kriszta",
+            "url": "https://myanimelist.net/people/7809/Kriszta_Németh",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5063.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 7828,
+            "name": "Szitás, Barbara",
+            "url": "https://myanimelist.net/people/7828/Barbara_Szitás",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5082.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 8549,
+            "name": "von der Ahe, Antje",
+            "url": "https://myanimelist.net/people/8549/Antje_von_der_Ahe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33219.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 8812,
+            "name": "Jeong, Mi Sook",
+            "url": "https://myanimelist.net/people/8812/Mi_Sook_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25851.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 20494,
+            "name": "Ambrós, Carmen",
+            "url": "https://myanimelist.net/people/20494/Carmen_Ambrós",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49707.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 26601,
+            "name": "Correa, Alexandra",
+            "url": "https://myanimelist.net/people/26601/Alexandra_Correa",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 26653,
+            "name": "Jean, Bérangère",
+            "url": "https://myanimelist.net/people/26653/Bérangère_Jean",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28761.jpg",
+            "language": "French"
+        }
+    ]
+}

@@ -351,5 +351,16 @@
                 "name": "UFO Princess Valkyrie"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 8173,
+                "url": "https://myanimelist.net/manga/8173/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/11144.jpg?s=50ab323a0546aac7bf090f0d07dadfeb",
+                "name": "FLCL"
+            }
+        }
     ]
 }

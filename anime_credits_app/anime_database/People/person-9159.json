@@ -6,7 +6,7 @@
     "given_name": null,
     "family_name": null,
     "birthday": "1685-03-31T00:00:00+00:00",
-    "member_favorites": 317,
+    "member_favorites": 319,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -306,5 +306,6 @@
                 "name": "Yuri Kuma Arashi"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

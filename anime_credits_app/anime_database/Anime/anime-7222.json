@@ -1,0 +1,50 @@
+{
+    "mal_id": 7222,
+    "url": "https://myanimelist.net/anime/7222/Macross_F_Movie_2__Sayonara_no_Tsubasa",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/76398.jpg",
+    "title": "Macross F Movie 2: Sayonara no Tsubasa",
+    "title_english": null,
+    "title_japanese": "劇場版 マクロスＦ 恋離飛翼 ～サヨナラノツバサ～",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-02-26T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 2,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 26, 2011"
+    },
+    "score": 7.97,
+    "scored_by": 11763,
+    "rank": 579,
+    "popularity": 3340,
+    "members": 23760,
+    "favorites": 120,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 41,
+            "type": "anime",
+            "name": "Satelight",
+            "url": "https://myanimelist.net/anime/producer/41/Satelight"
+        },
+        {
+            "mal_id": 441,
+            "type": "anime",
+            "name": "8bit",
+            "url": "https://myanimelist.net/anime/producer/441/8bit"
+        }
+    ]
+}

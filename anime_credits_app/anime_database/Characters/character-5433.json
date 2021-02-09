@@ -1,0 +1,73 @@
+{
+    "mal_id": 5433,
+    "url": "https://myanimelist.net/character/5433/Nuku_Nuku",
+    "name": "Nuku Nuku",
+    "name_kanji": null,
+    "nicknames": [
+        "Atsuko Natsume"
+    ],
+    "member_favorites": 46,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/184415.jpg",
+    "animeography": [
+        {
+            "mal_id": 373,
+            "name": "Bannou Bunka Neko-Musume",
+            "url": "https://myanimelist.net/anime/373/Bannou_Bunka_Neko-Musume",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/10720.jpg?s=e0cf6590053e8662ee90f0817e80fe14",
+            "role": "Main"
+        },
+        {
+            "mal_id": 375,
+            "name": "Bannou Bunka Neko-Musume (1998)",
+            "url": "https://myanimelist.net/anime/375/Bannou_Bunka_Neko-Musume_1998",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/2875.jpg?s=9d65da04dca1494972d058a1a9438730",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3232,
+            "name": "Bannou Bunka Neko-Musume Specials",
+            "url": "https://myanimelist.net/anime/3232/Bannou_Bunka_Neko-Musume_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/5124.jpg?s=97f0b1eb8228cdb3ef0ecc4970935374",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 9888,
+            "name": "Bannou Bunka Neko-Musume",
+            "url": "https://myanimelist.net/manga/9888/Bannou_Bunka_Neko-Musume",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/118589.jpg?s=4db6189069efef6e22d45a2c93f12b71",
+            "role": "Main"
+        },
+        {
+            "mal_id": 76571,
+            "name": "Shin Bannou Bunka Neko-Musume: Tanjou-hen",
+            "url": "https://myanimelist.net/manga/76571/Shin_Bannou_Bunka_Neko-Musume__Tanjou-hen",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/132449.jpg?s=8c94cf1a98ec0bedf8192db0c9069029",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 194,
+            "name": "Keith, Allison",
+            "url": "https://myanimelist.net/people/194/Allison_Keith",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/153.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7326,
+            "name": "Trifol, Nuria",
+            "url": "https://myanimelist.net/people/7326/Nuria_Trifol",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4272.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

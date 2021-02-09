@@ -1,0 +1,44 @@
+{
+    "mal_id": 6067,
+    "url": "https://myanimelist.net/anime/6067/Moeru_Oniisan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1157/97568.jpg",
+    "title": "Moeru! Oniisan",
+    "title_english": "The Burning Wild Man",
+    "title_japanese": "燃える！お兄さん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-03-14T00:00:00+00:00",
+        "to": "1988-09-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 3,
+                "year": 1988
+            },
+            "to": {
+                "day": 19,
+                "month": 9,
+                "year": 1988
+            }
+        },
+        "string": "Mar 14, 1988 to Sep 19, 1988"
+    },
+    "score": 6.21,
+    "scored_by": 112,
+    "rank": 7308,
+    "popularity": 10722,
+    "members": 872,
+    "favorites": 1,
+    "premiered": "Spring 1988",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

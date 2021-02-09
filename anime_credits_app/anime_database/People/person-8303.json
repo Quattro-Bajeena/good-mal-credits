@@ -6,7 +6,7 @@
     "given_name": "雄",
     "family_name": "本田",
     "birthday": "1968-03-12T00:00:00+00:00",
-    "member_favorites": 48,
+    "member_favorites": 47,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -244,7 +244,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3784,
                 "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
@@ -253,7 +253,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 3784,
                 "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
@@ -271,7 +271,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -280,7 +280,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -1123,6 +1123,17 @@
                 "url": "https://myanimelist.net/anime/36030/Yoiko_no_Rekishi_Anime__Ookina_Kabu_Kabu",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1918/93715.jpg?s=ca6dbc7372075a79c6bb761519bd667e",
                 "name": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 25525,
+                "url": "https://myanimelist.net/manga/25525/Dennou_Coil",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/41066.jpg?s=d3b266ffc7bddd13187850eb7ed429f7",
+                "name": "Dennou Coil"
             }
         }
     ]

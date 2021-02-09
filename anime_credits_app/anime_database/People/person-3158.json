@@ -6,7 +6,7 @@
     "given_name": "義行",
     "family_name": "貞本",
     "birthday": "1962-01-29T00:00:00+00:00",
-    "member_favorites": 1306,
+    "member_favorites": 1309,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -682,6 +682,53 @@
                 "url": "https://myanimelist.net/anime/35855/Zero_Seiki_Movie_3__Maetel",
                 "image_url": "https://cdn.myanimelist.net/images/anime/2/86659.jpg?s=b32145db37c2ee8d11bffaa33f47972c",
                 "name": "Zero Seiki Movie 3: Maetel"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 83413,
+                "url": "https://myanimelist.net/manga/83413/Archaic_Smile",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/201381.jpg?s=72d2fd46765c4ebf26fc940ad85ec1e3",
+                "name": "Archaic Smile"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 1739,
+                "url": "https://myanimelist.net/manga/1739/Dirty_Work",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/122359.jpg?s=66dc298a7468ac4bccba292d027e08f2",
+                "name": "Dirty Work"
+            }
+        },
+        {
+            "position": "Story & Art",
+            "manga": {
+                "mal_id": 698,
+                "url": "https://myanimelist.net/manga/698/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/145061.jpg?s=f86f88033f929632b9f618e0891b780d",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 1736,
+                "url": "https://myanimelist.net/manga/1736/Route_20",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/1846.jpg?s=729e856be9e1a3963f0ff02e81062ba8",
+                "name": "Route 20"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 1738,
+                "url": "https://myanimelist.net/manga/1738/System_of_Romance",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/122357.jpg?s=0c16d89a18780ab2a161ff487c4b7fb5",
+                "name": "System of Romance"
             }
         }
     ]

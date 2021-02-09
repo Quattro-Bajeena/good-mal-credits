@@ -1,0 +1,37 @@
+{
+    "mal_id": 17481,
+    "url": "https://myanimelist.net/anime/17481/Hello_Kitty_no_Oyayubi-hime_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/46705.jpg",
+    "title": "Hello Kitty no Oyayubi-hime (OVA)",
+    "title_english": "Hello Kitty in Thumbelina",
+    "title_japanese": "ハローキティのおやゆびひめ",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-12-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 21, 2001"
+    },
+    "score": 5.68,
+    "scored_by": 115,
+    "rank": 9184,
+    "popularity": 12744,
+    "members": 383,
+    "favorites": 0,
+    "premiered": null,
+    "studios": []
+}

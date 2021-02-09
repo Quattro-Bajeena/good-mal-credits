@@ -1,0 +1,44 @@
+{
+    "mal_id": 1258,
+    "url": "https://myanimelist.net/anime/1258/Saint_Seiya__Kamigami_no_Atsuki_Tatakai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/30795.jpg",
+    "title": "Saint Seiya: Kamigami no Atsuki Tatakai",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢 神々の熱き戦い",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-03-12T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 3,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 12, 1988"
+    },
+    "score": 6.91,
+    "scored_by": 8046,
+    "rank": 3966,
+    "popularity": 4249,
+    "members": 14096,
+    "favorites": 20,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

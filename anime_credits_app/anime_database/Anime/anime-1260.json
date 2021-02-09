@@ -1,0 +1,44 @@
+{
+    "mal_id": 1260,
+    "url": "https://myanimelist.net/anime/1260/Saint_Seiya__Saishuu_Seisen_no_Senshi-tachi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/16347.jpg",
+    "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+    "title_english": null,
+    "title_japanese": "聖闘士星矢 最終聖戦の戦士たち",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-03-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 3,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 18, 1989"
+    },
+    "score": 6.81,
+    "scored_by": 7386,
+    "rank": 4390,
+    "popularity": 4376,
+    "members": 13123,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

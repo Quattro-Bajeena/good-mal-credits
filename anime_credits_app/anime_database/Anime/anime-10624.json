@@ -1,0 +1,44 @@
+{
+    "mal_id": 10624,
+    "url": "https://myanimelist.net/anime/10624/Mardock_Scramble__The_Second_Combustion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/29197.jpg",
+    "title": "Mardock Scramble: The Second Combustion",
+    "title_english": "Mardock Scramble: The Second Combustion",
+    "title_japanese": "マルドゥック・スクランブル 燃焼",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-09-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 9,
+                "year": 2011
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 3, 2011"
+    },
+    "score": 7.37,
+    "scored_by": 18757,
+    "rank": 2045,
+    "popularity": 2700,
+    "members": 35525,
+    "favorites": 46,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 309,
+            "type": "anime",
+            "name": "GoHands",
+            "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+    ]
+}

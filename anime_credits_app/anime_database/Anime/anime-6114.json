@@ -1,0 +1,44 @@
+{
+    "mal_id": 6114,
+    "url": "https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/72697.jpg",
+    "title": "Rainbow: Nisha Rokubou no Shichinin",
+    "title_english": "Rainbow",
+    "title_japanese": "RAINBOW 二舎六房の七人",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-04-07T00:00:00+00:00",
+        "to": "2010-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2010
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 2010
+            }
+        },
+        "string": "Apr 7, 2010 to Sep 29, 2010"
+    },
+    "score": 8.52,
+    "scored_by": 116943,
+    "rank": 94,
+    "popularity": 461,
+    "members": 301840,
+    "favorites": 7356,
+    "premiered": "Spring 2010",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

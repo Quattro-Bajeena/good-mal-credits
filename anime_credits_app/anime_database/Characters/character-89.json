@@ -1,0 +1,234 @@
+{
+    "mal_id": 89,
+    "url": "https://myanimelist.net/character/89/Shinji_Ikari",
+    "name": "Shinji Ikari",
+    "name_kanji": null,
+    "nicknames": [
+        "Third Child"
+    ],
+    "member_favorites": 12812,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/225177.jpg",
+    "animeography": [
+        {
+            "mal_id": 30,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=1bb89f56bd9a2ad35d34fb3fb5599166",
+            "role": "Main"
+        },
+        {
+            "mal_id": 31,
+            "name": "Neon Genesis Evangelion: Death & Rebirth",
+            "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=0107e0d7c156c0c67ad3ca2bc9f59288",
+            "role": "Main"
+        },
+        {
+            "mal_id": 32,
+            "name": "Neon Genesis Evangelion: The End of Evangelion",
+            "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=301b12c0ca8878e4927175a479e86bcc",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2759,
+            "name": "Evangelion: 1.0 You Are (Not) Alone",
+            "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=74017886b9e235cc4505717312a10872",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3784,
+            "name": "Evangelion: 2.0 You Can (Not) Advance",
+            "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=bfae8f8f985c7b58f174c58542013092",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3785,
+            "name": "Evangelion: 3.0 You Can (Not) Redo",
+            "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=ba44293fbbd95dced951c0c2d79560d0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3786,
+            "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "url": "https://myanimelist.net/anime/3786/Evangelion__30_10_Thrice_Upon_a_Time",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1421/110903.jpg?s=22db38e2b3ce7487190d983e3cd63fa5",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4130,
+            "name": "Petit Eva: Evangelion@School",
+            "url": "https://myanimelist.net/anime/4130/Petit_Eva__EvangelionSchool",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/7593.jpg?s=30a8e7d5e0b2f062317075fc74f9ca65",
+            "role": "Main"
+        },
+        {
+            "mal_id": 28149,
+            "name": "Nihon Animator Mihonichi",
+            "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/71901.jpg?s=056739c3582a33f9b6d687870a777c51",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31115,
+            "name": "Schick x Evangelion",
+            "url": "https://myanimelist.net/anime/31115/Schick_x_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/74747.jpg?s=20a4967f818beec5cb819eea31029dad",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32311,
+            "name": "Beautiful World",
+            "url": "https://myanimelist.net/anime/32311/Beautiful_World",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/78476.jpg?s=df5f5287559773e947e95af529317a32",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 698,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/manga/698/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145061.jpg?s=e60c27b700cc77e9bd4e3736eac279de",
+            "role": "Main"
+        },
+        {
+            "mal_id": 760,
+            "name": "Shinseiki Evangelion: Koutetsu no Girlfriend 2nd",
+            "url": "https://myanimelist.net/manga/760/Shinseiki_Evangelion__Koutetsu_no_Girlfriend_2nd",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/145059.jpg?s=76121645468c4968998e8b8de2514a30",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3500,
+            "name": "Shinseiki Evangelion: Ikari Shinji Ikusei Keikaku",
+            "url": "https://myanimelist.net/manga/3500/Shinseiki_Evangelion__Ikari_Shinji_Ikusei_Keikaku",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/172079.jpg?s=48bcda6b3bedc3868a6eeb12ef99b013",
+            "role": "Main"
+        },
+        {
+            "mal_id": 5178,
+            "name": "Neon Genesis Evangelion: Campus Apocalypse",
+            "url": "https://myanimelist.net/manga/5178/Neon_Genesis_Evangelion__Campus_Apocalypse",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/30773.jpg?s=c011c0af8482e4cbfd710fc3fd7ccbef",
+            "role": "Main"
+        },
+        {
+            "mal_id": 21753,
+            "name": "Shinseiki Evangelion: Ikari Shinji Tantei Nikki",
+            "url": "https://myanimelist.net/manga/21753/Shinseiki_Evangelion__Ikari_Shinji_Tantei_Nikki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145055.jpg?s=619aa1566e57a189699a79e5e01382f2",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25594,
+            "name": "Evangelion: ANIMA",
+            "url": "https://myanimelist.net/manga/25594/Evangelion__ANIMA",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/41191.jpg?s=288ad58953da4d0ee2aa4cb4f0551c45",
+            "role": "Main"
+        },
+        {
+            "mal_id": 49859,
+            "name": "Neon Genesis Evangelion: Comic Tribute",
+            "url": "https://myanimelist.net/manga/49859/Neon_Genesis_Evangelion__Comic_Tribute",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/181288.jpg?s=5c15b26ac53b8069080e1d7444bbb02a",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 150,
+            "name": "Spencer, Spike",
+            "url": "https://myanimelist.net/people/150/Spike_Spencer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/36487.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 287,
+            "name": "Ogata, Megumi",
+            "url": "https://myanimelist.net/people/287/Megumi_Ogata",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12105.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 776,
+            "name": "Raffaeli, Daniele",
+            "url": "https://myanimelist.net/people/776/Daniele_Raffaeli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/21655.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1108,
+            "name": "Lucindo, Fábio",
+            "url": "https://myanimelist.net/people/1108/Fábio_Lucindo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/29361.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 1584,
+            "name": "Reignoux, Donald",
+            "url": "https://myanimelist.net/people/1584/Donald_Reignoux",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/3845.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 7694,
+            "name": "Ugarte, Victor",
+            "url": "https://myanimelist.net/people/7694/Victor_Ugarte",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/4884.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 12320,
+            "name": "Maurer, Hannes",
+            "url": "https://myanimelist.net/people/12320/Hannes_Maurer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/55487.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 14753,
+            "name": "Kang, Su Jin",
+            "url": "https://myanimelist.net/people/14753/Su_Jin_Kang",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15289.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 18975,
+            "name": "Trifol Segarra, Albert",
+            "url": "https://myanimelist.net/people/18975/Albert_Trifol_Segarra",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/21353.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 20332,
+            "name": "Jiménez, Ariadna",
+            "url": "https://myanimelist.net/people/20332/Ariadna_Jiménez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48085.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 26645,
+            "name": "De Bouard, Vincent",
+            "url": "https://myanimelist.net/people/26645/Vincent_De_Bouard",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28751.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 36980,
+            "name": "Zeiger, Christian",
+            "url": "https://myanimelist.net/people/36980/Christian_Zeiger",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39141.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 47385,
+            "name": "Mongillo, Casey",
+            "url": "https://myanimelist.net/people/47385/Casey_Mongillo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/58004.jpg",
+            "language": "English"
+        }
+    ]
+}

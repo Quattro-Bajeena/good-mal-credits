@@ -1,4 +1,4 @@
-from jikanpy import Jikan
+from jikanpy import Jikan, APIException
 from pathlib import Path
 import json
 import time
@@ -34,28 +34,29 @@ def rate_limiter(func_with_api_call):
         global second_limit, second_limit_max, minute_limit, minute_limit_max
         global last_request
 
-        print(f"RATE LIMITER: {second_limit} / {minute_limit}: {round(time.time() - last_request, 3)}")
+        # print(f"RATE LIMITER: {second_limit} / {minute_limit}: {round(time.time() - last_request, 3)}")
 
-        if second_limit <= 0:
-            print("hit SECOND rate LIMIT")
-            time.sleep(3)
-        if minute_limit <= 0:
-            print("hit MINUTE rate LIMIT")
-            #time.sleep(60 - (time.time() - last_request))
-            time.sleep(70)
+        # if second_limit <= 0:
+        #     print("hit SECOND rate LIMIT")
+        #     time.sleep(4)
+        # if minute_limit <= 0:
+        #     print("hit MINUTE rate LIMIT")
+        #     #time.sleep(60 - (time.time() - last_request))
+        #     time.sleep(70)
 
-        if time.time() - last_request > 3:
-            second_limit = second_limit_max
-            print("RESTORED SECOND LIMIT")
-        if time.time() - last_request > 70:
-            minute_limit = minute_limit_max
-            print("RESTORE MINUTE LIMIT")
+        # if time.time() - last_request > 3:
+        #     second_limit = second_limit_max
+        #     print("RESTORED SECOND LIMIT")
+        # if time.time() - last_request > 70:
+        #     minute_limit = minute_limit_max
+        #     print("RESTORE MINUTE LIMIT")
 
-        second_limit -= 1
-        minute_limit -= 1
+        # second_limit -= 1
+        # minute_limit -= 1
+        
+        # last_request = time.time()
 
-        last_request = time.time()
-
+        time.sleep(4)
         return func_with_api_call(*args, **kwargs)
 
     return wrapper
@@ -93,29 +94,18 @@ def search_options(q_type: str, query: str, number : int = 0):
 
     return options
 
-# STAFF
+# CHARACTERS AND STAFF
 @rate_limiter
-def get_staff_api(mal_id : int) -> list:
+def get_characters_staff_api(mal_id : int) -> list:
     characters_staff = jikan.anime(mal_id, extension="characters_staff")
-    return {"mal_id": mal_id, "staff": characters_staff["staff"]}
+    return {"mal_id": mal_id, "characters":characters_staff['characters'], "staff": characters_staff["staff"]}
 
 
-def save_staff(staff: list):
-    mal_id = staff['mal_id']
-    with open(config.staff_folder / Path(f"staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
-        json.dump(staff, f, indent=4, ensure_ascii=False)
+def save_characters_staff(characters_staff: list):
+    mal_id = characters_staff['mal_id']
+    with open(config.characters_staff_folder / Path(f"characters_staff-{mal_id}.json"), 'w', encoding='utf-8') as f:
+        json.dump(characters_staff, f, indent=4, ensure_ascii=False)
 
-
-# ANIME CHARACTERS
-@rate_limiter
-def get_anime_characters_api(mal_id : int) -> list:
-    characters_staff = jikan.anime(mal_id, extension="characters_staff")
-    return {"mal_id": mal_id, "characters": characters_staff["characters"]}
-
-
-def save_anime_characters(mal_id :int, staff: list):
-    with open(config.anime_characters_folder / Path(f"characters-{mal_id}.json"), 'w', encoding='utf-8') as f:
-        json.dump(staff, f, indent=4, ensure_ascii=False)
 
 # CHARACTER
 def get_character_api(mal_id : int) -> dict:
@@ -144,7 +134,7 @@ def get_person_api(mal_id:int) -> dict:
     attributes_to_copy = [
         "mal_id", "url", "image_url", "name", "given_name", "family_name",
         "birthday", "member_favorites",
-        "voice_acting_roles", "anime_staff_positions"
+        "voice_acting_roles", "anime_staff_positions", "published_manga"
         ]
 
     for attr in attributes_to_copy:
@@ -177,6 +167,24 @@ def save_anime(anime: dict):
     with open(config.anime_folder / Path(f"anime-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(anime, f, indent=4, ensure_ascii=False)
 
+
+# MANGA
+@rate_limiter
+def get_manga_api(mal_id:int):
+    manga_mal = jikan.manga(mal_id)
+    manga = {}
+    attributes_to_copy = ["mal_id", "url", "image_url", "title", "title_english", "title_japanese",
+                          "type", "volumes", "chapters", "status","publishing" ,"published",
+                          "score", "scored_by", "rank", "popularity", "members", "favorites",
+                          "authors", "serializations"]
+    for attr in attributes_to_copy:
+        manga[attr] = manga_mal[attr]
+    return manga
+
+def save_manga(manga: dict):
+    mal_id = manga["mal_id"]
+    with open(config.manga_folder / Path(f"manga-{mal_id}.json"), 'w', encoding='utf-8') as f:
+        json.dump(manga, f, indent=4, ensure_ascii=False)
 
 #GENERAL
 
@@ -211,17 +219,17 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
     get_functions = {
         'anime' : get_anime_api,
         'people' : get_person_api,
-        'staff' : get_staff_api,
-        'anime_characters' : get_anime_characters_api,
-        'characters' : get_character_api
+        'characters_staff' : get_characters_staff_api,
+        'characters' : get_character_api,
+        'manga' : get_manga_api
     }
 
     save_functions = {
         'anime' : save_anime,
         'people' : save_person,
-        'staff' : save_staff,
-        'anime_characters' : save_anime_characters,
-        'characters' : save_character
+        'characters_staff' : save_characters_staff,
+        'characters' : save_character,
+        'manga' : save_manga
     }
 
     
@@ -229,7 +237,12 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
     if use_cached and check_file( resource_type, mal_id):
         resource = get_data_file(resource_type, mal_id)
     else:
-        resource = get_functions[resource_type](mal_id)
+        try:
+            resource = get_functions[resource_type](mal_id)
+        except APIException as e:
+            print("RESOURCE COULDN'T BE OPTAINED FROM MAL")
+            print(e)
+            return None
         save_functions[resource_type](resource)
 
     return resource

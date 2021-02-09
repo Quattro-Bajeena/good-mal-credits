@@ -1,0 +1,42 @@
+{
+    "mal_id": 6151,
+    "url": "https://myanimelist.net/character/6151/Alfred_Jodocus_Kwak",
+    "name": "Alfred Jodocus Kwak",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 24,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/113125.jpg",
+    "animeography": [
+        {
+            "mal_id": 2813,
+            "name": "Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak",
+            "url": "https://myanimelist.net/anime/2813/Chiisana_Ahiru_no_Ooki_na_Ai_no_Monogatari__Ahiru_no_Kwak",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/3879.jpg?s=403d06eb43d5ec8474024950b721c4dd",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7851,
+            "name": "Bolba, Tamás",
+            "url": "https://myanimelist.net/people/7851/Tamás_Bolba",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5112.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 15135,
+            "name": "Song, Do Yeong",
+            "url": "https://myanimelist.net/people/15135/Do_Yeong_Song",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/16033.jpg",
+            "language": "Korean"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "mal_id": 5131,
+    "url": "https://myanimelist.net/anime/5131/Groizer_X",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/10054.jpg",
+    "title": "Groizer X",
+    "title_english": "Gloizer X",
+    "title_japanese": "グロイザーＸ",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1976-07-01T00:00:00+00:00",
+        "to": "1977-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 7,
+                "year": 1976
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 1977
+            }
+        },
+        "string": "Jul 1, 1976 to Mar 31, 1977"
+    },
+    "score": 6.11,
+    "scored_by": 177,
+    "rank": 7742,
+    "popularity": 11341,
+    "members": 681,
+    "favorites": 3,
+    "premiered": "Summer 1976",
+    "studios": []
+}

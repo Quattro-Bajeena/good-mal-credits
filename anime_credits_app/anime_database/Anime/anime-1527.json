@@ -1,0 +1,44 @@
+{
+    "mal_id": 1527,
+    "url": "https://myanimelist.net/anime/1527/Pokemon__Senritsu_no_Mirage_Pokemon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1471/108232.jpg",
+    "title": "Pokemon: Senritsu no Mirage Pokemon",
+    "title_english": "Pokemon: The Mastermind of Mirage Pokemon",
+    "title_japanese": "ポケットモンスター 戦慄のミラージュポケモン",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-10-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 10,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 13, 2006"
+    },
+    "score": 6.48,
+    "scored_by": 12652,
+    "rank": 6015,
+    "popularity": 3345,
+    "members": 23708,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

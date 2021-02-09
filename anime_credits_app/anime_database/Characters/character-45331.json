@@ -1,0 +1,35 @@
+{
+    "mal_id": 45331,
+    "url": "https://myanimelist.net/character/45331/Kazumi_Kishida",
+    "name": "Kazumi Kishida",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/124867.jpg",
+    "animeography": [
+        {
+            "mal_id": 2837,
+            "name": "Ariel Deluxe",
+            "url": "https://myanimelist.net/anime/2837/Ariel_Deluxe",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1004/94070.jpg?s=f51eb0a80490c72934bb575c3c231b5d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2839,
+            "name": "Ariel Visual",
+            "url": "https://myanimelist.net/anime/2839/Ariel_Visual",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/56395.jpg?s=f584fd254b7c3fc2f79440021895c726",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

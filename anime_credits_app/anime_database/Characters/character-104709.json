@@ -1,0 +1,126 @@
+{
+    "mal_id": 104709,
+    "url": "https://myanimelist.net/character/104709/Narrator",
+    "name": "Narrator",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/242675.jpg",
+    "animeography": [
+        {
+            "mal_id": 1253,
+            "name": "Saint Seiya: Meiou Hades Meikai-hen",
+            "url": "https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/75732.jpg?s=a326d122d69723a54778b35b8a8ff6ae",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1254,
+            "name": "Saint Seiya",
+            "url": "https://myanimelist.net/anime/1254/Saint_Seiya",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/28496.jpg?s=e50467464d8394319ae96dc62e5a2eda",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1256,
+            "name": "Saint Seiya: Jashin Eris",
+            "url": "https://myanimelist.net/anime/1256/Saint_Seiya__Jashin_Eris",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/26806.jpg?s=b5322d9721963c0e9b686eea4e501c56",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3515,
+            "name": "Saint Seiya: Meiou Hades Elysion-hen",
+            "url": "https://myanimelist.net/anime/3515/Saint_Seiya__Meiou_Hades_Elysion-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/55659.jpg?s=32338e8f341b4b9092cdb028da7683a7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 12929,
+            "name": "Saint Seiya Omega",
+            "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg?s=4eaa31b691e7ce553ff4b5dd4957f4b0",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 28215,
+            "name": "Saint Seiya: Soul of Gold",
+            "url": "https://myanimelist.net/anime/28215/Saint_Seiya__Soul_of_Gold",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/72664.jpg?s=75eefbeafc2a6e171db8c1262a201c8a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36040,
+            "name": "Knights of the Zodiac: Saint Seiya",
+            "url": "https://myanimelist.net/anime/36040/Knights_of_the_Zodiac__Saint_Seiya",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1091/101664.jpg?s=486c880f692c445cace779a4b5eb4eca",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 153,
+            "name": "McAvin, Andy",
+            "url": "https://myanimelist.net/people/153/Andy_McAvin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/275.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 234,
+            "name": "Tanaka, Hideyuki",
+            "url": "https://myanimelist.net/people/234/Hideyuki_Tanaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/55048.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5069,
+            "name": "Baroli, Hermes",
+            "url": "https://myanimelist.net/people/5069/Hermes_Baroli",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40317.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 30759,
+            "name": "Rivera, Rafael",
+            "url": "https://myanimelist.net/people/30759/Rafael_Rivera",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/31997.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 42891,
+            "name": "Maggi, Enrico",
+            "url": "https://myanimelist.net/people/42891/Enrico_Maggi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46570.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 43824,
+            "name": "Mello, Jonas",
+            "url": "https://myanimelist.net/people/43824/Jonas_Mello",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/59469.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 46014,
+            "name": "Messeguer, Alex",
+            "url": "https://myanimelist.net/people/46014/Alex_Messeguer",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 46560,
+            "name": "Rocha Júnior, Gilberto",
+            "url": "https://myanimelist.net/people/46560/Gilberto_Rocha_Júnior",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59244.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "mal_id": 7123,
+    "url": "https://myanimelist.net/character/7123/Atsuko_Higuchi",
+    "name": "Atsuko Higuchi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/88930.jpg",
+    "animeography": [
+        {
+            "mal_id": 374,
+            "name": "Bannou Bunka Neko-Musume DASH!",
+            "url": "https://myanimelist.net/anime/374/Bannou_Bunka_Neko-Musume_DASH",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/2886.jpg?s=bbf6fd96c90f6644e99425741f9209c6",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 194,
+            "name": "Keith, Allison",
+            "url": "https://myanimelist.net/people/194/Allison_Keith",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/153.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "mal_id": 2658,
+    "url": "https://myanimelist.net/character/2658/Lime",
+    "name": "Lime",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 150,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/306252.jpg",
+    "animeography": [
+        {
+            "mal_id": 573,
+            "name": "Saber Marionette J",
+            "url": "https://myanimelist.net/anime/573/Saber_Marionette_J",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1754/97053.jpg?s=18317ac8992881f5d56f587633f6f568",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1191,
+            "name": "Saber Marionette J Again",
+            "url": "https://myanimelist.net/anime/1191/Saber_Marionette_J_Again",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/61135.jpg?s=3c3c5d9cd4fa7b7078c2ffd7eb141737",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1231,
+            "name": "Saber Marionette J to X",
+            "url": "https://myanimelist.net/anime/1231/Saber_Marionette_J_to_X",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1773/94167.jpg?s=d0e2cc0d6630fde1313cf46b6febde92",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1232,
+            "name": "Saber Marionette R",
+            "url": "https://myanimelist.net/anime/1232/Saber_Marionette_R",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/61075.jpg?s=29f723dbf664caf975b3538ca8bd0eba",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 506,
+            "name": "Saber Marionette J",
+            "url": "https://myanimelist.net/manga/506/Saber_Marionette_J",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/138531.jpg?s=30e01f5c7b2f38930d158e936a9883d5",
+            "role": "Main"
+        },
+        {
+            "mal_id": 90134,
+            "name": "SM Girls: Saber Marionette J",
+            "url": "https://myanimelist.net/manga/90134/SM_Girls__Saber_Marionette_J",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157873.jpg?s=e76cd07ec4678e68200062713b33e383",
+            "role": "Main"
+        },
+        {
+            "mal_id": 90148,
+            "name": "SM Girls: Saber Marionette R",
+            "url": "https://myanimelist.net/manga/90148/SM_Girls__Saber_Marionette_R",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157909.jpg?s=d2c32d6f519b60552275c395ec2c3ca1",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1065,
+            "name": "Maddalena, Julie",
+            "url": "https://myanimelist.net/people/1065/Julie_Maddalena",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/44898.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1704,
+            "name": "O'Hara, Maggie Blue",
+            "url": "https://myanimelist.net/people/1704/Maggie_Blue_OHara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1589.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1846,
+            "name": "Hernández, Cristina",
+            "url": "https://myanimelist.net/people/1846/Cristina_Hernández",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/22015.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 5669,
+            "name": "Sluyter, Mariette",
+            "url": "https://myanimelist.net/people/5669/Mariette_Sluyter",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42498.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11454,
+            "name": "Lima, Márcia Regina",
+            "url": "https://myanimelist.net/people/11454/Márcia_Regina_Lima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25031.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 14823,
+            "name": "Yun, Mi Na",
+            "url": "https://myanimelist.net/people/14823/Mi_Na_Yun",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15395.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 45823,
+            "name": "Tamássy, Marina",
+            "url": "https://myanimelist.net/people/45823/Marina_Tamássy",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        }
+    ]
+}

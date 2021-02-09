@@ -6,7 +6,7 @@
     "given_name": "誠",
     "family_name": "古田",
     "birthday": null,
-    "member_favorites": 0,
+    "member_favorites": 1,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -284,7 +284,7 @@
             "anime": {
                 "mal_id": 42825,
                 "url": "https://myanimelist.net/anime/42825/Project_Scard__Praeter_no_Kizu",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1995/109124.jpg?s=46735f0588530b3962069ae7bee282b3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1239/111647.jpg?s=0a410d56581912f7895239f04727e388",
                 "name": "Project Scard: Praeter no Kizu"
             }
         },
@@ -504,5 +504,6 @@
                 "name": "Zombie-Loan"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

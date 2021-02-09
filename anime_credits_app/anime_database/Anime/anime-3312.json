@@ -1,0 +1,44 @@
+{
+    "mal_id": 3312,
+    "url": "https://myanimelist.net/anime/3312/Dr_Slump",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/5297.jpg",
+    "title": "Dr. Slump",
+    "title_english": null,
+    "title_japanese": "ドクタースランプ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 74,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-11-26T00:00:00+00:00",
+        "to": "1999-09-22T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 11,
+                "year": 1997
+            },
+            "to": {
+                "day": 22,
+                "month": 9,
+                "year": 1999
+            }
+        },
+        "string": "Nov 26, 1997 to Sep 22, 1999"
+    },
+    "score": 7,
+    "scored_by": 5387,
+    "rank": 3634,
+    "popularity": 4217,
+    "members": 14398,
+    "favorites": 51,
+    "premiered": "Fall 1997",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

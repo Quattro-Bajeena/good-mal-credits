@@ -1,0 +1,44 @@
+{
+    "mal_id": 9491,
+    "url": "https://myanimelist.net/anime/9491/Katsugeki_Shoujo_Tanteidan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/41457.jpg",
+    "title": "Katsugeki Shoujo Tanteidan",
+    "title_english": null,
+    "title_japanese": "活劇少女探偵団",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-11-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 11,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 25, 1986"
+    },
+    "score": 4.69,
+    "scored_by": 678,
+    "rank": 10801,
+    "popularity": 9543,
+    "members": 1491,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

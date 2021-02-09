@@ -1,0 +1,44 @@
+{
+    "mal_id": 758,
+    "url": "https://myanimelist.net/anime/758/RahXephon__Tagen_Hensoukyoku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1771/94881.jpg",
+    "title": "RahXephon: Tagen Hensoukyoku",
+    "title_english": "RahXephon: Pluralitas Concentio",
+    "title_japanese": "ラーゼフォン 多元変奏曲",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-04-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 4,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 19, 2003"
+    },
+    "score": 7.04,
+    "scored_by": 6383,
+    "rank": 3503,
+    "popularity": 4318,
+    "members": 13564,
+    "favorites": 20,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        }
+    ]
+}

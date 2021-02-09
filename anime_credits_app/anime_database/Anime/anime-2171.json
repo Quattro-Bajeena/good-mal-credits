@@ -1,0 +1,44 @@
+{
+    "mal_id": 2171,
+    "url": "https://myanimelist.net/anime/2171/Detective_Conan_Movie_11__Jolly_Roger_in_the_Deep_Azure",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1765/94323.jpg",
+    "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+    "title_english": null,
+    "title_japanese": "名探偵コナン 紺碧の棺 （ジョリー・ロジャー）",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-04-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 4,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 21, 2007"
+    },
+    "score": 7.48,
+    "scored_by": 19725,
+    "rank": 1629,
+    "popularity": 2788,
+    "members": 33592,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

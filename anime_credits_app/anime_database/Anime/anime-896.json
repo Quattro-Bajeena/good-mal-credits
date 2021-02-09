@@ -1,0 +1,44 @@
+{
+    "mal_id": 896,
+    "url": "https://myanimelist.net/anime/896/Dragon_Ball_Z_Movie_03__Chikyuu_Marugoto_Choukessen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg",
+    "title": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+    "title_english": "Dragon Ball Z: The Tree of Might",
+    "title_japanese": "ドラゴンボールZ 地球まるごと超決戦",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-07-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 7,
+                "year": 1990
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 7, 1990"
+    },
+    "score": 6.73,
+    "scored_by": 63986,
+    "rank": 4761,
+    "popularity": 1357,
+    "members": 102694,
+    "favorites": 57,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

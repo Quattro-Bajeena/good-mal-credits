@@ -1,0 +1,44 @@
+{
+    "mal_id": 502,
+    "url": "https://myanimelist.net/anime/502/Dragon_Ball_Movie_1__Shen_Long_no_Densetsu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1854/90339.jpg",
+    "title": "Dragon Ball Movie 1: Shen Long no Densetsu",
+    "title_english": "Dragon Ball: Curse of the Blood Rubies",
+    "title_japanese": "ドラゴンボール 神龍の伝説",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-12-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 12,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 20, 1986"
+    },
+    "score": 6.83,
+    "scored_by": 28837,
+    "rank": 4316,
+    "popularity": 2221,
+    "members": 51375,
+    "favorites": 40,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

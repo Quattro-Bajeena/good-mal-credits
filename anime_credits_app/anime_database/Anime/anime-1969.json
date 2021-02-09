@@ -1,0 +1,44 @@
+{
+    "mal_id": 1969,
+    "url": "https://myanimelist.net/anime/1969/Mobile_Suit_Zeta_Gundam__A_New_Translation_III_-_Love_Is_the_Pulse_of_the_Stars",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1969.jpg",
+    "title": "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars",
+    "title_english": "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars",
+    "title_japanese": "機動戦士ZガンダムⅢ-星の鼓動は愛-",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-03-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 3,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 4, 2006"
+    },
+    "score": 7.15,
+    "scored_by": 4126,
+    "rank": 3008,
+    "popularity": 5115,
+    "members": 8911,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

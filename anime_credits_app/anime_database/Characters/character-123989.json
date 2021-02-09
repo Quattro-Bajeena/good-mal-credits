@@ -1,0 +1,28 @@
+{
+    "mal_id": 123989,
+    "url": "https://myanimelist.net/character/123989/Akira",
+    "name": "Akira",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 3881,
+            "name": "Majokko Tickle",
+            "url": "https://myanimelist.net/anime/3881/Majokko_Tickle",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/6935.jpg?s=6b4c7b1920356cfd25c2af5e4efe500f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 14397,
+    "url": "https://myanimelist.net/anime/14397/Chihayafuru_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/47435.jpg",
+    "title": "Chihayafuru 2",
+    "title_english": null,
+    "title_japanese": "ちはやふる 2",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-01-12T00:00:00+00:00",
+        "to": "2013-06-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 1,
+                "year": 2013
+            },
+            "to": {
+                "day": 29,
+                "month": 6,
+                "year": 2013
+            }
+        },
+        "string": "Jan 12, 2013 to Jun 29, 2013"
+    },
+    "score": 8.43,
+    "scored_by": 99937,
+    "rank": 136,
+    "popularity": 810,
+    "members": 182401,
+    "favorites": 1599,
+    "premiered": "Winter 2013",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

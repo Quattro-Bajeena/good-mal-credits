@@ -1,0 +1,44 @@
+{
+    "mal_id": 33095,
+    "url": "https://myanimelist.net/anime/33095/Shouwa_Genroku_Rakugo_Shinjuu__Sukeroku_Futatabi-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/82947.jpg",
+    "title": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "title_english": "Descending Stories: Showa Genroku Rakugo Shinju",
+    "title_japanese": "昭和元禄落語心中～助六再び篇～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-01-07T00:00:00+00:00",
+        "to": "2017-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 2017
+            }
+        },
+        "string": "Jan 7, 2017 to Mar 25, 2017"
+    },
+    "score": 8.79,
+    "scored_by": 47910,
+    "rank": 27,
+    "popularity": 1062,
+    "members": 139158,
+    "favorites": 2613,
+    "premiered": "Winter 2017",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

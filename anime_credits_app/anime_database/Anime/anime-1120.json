@@ -1,0 +1,44 @@
+{
+    "mal_id": 1120,
+    "url": "https://myanimelist.net/anime/1120/Pokemon_Movie_05__Mizu_no_Miyako_no_Mamorigami_Latias_to_Latios",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/21317.jpg",
+    "title": "Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios",
+    "title_english": "Pokemon Heroes",
+    "title_japanese": "ポケットモンスター 水の都の護神 ラティアスとラティオス",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2002"
+    },
+    "score": 7.19,
+    "scored_by": 55546,
+    "rank": 2797,
+    "popularity": 1551,
+    "members": 88338,
+    "favorites": 124,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

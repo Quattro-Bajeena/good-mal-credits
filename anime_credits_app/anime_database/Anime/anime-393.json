@@ -1,0 +1,50 @@
+{
+    "mal_id": 393,
+    "url": "https://myanimelist.net/anime/393/Escaflowne",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/50419.jpg",
+    "title": "Escaflowne",
+    "title_english": "Escaflowne: A Girl in Gaea",
+    "title_japanese": "エスカフローネ",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-06-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 6,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 24, 2000"
+    },
+    "score": 7.08,
+    "scored_by": 27393,
+    "rank": 3285,
+    "popularity": 2045,
+    "members": 57567,
+    "favorites": 189,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Bones",
+            "url": "https://myanimelist.net/anime/producer/4/Bones"
+        },
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

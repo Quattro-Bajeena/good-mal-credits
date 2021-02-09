@@ -1,0 +1,44 @@
+{
+    "mal_id": 1297,
+    "url": "https://myanimelist.net/anime/1297/Project_A-Ko_3__Cinderella_Rhapsody",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1087/92669.jpg",
+    "title": "Project A-Ko 3: Cinderella Rhapsody",
+    "title_english": null,
+    "title_japanese": "プロジェクトA子3 シンデレララプソディ",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-06-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 6,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 20, 1988"
+    },
+    "score": 6.41,
+    "scored_by": 2096,
+    "rank": 6335,
+    "popularity": 6919,
+    "members": 4184,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Studio Fantasia",
+            "url": "https://myanimelist.net/anime/producer/24/Studio_Fantasia"
+        }
+    ]
+}

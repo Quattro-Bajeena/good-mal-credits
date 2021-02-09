@@ -1,0 +1,136 @@
+{
+    "mal_id": 16181,
+    "url": "https://myanimelist.net/character/16181/Casshern",
+    "name": "Casshern",
+    "name_kanji": null,
+    "nicknames": [
+        "Tetsuya Azuma",
+        "Neo-Human Casshern"
+    ],
+    "member_favorites": 675,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/250103.jpg",
+    "animeography": [
+        {
+            "mal_id": 1598,
+            "name": "Casshern: Robot Hunter",
+            "url": "https://myanimelist.net/anime/1598/Casshern__Robot_Hunter",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/25790.jpg?s=0b2851b4573aa3b9ac76d3e4b1d78d3b",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4578,
+            "name": "Time Bokan Oudou Fukko",
+            "url": "https://myanimelist.net/anime/4578/Time_Bokan_Oudou_Fukko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/8760.jpg?s=f2aa9be605afcd5fdd266352f616f761",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 4810,
+            "name": "Shinzou Ningen Casshern",
+            "url": "https://myanimelist.net/anime/4810/Shinzou_Ningen_Casshern",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/60395.jpg?s=4d09d61b3c086651a271c0a0fdcca878",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4981,
+            "name": "Casshern Sins",
+            "url": "https://myanimelist.net/anime/4981/Casshern_Sins",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/23336.jpg?s=782a2b0de5ad4a93dc8882352ee5bfc4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 33027,
+            "name": "Infini-T Force",
+            "url": "https://myanimelist.net/anime/33027/Infini-T_Force",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/88430.jpg?s=d3852a2fc3c6ee99cc2bf9c130e84c84",
+            "role": "Main"
+        },
+        {
+            "mal_id": 36197,
+            "name": "Infini-T Force Movie: Gatchaman - Saraba Tomo yo",
+            "url": "https://myanimelist.net/anime/36197/Infini-T_Force_Movie__Gatchaman_-_Saraba_Tomo_yo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/89672.jpg?s=bec1b56c8ade3f9cf421ec3f1c3cfb8a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 134,
+            "name": "Kusao, Takeshi",
+            "url": "https://myanimelist.net/people/134/Takeshi_Kusao",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33063.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 312,
+            "name": "Vale, Eric",
+            "url": "https://myanimelist.net/people/312/Eric_Vale",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12481.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 624,
+            "name": "Nishikawa, Ikuo",
+            "url": "https://myanimelist.net/people/624/Ikuo_Nishikawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/10906.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7541,
+            "name": "Bulen, Steve",
+            "url": "https://myanimelist.net/people/7541/Steve_Bulen",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41285.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 18227,
+            "name": "Saitou, Souma",
+            "url": "https://myanimelist.net/people/18227/Souma_Saitou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/52218.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 26419,
+            "name": "Wilhelm, Marc",
+            "url": "https://myanimelist.net/people/26419/Marc_Wilhelm",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49217.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 42981,
+            "name": "Ariano, Ismaele",
+            "url": "https://myanimelist.net/people/42981/Ismaele_Ariano",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 45366,
+            "name": "Jardym, Marcus",
+            "url": "https://myanimelist.net/people/45366/Marcus_Jardym",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48521.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 50305,
+            "name": "Mcdonald, Landon",
+            "url": "https://myanimelist.net/people/50305/Landon_Mcdonald",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/58508.jpg",
+            "language": "English"
+        }
+    ]
+}

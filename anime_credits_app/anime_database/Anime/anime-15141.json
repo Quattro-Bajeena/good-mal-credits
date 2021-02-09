@@ -1,0 +1,44 @@
+{
+    "mal_id": 15141,
+    "url": "https://myanimelist.net/anime/15141/Yukiwatari",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/74507.jpg",
+    "title": "Yukiwatari",
+    "title_english": null,
+    "title_japanese": "雪渡り",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 1994
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 1994"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 13017,
+    "popularity": 13174,
+    "members": 328,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 207,
+            "type": "anime",
+            "name": "Magic Bus",
+            "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "mal_id": 39598,
+    "url": "https://myanimelist.net/character/39598/Arti",
+    "name": "Arti",
+    "name_kanji": null,
+    "nicknames": [
+        "Burgh"
+    ],
+    "member_favorites": 7,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/116236.jpg",
+    "animeography": [
+        {
+            "mal_id": 9107,
+            "name": "Pokemon Best Wishes!",
+            "url": "https://myanimelist.net/anime/9107/Pokemon_Best_Wishes",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/26135.jpg?s=d977a6c3536a25ad699d8ee55c9295d7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 34514,
+            "name": "Pokemon Generations",
+            "url": "https://myanimelist.net/anime/34514/Pokemon_Generations",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/83210.jpg?s=301bafaf9fa92695538d0b63d15cc744",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5139,
+            "name": "Sawaya, Ricardo",
+            "url": "https://myanimelist.net/people/5139/Ricardo_Sawaya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42703.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9259,
+            "name": "Lubowski, Manou",
+            "url": "https://myanimelist.net/people/9259/Manou_Lubowski",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48409.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 10047,
+            "name": "Niosi, Chris",
+            "url": "https://myanimelist.net/people/10047/Chris_Niosi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/41078.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20082,
+            "name": "Andreozzi, Ruggero",
+            "url": "https://myanimelist.net/people/20082/Ruggero_Andreozzi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32519.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 36119,
+            "name": "Thompson, Billy Bob",
+            "url": "https://myanimelist.net/people/36119/Billy_Bob_Thompson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/38375.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 41206,
+            "name": "Matsuda, Shuuhei",
+            "url": "https://myanimelist.net/people/41206/Shuuhei_Matsuda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/44186.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

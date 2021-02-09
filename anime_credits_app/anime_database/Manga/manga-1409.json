@@ -1,0 +1,52 @@
+{
+    "mal_id": 1409,
+    "url": "https://myanimelist.net/manga/1409/Biomega",
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/211783.jpg",
+    "title": "Biomega",
+    "title_english": "BioMega",
+    "title_japanese": "バイオメガ",
+    "type": "Manga",
+    "volumes": 6,
+    "chapters": 43,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2004-06-14T00:00:00+00:00",
+        "to": "2009-01-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 14,
+                "month": 6,
+                "year": 2004
+            },
+            "to": {
+                "day": 19,
+                "month": 1,
+                "year": 2009
+            }
+        },
+        "string": "Jun  14, 2004 to Jan  19, 2009"
+    },
+    "score": 7.55,
+    "scored_by": 7109,
+    "rank": 2257,
+    "popularity": 583,
+    "members": 18990,
+    "favorites": 471,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ]
+}

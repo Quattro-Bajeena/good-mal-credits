@@ -1,0 +1,37 @@
+{
+    "mal_id": 25357,
+    "url": "https://myanimelist.net/character/25357/Sirius",
+    "name": "Sirius",
+    "name_kanji": null,
+    "nicknames": [
+        "Syrius"
+    ],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/63962.jpg",
+    "animeography": [
+        {
+            "mal_id": 2029,
+            "name": "Sirius no Densetsu",
+            "url": "https://myanimelist.net/anime/2029/Sirius_no_Densetsu",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/55089.jpg?s=2357e3951ddbb3714256b105600fc0d9",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 654,
+            "name": "Oliver, Tony",
+            "url": "https://myanimelist.net/people/654/Tony_Oliver",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12598.jpg",
+            "language": "English"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "mal_id": 118141,
+    "url": "https://myanimelist.net/character/118141/Masato_Mugen",
+    "name": "Masato Mugen",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/267615.jpg",
+    "animeography": [
+        {
+            "mal_id": 5143,
+            "name": "Tokusou Kihei Dorvack",
+            "url": "https://myanimelist.net/anime/5143/Tokusou_Kihei_Dorvack",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/68555.jpg?s=3cb7652862d5937100337abb16a223b0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 44339,
+            "name": "Camarão, Eduardo",
+            "url": "https://myanimelist.net/people/44339/Eduardo_Camarão",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        }
+    ]
+}

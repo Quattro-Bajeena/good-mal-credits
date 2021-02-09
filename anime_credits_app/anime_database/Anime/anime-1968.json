@@ -1,0 +1,44 @@
+{
+    "mal_id": 1968,
+    "url": "https://myanimelist.net/anime/1968/Mobile_Suit_Zeta_Gundam__A_New_Translation_II_-_Lovers",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1183/94730.jpg",
+    "title": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+    "title_english": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+    "title_japanese": "機動戦士ＺガンダムⅡ‐恋人たち‐",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-29T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 29,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 29, 2005"
+    },
+    "score": 7.05,
+    "scored_by": 4261,
+    "rank": 3472,
+    "popularity": 5095,
+    "members": 9036,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

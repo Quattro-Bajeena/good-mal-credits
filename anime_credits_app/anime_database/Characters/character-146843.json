@@ -1,0 +1,50 @@
+{
+    "mal_id": 146843,
+    "url": "https://myanimelist.net/character/146843/Shibana_Natsume",
+    "name": "Shibana Natsume",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 6,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/318648.jpg",
+    "animeography": [
+        {
+            "mal_id": 34549,
+            "name": "Ryuu no Haisha",
+            "url": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/83336.jpg?s=1fab1b8c54e3aa1b81e2da9fcc0214a0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 108906,
+            "name": "Ryuu no Haisha",
+            "url": "https://myanimelist.net/manga/108906/Ryuu_no_Haisha",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/204863.jpg?s=147eed653c8081afd1e8ee0af4daaa2c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1291,
+            "name": "Valenti, Federica",
+            "url": "https://myanimelist.net/people/1291/Federica_Valenti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1283.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 13705,
+            "name": "Post, Laura",
+            "url": "https://myanimelist.net/people/13705/Laura_Post",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/25065.jpg",
+            "language": "English"
+        }
+    ]
+}

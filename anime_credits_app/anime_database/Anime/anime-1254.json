@@ -1,0 +1,44 @@
+{
+    "mal_id": 1254,
+    "url": "https://myanimelist.net/anime/1254/Saint_Seiya",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/28496.jpg",
+    "title": "Saint Seiya",
+    "title_english": "Saint Seiya: Knights of the Zodiac",
+    "title_japanese": "聖闘士星矢(セイントセイヤ)",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 114,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-10-11T00:00:00+00:00",
+        "to": "1989-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 1986
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 1989
+            }
+        },
+        "string": "Oct 11, 1986 to Apr 1, 1989"
+    },
+    "score": 7.78,
+    "scored_by": 74218,
+    "rank": 876,
+    "popularity": 1022,
+    "members": 143832,
+    "favorites": 4254,
+    "premiered": "Fall 1986",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

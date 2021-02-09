@@ -55,7 +55,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Mechanical Design",
             "anime": {
                 "mal_id": 2622,
                 "url": "https://myanimelist.net/anime/2622/Big_Wars__Kami_Utsu_Akaki_Kouya_ni",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "position": "Mechanical Design",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 2622,
                 "url": "https://myanimelist.net/anime/2622/Big_Wars__Kami_Utsu_Akaki_Kouya_ni",
@@ -379,6 +379,15 @@
             }
         },
         {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 820,
+                "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg?s=3acfbce7aab5c99baeb4cbcfbe015872",
+                "name": "Ginga Eiyuu Densetsu"
+            }
+        },
+        {
             "position": "Animation Director",
             "anime": {
                 "mal_id": 820,
@@ -389,24 +398,6 @@
         },
         {
             "position": "Key Animation",
-            "anime": {
-                "mal_id": 820,
-                "url": "https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu",
-                "image_url": "https://cdn.myanimelist.net/images/anime/13/13225.jpg?s=3acfbce7aab5c99baeb4cbcfbe015872",
-                "name": "Ginga Eiyuu Densetsu"
-            }
-        },
-        {
-            "position": "Key Animation",
-            "anime": {
-                "mal_id": 3015,
-                "url": "https://myanimelist.net/anime/3015/Ginga_Eiyuu_Densetsu_Gaiden__Ougon_no_Tsubasa",
-                "image_url": "https://cdn.myanimelist.net/images/anime/7/52221.jpg?s=5174ec3a9e3b758307f2ace200df2070",
-                "name": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa"
-            }
-        },
-        {
-            "position": "Animation Director",
             "anime": {
                 "mal_id": 3015,
                 "url": "https://myanimelist.net/anime/3015/Ginga_Eiyuu_Densetsu_Gaiden__Ougon_no_Tsubasa",
@@ -416,6 +407,15 @@
         },
         {
             "position": "Mechanical Design",
+            "anime": {
+                "mal_id": 3015,
+                "url": "https://myanimelist.net/anime/3015/Ginga_Eiyuu_Densetsu_Gaiden__Ougon_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/52221.jpg?s=5174ec3a9e3b758307f2ace200df2070",
+                "name": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa"
+            }
+        },
+        {
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 3015,
                 "url": "https://myanimelist.net/anime/3015/Ginga_Eiyuu_Densetsu_Gaiden__Ougon_no_Tsubasa",
@@ -523,7 +523,7 @@
             }
         },
         {
-            "position": "Assistant Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 3270,
                 "url": "https://myanimelist.net/anime/3270/IGPX__Immortal_Grand_Prix_2005",
@@ -532,7 +532,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Assistant Animation Director",
             "anime": {
                 "mal_id": 3270,
                 "url": "https://myanimelist.net/anime/3270/IGPX__Immortal_Grand_Prix_2005",
@@ -1036,7 +1036,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 13599,
                 "url": "https://myanimelist.net/anime/13599/Robotics_Notes",
@@ -1045,7 +1045,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 13599,
                 "url": "https://myanimelist.net/anime/13599/Robotics_Notes",
@@ -1288,7 +1288,7 @@
             }
         },
         {
-            "position": "Chief Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1144,
                 "url": "https://myanimelist.net/anime/1144/Tenchi_Muyou_in_Love_2__Haruka_Naru_Omoi",
@@ -1297,7 +1297,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Chief Animation Director",
             "anime": {
                 "mal_id": 1144,
                 "url": "https://myanimelist.net/anime/1144/Tenchi_Muyou_in_Love_2__Haruka_Naru_Omoi",
@@ -1494,5 +1494,6 @@
                 "name": "Yuukan Club"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

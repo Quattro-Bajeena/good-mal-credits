@@ -1,0 +1,44 @@
+{
+    "mal_id": 2829,
+    "url": "https://myanimelist.net/anime/2829/Ie_Naki_Ko_Remy",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/26250.jpg",
+    "title": "Ie Naki Ko Remy",
+    "title_english": "Sans Famille",
+    "title_japanese": "家なき子レミ",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 23,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-09-01T00:00:00+00:00",
+        "to": "1997-03-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 9,
+                "year": 1996
+            },
+            "to": {
+                "day": 23,
+                "month": 3,
+                "year": 1997
+            }
+        },
+        "string": "Sep 1, 1996 to Mar 23, 1997"
+    },
+    "score": 7.93,
+    "scored_by": 6635,
+    "rank": 644,
+    "popularity": 4099,
+    "members": 15426,
+    "favorites": 96,
+    "premiered": "Fall 1996",
+    "studios": [
+        {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+        }
+    ]
+}

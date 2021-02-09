@@ -1,0 +1,44 @@
+{
+    "mal_id": 10863,
+    "url": "https://myanimelist.net/anime/10863/Steins_Gate__Oukoubakko_no_Poriomania",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/36531.jpg",
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "title_english": "Steins;Gate: Egoistic Poriomania",
+    "title_japanese": "シュタインズ ゲート 横行跋扈のポリオマニア",
+    "type": "Special",
+    "source": "Visual novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-02-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 2,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 22, 2012"
+    },
+    "score": 8.34,
+    "scored_by": 212469,
+    "rank": 197,
+    "popularity": 394,
+    "members": 337279,
+    "favorites": 787,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 314,
+            "type": "anime",
+            "name": "White Fox",
+            "url": "https://myanimelist.net/anime/producer/314/White_Fox"
+        }
+    ]
+}

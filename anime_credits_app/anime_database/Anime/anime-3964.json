@@ -1,0 +1,44 @@
+{
+    "mal_id": 3964,
+    "url": "https://myanimelist.net/anime/3964/Turn_A_Gundam_II_Movie__Moonlight_Butterfly",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/7122.jpg",
+    "title": "Turn A Gundam II Movie: Moonlight Butterfly",
+    "title_english": "∀ Gundam II: Moonlight Butterfly",
+    "title_japanese": "劇場版∀ガンダムII 月光蝶",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-02-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 10, 2002"
+    },
+    "score": 6.64,
+    "scored_by": 1091,
+    "rank": 5213,
+    "popularity": 7198,
+    "members": 3802,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

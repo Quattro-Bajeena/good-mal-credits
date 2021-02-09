@@ -1,0 +1,43 @@
+{
+    "mal_id": 119849,
+    "url": "https://myanimelist.net/character/119849/Subaru_Toudaiji",
+    "name": "Subaru Toudaiji",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/270105.jpg",
+    "animeography": [
+        {
+            "mal_id": 142,
+            "name": "Kamikaze Kaitou Jeanne",
+            "url": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.jpg?s=c789ccd9cb21095fc3348be4d28fc9a1",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 36,
+            "name": "Kamikaze Kaitou Jeanne",
+            "url": "https://myanimelist.net/manga/36/Kamikaze_Kaitou_Jeanne",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/175801.jpg?s=e9015b1c422ce635dec9ed895facde30",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1113,
+            "name": "I.O.N",
+            "url": "https://myanimelist.net/manga/1113/ION",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/17076.jpg?s=aadb192211188c409db0baaa94f6e47c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

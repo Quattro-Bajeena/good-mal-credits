@@ -1,0 +1,44 @@
+{
+    "mal_id": 5526,
+    "url": "https://myanimelist.net/anime/5526/Pokemon__Pikachu_no_Natsuyasumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/26367.jpg",
+    "title": "Pokemon: Pikachu no Natsuyasumi",
+    "title_english": "Pokemon: Pikachu's Summer Vacation",
+    "title_japanese": "ピカチュウのなつやすみ",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-07-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 7,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 18, 1998"
+    },
+    "score": 6.81,
+    "scored_by": 17768,
+    "rank": 4385,
+    "popularity": 2976,
+    "members": 29718,
+    "favorites": 14,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

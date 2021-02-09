@@ -1,0 +1,44 @@
+{
+    "mal_id": 658,
+    "url": "https://myanimelist.net/anime/658/Touhai_Densetsu_Akagi__Yami_ni_Maiorita_Tensai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/53587.jpg",
+    "title": "Touhai Densetsu Akagi: Yami ni Maiorita Tensai",
+    "title_english": null,
+    "title_japanese": "闘牌伝説アカギ　闇に舞い降りた天才",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2005-10-05T00:00:00+00:00",
+        "to": "2006-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2005
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "Oct 5, 2005 to Mar 29, 2006"
+    },
+    "score": 7.94,
+    "scored_by": 34798,
+    "rank": 632,
+    "popularity": 1630,
+    "members": 81513,
+    "favorites": 1039,
+    "premiered": "Fall 2005",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

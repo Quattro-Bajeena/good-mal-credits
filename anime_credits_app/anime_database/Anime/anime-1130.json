@@ -1,0 +1,50 @@
+{
+    "mal_id": 1130,
+    "url": "https://myanimelist.net/anime/1130/Windaria",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/25497.jpg",
+    "title": "Windaria",
+    "title_english": "Once Upon A Time",
+    "title_japanese": "ウインダリア, 童話めいた戦史ウインダリア",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-07-19T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 19, 1986"
+    },
+    "score": 6.54,
+    "scored_by": 3146,
+    "rank": 5707,
+    "popularity": 5502,
+    "members": 7439,
+    "favorites": 20,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 288,
+            "type": "anime",
+            "name": "Kaname Productions",
+            "url": "https://myanimelist.net/anime/producer/288/Kaname_Productions"
+        },
+        {
+            "mal_id": 1943,
+            "type": "anime",
+            "name": "Idol",
+            "url": "https://myanimelist.net/anime/producer/1943/Idol"
+        }
+    ]
+}

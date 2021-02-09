@@ -1,0 +1,44 @@
+{
+    "mal_id": 6796,
+    "url": "https://myanimelist.net/anime/6796/Kyuukyoku_Choujin_R",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1073/94286.jpg",
+    "title": "Kyuukyoku Choujin R",
+    "title_english": "The Ultimate Esper \"R\"",
+    "title_japanese": "究極超人あ～る",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-10-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 10,
+                "year": 1991
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 24, 1991"
+    },
+    "score": 6.31,
+    "scored_by": 289,
+    "rank": 6830,
+    "popularity": 10095,
+    "members": 1158,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 2051,
+            "type": "anime",
+            "name": "Studio Coa",
+            "url": "https://myanimelist.net/anime/producer/2051/Studio_Coa"
+        }
+    ]
+}

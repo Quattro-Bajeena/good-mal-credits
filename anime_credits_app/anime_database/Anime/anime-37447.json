@@ -1,0 +1,44 @@
+{
+    "mal_id": 37447,
+    "url": "https://myanimelist.net/anime/37447/Karakuri_Circus_TV",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1518/110450.jpg",
+    "title": "Karakuri Circus (TV)",
+    "title_english": "Le Cirque de Karakuri",
+    "title_japanese": "からくりサーカス",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-10-11T00:00:00+00:00",
+        "to": "2019-06-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2018
+            },
+            "to": {
+                "day": 27,
+                "month": 6,
+                "year": 2019
+            }
+        },
+        "string": "Oct 11, 2018 to Jun 27, 2019"
+    },
+    "score": 7.08,
+    "scored_by": 20401,
+    "rank": 3292,
+    "popularity": 1676,
+    "members": 79236,
+    "favorites": 334,
+    "premiered": "Fall 2018",
+    "studios": [
+        {
+            "mal_id": 1244,
+            "type": "anime",
+            "name": "Studio VOLN",
+            "url": "https://myanimelist.net/anime/producer/1244/Studio_VOLN"
+        }
+    ]
+}

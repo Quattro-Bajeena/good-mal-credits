@@ -1,0 +1,35 @@
+{
+    "mal_id": 36183,
+    "url": "https://myanimelist.net/character/36183/Nobushige_Oyamada",
+    "name": "Nobushige Oyamada",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/101609.jpg",
+    "animeography": [
+        {
+            "mal_id": 6634,
+            "name": "Sengoku Basara Ni",
+            "url": "https://myanimelist.net/anime/6634/Sengoku_Basara_Ni",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/80999.jpg?s=6eca2b1bb8581f3a8373e4f806cf4754",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 10792,
+            "name": "Freeman, Scott",
+            "url": "https://myanimelist.net/people/10792/Scott_Freeman",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12456.jpg",
+            "language": "English"
+        }
+    ]
+}

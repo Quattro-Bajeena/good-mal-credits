@@ -1,0 +1,50 @@
+{
+    "mal_id": 6933,
+    "url": "https://myanimelist.net/character/6933/Chiharu_Reicha",
+    "name": "Chiharu Reicha",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/44805.jpg",
+    "animeography": [
+        {
+            "mal_id": 105,
+            "name": "Boys Be...",
+            "url": "https://myanimelist.net/anime/105/Boys_Be",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/2223.jpg?s=7f998cc0112fa8b2895b06270101844f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 152,
+            "name": "Boys Be...",
+            "url": "https://myanimelist.net/manga/152/Boys_Be",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/183366.jpg?s=1db9fe316d390b38c220c8afc902661b",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 664,
+            "name": "Potter, Kirsten",
+            "url": "https://myanimelist.net/people/664/Kirsten_Potter",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41604.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1184,
+            "name": "Lenghi, Laura",
+            "url": "https://myanimelist.net/people/1184/Laura_Lenghi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/21273.jpg",
+            "language": "Italian"
+        }
+    ]
+}

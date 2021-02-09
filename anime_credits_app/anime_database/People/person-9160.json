@@ -6,7 +6,7 @@
     "given_name": "ルードウィグ",
     "family_name": "ヴァン・ベートーヴェン",
     "birthday": "1770-12-16T00:00:00+00:00",
-    "member_favorites": 791,
+    "member_favorites": 802,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -405,5 +405,6 @@
                 "name": "Zetsuen no Tempest"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -1,0 +1,38 @@
+{
+    "mal_id": 104987,
+    "url": "https://myanimelist.net/character/104987/Hajime_Iwasaki",
+    "name": "Hajime Iwasaki",
+    "name_kanji": null,
+    "nicknames": [
+        "Chibi"
+    ],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/242991.jpg",
+    "animeography": [
+        {
+            "mal_id": 17835,
+            "name": "Seito Shokun! Kokoro ni Midori no Neckerchief wo",
+            "url": "https://myanimelist.net/anime/17835/Seito_Shokun_Kokoro_ni_Midori_no_Neckerchief_wo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/47527.jpg?s=0fdb55db3c2a7dde907989dc78d9a677",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 5909,
+            "name": "Seito Shokun!",
+            "url": "https://myanimelist.net/manga/5909/Seito_Shokun",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/118515.jpg?s=e1e4ae5576063e9c6a6919cf05b5bf4e",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

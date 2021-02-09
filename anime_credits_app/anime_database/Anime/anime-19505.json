@@ -1,0 +1,44 @@
+{
+    "mal_id": 19505,
+    "url": "https://myanimelist.net/anime/19505/Kaizoku_Ouji",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1677/100901.jpg",
+    "title": "Kaizoku Ouji",
+    "title_english": null,
+    "title_japanese": "海賊王子",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 31,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1966-05-02T00:00:00+00:00",
+        "to": "1966-11-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 1966
+            },
+            "to": {
+                "day": 28,
+                "month": 11,
+                "year": 1966
+            }
+        },
+        "string": "May 2, 1966 to Nov 28, 1966"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14790,
+    "popularity": 12937,
+    "members": 356,
+    "favorites": 0,
+    "premiered": "Spring 1966",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

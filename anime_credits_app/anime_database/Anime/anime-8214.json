@@ -1,0 +1,44 @@
+{
+    "mal_id": 8214,
+    "url": "https://myanimelist.net/anime/8214/Tekkamen_wo_Oe__dArtagnan_Monogatari_yori",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/21062.jpg",
+    "title": "Tekkamen wo Oe: \"d'Artagnan Monogatari\" yori",
+    "title_english": null,
+    "title_japanese": "鉄仮面を追えダルタニャン物語より",
+    "type": "Special",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-05-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 5,
+                "year": 1987
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 5, 1987"
+    },
+    "score": 6.11,
+    "scored_by": 200,
+    "rank": 7741,
+    "popularity": 11482,
+    "members": 637,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 36,
+            "type": "anime",
+            "name": "Gallop",
+            "url": "https://myanimelist.net/anime/producer/36/Gallop"
+        }
+    ]
+}

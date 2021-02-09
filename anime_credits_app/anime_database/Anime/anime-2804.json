@@ -1,0 +1,50 @@
+{
+    "mal_id": 2804,
+    "url": "https://myanimelist.net/anime/2804/Hana_no_Mahoutsukai_Mary_Bell",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/27032.jpg",
+    "title": "Hana no Mahoutsukai Mary Bell",
+    "title_english": null,
+    "title_japanese": "花の魔法使いマリーベル",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 50,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-02-03T00:00:00+00:00",
+        "to": "1993-01-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 2,
+                "year": 1992
+            },
+            "to": {
+                "day": 18,
+                "month": 1,
+                "year": 1993
+            }
+        },
+        "string": "Feb 3, 1992 to Jan 18, 1993"
+    },
+    "score": 6.5,
+    "scored_by": 465,
+    "rank": 5882,
+    "popularity": 8761,
+    "members": 2025,
+    "favorites": 8,
+    "premiered": "Winter 1992",
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        },
+        {
+            "mal_id": 406,
+            "type": "anime",
+            "name": "Asahi Production",
+            "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+        }
+    ]
+}

@@ -587,7 +587,7 @@
             }
         },
         {
-            "position": "ADR Director",
+            "position": "Producer",
             "anime": {
                 "mal_id": 564,
                 "url": "https://myanimelist.net/anime/564/Puni_Puni☆Poemii",
@@ -596,7 +596,7 @@
             }
         },
         {
-            "position": "Producer",
+            "position": "ADR Director",
             "anime": {
                 "mal_id": 564,
                 "url": "https://myanimelist.net/anime/564/Puni_Puni☆Poemii",
@@ -686,7 +686,7 @@
             }
         },
         {
-            "position": "ADR Director",
+            "position": "Producer",
             "anime": {
                 "mal_id": 536,
                 "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
@@ -695,7 +695,7 @@
             }
         },
         {
-            "position": "Producer",
+            "position": "ADR Director",
             "anime": {
                 "mal_id": 536,
                 "url": "https://myanimelist.net/anime/536/Slayers__The_Motion_Picture",
@@ -739,5 +739,6 @@
                 "name": "Yamato Nadeshiko Shichihenge♥"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

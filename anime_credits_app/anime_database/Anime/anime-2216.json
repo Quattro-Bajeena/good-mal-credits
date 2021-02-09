@@ -1,0 +1,44 @@
+{
+    "mal_id": 2216,
+    "url": "https://myanimelist.net/anime/2216/Shigurui",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/10282.jpg",
+    "title": "Shigurui",
+    "title_english": "Shigurui: Death Frenzy",
+    "title_japanese": "シグルイ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-07-19T00:00:00+00:00",
+        "to": "2007-10-11T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 7,
+                "year": 2007
+            },
+            "to": {
+                "day": 11,
+                "month": 10,
+                "year": 2007
+            }
+        },
+        "string": "Jul 19, 2007 to Oct 11, 2007"
+    },
+    "score": 7.41,
+    "scored_by": 28512,
+    "rank": 1865,
+    "popularity": 1468,
+    "members": 93661,
+    "favorites": 755,
+    "premiered": "Summer 2007",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "mal_id": 6239,
+    "url": "https://myanimelist.net/character/6239/Suguru_Teshigawara",
+    "name": "Suguru Teshigawara",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/15493.jpg",
+    "animeography": [
+        {
+            "mal_id": 245,
+            "name": "Great Teacher Onizuka",
+            "url": "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/11460.jpg?s=a3d16266e72e9a2451843f34f3e3afd0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 336,
+            "name": "GTO",
+            "url": "https://myanimelist.net/manga/336/GTO",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/172982.jpg?s=900651a3462338900a2dcd32ca3fb15d",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1098,
+            "name": "Manfredi, Massimiliano",
+            "url": "https://myanimelist.net/people/1098/Massimiliano_Manfredi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/1143.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1547,
+            "name": "Erholtz, Doug",
+            "url": "https://myanimelist.net/people/1547/Doug_Erholtz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40024.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14933,
+            "name": "Jeong, Myeong Jun",
+            "url": "https://myanimelist.net/people/14933/Myeong_Jun_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15677.jpg",
+            "language": "Korean"
+        }
+    ]
+}

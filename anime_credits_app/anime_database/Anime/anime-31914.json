@@ -1,0 +1,50 @@
+{
+    "mal_id": 31914,
+    "url": "https://myanimelist.net/anime/31914/Shoujo-tachi_wa_Kouya_wo_Mezasu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/77837.jpg",
+    "title": "Shoujo-tachi wa Kouya wo Mezasu",
+    "title_english": "Girls Beyond the Wasteland",
+    "title_japanese": "少女たちは荒野を目指す",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-01-07T00:00:00+00:00",
+        "to": "2016-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2016
+            }
+        },
+        "string": "Jan 7, 2016 to Mar 24, 2016"
+    },
+    "score": 6.33,
+    "scored_by": 36113,
+    "rank": 6708,
+    "popularity": 1411,
+    "members": 97517,
+    "favorites": 132,
+    "premiered": "Winter 2016",
+    "studios": [
+        {
+            "mal_id": 271,
+            "type": "anime",
+            "name": "Barnum Studio",
+            "url": "https://myanimelist.net/anime/producer/271/Barnum_Studio"
+        },
+        {
+            "mal_id": 439,
+            "type": "anime",
+            "name": "Project No.9",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+    ]
+}

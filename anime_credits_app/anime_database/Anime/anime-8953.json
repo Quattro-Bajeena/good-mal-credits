@@ -1,0 +1,37 @@
+{
+    "mal_id": 8953,
+    "url": "https://myanimelist.net/anime/8953/Nine",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/24810.jpg",
+    "title": "Nine",
+    "title_english": null,
+    "title_japanese": "ナイン",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1983-05-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 5,
+                "year": 1983
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 4, 1983"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11116,
+    "popularity": 11674,
+    "members": 593,
+    "favorites": 3,
+    "premiered": null,
+    "studios": []
+}

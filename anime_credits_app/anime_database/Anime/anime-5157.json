@@ -1,0 +1,44 @@
+{
+    "mal_id": 5157,
+    "url": "https://myanimelist.net/anime/5157/Alexander_Senki_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1831/95687.jpg",
+    "title": "Alexander Senki Movie",
+    "title_english": "Reign: The Conqueror Movie",
+    "title_japanese": "アレクサンダー戦記 劇場版",
+    "type": "Movie",
+    "source": "Novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-10-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 2000
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 7, 2000"
+    },
+    "score": 5.94,
+    "scored_by": 458,
+    "rank": 8399,
+    "popularity": 8829,
+    "members": 1978,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

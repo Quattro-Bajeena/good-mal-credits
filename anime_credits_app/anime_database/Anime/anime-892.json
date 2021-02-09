@@ -1,0 +1,44 @@
+{
+    "mal_id": 892,
+    "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg",
+    "title": "Dragon Ball Movie 3: Makafushigi Daibouken",
+    "title_english": "Dragon Ball: Mystical Adventure",
+    "title_japanese": "ドラゴンボール 摩訶不思議大冒険",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-07-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 1988
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 9, 1988"
+    },
+    "score": 6.88,
+    "scored_by": 23549,
+    "rank": 4104,
+    "popularity": 2416,
+    "members": 43671,
+    "favorites": 16,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

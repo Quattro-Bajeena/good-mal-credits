@@ -1,0 +1,44 @@
+{
+    "mal_id": 31289,
+    "url": "https://myanimelist.net/anime/31289/One_Piece__Episode_of_Sabo_-_3_Kyoudai_no_Kizuna_Kiseki_no_Saikai_to_Uketsugareru_Ishi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/75887.jpg",
+    "title": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+    "title_english": null,
+    "title_japanese": "ワンピース　エピソード オブ サボ　～３兄弟の絆　奇跡の再会と受け継がれる意志～",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-08-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 8,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 22, 2015"
+    },
+    "score": 7.73,
+    "scored_by": 15234,
+    "rank": 955,
+    "popularity": 3054,
+    "members": 28369,
+    "favorites": 30,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

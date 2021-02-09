@@ -1,0 +1,44 @@
+{
+    "mal_id": 1212,
+    "url": "https://myanimelist.net/anime/1212/Oban_Star-Racers",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/3702.jpg",
+    "title": "Oban Star-Racers",
+    "title_english": null,
+    "title_japanese": "オーバン・スターレーサーズ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-12T00:00:00+00:00",
+        "to": "2006-12-06T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 12,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 6,
+                "month": 12,
+                "year": 2006
+            }
+        },
+        "string": "Apr 12, 2006 to Dec 6, 2006"
+    },
+    "score": 7.51,
+    "scored_by": 20565,
+    "rank": 1536,
+    "popularity": 2475,
+    "members": 41889,
+    "favorites": 487,
+    "premiered": "Spring 2006",
+    "studios": [
+        {
+            "mal_id": 34,
+            "type": "anime",
+            "name": "Hal Film Maker",
+            "url": "https://myanimelist.net/anime/producer/34/Hal_Film_Maker"
+        }
+    ]
+}

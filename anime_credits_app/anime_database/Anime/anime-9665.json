@@ -1,0 +1,44 @@
+{
+    "mal_id": 9665,
+    "url": "https://myanimelist.net/anime/9665/Bucchigiri",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/62251.jpg",
+    "title": "Bucchigiri",
+    "title_english": null,
+    "title_japanese": "ぶっちぎり",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-10-27T00:00:00+00:00",
+        "to": "1991-03-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 1989
+            },
+            "to": {
+                "day": 25,
+                "month": 3,
+                "year": 1991
+            }
+        },
+        "string": "Oct 27, 1989 to Mar 25, 1991"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 13482,
+    "popularity": 12138,
+    "members": 488,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+        }
+    ]
+}

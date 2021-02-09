@@ -1,0 +1,176 @@
+{
+    "mal_id": 1252,
+    "url": "https://myanimelist.net/character/1252/Shigeru_Aoba",
+    "name": "Shigeru Aoba",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 21,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/145219.jpg",
+    "animeography": [
+        {
+            "mal_id": 30,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=1bb89f56bd9a2ad35d34fb3fb5599166",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31,
+            "name": "Neon Genesis Evangelion: Death & Rebirth",
+            "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=0107e0d7c156c0c67ad3ca2bc9f59288",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32,
+            "name": "Neon Genesis Evangelion: The End of Evangelion",
+            "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=301b12c0ca8878e4927175a479e86bcc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2759,
+            "name": "Evangelion: 1.0 You Are (Not) Alone",
+            "url": "https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg?s=74017886b9e235cc4505717312a10872",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3784,
+            "name": "Evangelion: 2.0 You Can (Not) Advance",
+            "url": "https://myanimelist.net/anime/3784/Evangelion__20_You_Can_Not_Advance",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg?s=bfae8f8f985c7b58f174c58542013092",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3785,
+            "name": "Evangelion: 3.0 You Can (Not) Redo",
+            "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg?s=ba44293fbbd95dced951c0c2d79560d0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 698,
+            "name": "Neon Genesis Evangelion",
+            "url": "https://myanimelist.net/manga/698/Neon_Genesis_Evangelion",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/145061.jpg?s=e60c27b700cc77e9bd4e3736eac279de",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 43,
+            "name": "Mignogna, Vic",
+            "url": "https://myanimelist.net/people/43/Vic_Mignogna",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29839.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 160,
+            "name": "Koyasu, Takehito",
+            "url": "https://myanimelist.net/people/160/Takehito_Koyasu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/10264.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 871,
+            "name": "Lee, Jason C.",
+            "url": "https://myanimelist.net/people/871/Jason_C_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/939.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1003,
+            "name": "Rott, Fritz",
+            "url": "https://myanimelist.net/people/1003/Fritz_Rott",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46061.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 1229,
+            "name": "Guerrieri, Vittorio",
+            "url": "https://myanimelist.net/people/1229/Vittorio_Guerrieri",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6123.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 7303,
+            "name": "Solis, Adrien",
+            "url": "https://myanimelist.net/people/7303/Adrien_Solis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33923.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 7522,
+            "name": "Parsons, Phil",
+            "url": "https://myanimelist.net/people/7522/Phil_Parsons",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39706.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7974,
+            "name": "Lima, Wellington",
+            "url": "https://myanimelist.net/people/7974/Wellington_Lima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5250.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9166,
+            "name": "Fritzsche, Rainer",
+            "url": "https://myanimelist.net/people/9166/Rainer_Fritzsche",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/6821.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 10734,
+            "name": "Joudrier, Tony",
+            "url": "https://myanimelist.net/people/10734/Tony_Joudrier",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 18881,
+            "name": "Albiac, Daniel",
+            "url": "https://myanimelist.net/people/18881/Daniel_Albiac",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/57457.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 26595,
+            "name": "Montalto, Jean-Marc",
+            "url": "https://myanimelist.net/people/26595/Jean-Marc_Montalto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/28713.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 43022,
+            "name": "Marzi, Davide",
+            "url": "https://myanimelist.net/people/43022/Davide_Marzi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46513.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 46014,
+            "name": "Messeguer, Alex",
+            "url": "https://myanimelist.net/people/46014/Alex_Messeguer",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 46032,
+            "name": "Nogueras, Jordi",
+            "url": "https://myanimelist.net/people/46032/Jordi_Nogueras",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 47980,
+            "name": "Kametz, Billy",
+            "url": "https://myanimelist.net/people/47980/Billy_Kametz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55855.jpg",
+            "language": "English"
+        }
+    ]
+}

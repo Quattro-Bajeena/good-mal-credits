@@ -1,0 +1,44 @@
+{
+    "mal_id": 3808,
+    "url": "https://myanimelist.net/anime/3808/Futari_Daka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/59891.jpg",
+    "title": "Futari Daka",
+    "title_english": "Futari Daka",
+    "title_japanese": "ふたり鷹",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 36,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1984-09-20T00:00:00+00:00",
+        "to": "1985-07-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 9,
+                "year": 1984
+            },
+            "to": {
+                "day": 12,
+                "month": 7,
+                "year": 1985
+            }
+        },
+        "string": "Sep 20, 1984 to Jul 12, 1985"
+    },
+    "score": 6.01,
+    "scored_by": 113,
+    "rank": 8181,
+    "popularity": 11381,
+    "members": 665,
+    "favorites": 1,
+    "premiered": "Fall 1984",
+    "studios": [
+        {
+            "mal_id": 281,
+            "type": "anime",
+            "name": "Kokusai Eigasha",
+            "url": "https://myanimelist.net/anime/producer/281/Kokusai_Eigasha"
+        }
+    ]
+}

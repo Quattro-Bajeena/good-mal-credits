@@ -1,0 +1,49 @@
+{
+    "mal_id": 72857,
+    "url": "https://myanimelist.net/character/72857/Kyala",
+    "name": "Kyala",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/195959.jpg",
+    "animeography": [
+        {
+            "mal_id": 2178,
+            "name": "Highlander: The Search for Vengeance",
+            "url": "https://myanimelist.net/anime/2178/Highlander__The_Search_for_Vengeance",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/10219.jpg?s=f21cd02e45867c8d22645990d476082d",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 464,
+            "name": "Jaud, Janyse",
+            "url": "https://myanimelist.net/people/464/Janyse_Jaud",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40429.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 35631,
+            "name": "Korompay, Alessandra",
+            "url": "https://myanimelist.net/people/35631/Alessandra_Korompay",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37267.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 45835,
+            "name": "Decker, Katrin",
+            "url": "https://myanimelist.net/people/45835/Katrin_Decker",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        }
+    ]
+}

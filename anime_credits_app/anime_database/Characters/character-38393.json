@@ -1,0 +1,50 @@
+{
+    "mal_id": 38393,
+    "url": "https://myanimelist.net/character/38393/Shuren",
+    "name": "Shuren",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 9,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/146651.jpg",
+    "animeography": [
+        {
+            "mal_id": 269,
+            "name": "Bleach",
+            "url": "https://myanimelist.net/anime/269/Bleach",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=3245fb6e9f33ccf84da2cdf2287af93e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8247,
+            "name": "Bleach Movie 4: Jigoku-hen",
+            "url": "https://myanimelist.net/anime/8247/Bleach_Movie_4__Jigoku-hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/26792.jpg?s=a06429e3b6edfeb61343d51ab5bef98b",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 23355,
+            "name": "Bleach: The Unforgivens",
+            "url": "https://myanimelist.net/manga/23355/Bleach__The_Unforgivens",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/161558.jpg?s=570bf92bbd2b40e45581b566358d31df",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1085,
+            "name": "Diskin, Benjamin",
+            "url": "https://myanimelist.net/people/1085/Benjamin_Diskin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/6315.jpg",
+            "language": "English"
+        }
+    ]
+}

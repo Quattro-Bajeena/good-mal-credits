@@ -1,0 +1,44 @@
+{
+    "mal_id": 3430,
+    "url": "https://myanimelist.net/anime/3430/Blame_Prologue",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/5599.jpg",
+    "title": "Blame! Prologue",
+    "title_english": null,
+    "title_japanese": "BLAME! (2007)",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-09-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 9,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 7, 2007"
+    },
+    "score": 5.49,
+    "scored_by": 3596,
+    "rank": 9680,
+    "popularity": 5168,
+    "members": 8646,
+    "favorites": 5,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

@@ -469,7 +469,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Layout",
             "anime": {
                 "mal_id": 2793,
                 "url": "https://myanimelist.net/anime/2793/Hi_no_Tori_2772__Ai_no_CosmoZone",
@@ -478,7 +478,7 @@
             }
         },
         {
-            "position": "Layout",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 2793,
                 "url": "https://myanimelist.net/anime/2793/Hi_no_Tori_2772__Ai_no_CosmoZone",
@@ -847,7 +847,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Assistant Animation Director",
             "anime": {
                 "mal_id": 1546,
                 "url": "https://myanimelist.net/anime/1546/Negima",
@@ -856,7 +856,7 @@
             }
         },
         {
-            "position": "Assistant Animation Director",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1546,
                 "url": "https://myanimelist.net/anime/1546/Negima",
@@ -1207,7 +1207,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 7144,
                 "url": "https://myanimelist.net/anime/7144/Uchuu_Senkan_Yamato__Fukkatsu-hen",
@@ -1216,7 +1216,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 7144,
                 "url": "https://myanimelist.net/anime/7144/Uchuu_Senkan_Yamato__Fukkatsu-hen",
@@ -1270,7 +1270,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Principle Drawing",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -1279,7 +1279,7 @@
             }
         },
         {
-            "position": "Principle Drawing",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 3228,
                 "url": "https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei",
@@ -1287,5 +1287,6 @@
                 "name": "Zoku Sayonara Zetsubou Sensei"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

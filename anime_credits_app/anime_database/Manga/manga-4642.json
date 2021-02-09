@@ -1,0 +1,111 @@
+{
+    "mal_id": 4642,
+    "url": "https://myanimelist.net/manga/4642/Akai_Kiba",
+    "image_url": "https://cdn.myanimelist.net/images/manga/1/189628.jpg",
+    "title": "Akai Kiba",
+    "title_english": null,
+    "title_japanese": "赤い牙",
+    "type": "Doujinshi",
+    "volumes": 9,
+    "chapters": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2002-08-10T00:00:00+00:00",
+        "to": "2014-02-02T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 8,
+                "year": 2002
+            },
+            "to": {
+                "day": 2,
+                "month": 2,
+                "year": 2014
+            }
+        },
+        "string": "Aug  10, 2002 to Feb  2, 2014"
+    },
+    "score": 5.44,
+    "scored_by": 1478,
+    "rank": null,
+    "popularity": 4595,
+    "members": 2743,
+    "favorites": 4,
+    "authors": [
+        {
+            "mal_id": 1919,
+            "type": "people",
+            "name": "Furuya, Usamaru",
+            "url": "https://myanimelist.net/people/1919/Usamaru_Furuya"
+        },
+        {
+            "mal_id": 1991,
+            "type": "people",
+            "name": "Abe, Yoshitoshi",
+            "url": "https://myanimelist.net/people/1991/Yoshitoshi_Abe"
+        },
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        },
+        {
+            "mal_id": 2261,
+            "type": "people",
+            "name": "Manabe, Shohei",
+            "url": "https://myanimelist.net/people/2261/Shohei_Manabe"
+        },
+        {
+            "mal_id": 3088,
+            "type": "people",
+            "name": "Nihonbashi, Yowoko",
+            "url": "https://myanimelist.net/people/3088/Yowoko_Nihonbashi"
+        },
+        {
+            "mal_id": 4031,
+            "type": "people",
+            "name": "Ono, Natsume",
+            "url": "https://myanimelist.net/people/4031/Natsume_Ono"
+        },
+        {
+            "mal_id": 10340,
+            "type": "people",
+            "name": "Miyake, Ranjou",
+            "url": "https://myanimelist.net/people/10340/Ranjou_Miyake"
+        },
+        {
+            "mal_id": 10728,
+            "type": "people",
+            "name": "Yamazaki, Mari",
+            "url": "https://myanimelist.net/people/10728/Mari_Yamazaki"
+        },
+        {
+            "mal_id": 13649,
+            "type": "people",
+            "name": "Enomoto, Shunji",
+            "url": "https://myanimelist.net/people/13649/Shunji_Enomoto"
+        },
+        {
+            "mal_id": 16661,
+            "type": "people",
+            "name": "Suzukin, Kario",
+            "url": "https://myanimelist.net/people/16661/Kario_Suzukin"
+        },
+        {
+            "mal_id": 32143,
+            "type": "people",
+            "name": "Yasuda, Hiroyuki",
+            "url": "https://myanimelist.net/people/32143/Hiroyuki_Yasuda"
+        },
+        {
+            "mal_id": 39750,
+            "type": "people",
+            "name": "Yamada, Sansuke",
+            "url": "https://myanimelist.net/people/39750/Sansuke_Yamada"
+        }
+    ],
+    "serializations": []
+}

@@ -1,3 +1,4 @@
+
 - creator page
 - loading page bar -> callbacks from update function
 - good looks
@@ -11,6 +12,9 @@
 - draw pages layouts
 - figure out rate limiting when this will be on more than one threads on a server
 - update bar doesnt work so well fcking javascript
+- watch out, there may be character listed in person roles, but the character page wont exist, wtf. this one is taken care of but there is a chace that this may happen to other stuff, maybe proof that
+- redis set password later, security or sth
+- ADD CHARCTER TABLE TO ANIME PAGE QUICKLY you have to redwoanlod all info about anime great you moron
+- format number of members on pages
 
-# redis
-- set password later, security or sth
+

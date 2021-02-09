@@ -1,0 +1,71 @@
+{
+    "mal_id": 9144,
+    "url": "https://myanimelist.net/character/9144/Mario",
+    "name": "Mario",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 156,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/57517.jpg",
+    "animeography": [
+        {
+            "mal_id": 3886,
+            "name": "Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!",
+            "url": "https://myanimelist.net/anime/3886/Super_Mario_Brothers__Peach-hime_Kyuushutsu_Daisakusen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/10370.jpg?s=bc24bf1238bb5975c975898fcaa34559",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4389,
+            "name": "Amada Anime Series: Super Mario Brothers",
+            "url": "https://myanimelist.net/anime/4389/Amada_Anime_Series__Super_Mario_Brothers",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/8326.jpg?s=656e200bbf0373b53946d92f643580e4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 28717,
+            "name": "Luigi's Toy Adventure",
+            "url": "https://myanimelist.net/anime/28717/Luigis_Toy_Adventure",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/69333.jpg?s=4e1e826d2140596dcb5d3b7ce6529ba9",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32521,
+            "name": "Super Mario World: Mario to Yoshi no Bouken Land",
+            "url": "https://myanimelist.net/anime/32521/Super_Mario_World__Mario_to_Yoshi_no_Bouken_Land",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/78065.jpg?s=701231e25df02781ab1b2dbf278af495",
+            "role": "Main"
+        },
+        {
+            "mal_id": 35992,
+            "name": "Super Mario no Shouboutai",
+            "url": "https://myanimelist.net/anime/35992/Super_Mario_no_Shouboutai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/86980.jpg?s=e5872ea27dff1f654f93325b0a47bf0a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 6043,
+            "name": "Super Mario Adventures: Mario no Daibouken",
+            "url": "https://myanimelist.net/manga/6043/Super_Mario_Adventures__Mario_no_Daibouken",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/7744.jpg?s=155a077f3c8609e05c54708765e8a7cd",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10314,
+            "name": "Super Mario-kun",
+            "url": "https://myanimelist.net/manga/10314/Super_Mario-kun",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/13841.jpg?s=030a7861098dfc3e4ffdbf0d6c415929",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

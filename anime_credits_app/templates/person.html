@@ -41,6 +41,8 @@
             <th class="sortableColHeader">AIRED</th>
             <th class="sortableColHeader">AGE WHEN AIRED</th>
 
+            <th class="sortableColHeader">STUDIO</th>
+
         </tr>
     </thead>
 
@@ -60,6 +62,12 @@
             
             <td>{{credit.anime.aired_from | format_date}}</td>
             <td>{{ staff_age( credit.anime.aired_from, person.birthday) }}</td>
+
+            {% if len(credit.anime.studios) > 0 %}
+            <td>{{credit.anime.studios[0]}}</td>
+            {% else %}
+            <td>-</td>
+            {% endif %}
 
         </tr>
 
@@ -126,10 +134,68 @@
 </table>
 
 {% else %}
-
 <p><b>No acting roles</b></p>
-
 {% endif %}
+
+
+{% if len(person.published_manga) > 0 %}
+
+<table id="personMangaTable" class="contentTable">
+    <thead>
+        <tr>
+            <th></th>
+            <th class="sortableColHeader">TITLE</th>
+            <th class="sortableColHeader">POSITION</th>
+
+            <th class="sortableColHeader">MEMBERS</th>
+            <th class="sortableColHeader">POPULARITY</th>
+
+            <th class="sortableColHeader">SCORE</th>
+            <th class="sortableColHeader">RANK</th>
+
+            <th class="sortableColHeader">PUBLISHED FROM</th>
+            <th class="sortableColHeader">PUBLISHED TO</th>
+
+            <th class="sortableColHeader">AGE AT START</th>
+            <th class="sortableColHeader">AGE AT END</th>
+
+            <th class="sortableColHeader">SERIALIZATION</th>
+
+        </tr>
+    </thead>
+
+
+    <tbody>
+        {% for credit in person.published_manga %}
+        <tr>
+            <td class="imageCell"><img class="tableImage" src={{credit.manga.image_url}}></td>
+            <td>{{credit.manga.title}}</td>
+            <td>{{credit.position}}</td>
+
+            <td>{{credit.manga.members}}</td>
+            <td>{{credit.manga.popularity}}</td>
+
+            <td>{{credit.manga.score}}</td>
+            <td>{{credit.manga.rank}}</td>
+            
+            <td>{{credit.manga.published_from | format_date}}</td>
+            <td>{{credit.manga.published_to | format_date}}</td>
+
+            <td>{{ staff_age( credit.manga.published_from, person.birthday) }}</td>
+            <td>{{ staff_age( credit.manga.published_to, person.birthday) }}</td>
+
+            <td>{{credit.manga.serialization}}</td>
+        </tr>
+
+        {% endfor %}
+    </tbody>
+    
+</table>
+
+{% else %}
+<p><b>No published manga</b></p>
+{% endif %}
+
 
 </div>
 {% endblock %}

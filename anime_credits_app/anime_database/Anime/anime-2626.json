@@ -1,0 +1,44 @@
+{
+    "mal_id": 2626,
+    "url": "https://myanimelist.net/anime/2626/The☆Doraemons__Mushimushi_Pyonpyon_Daisakusen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/31031.jpg",
+    "title": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!",
+    "title_english": null,
+    "title_japanese": "ザ☆ドラえもんズ ムシムシぴょんぴょん大作戦！",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-03-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 3,
+                "year": 1998
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 7, 1998"
+    },
+    "score": 6.25,
+    "scored_by": 368,
+    "rank": 7113,
+    "popularity": 10500,
+    "members": 972,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 247,
+            "type": "anime",
+            "name": "Shin-Ei Animation",
+            "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+    ]
+}

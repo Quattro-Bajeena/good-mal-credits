@@ -1,0 +1,59 @@
+{
+    "mal_id": 3329,
+    "url": "https://myanimelist.net/character/3329/Canal_Vorfeed",
+    "name": "Canal Vorfeed",
+    "name_kanji": null,
+    "nicknames": [
+        "FCS Canal"
+    ],
+    "member_favorites": 40,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/118559.jpg",
+    "animeography": [
+        {
+            "mal_id": 1184,
+            "name": "Lost Universe",
+            "url": "https://myanimelist.net/anime/1184/Lost_Universe",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/20409.jpg?s=09d15a27b33c5f9dd6f36a52f36881fb",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 11280,
+            "name": "Lost Universe",
+            "url": "https://myanimelist.net/manga/11280/Lost_Universe",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/37538.jpg?s=bcb41f6096a8cae74de5774e016436ec",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11281,
+            "name": "Lost Universe Special",
+            "url": "https://myanimelist.net/manga/11281/Lost_Universe_Special",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15250.jpg?s=344c65ac439041131836ae3b23bfd1a6",
+            "role": "Main"
+        },
+        {
+            "mal_id": 89907,
+            "name": "Lost Universe",
+            "url": "https://myanimelist.net/manga/89907/Lost_Universe",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/162592.jpg?s=79d42940a47a68d90604dcc14b6afe4e",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14773,
+            "name": "Wu, Jeong Sin",
+            "url": "https://myanimelist.net/people/14773/Jeong_Sin_Wu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15321.jpg",
+            "language": "Korean"
+        }
+    ]
+}

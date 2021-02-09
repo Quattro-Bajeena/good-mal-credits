@@ -1,0 +1,44 @@
+{
+    "mal_id": 33983,
+    "url": "https://myanimelist.net/anime/33983/Onihei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/83758.jpg",
+    "title": "Onihei",
+    "title_english": "Onihei",
+    "title_japanese": "鬼平",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-01-10T00:00:00+00:00",
+        "to": "2017-04-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 1,
+                "year": 2017
+            },
+            "to": {
+                "day": 4,
+                "month": 4,
+                "year": 2017
+            }
+        },
+        "string": "Jan 10, 2017 to Apr 4, 2017"
+    },
+    "score": 7.31,
+    "scored_by": 11660,
+    "rank": 2280,
+    "popularity": 2780,
+    "members": 33730,
+    "favorites": 85,
+    "premiered": "Winter 2017",
+    "studios": [
+        {
+            "mal_id": 1529,
+            "type": "anime",
+            "name": "Studio M2",
+            "url": "https://myanimelist.net/anime/producer/1529/Studio_M2"
+        }
+    ]
+}

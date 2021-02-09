@@ -1,0 +1,44 @@
+{
+    "mal_id": 4792,
+    "url": "https://myanimelist.net/anime/4792/Pokemon__Pikachu_Tankentai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1488/97386.jpg",
+    "title": "Pokemon: Pikachu Tankentai",
+    "title_english": "Pokemon: Pikachu's Rescue Adventure",
+    "title_japanese": "ピカチュウたんけんたい",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-07-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 7,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 17, 1999"
+    },
+    "score": 6.54,
+    "scored_by": 11926,
+    "rank": 5694,
+    "popularity": 3552,
+    "members": 21034,
+    "favorites": 7,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

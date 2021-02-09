@@ -1,0 +1,52 @@
+{
+    "mal_id": 1400,
+    "url": "https://myanimelist.net/manga/1400/Abara",
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/171728.jpg",
+    "title": "Abara",
+    "title_english": "Abara",
+    "title_japanese": "アバラ",
+    "type": "Manga",
+    "volumes": 2,
+    "chapters": 13,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2005-05-19T00:00:00+00:00",
+        "to": "2006-03-18T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 5,
+                "year": 2005
+            },
+            "to": {
+                "day": 18,
+                "month": 3,
+                "year": 2006
+            }
+        },
+        "string": "May  19, 2005 to Mar  18, 2006"
+    },
+    "score": 6.76,
+    "scored_by": 7596,
+    "rank": 10111,
+    "popularity": 715,
+    "members": 15821,
+    "favorites": 172,
+    "authors": [
+        {
+            "mal_id": 2000,
+            "type": "people",
+            "name": "Nihei, Tsutomu",
+            "url": "https://myanimelist.net/people/2000/Tsutomu_Nihei"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 25,
+            "type": "manga",
+            "name": "Ultra Jump",
+            "url": "https://myanimelist.net/manga/magazine/25/Ultra_Jump"
+        }
+    ]
+}

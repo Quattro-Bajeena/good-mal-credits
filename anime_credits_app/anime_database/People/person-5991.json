@@ -6,7 +6,7 @@
     "given_name": "憲生",
     "family_name": "松本",
     "birthday": null,
-    "member_favorites": 233,
+    "member_favorites": 236,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -1027,7 +1027,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 18497,
                 "url": "https://myanimelist.net/anime/18497/Yozakura_Quartet__Hana_no_Uta",
@@ -1036,7 +1036,7 @@
             }
         },
         {
-            "position": "Episode Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 18497,
                 "url": "https://myanimelist.net/anime/18497/Yozakura_Quartet__Hana_no_Uta",
@@ -1071,5 +1071,6 @@
                 "name": "Yozakura Quartet: Hoshi no Umi"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

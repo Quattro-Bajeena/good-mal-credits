@@ -1,0 +1,44 @@
+{
+    "mal_id": 19961,
+    "url": "https://myanimelist.net/anime/19961/Heisei_Tensai_Bakabon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/60843.jpg",
+    "title": "Heisei Tensai Bakabon",
+    "title_english": null,
+    "title_japanese": "平成天才バカボン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 46,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1990-01-06T00:00:00+00:00",
+        "to": "1990-12-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 1,
+                "year": 1990
+            },
+            "to": {
+                "day": 29,
+                "month": 12,
+                "year": 1990
+            }
+        },
+        "string": "Jan 6, 1990 to Dec 29, 1990"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14310,
+    "popularity": 12017,
+    "members": 514,
+    "favorites": 1,
+    "premiered": "Winter 1990",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

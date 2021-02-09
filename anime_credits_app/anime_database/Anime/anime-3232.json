@@ -1,0 +1,44 @@
+{
+    "mal_id": 3232,
+    "url": "https://myanimelist.net/anime/3232/Bannou_Bunka_Neko-Musume_Specials",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/5124.jpg",
+    "title": "Bannou Bunka Neko-Musume Specials",
+    "title_english": null,
+    "title_japanese": "万能文化猫娘",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-08-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 1, 1999"
+    },
+    "score": 6.44,
+    "scored_by": 540,
+    "rank": 6189,
+    "popularity": 9594,
+    "members": 1465,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

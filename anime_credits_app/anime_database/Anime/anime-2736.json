@@ -1,0 +1,44 @@
+{
+    "mal_id": 2736,
+    "url": "https://myanimelist.net/anime/2736/Mojakou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/75211.jpg",
+    "title": "Mojakou",
+    "title_english": null,
+    "title_japanese": "モジャ公",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 74,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-10-03T00:00:00+00:00",
+        "to": "1997-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 10,
+                "year": 1995
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 1997
+            }
+        },
+        "string": "Oct 3, 1995 to Mar 31, 1997"
+    },
+    "score": 7.12,
+    "scored_by": 971,
+    "rank": 3127,
+    "popularity": 8865,
+    "members": 1950,
+    "favorites": 13,
+    "premiered": "Fall 1995",
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

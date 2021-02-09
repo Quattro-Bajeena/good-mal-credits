@@ -422,6 +422,21 @@
                 "name": "One Piece"
             },
             "character": {
+                "mal_id": 100009,
+                "url": "https://myanimelist.net/character/100009/Diamante",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/265761.jpg?s=645d6b72d727f783469059fd7357b7c2",
+                "name": "Diamante"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
                 "mal_id": 7453,
                 "url": "https://myanimelist.net/character/7453/Kuma_Bartholomew",
                 "image_url": "https://cdn.myanimelist.net/images/characters/2/54820.jpg?s=862e80ebdc953298f042ef65ab90ced9",
@@ -441,21 +456,6 @@
                 "url": "https://myanimelist.net/character/21535/Cricket_Montblanc",
                 "image_url": "https://cdn.myanimelist.net/images/characters/4/50397.jpg?s=263b18006267255d53944a6d75eef7f3",
                 "name": "Montblanc, Cricket"
-            }
-        },
-        {
-            "role": "Supporting",
-            "anime": {
-                "mal_id": 21,
-                "url": "https://myanimelist.net/anime/21/One_Piece",
-                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
-                "name": "One Piece"
-            },
-            "character": {
-                "mal_id": 100009,
-                "url": "https://myanimelist.net/character/100009/Diamante",
-                "image_url": "https://cdn.myanimelist.net/images/characters/16/265761.jpg?s=645d6b72d727f783469059fd7357b7c2",
-                "name": "Diamante"
             }
         },
         {
@@ -699,6 +699,21 @@
             }
         },
         {
+            "role": "Main",
+            "anime": {
+                "mal_id": 537,
+                "url": "https://myanimelist.net/anime/537/Tekken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/4615.jpg?s=d8c26b0cc494ca4ee9e6a2c636846f79",
+                "name": "Tekken"
+            },
+            "character": {
+                "mal_id": 4672,
+                "url": "https://myanimelist.net/character/4672/Wulong_Lei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/188672.jpg?s=cc5502b07f6a5bc71d6ca4fe9005ffa1",
+                "name": "Lei, Wulong"
+            }
+        },
+        {
             "role": "Supporting",
             "anime": {
                 "mal_id": 537,
@@ -726,21 +741,6 @@
                 "url": "https://myanimelist.net/character/41218/Narrator",
                 "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
                 "name": "Narrator"
-            }
-        },
-        {
-            "role": "Main",
-            "anime": {
-                "mal_id": 537,
-                "url": "https://myanimelist.net/anime/537/Tekken",
-                "image_url": "https://cdn.myanimelist.net/images/anime/6/4615.jpg?s=d8c26b0cc494ca4ee9e6a2c636846f79",
-                "name": "Tekken"
-            },
-            "character": {
-                "mal_id": 4672,
-                "url": "https://myanimelist.net/character/4672/Wulong_Lei",
-                "image_url": "https://cdn.myanimelist.net/images/characters/13/188672.jpg?s=cc5502b07f6a5bc71d6ca4fe9005ffa1",
-                "name": "Lei, Wulong"
             }
         },
         {
@@ -868,7 +868,7 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             },
             "character": {
@@ -883,7 +883,7 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             },
             "character": {
@@ -898,7 +898,7 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             },
             "character": {
@@ -1161,9 +1161,10 @@
             "anime": {
                 "mal_id": 392,
                 "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
-                "image_url": "https://cdn.myanimelist.net/images/anime/8/25152.jpg?s=af7c287b1193a1d17028cb466e99a938",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
                 "name": "Yuu☆Yuu☆Hakusho"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

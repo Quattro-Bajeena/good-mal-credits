@@ -1,0 +1,42 @@
+{
+    "mal_id": 43020,
+    "url": "https://myanimelist.net/character/43020/Utsunomiko",
+    "name": "Utsunomiko",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/117583.jpg",
+    "animeography": [
+        {
+            "mal_id": 5921,
+            "name": "Utsunomiko",
+            "url": "https://myanimelist.net/anime/5921/Utsunomiko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/12811.jpg?s=e77b0aeaf71f0b04f4b377367e45e3df",
+            "role": "Main"
+        },
+        {
+            "mal_id": 5922,
+            "name": "Tenjouhen: Utsunomiko",
+            "url": "https://myanimelist.net/anime/5922/Tenjouhen__Utsunomiko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/12812.jpg?s=f4a1cf1a8cdbe92eb0ff84eaed660aaa",
+            "role": "Main"
+        },
+        {
+            "mal_id": 5923,
+            "name": "Utsunomiko: Heaven Chapter",
+            "url": "https://myanimelist.net/anime/5923/Utsunomiko__Heaven_Chapter",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/30529.jpg?s=3491a6c739662352e54de04f78087aa6",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

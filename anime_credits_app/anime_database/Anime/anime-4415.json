@@ -1,0 +1,44 @@
+{
+    "mal_id": 4415,
+    "url": "https://myanimelist.net/anime/4415/World_Destruction__Sekai_Bokumetsu_no_Rokunin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/30347.jpg",
+    "title": "World Destruction: Sekai Bokumetsu no Rokunin",
+    "title_english": "Sands of Destruction",
+    "title_japanese": "ワールド・デストラクション ～世界撲滅の六人～",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-07-08T00:00:00+00:00",
+        "to": "2008-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2008
+            }
+        },
+        "string": "Jul 8, 2008 to Sep 30, 2008"
+    },
+    "score": 6.98,
+    "scored_by": 20996,
+    "rank": 3729,
+    "popularity": 2339,
+    "members": 46725,
+    "favorites": 115,
+    "premiered": "Summer 2008",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        }
+    ]
+}

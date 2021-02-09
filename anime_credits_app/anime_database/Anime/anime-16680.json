@@ -1,0 +1,44 @@
+{
+    "mal_id": 16680,
+    "url": "https://myanimelist.net/anime/16680/Pokemon_Movie_16__Shinsoku_no_Genosect_-_Mewtwo_Kakusei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/47615.jpg",
+    "title": "Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei",
+    "title_english": "Pokemon the Movie: Genesect and the Legend Awakened",
+    "title_japanese": "劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
+    "type": "Movie",
+    "source": "Game",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 13, 2013"
+    },
+    "score": 6.35,
+    "scored_by": 17914,
+    "rank": 6617,
+    "popularity": 2918,
+    "members": 30735,
+    "favorites": 42,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "OLM",
+            "url": "https://myanimelist.net/anime/producer/28/OLM"
+        }
+    ]
+}

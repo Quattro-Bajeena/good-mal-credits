@@ -1,0 +1,65 @@
+{
+    "mal_id": 41888,
+    "url": "https://myanimelist.net/character/41888/Blind_Boy",
+    "name": "Blind Boy",
+    "name_kanji": null,
+    "nicknames": [
+        "Tommy"
+    ],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/127715.jpg",
+    "animeography": [
+        {
+            "mal_id": 813,
+            "name": "Dragon Ball Z",
+            "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=ea5b28e879ab9f9502487e014a997c57",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 22777,
+            "name": "Dragon Ball Kai (2014)",
+            "url": "https://myanimelist.net/anime/22777/Dragon_Ball_Kai_2014",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/59275.jpg?s=9ef146bafcd67bed7bb85fc924ec7a91",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 57,
+            "name": "Kuwashima, Houko",
+            "url": "https://myanimelist.net/people/57/Houko_Kuwashima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/42555.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 535,
+            "name": "McCoy, Meredith",
+            "url": "https://myanimelist.net/people/535/Meredith_McCoy",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/23499.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5133,
+            "name": "Keplermaier, Thiago",
+            "url": "https://myanimelist.net/people/5133/Thiago_Keplermaier",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/58909.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 47194,
+            "name": "Volpato, Pedro",
+            "url": "https://myanimelist.net/people/47194/Pedro_Volpato",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 6231,
+    "url": "https://myanimelist.net/anime/6231/Detective_Conan_Magic_File_3__Shinichi_and_Ran_-_Memories_of_Mahjong_Tiles_and_Tanabata",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/37977.jpg",
+    "title": "Detective Conan Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata",
+    "title_english": null,
+    "title_japanese": "名探偵コナン Magic File 3 新一と蘭 麻雀牌と七夕の思い出",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-04-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 18, 2009"
+    },
+    "score": 7.45,
+    "scored_by": 4797,
+    "rank": 1744,
+    "popularity": 4807,
+    "members": 10467,
+    "favorites": 26,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

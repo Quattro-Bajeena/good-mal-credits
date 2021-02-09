@@ -1,0 +1,44 @@
+{
+    "mal_id": 868,
+    "url": "https://myanimelist.net/anime/868/Slayers_Great",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/13097.jpg",
+    "title": "Slayers Great",
+    "title_english": "Slayers Movie 3",
+    "title_japanese": "スレーヤーズぐれえと",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1997-08-02T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 8,
+                "year": 1997
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 2, 1997"
+    },
+    "score": 7.34,
+    "scored_by": 8524,
+    "rank": 2179,
+    "popularity": 3929,
+    "members": 16909,
+    "favorites": 11,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

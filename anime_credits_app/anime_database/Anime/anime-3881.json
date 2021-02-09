@@ -1,0 +1,44 @@
+{
+    "mal_id": 3881,
+    "url": "https://myanimelist.net/anime/3881/Majokko_Tickle",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/6935.jpg",
+    "title": "Majokko Tickle",
+    "title_english": null,
+    "title_japanese": "魔女っ子チックル",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 45,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1978-03-06T00:00:00+00:00",
+        "to": "1979-01-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 3,
+                "year": 1978
+            },
+            "to": {
+                "day": 29,
+                "month": 1,
+                "year": 1979
+            }
+        },
+        "string": "Mar 6, 1978 to Jan 29, 1979"
+    },
+    "score": 6.12,
+    "scored_by": 200,
+    "rank": 7711,
+    "popularity": 10505,
+    "members": 971,
+    "favorites": 3,
+    "premiered": "Spring 1978",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

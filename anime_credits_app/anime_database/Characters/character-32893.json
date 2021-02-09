@@ -1,0 +1,127 @@
+{
+    "mal_id": 32893,
+    "url": "https://myanimelist.net/character/32893/Sabo",
+    "name": "Sabo",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1385,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/131855.jpg",
+    "animeography": [
+        {
+            "mal_id": 21,
+            "name": "One Piece",
+            "url": "https://myanimelist.net/anime/21/One_Piece",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=f3fe2e381fd21074b2bcee020c0fc4bf",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31289,
+            "name": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+            "url": "https://myanimelist.net/anime/31289/One_Piece__Episode_of_Sabo_-_3_Kyoudai_no_Kizuna_Kiseki_no_Saikai_to_Uketsugareru_Ishi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/75887.jpg?s=c4cbb713a41e525262d9fb0d0b68a593",
+            "role": "Main"
+        },
+        {
+            "mal_id": 31490,
+            "name": "One Piece Film: Gold",
+            "url": "https://myanimelist.net/anime/31490/One_Piece_Film__Gold",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/81081.jpg?s=6067df95600bd0b55435f4d6a5f4655d",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 38234,
+            "name": "One Piece Movie 14: Stampede",
+            "url": "https://myanimelist.net/anime/38234/One_Piece_Movie_14__Stampede",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1221/100550.jpg?s=a95c4b701ca435ff4023a1e76b3be7f2",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 13,
+            "name": "One Piece",
+            "url": "https://myanimelist.net/manga/13/One_Piece",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/55539.jpg?s=1a567bf94a06971dafd06df0a47b6f2b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 86972,
+            "name": "One Piece Party",
+            "url": "https://myanimelist.net/manga/86972/One_Piece_Party",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/165199.jpg?s=cae96f5484312700adcae9c73ee5ca4c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 10,
+            "name": "Bosch, Johnny Yong",
+            "url": "https://myanimelist.net/people/10/Johnny_Yong_Bosch",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49718.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 15,
+            "name": "Takeuchi, Junko",
+            "url": "https://myanimelist.net/people/15/Junko_Takeuchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54677.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 43,
+            "name": "Mignogna, Vic",
+            "url": "https://myanimelist.net/people/43/Vic_Mignogna",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29839.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7303,
+            "name": "Solis, Adrien",
+            "url": "https://myanimelist.net/people/7303/Adrien_Solis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33923.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 18057,
+            "name": "Garrett, Morgan",
+            "url": "https://myanimelist.net/people/18057/Morgan_Garrett",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/20793.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20082,
+            "name": "Andreozzi, Ruggero",
+            "url": "https://myanimelist.net/people/20082/Ruggero_Andreozzi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32519.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 42459,
+            "name": "Mayer, Felix",
+            "url": "https://myanimelist.net/people/42459/Felix_Mayer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/45933.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 42636,
+            "name": "Calatroni, Jacopo",
+            "url": "https://myanimelist.net/people/42636/Jacopo_Calatroni",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/45998.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 46032,
+            "name": "Nogueras, Jordi",
+            "url": "https://myanimelist.net/people/46032/Jordi_Nogueras",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        }
+    ]
+}

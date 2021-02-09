@@ -1,0 +1,42 @@
+{
+    "mal_id": 121005,
+    "url": "https://myanimelist.net/character/121005/Alonzo_Percy",
+    "name": "Alonzo Percy",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/276443.jpg",
+    "animeography": [
+        {
+            "mal_id": 13391,
+            "name": "Rakuen Tsuihou",
+            "url": "https://myanimelist.net/anime/13391/Rakuen_Tsuihou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/87919.jpg?s=de157dbf803ebb36a671a91db0c30dbc",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1547,
+            "name": "Erholtz, Doug",
+            "url": "https://myanimelist.net/people/1547/Doug_Erholtz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40024.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 23753,
+            "name": "Böttcher, Oliver",
+            "url": "https://myanimelist.net/people/23753/Oliver_Böttcher",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39190.jpg",
+            "language": "German"
+        }
+    ]
+}

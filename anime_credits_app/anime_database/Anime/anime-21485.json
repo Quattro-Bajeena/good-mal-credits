@@ -1,0 +1,44 @@
+{
+    "mal_id": 21485,
+    "url": "https://myanimelist.net/anime/21485/Dokkan_Robotendon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/56687.jpg",
+    "title": "Dokkan! Robotendon",
+    "title_english": null,
+    "title_japanese": "ドッカン! ロボ天どん",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-10-05T00:00:00+00:00",
+        "to": "1996-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1995
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 1996
+            }
+        },
+        "string": "Oct 5, 1995 to Mar 28, 1996"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 13795,
+    "popularity": 15076,
+    "members": 187,
+    "favorites": 0,
+    "premiered": "Fall 1995",
+    "studios": [
+        {
+            "mal_id": 103,
+            "type": "anime",
+            "name": "Tatsunoko Production",
+            "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+    ]
+}

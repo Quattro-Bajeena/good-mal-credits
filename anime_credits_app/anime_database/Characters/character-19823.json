@@ -1,0 +1,36 @@
+{
+    "mal_id": 19823,
+    "url": "https://myanimelist.net/character/19823/Eri_Kasuga",
+    "name": "Eri Kasuga",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/356424.jpg",
+    "animeography": [
+        {
+            "mal_id": 5908,
+            "name": "Chinpui",
+            "url": "https://myanimelist.net/anime/5908/Chinpui",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/74871.jpg?s=0e033083009f6bf64c92352770dc9dfb",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 42177,
+            "name": "Chinpui",
+            "url": "https://myanimelist.net/manga/42177/Chinpui",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/73743.jpg?s=9b8a35f85c8d986a05fb725e5bfde5fa",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

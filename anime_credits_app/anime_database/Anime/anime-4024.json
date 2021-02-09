@@ -1,0 +1,37 @@
+{
+    "mal_id": 4024,
+    "url": "https://myanimelist.net/anime/4024/Sanrio_Anime_Sekai_Meisaku_Gekijou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1518/95864.jpg",
+    "title": "Sanrio Anime Sekai Meisaku Gekijou",
+    "title_english": "Hello Kitty's Furry Tale Theater",
+    "title_japanese": "サンリオ・アニメ世界名作劇場",
+    "type": "TV",
+    "source": "Unknown",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1987-09-19T00:00:00+00:00",
+        "to": "1987-12-12T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 19,
+                "month": 9,
+                "year": 1987
+            },
+            "to": {
+                "day": 12,
+                "month": 12,
+                "year": 1987
+            }
+        },
+        "string": "Sep 19, 1987 to Dec 12, 1987"
+    },
+    "score": 6.07,
+    "scored_by": 396,
+    "rank": 7910,
+    "popularity": 10125,
+    "members": 1144,
+    "favorites": 1,
+    "premiered": "Fall 1987",
+    "studios": []
+}

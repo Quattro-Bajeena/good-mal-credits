@@ -1,0 +1,35 @@
+{
+    "mal_id": 63239,
+    "url": "https://myanimelist.net/character/63239/Yoshiki_Natsume",
+    "name": "Yoshiki Natsume",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/167563.jpg",
+    "animeography": [
+        {
+            "mal_id": 282,
+            "name": "Angel Heart",
+            "url": "https://myanimelist.net/anime/282/Angel_Heart",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/282.jpg?s=8fad1f13f100872848d58420d6ae7461",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1616,
+            "name": "Dupac, Benoit",
+            "url": "https://myanimelist.net/people/1616/Benoit_Dupac",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32079.jpg",
+            "language": "French"
+        }
+    ]
+}

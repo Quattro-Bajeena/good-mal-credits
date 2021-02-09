@@ -1,0 +1,409 @@
+{
+    "mal_id": 7312,
+    "url": "https://myanimelist.net/character/7312/Kitty_White",
+    "name": "Kitty White",
+    "name_kanji": null,
+    "nicknames": [
+        "Hello Kitty"
+    ],
+    "member_favorites": 82,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/130129.jpg",
+    "animeography": [
+        {
+            "mal_id": 3202,
+            "name": "Daisuki! Hello Kitty",
+            "url": "https://myanimelist.net/anime/3202/Daisuki_Hello_Kitty",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/5042.jpg?s=61e2f2ee28876878fe22c0d6441347da",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4023,
+            "name": "Kitty's Paradise",
+            "url": "https://myanimelist.net/anime/4023/Kittys_Paradise",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/29203.jpg?s=d3eeade3e29c967170c4b78f02941212",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4024,
+            "name": "Sanrio Anime Sekai Meisaku Gekijou",
+            "url": "https://myanimelist.net/anime/4024/Sanrio_Anime_Sekai_Meisaku_Gekijou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1518/95864.jpg?s=3189da05303f0e1b2f1aee1eb4dbd78f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4025,
+            "name": "Asobou! Hello Kitty",
+            "url": "https://myanimelist.net/anime/4025/Asobou_Hello_Kitty",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/29204.jpg?s=3f840f13f017d5fa2888972607054273",
+            "role": "Main"
+        },
+        {
+            "mal_id": 9291,
+            "name": "Hello Kitty no Cinderella",
+            "url": "https://myanimelist.net/anime/9291/Hello_Kitty_no_Cinderella",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/72447.jpg?s=6db991065c450fea81b392da6ac2f9a4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11521,
+            "name": "Hello Kitty: Ringo no Mori no Fantasy",
+            "url": "https://myanimelist.net/anime/11521/Hello_Kitty__Ringo_no_Mori_no_Fantasy",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/32139.jpg?s=2627ce122ba8525f182fa224df0de8d9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 15577,
+            "name": "Hello Kitty no Fushigi no Kuni no Alice",
+            "url": "https://myanimelist.net/anime/15577/Hello_Kitty_no_Fushigi_no_Kuni_no_Alice",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/42339.jpg?s=4c8908f0d873e84c66a127149cd90355",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17481,
+            "name": "Hello Kitty no Oyayubi-hime (OVA)",
+            "url": "https://myanimelist.net/anime/17481/Hello_Kitty_no_Oyayubi-hime_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/46705.jpg?s=8230dab806f8776dba7af9341fd920e3",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17951,
+            "name": "Hello Kitty no Shirayuki-hime",
+            "url": "https://myanimelist.net/anime/17951/Hello_Kitty_no_Shirayuki-hime",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/47809.jpg?s=ae88f870cc2b328defe98ec9853888d7",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17953,
+            "name": "Hello Kitty no London ni Orita Uchuujin",
+            "url": "https://myanimelist.net/anime/17953/Hello_Kitty_no_London_ni_Orita_Uchuujin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/47811.jpg?s=ae3c35212f24baea974f602542b03179",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17955,
+            "name": "Hello Kitty no Nemureru Mori no Bijo",
+            "url": "https://myanimelist.net/anime/17955/Hello_Kitty_no_Nemureru_Mori_no_Bijo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/47813.jpg?s=0f370ad3e00b4e6d5e7cca425b170235",
+            "role": "Main"
+        },
+        {
+            "mal_id": 17957,
+            "name": "Hello Kitty no Papa Nante Daikirai",
+            "url": "https://myanimelist.net/anime/17957/Hello_Kitty_no_Papa_Nante_Daikirai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/47815.jpg?s=d096caee04929922b6d968d009a1f932",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18029,
+            "name": "Hello Kitty no Suteki na Kyoudai",
+            "url": "https://myanimelist.net/anime/18029/Hello_Kitty_no_Suteki_na_Kyoudai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/47925.jpg?s=73d170be41953c39b32362385e302beb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18031,
+            "name": "Hello Kitty no Happy! Kasou Taikai",
+            "url": "https://myanimelist.net/anime/18031/Hello_Kitty_no_Happy_Kasou_Taikai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/47927.jpg?s=490035ad93075935a592ded068f07c06",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18033,
+            "name": "Hello Kitty no Yuubinya-san Arigatou",
+            "url": "https://myanimelist.net/anime/18033/Hello_Kitty_no_Yuubinya-san_Arigatou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/47939.jpg?s=61d554255e8926c47dd4b2e1025e7efb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18587,
+            "name": "Hello Kitty no Alps no Shoujo Heidi II: Klara to no Deai",
+            "url": "https://myanimelist.net/anime/18587/Hello_Kitty_no_Alps_no_Shoujo_Heidi_II__Klara_to_no_Deai",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/49663.jpg?s=86bb7f472dcd5ed255e07bb8886729c9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18589,
+            "name": "Hello Kitty no Minna no Mori wo Mamore!",
+            "url": "https://myanimelist.net/anime/18589/Hello_Kitty_no_Minna_no_Mori_wo_Mamore",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/49665.jpg?s=a4050084fca69c21372709e6bdbfa57f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18823,
+            "name": "Hello Kitty no Kieta Santa-san no Okurimono",
+            "url": "https://myanimelist.net/anime/18823/Hello_Kitty_no_Kieta_Santa-san_no_Okurimono",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/50215.jpg?s=adfb22a1b00f3136639e068e0eff27a1",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18825,
+            "name": "Hello Kitty no Shiawase no Tulip",
+            "url": "https://myanimelist.net/anime/18825/Hello_Kitty_no_Shiawase_no_Tulip",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/50225.jpg?s=c0a2f676b73bc8ce85ef373633e6cf3f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18827,
+            "name": "Hello Kitty: Mahou no Mori no Ohimesama",
+            "url": "https://myanimelist.net/anime/18827/Hello_Kitty__Mahou_no_Mori_no_Ohimesama",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/50227.jpg?s=eadb7c5cd9ea60c751a3b80b94704a9a",
+            "role": "Main"
+        },
+        {
+            "mal_id": 18829,
+            "name": "Hello Kitty no Shiawase no Aoi Hotaru",
+            "url": "https://myanimelist.net/anime/18829/Hello_Kitty_no_Shiawase_no_Aoi_Hotaru",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/50229.jpg?s=8b9bb53702d6928b3f9dfd90367b7f42",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22439,
+            "name": "Hello Kitty: Ringo no Mori no Mystery",
+            "url": "https://myanimelist.net/anime/22439/Hello_Kitty__Ringo_no_Mori_no_Mystery",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/58655.jpg?s=34e766066b8fb1500fbc334bfe6e3ecd",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22441,
+            "name": "Hello Kitty: Ringo no Mori to Parallel Town",
+            "url": "https://myanimelist.net/anime/22441/Hello_Kitty__Ringo_no_Mori_to_Parallel_Town",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1030/102887.jpg?s=adf62132bd2b8ceb5d1bb794abee45b5",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22443,
+            "name": "Hello Kitty no Alps no Shoujo Heidi",
+            "url": "https://myanimelist.net/anime/22443/Hello_Kitty_no_Alps_no_Shoujo_Heidi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/58661.jpg?s=de96bedc2afbe91f7df05bcc6ffcf239",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22445,
+            "name": "Hello Kitty no Yappari Mama ga Suki",
+            "url": "https://myanimelist.net/anime/22445/Hello_Kitty_no_Yappari_Mama_ga_Suki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/58663.jpg?s=d6f078db67b656c82b389dff0038d2e8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22447,
+            "name": "Hello Kitty no Momotarou",
+            "url": "https://myanimelist.net/anime/22447/Hello_Kitty_no_Momotarou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/58665.jpg?s=e2b494e1bf0fe020628d91e5b485db93",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22449,
+            "name": "Hello Kitty no Nagagutsu wo Naita Neko",
+            "url": "https://myanimelist.net/anime/22449/Hello_Kitty_no_Nagagutsu_wo_Naita_Neko",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/58667.jpg?s=dbe30c767351b7c160ec8671dc4890cd",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22455,
+            "name": "Hello Kitty no Circus ga Yatte Kita",
+            "url": "https://myanimelist.net/anime/22455/Hello_Kitty_no_Circus_ga_Yatte_Kita",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/58775.jpg?s=6638352eef9226b7bd9ebb093f5a62cc",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22457,
+            "name": "Hello Kitty no Fushigi na Mizuumi",
+            "url": "https://myanimelist.net/anime/22457/Hello_Kitty_no_Fushigi_na_Mizuumi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/58675.jpg?s=056b3853a72047e5960ac1b68cb21aa8",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22459,
+            "name": "Hello Kitty no Shoukoujo",
+            "url": "https://myanimelist.net/anime/22459/Hello_Kitty_no_Shoukoujo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/58677.jpg?s=a6c9b8e3afa1099a0347917c34da8a0b",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22461,
+            "name": "Hello Kitty no Yume Dorobou",
+            "url": "https://myanimelist.net/anime/22461/Hello_Kitty_no_Yume_Dorobou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/58679.jpg?s=48f3eb038dd4bc4e21936901256ed5de",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22477,
+            "name": "Hello Kitty no Tomatta Big Ben",
+            "url": "https://myanimelist.net/anime/22477/Hello_Kitty_no_Tomatta_Big_Ben",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/58695.jpg?s=16a3b494b7eff198669c1fae35880ec0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22479,
+            "name": "Hello Kitty no Mahou no Ringo",
+            "url": "https://myanimelist.net/anime/22479/Hello_Kitty_no_Mahou_no_Ringo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/58697.jpg?s=324734b4369acb6fdf199a651b9e1bf0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22481,
+            "name": "Hello Kitty no Kieta Santa-san no Boushi",
+            "url": "https://myanimelist.net/anime/22481/Hello_Kitty_no_Kieta_Santa-san_no_Boushi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/58939.jpg?s=cadc751fd8fbfa1a410d1f18726765f6",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22483,
+            "name": "Hello Kitty no Sanbiki no Kobuta",
+            "url": "https://myanimelist.net/anime/22483/Hello_Kitty_no_Sanbiki_no_Kobuta",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/58701.jpg?s=0d48a88d6c9a20a077031f54ec86a14f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22485,
+            "name": "Hello Kitty no Yuki no Joou",
+            "url": "https://myanimelist.net/anime/22485/Hello_Kitty_no_Yuki_no_Joou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/58703.jpg?s=c92406081c72a31eb8afcc4e94ad761c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22487,
+            "name": "Hello Kitty no Match Uri Shoujo",
+            "url": "https://myanimelist.net/anime/22487/Hello_Kitty_no_Match_Uri_Shoujo",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/58705.jpg?s=3bf875c839448379dec8b084bf357d92",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22491,
+            "name": "Hello Kitty no Ou-sama no Mimi wa Roba no Mimi",
+            "url": "https://myanimelist.net/anime/22491/Hello_Kitty_no_Ou-sama_no_Mimi_wa_Roba_no_Mimi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/58709.jpg?s=a742efa0440c5ecae69ab936bd102069",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22495,
+            "name": "Hello Kitty no Yume no Oshiro no Ouji-sama",
+            "url": "https://myanimelist.net/anime/22495/Hello_Kitty_no_Yume_no_Oshiro_no_Ouji-sama",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/58713.jpg?s=1f42a1654079d3133ffa89f3d98dd48c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22497,
+            "name": "Hello Kitty no Kaguya-hime",
+            "url": "https://myanimelist.net/anime/22497/Hello_Kitty_no_Kaguya-hime",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1744/108568.jpg?s=d75001248db878559c90fbfc1888a0f2",
+            "role": "Main"
+        },
+        {
+            "mal_id": 22499,
+            "name": "Kitty to Mimmy no Happy Birthday",
+            "url": "https://myanimelist.net/anime/22499/Kitty_to_Mimmy_no_Happy_Birthday",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/58717.jpg?s=a53bb818b189c60ed9d63be6c5c6d5f0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 25871,
+            "name": "Hello Kitty to Issho",
+            "url": "https://myanimelist.net/anime/25871/Hello_Kitty_to_Issho",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/66721.jpg?s=aee4b510a1230ce2f17e0f458da1d9f0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 30064,
+            "name": "Hello Kitty to Miyou: Aesop Monogatari",
+            "url": "https://myanimelist.net/anime/30064/Hello_Kitty_to_Miyou__Aesop_Monogatari",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/72034.jpg?s=e15c2f6a70353e05e77a0dee25a22b32",
+            "role": "Main"
+        },
+        {
+            "mal_id": 30263,
+            "name": "Hello Kitty no Shirayuki-hime (2001)",
+            "url": "https://myanimelist.net/anime/30263/Hello_Kitty_no_Shirayuki-hime_2001",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/72397.jpg?s=9766ce89ad2c89660e48c787010850c4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 30264,
+            "name": "Hello Kitty no Cinderella (OVA)",
+            "url": "https://myanimelist.net/anime/30264/Hello_Kitty_no_Cinderella_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/72398.jpg?s=e9e21eeafcc562928d579b60a2b18917",
+            "role": "Main"
+        },
+        {
+            "mal_id": 33915,
+            "name": "Kitty-chan wo Sagase! Toyama-shi Stamp Rally",
+            "url": "https://myanimelist.net/anime/33915/Kitty-chan_wo_Sagase_Toyama-shi_Stamp_Rally",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/81611.jpg?s=00068c6029b41ee55c40c26df4aa0d60",
+            "role": "Main"
+        },
+        {
+            "mal_id": 34628,
+            "name": "Taka no Tsume x Hello Kitty ga Masaka no Collab!",
+            "url": "https://myanimelist.net/anime/34628/Taka_no_Tsume_x_Hello_Kitty_ga_Masaka_no_Collab",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/83543.jpg?s=e3d1337b508dc9e1bc6869ecd91b5877",
+            "role": "Main"
+        },
+        {
+            "mal_id": 39674,
+            "name": "Gundam vs Hello Kitty",
+            "url": "https://myanimelist.net/anime/39674/Gundam_vs_Hello_Kitty",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1466/100431.jpg?s=439a56e1991c169691a0d38300f90760",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 15829,
+            "name": "Hello Kitty Peace!!",
+            "url": "https://myanimelist.net/manga/15829/Hello_Kitty_Peace",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/23069.jpg?s=b7d8948dd268789ddf77fc507d4a1433",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 159,
+            "name": "Rial, Monica",
+            "url": "https://myanimelist.net/people/159/Monica_Rial",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37923.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 765,
+            "name": "Musy, Stella",
+            "url": "https://myanimelist.net/people/765/Stella_Musy",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/813.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Clerici, Serena",
+            "url": "https://myanimelist.net/people/1233/Serena_Clerici",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37175.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1392,
+            "name": "Bernstein, Karen",
+            "url": "https://myanimelist.net/people/1392/Karen_Bernstein",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/24113.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1846,
+            "name": "Hernández, Cristina",
+            "url": "https://myanimelist.net/people/1846/Cristina_Hernández",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/22015.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 7887,
+            "name": "Ramos, Victoria",
+            "url": "https://myanimelist.net/people/7887/Victoria_Ramos",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53277.jpg",
+            "language": "Spanish"
+        }
+    ]
+}

@@ -702,5 +702,16 @@
                 "name": "Youjuu Toshi"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 1016,
+                "url": "https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/31140.jpg?s=89ebbaae103dfe7cd9840e82c5d8bb48",
+                "name": "Darker than Black: Kuro no Keiyakusha"
+            }
+        }
     ]
 }

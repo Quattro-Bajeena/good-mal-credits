@@ -1,0 +1,44 @@
+{
+    "mal_id": 781,
+    "url": "https://myanimelist.net/anime/781/Detective_Conan_Movie_03__The_Last_Wizard_of_the_Century",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg",
+    "title": "Detective Conan Movie 03: The Last Wizard of the Century",
+    "title_english": "Case Closed Movie 3: The Last Wizard of the Century",
+    "title_japanese": "名探偵コナン 世紀末の魔術師",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-04-17T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 17,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 17, 1999"
+    },
+    "score": 8.05,
+    "scored_by": 30478,
+    "rank": 480,
+    "popularity": 2239,
+    "members": 50252,
+    "favorites": 71,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

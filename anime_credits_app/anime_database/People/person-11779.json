@@ -6,7 +6,7 @@
     "given_name": null,
     "family_name": null,
     "birthday": null,
-    "member_favorites": 32,
+    "member_favorites": 33,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -27,5 +27,6 @@
                 "name": "Neon Genesis Evangelion"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

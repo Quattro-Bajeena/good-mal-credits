@@ -1,0 +1,70 @@
+{
+    "mal_id": 1020,
+    "url": "https://myanimelist.net/character/1020/Leila",
+    "name": "Leila",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 30,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/56616.jpg",
+    "animeography": [
+        {
+            "mal_id": 543,
+            "name": "Vampire Hunter D (2000)",
+            "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg?s=81e4f2d480fb96a428bb099256994cf5",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5882,
+            "name": "Stichler, Christine",
+            "url": "https://myanimelist.net/people/5882/Christine_Stichler",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47095.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 7326,
+            "name": "Trifol, Nuria",
+            "url": "https://myanimelist.net/people/7326/Nuria_Trifol",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4272.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 7821,
+            "name": "Solecki, Janka",
+            "url": "https://myanimelist.net/people/7821/Janka_Solecki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5073.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 43066,
+            "name": "Nicosia, Loredana",
+            "url": "https://myanimelist.net/people/43066/Loredana_Nicosia",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 43070,
+            "name": "Piovani, Tosawi",
+            "url": "https://myanimelist.net/people/43070/Tosawi_Piovani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46567.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 46386,
+            "name": "Adlon, Pamela",
+            "url": "https://myanimelist.net/people/46386/Pamela_Adlon",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49954.jpg",
+            "language": "English"
+        }
+    ]
+}

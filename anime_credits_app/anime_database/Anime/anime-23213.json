@@ -1,0 +1,44 @@
+{
+    "mal_id": 23213,
+    "url": "https://myanimelist.net/anime/23213/Kantoku_Fuyuki_Todoki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/60065.jpg",
+    "title": "Kantoku Fuyuki Todoki",
+    "title_english": "Insufficient Direction",
+    "title_japanese": "監督不行届",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-04T00:00:00+00:00",
+        "to": "2014-07-04T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 4,
+                "month": 7,
+                "year": 2014
+            }
+        },
+        "string": "Apr 4, 2014 to Jul 4, 2014"
+    },
+    "score": 5.94,
+    "scored_by": 2150,
+    "rank": 8399,
+    "popularity": 5989,
+    "members": 6010,
+    "favorites": 5,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 276,
+            "type": "anime",
+            "name": "DLE",
+            "url": "https://myanimelist.net/anime/producer/276/DLE"
+        }
+    ]
+}

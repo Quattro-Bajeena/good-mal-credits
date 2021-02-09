@@ -1,0 +1,50 @@
+{
+    "mal_id": 2621,
+    "url": "https://myanimelist.net/anime/2621/Natsu_e_no_Tobira",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/3592.jpg",
+    "title": "Natsu e no Tobira",
+    "title_english": null,
+    "title_japanese": "夏への扉",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1981-03-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 3,
+                "year": 1981
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 20, 1981"
+    },
+    "score": 6.08,
+    "scored_by": 1593,
+    "rank": 7892,
+    "popularity": 6701,
+    "members": 4568,
+    "favorites": 13,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

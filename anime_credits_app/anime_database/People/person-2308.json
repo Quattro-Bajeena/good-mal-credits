@@ -234,5 +234,25 @@
                 "name": "Sunabouzu"
             }
         }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 321,
+                "url": "https://myanimelist.net/manga/321/Gate_Keepers",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/35659.jpg?s=f17a516f81bb5e75467d9fe3bde0db54",
+                "name": "Gate Keepers"
+            }
+        },
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 57051,
+                "url": "https://myanimelist.net/manga/57051/JoJo_no_Kimyou_na_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/manga/3/161557.jpg?s=aad25ecc446216d07e52f232a209a084",
+                "name": "JoJo no Kimyou na Bouken"
+            }
+        }
     ]
 }

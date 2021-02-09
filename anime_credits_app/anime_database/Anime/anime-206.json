@@ -1,0 +1,44 @@
+{
+    "mal_id": 206,
+    "url": "https://myanimelist.net/anime/206/Lodoss-tou_Senki__Eiyuu_Kishi_Den",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1065/92495.jpg",
+    "title": "Lodoss-tou Senki: Eiyuu Kishi Den",
+    "title_english": "Record of Lodoss War: Chronicles of the Heroic Knight",
+    "title_japanese": "ロードス島戦記　英雄騎士伝",
+    "type": "TV",
+    "source": "Novel",
+    "episodes": 27,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-04-01T00:00:00+00:00",
+        "to": "1998-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 4,
+                "year": 1998
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 1998
+            }
+        },
+        "string": "Apr 1, 1998 to Sep 30, 1998"
+    },
+    "score": 7.16,
+    "scored_by": 9019,
+    "rank": 2949,
+    "popularity": 3252,
+    "members": 25216,
+    "favorites": 116,
+    "premiered": "Spring 1998",
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

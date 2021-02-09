@@ -1,0 +1,72 @@
+{
+    "mal_id": 6778,
+    "url": "https://myanimelist.net/character/6778/Aki_Kisaragi",
+    "name": "Aki Kisaragi",
+    "name_kanji": null,
+    "nicknames": [
+        "Star Summers"
+    ],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/118941.jpg",
+    "animeography": [
+        {
+            "mal_id": 1459,
+            "name": "Uchuu no Kishi Tekkaman Blade",
+            "url": "https://myanimelist.net/anime/1459/Uchuu_no_Kishi_Tekkaman_Blade",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/54793.jpg?s=c33cc4d5a190bc334cf3521541546161",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1460,
+            "name": "Uchuu no Kishi Tekkaman Blade II",
+            "url": "https://myanimelist.net/anime/1460/Uchuu_no_Kishi_Tekkaman_Blade_II",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1975/92233.jpg?s=c4471daf5174f4fd67c1a3b74ca38fba",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2300,
+            "name": "Uchuu no Kishi Tekkaman Blade OVA: Twin Blood",
+            "url": "https://myanimelist.net/anime/2300/Uchuu_no_Kishi_Tekkaman_Blade_OVA__Twin_Blood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/2574.jpg?s=19efcf2fb5c0206d7c690a4e098468ea",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 536,
+            "name": "Goodson, Barbara",
+            "url": "https://myanimelist.net/people/536/Barbara_Goodson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/7927.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 8812,
+            "name": "Jeong, Mi Sook",
+            "url": "https://myanimelist.net/people/8812/Mi_Sook_Jeong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25851.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 9773,
+            "name": "Aguirre, Rossy",
+            "url": "https://myanimelist.net/people/9773/Rossy_Aguirre",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/7568.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 20382,
+            "name": "Laurenti, Jasmine",
+            "url": "https://myanimelist.net/people/20382/Jasmine_Laurenti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/23080.jpg",
+            "language": "Italian"
+        }
+    ]
+}

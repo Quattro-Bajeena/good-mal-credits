@@ -1,0 +1,44 @@
+{
+    "mal_id": 300,
+    "url": "https://myanimelist.net/anime/300/3x3_Eyes",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/26940.jpg",
+    "title": "3x3 Eyes",
+    "title_english": "3x3 Eyes",
+    "title_japanese": "3×3EYES",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1991-07-25T00:00:00+00:00",
+        "to": "1992-03-19T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 1991
+            },
+            "to": {
+                "day": 19,
+                "month": 3,
+                "year": 1992
+            }
+        },
+        "string": "Jul 25, 1991 to Mar 19, 1992"
+    },
+    "score": 6.77,
+    "scored_by": 10334,
+    "rank": 4573,
+    "popularity": 3406,
+    "members": 22816,
+    "favorites": 104,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 37242,
+    "url": "https://myanimelist.net/anime/37242/Hoshi_to_Tsubasa_no_Paradox",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1666/95134.jpg",
+    "title": "Hoshi to Tsubasa no Paradox",
+    "title_english": "Starwing Paradox",
+    "title_japanese": "星と翼のパラドクス",
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2018-02-07T00:00:00+00:00",
+        "to": "2018-11-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 2,
+                "year": 2018
+            },
+            "to": {
+                "day": 7,
+                "month": 11,
+                "year": 2018
+            }
+        },
+        "string": "Feb 7, 2018 to Nov 7, 2018"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14483,
+    "popularity": 11991,
+    "members": 523,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

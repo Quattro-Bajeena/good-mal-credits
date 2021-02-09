@@ -1,0 +1,44 @@
+{
+    "mal_id": 869,
+    "url": "https://myanimelist.net/anime/869/Slayers_Return",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/34997.jpg",
+    "title": "Slayers Return",
+    "title_english": "Slayers Movie 2",
+    "title_japanese": "スレイヤーズRETURN",
+    "type": "Movie",
+    "source": "Light novel",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-08-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 8,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 3, 1996"
+    },
+    "score": 7.33,
+    "scored_by": 8808,
+    "rank": 2195,
+    "popularity": 3901,
+    "members": 17264,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 9883,
+    "url": "https://myanimelist.net/anime/9883/Osomatsu-kun_1988",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/80073.jpg",
+    "title": "Osomatsu-kun (1988)",
+    "title_english": "Osomatsu-kun (1988)",
+    "title_japanese": "おそ松くん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 86,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1988-02-13T00:00:00+00:00",
+        "to": "1989-12-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 2,
+                "year": 1988
+            },
+            "to": {
+                "day": 30,
+                "month": 12,
+                "year": 1989
+            }
+        },
+        "string": "Feb 13, 1988 to Dec 30, 1989"
+    },
+    "score": 6.7,
+    "scored_by": 755,
+    "rank": 4912,
+    "popularity": 6704,
+    "members": 4565,
+    "favorites": 29,
+    "premiered": "Winter 1988",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

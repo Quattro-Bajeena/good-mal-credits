@@ -1,0 +1,44 @@
+{
+    "mal_id": 1092,
+    "url": "https://myanimelist.net/anime/1092/Mobile_Suit_Gundam_III__Encounters_in_Space",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg",
+    "title": "Mobile Suit Gundam III: Encounters in Space",
+    "title_english": null,
+    "title_japanese": "機動戦士ガンダムⅢ　めぐりあい宇宙編",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1982-03-13T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 3,
+                "year": 1982
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 13, 1982"
+    },
+    "score": 7.78,
+    "scored_by": 12705,
+    "rank": 880,
+    "popularity": 3459,
+    "members": 22245,
+    "favorites": 101,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

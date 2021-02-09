@@ -1,0 +1,50 @@
+{
+    "mal_id": 563,
+    "url": "https://myanimelist.net/anime/563/DNA²",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1433/103506.jpg",
+    "title": "DNA²",
+    "title_english": "DNA²",
+    "title_japanese": "Ｄ・Ｎ・Ａ²　～何処かで失くしたあいつのアイツ～",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-10-07T00:00:00+00:00",
+        "to": "1994-12-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": 23,
+                "month": 12,
+                "year": 1994
+            }
+        },
+        "string": "Oct 7, 1994 to Dec 23, 1994"
+    },
+    "score": 6.68,
+    "scored_by": 17220,
+    "rank": 4981,
+    "popularity": 2681,
+    "members": 36020,
+    "favorites": 93,
+    "premiered": "Fall 1994",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        },
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

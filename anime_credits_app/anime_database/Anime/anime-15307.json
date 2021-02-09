@@ -1,0 +1,44 @@
+{
+    "mal_id": 15307,
+    "url": "https://myanimelist.net/anime/15307/Smile_Precure_Movie__Ehon_no_Naka_wa_Minna_Chiguhagu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/42291.jpg",
+    "title": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!",
+    "title_english": null,
+    "title_japanese": "映画 スマイルプリキュア! 絵本の中はみんなチグハグ!",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-10-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 10,
+                "year": 2012
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 27, 2012"
+    },
+    "score": 7.27,
+    "scored_by": 1860,
+    "rank": 2472,
+    "popularity": 7072,
+    "members": 3999,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

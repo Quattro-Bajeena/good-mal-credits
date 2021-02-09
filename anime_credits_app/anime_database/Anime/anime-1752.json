@@ -1,0 +1,44 @@
+{
+    "mal_id": 1752,
+    "url": "https://myanimelist.net/anime/1752/Di_Gi_Charat__Hoshi_no_Tabi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/28181.jpg",
+    "title": "Di Gi Charat: Hoshi no Tabi",
+    "title_english": "Di Gi Charat Movie: A Trip To The Planet",
+    "title_japanese": "劇場版　Di Gi Charat[デ・ジ・キャラット]　星の旅",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-12-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 12,
+                "year": 2001
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 22, 2001"
+    },
+    "score": 6.58,
+    "scored_by": 1192,
+    "rank": 5464,
+    "popularity": 7966,
+    "members": 2789,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

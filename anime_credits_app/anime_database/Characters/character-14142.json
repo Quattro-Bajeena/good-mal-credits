@@ -1,0 +1,56 @@
+{
+    "mal_id": 14142,
+    "url": "https://myanimelist.net/character/14142/Izu",
+    "name": "Izu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/292754.jpg",
+    "animeography": [
+        {
+            "mal_id": 1130,
+            "name": "Windaria",
+            "url": "https://myanimelist.net/anime/1130/Windaria",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/25497.jpg?s=992fb8a2c77f4228afcc98ac6c1f6744",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1229,
+            "name": "Guerrieri, Vittorio",
+            "url": "https://myanimelist.net/people/1229/Vittorio_Guerrieri",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6123.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 14925,
+            "name": "Son, Won Il",
+            "url": "https://myanimelist.net/people/14925/Won_Il_Son",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15625.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 28419,
+            "name": "Pappas, Constantin",
+            "url": "https://myanimelist.net/people/28419/Constantin_Pappas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/30943.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 43349,
+            "name": "De Grassi, Dario",
+            "url": "https://myanimelist.net/people/43349/Dario_De_Grassi",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

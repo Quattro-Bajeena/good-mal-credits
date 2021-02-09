@@ -1,0 +1,44 @@
+{
+    "mal_id": 1506,
+    "url": "https://myanimelist.net/anime/1506/Detective_Conan_Movie_10__Requiem_of_the_Detectives",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg",
+    "title": "Detective Conan Movie 10: Requiem of the Detectives",
+    "title_english": null,
+    "title_japanese": "名探偵コナン　探偵たちの鎮魂歌[レクイエム]",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-15T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 15, 2006"
+    },
+    "score": 8.08,
+    "scored_by": 24567,
+    "rank": 436,
+    "popularity": 2466,
+    "members": 42381,
+    "favorites": 37,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+        }
+    ]
+}

@@ -279,21 +279,6 @@
             }
         },
         {
-            "role": "Main",
-            "anime": {
-                "mal_id": 1280,
-                "url": "https://myanimelist.net/anime/1280/Mamono_Hunter_Youko",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1276/97039.jpg?s=40adb37ddab204ab21a9e483000012c6",
-                "name": "Mamono Hunter Youko"
-            },
-            "character": {
-                "mal_id": 7256,
-                "url": "https://myanimelist.net/character/7256/Youko_Mano",
-                "image_url": "https://cdn.myanimelist.net/images/characters/11/111401.jpg?s=a8d95dc8435f2860444d4a7bec1a8a4b",
-                "name": "Mano, Youko"
-            }
-        },
-        {
             "role": "Supporting",
             "anime": {
                 "mal_id": 1280,
@@ -306,6 +291,21 @@
                 "url": "https://myanimelist.net/character/19912/Ayako_Mano",
                 "image_url": "https://cdn.myanimelist.net/images/characters/12/97042.jpg?s=b4fb88db05ac855d933b65356c7ef1ce",
                 "name": "Mano, Ayako"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1280,
+                "url": "https://myanimelist.net/anime/1280/Mamono_Hunter_Youko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1276/97039.jpg?s=40adb37ddab204ab21a9e483000012c6",
+                "name": "Mamono Hunter Youko"
+            },
+            "character": {
+                "mal_id": 7256,
+                "url": "https://myanimelist.net/character/7256/Youko_Mano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/111401.jpg?s=a8d95dc8435f2860444d4a7bec1a8a4b",
+                "name": "Mano, Youko"
             }
         },
         {
@@ -670,5 +670,6 @@
                 "name": "Youseiki Suikoden"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

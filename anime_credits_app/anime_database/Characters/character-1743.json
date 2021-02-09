@@ -1,0 +1,426 @@
+{
+    "mal_id": 1743,
+    "url": "https://myanimelist.net/character/1743/Ai_Haibara",
+    "name": "Ai Haibara",
+    "name_kanji": null,
+    "nicknames": [
+        "Miyano Shiho",
+        "Sherry",
+        "Vi Graythorn",
+        "Anita Hailey"
+    ],
+    "member_favorites": 2131,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/146141.jpg",
+    "animeography": [
+        {
+            "mal_id": 235,
+            "name": "Detective Conan",
+            "url": "https://myanimelist.net/anime/235/Detective_Conan",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg?s=62494c12561e4f9032f3168a7a683950",
+            "role": "Main"
+        },
+        {
+            "mal_id": 781,
+            "name": "Detective Conan Movie 03: The Last Wizard of the Century",
+            "url": "https://myanimelist.net/anime/781/Detective_Conan_Movie_03__The_Last_Wizard_of_the_Century",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg?s=e51fb4d9a90d7875458dee2e857db975",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1363,
+            "name": "Detective Conan Movie 04: Captured in Her Eyes",
+            "url": "https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg?s=05fe5578545430e8a789895fcee69cb3",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1364,
+            "name": "Detective Conan Movie 05: Countdown to Heaven",
+            "url": "https://myanimelist.net/anime/1364/Detective_Conan_Movie_05__Countdown_to_Heaven",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1144/92654.jpg?s=00d680c75c5cf8859f37df3cf353996d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1365,
+            "name": "Detective Conan Movie 06: The Phantom of Baker Street",
+            "url": "https://myanimelist.net/anime/1365/Detective_Conan_Movie_06__The_Phantom_of_Baker_Street",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1400/94320.jpg?s=f0ade6bde42807e92f00b63ccb227ec9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1366,
+            "name": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
+            "url": "https://myanimelist.net/anime/1366/Detective_Conan_Movie_07__Crossroad_in_the_Ancient_Capital",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/20984.jpg?s=d43331b0d206501f8356ca92b3df5393",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1367,
+            "name": "Detective Conan Movie 08: Magician of the Silver Sky",
+            "url": "https://myanimelist.net/anime/1367/Detective_Conan_Movie_08__Magician_of_the_Silver_Sky",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/20982.jpg?s=0a336f4559c93c350ed31b9b8c69aaa6",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1369,
+            "name": "Detective Conan OVA 01: Conan vs. Kid vs. Yaiba",
+            "url": "https://myanimelist.net/anime/1369/Detective_Conan_OVA_01__Conan_vs_Kid_vs_Yaiba",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1518/108529.jpg?s=99aa2b9a72e4339ac61cc9512c5b157e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1505,
+            "name": "Detective Conan Movie 09: Strategy Above the Depths",
+            "url": "https://myanimelist.net/anime/1505/Detective_Conan_Movie_09__Strategy_Above_the_Depths",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/20983.jpg?s=1917a62c47265301d60519a0e2b5c8a2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1506,
+            "name": "Detective Conan Movie 10: Requiem of the Detectives",
+            "url": "https://myanimelist.net/anime/1506/Detective_Conan_Movie_10__Requiem_of_the_Detectives",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg?s=309d6f2d879594af4d958b73b00107bb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2171,
+            "name": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+            "url": "https://myanimelist.net/anime/2171/Detective_Conan_Movie_11__Jolly_Roger_in_the_Deep_Azure",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1765/94323.jpg?s=3a6a165adb25918438a18f8ea05166dc",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2512,
+            "name": "Detective Conan OVA 02: 16 Suspects",
+            "url": "https://myanimelist.net/anime/2512/Detective_Conan_OVA_02__16_Suspects",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/71317.jpg?s=080a25d6ced156f7b07fe713050a748b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2515,
+            "name": "Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation",
+            "url": "https://myanimelist.net/anime/2515/Detective_Conan_OVA_05__The_Target_is_Kogoro_The_Detective_Boys_Secret_Investigation",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/31143.jpg?s=22901ec6b3dc4b5568e7c9d3d22bb7d9",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2597,
+            "name": "Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys",
+            "url": "https://myanimelist.net/anime/2597/Detective_Conan_OVA_07__A_Challenge_from_Agasa_Agasa_vs_Conan_and_the_Detective_Boys",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/31145.jpg?s=f901c26456a90019ef5cf796527bbc15",
+            "role": "Main"
+        },
+        {
+            "mal_id": 4447,
+            "name": "Detective Conan Movie 12: Full Score of Fear",
+            "url": "https://myanimelist.net/anime/4447/Detective_Conan_Movie_12__Full_Score_of_Fear",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/22766.jpg?s=4bf33600c6dda40124eea15536343878",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5460,
+            "name": "Detective Conan Movie 13: The Raven Chaser",
+            "url": "https://myanimelist.net/anime/5460/Detective_Conan_Movie_13__The_Raven_Chaser",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/22558.jpg?s=a1cedf65c3cd1f344e4b15d2be653913",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6198,
+            "name": "Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files",
+            "url": "https://myanimelist.net/anime/6198/Detective_Conan_OVA_08__High_School_Girl_Detective_Sonoko_Suzukis_Case_Files",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/13791.jpg?s=d7b364b5cf46c79bb24aaff3f1ada7f4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 6231,
+            "name": "Detective Conan Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata",
+            "url": "https://myanimelist.net/anime/6231/Detective_Conan_Magic_File_3__Shinichi_and_Ran_-_Memories_of_Mahjong_Tiles_and_Tanabata",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/37977.jpg?s=466513415f22ca0f7a3cbc97ef5a58c7",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6438,
+            "name": "Detective Conan OVA 09: The Stranger in 10 Years...",
+            "url": "https://myanimelist.net/anime/6438/Detective_Conan_OVA_09__The_Stranger_in_10_Years",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/14746.jpg?s=c5dddff035108db3a8228010eb6eb126",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6467,
+            "name": "Detective Conan Movie 14: The Lost Ship in the Sky",
+            "url": "https://myanimelist.net/anime/6467/Detective_Conan_Movie_14__The_Lost_Ship_in_the_Sky",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/22312.jpg?s=7983b18234cdef344cc2c7e2c07e76f1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 8331,
+            "name": "Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey",
+            "url": "https://myanimelist.net/anime/8331/Detective_Conan_Magic_File_4__Osaka_Okonomiyaki_Odyssey",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/21912.jpg?s=ce68a09abfd4275ae301044ec3d8a19c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 9963,
+            "name": "Detective Conan Movie 15: Quarter of Silence",
+            "url": "https://myanimelist.net/anime/9963/Detective_Conan_Movie_15__Quarter_of_Silence",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/32035.jpg?s=f75f69abe52f1481e4cdad25714e9d44",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10531,
+            "name": "Detective Conan Magic File 5: Niigata - Tokyo Omiyage Capriccio",
+            "url": "https://myanimelist.net/anime/10531/Detective_Conan_Magic_File_5__Niigata_-_Tokyo_Omiyage_Capriccio",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/28938.jpg?s=b7c3e75b35110d2afd26210024ae261e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10703,
+            "name": "Detective Conan OVA 11: A Secret Order from London",
+            "url": "https://myanimelist.net/anime/10703/Detective_Conan_OVA_11__A_Secret_Order_from_London",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/29489.jpg?s=85cb991b7804d2418c97ec0b56ddc975",
+            "role": "Main"
+        },
+        {
+            "mal_id": 12117,
+            "name": "Detective Conan Movie 16: The Eleventh Striker",
+            "url": "https://myanimelist.net/anime/12117/Detective_Conan_Movie_16__The_Eleventh_Striker",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/37511.jpg?s=1088a2e6424908722e4ff849236700cc",
+            "role": "Main"
+        },
+        {
+            "mal_id": 13839,
+            "name": "Detective Conan OVA 12: The Miracle of Excalibur",
+            "url": "https://myanimelist.net/anime/13839/Detective_Conan_OVA_12__The_Miracle_of_Excalibur",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/59513.jpg?s=31c761d97d6aa162f1f28463986bb331",
+            "role": "Main"
+        },
+        {
+            "mal_id": 14735,
+            "name": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+            "url": "https://myanimelist.net/anime/14735/Detective_Conan_Movie_17__Private_Eye_in_the_Distant_Sea",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/47419.jpg?s=a19f96deba104be373daea92a51b0a73",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 18429,
+            "name": "Lupin III vs. Detective Conan: The Movie",
+            "url": "https://myanimelist.net/anime/18429/Lupin_III_vs_Detective_Conan__The_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/51663.jpg?s=f1642a9365170a5b573df50cdf83c8a5",
+            "role": "Main"
+        },
+        {
+            "mal_id": 21419,
+            "name": "Detective Conan Movie 18: The Sniper from Another Dimension",
+            "url": "https://myanimelist.net/anime/21419/Detective_Conan_Movie_18__The_Sniper_from_Another_Dimension",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/60289.jpg?s=b9261bb1a9d9cfb337448d3ce46f8085",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 21867,
+            "name": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+            "url": "https://myanimelist.net/anime/21867/The_Disappearance_of_Conan_Edogawa__The_Worst_Two_Days_in_History",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/67289.jpg?s=7f3e48c7c047d51a1733f3461bbb1323",
+            "role": "Main"
+        },
+        {
+            "mal_id": 24169,
+            "name": "Detective Conan: The Fugitive Kogorou Mouri",
+            "url": "https://myanimelist.net/anime/24169/Detective_Conan__The_Fugitive_Kogorou_Mouri",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/62767.jpg?s=1b238599afeebb513538adfa16a2cb5e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 25517,
+            "name": "Magic Kaito 1412",
+            "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/67807.jpg?s=982864dbca1398cd5120de4466248726",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 28479,
+            "name": "Detective Conan Movie 19: The Hellfire Sunflowers",
+            "url": "https://myanimelist.net/anime/28479/Detective_Conan_Movie_19__The_Hellfire_Sunflowers",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/73618.jpg?s=abdd92070b448e530f4d40b35c3c36f1",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 32005,
+            "name": "Detective Conan Movie 20: The Darkest Nightmare",
+            "url": "https://myanimelist.net/anime/32005/Detective_Conan_Movie_20__The_Darkest_Nightmare",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/78894.jpg?s=c5b03210d226472e16c0b36b9276fe64",
+            "role": "Main"
+        },
+        {
+            "mal_id": 34036,
+            "name": "Detective Conan: Episode One - The Great Detective Turned Small",
+            "url": "https://myanimelist.net/anime/34036/Detective_Conan__Episode_One_-_The_Great_Detective_Turned_Small",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/81968.jpg?s=fa78629b33416a7a0f5e4b2c550bd52e",
+            "role": "Main"
+        },
+        {
+            "mal_id": 34430,
+            "name": "Detective Conan Movie 21: The Crimson Love Letter",
+            "url": "https://myanimelist.net/anime/34430/Detective_Conan_Movie_21__The_Crimson_Love_Letter",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/83919.jpg?s=77a28bd63e7559ba0282c22f5d422db4",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 35798,
+            "name": "Detective Conan Movie 22: Zero The Enforcer",
+            "url": "https://myanimelist.net/anime/35798/Detective_Conan_Movie_22__Zero_The_Enforcer",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/90104.jpg?s=7b5cfc087f3bb899fdeb7057b100283a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 38770,
+            "name": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+            "url": "https://myanimelist.net/anime/38770/Detective_Conan_Movie_23__The_Fist_of_Blue_Sapphire",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1010/98309.jpg?s=56103e801b37bf33f9a302dafd88b6dc",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1061,
+            "name": "Detective Conan",
+            "url": "https://myanimelist.net/manga/1061/Detective_Conan",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/97267.jpg?s=adb73632672e8d9b9fce7a8587abfa8a",
+            "role": "Main"
+        },
+        {
+            "mal_id": 3202,
+            "name": "Detective Conan Tokubetsu-hen",
+            "url": "https://myanimelist.net/manga/3202/Detective_Conan_Tokubetsu-hen",
+            "image_url": "https://cdn.myanimelist.net/images/manga/5/78721.jpg?s=69b732f33234e0f00842bc6f7f89c079",
+            "role": "Main"
+        },
+        {
+            "mal_id": 11176,
+            "name": "Detective Conan",
+            "url": "https://myanimelist.net/manga/11176/Detective_Conan",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/15123.jpg?s=7ba1823195363a73b62e8730a6e90778",
+            "role": "Main"
+        },
+        {
+            "mal_id": 109214,
+            "name": "Meitantei Conan: Tengoku e no Countdown",
+            "url": "https://myanimelist.net/manga/109214/Meitantei_Conan__Tengoku_e_no_Countdown",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/240667.jpg?s=740e8207d105ffc35b5c825248ab8f44",
+            "role": "Main"
+        },
+        {
+            "mal_id": 109215,
+            "name": "Meitantei Conan: Meikyuu no Crossroad",
+            "url": "https://myanimelist.net/manga/109215/Meitantei_Conan__Meikyuu_no_Crossroad",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/240668.jpg?s=d7dba0a642f54c8b1581c57adee4e645",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 109216,
+            "name": "Meitantei Conan: Ijigen no Sniper",
+            "url": "https://myanimelist.net/manga/109216/Meitantei_Conan__Ijigen_no_Sniper",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/240664.jpg?s=e2ed5ef4d895fc2d7280edbdafb66a0b",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 110644,
+            "name": "Meitantei Conan: Shikkoku no Chaser",
+            "url": "https://myanimelist.net/manga/110644/Meitantei_Conan__Shikkoku_no_Chaser",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/240193.jpg?s=3739a1cfba29f5c6b0a570134e24e0e2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 110645,
+            "name": "Lupin III vs. Meitantei Conan: The Movie",
+            "url": "https://myanimelist.net/manga/110645/Lupin_III_vs_Meitantei_Conan__The_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/240400.jpg?s=8210dac6bf9a3c49c86e4deeeae104d0",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 659,
+            "name": "Palencia, Brina",
+            "url": "https://myanimelist.net/people/659/Brina_Palencia",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48137.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1291,
+            "name": "Valenti, Federica",
+            "url": "https://myanimelist.net/people/1291/Federica_Valenti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1283.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 9872,
+            "name": "Forest, Nayeli",
+            "url": "https://myanimelist.net/people/9872/Nayeli_Forest",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/38839.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 14277,
+            "name": "Sarmentera, Silvia",
+            "url": "https://myanimelist.net/people/14277/Silvia_Sarmentera",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/14631.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 14773,
+            "name": "Wu, Jeong Sin",
+            "url": "https://myanimelist.net/people/14773/Jeong_Sin_Wu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15321.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 25805,
+            "name": "Mendez, Erica",
+            "url": "https://myanimelist.net/people/25805/Erica_Mendez",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/35731.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 35831,
+            "name": "Loewig, Andrea Kathrin",
+            "url": "https://myanimelist.net/people/35831/Andrea_Kathrin_Loewig",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/37755.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43070,
+            "name": "Piovani, Tosawi",
+            "url": "https://myanimelist.net/people/43070/Tosawi_Piovani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46567.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 43700,
+            "name": "del Giudice, Michelle",
+            "url": "https://myanimelist.net/people/43700/Michelle_del_Giudice",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47367.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 46029,
+            "name": "Giner, Miry",
+            "url": "https://myanimelist.net/people/46029/Miry_Giner",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 47435,
+            "name": "Yan, Mengmeng",
+            "url": "https://myanimelist.net/people/47435/Mengmeng_Yan",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/51190.jpg",
+            "language": "Mandarin"
+        }
+    ]
+}

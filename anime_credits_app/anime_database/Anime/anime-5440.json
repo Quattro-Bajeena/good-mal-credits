@@ -1,0 +1,44 @@
+{
+    "mal_id": 5440,
+    "url": "https://myanimelist.net/anime/5440/Ougon_Yuusha_Goldran",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/11118.jpg",
+    "title": "Ougon Yuusha Goldran",
+    "title_english": "The Brave of Gold Goldran",
+    "title_japanese": "黄金勇者ゴルドラン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 48,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-02-04T00:00:00+00:00",
+        "to": "1996-01-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 2,
+                "year": 1995
+            },
+            "to": {
+                "day": 27,
+                "month": 1,
+                "year": 1996
+            }
+        },
+        "string": "Feb 4, 1995 to Jan 27, 1996"
+    },
+    "score": 6.82,
+    "scored_by": 375,
+    "rank": 4361,
+    "popularity": 8879,
+    "members": 1941,
+    "favorites": 10,
+    "premiered": "Winter 1995",
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

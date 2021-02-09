@@ -1,0 +1,37 @@
+{
+    "mal_id": 3202,
+    "url": "https://myanimelist.net/anime/3202/Daisuki_Hello_Kitty",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/5042.jpg",
+    "title": "Daisuki! Hello Kitty",
+    "title_english": null,
+    "title_japanese": "大好き！ハローキティ",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-10-05T00:00:00+00:00",
+        "to": "1994-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1993
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 1994
+            }
+        },
+        "string": "Oct 5, 1993 to Mar 29, 1994"
+    },
+    "score": 6.29,
+    "scored_by": 815,
+    "rank": 6936,
+    "popularity": 8634,
+    "members": 2129,
+    "favorites": 10,
+    "premiered": "Fall 1993",
+    "studios": []
+}

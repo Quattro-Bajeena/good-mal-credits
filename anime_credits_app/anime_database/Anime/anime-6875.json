@@ -1,0 +1,44 @@
+{
+    "mal_id": 6875,
+    "url": "https://myanimelist.net/anime/6875/Iron_Man",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/26227.jpg",
+    "title": "Iron Man",
+    "title_english": "Iron Man",
+    "title_japanese": "アイアンマン",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-10-01T00:00:00+00:00",
+        "to": "2010-12-17T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2010
+            },
+            "to": {
+                "day": 17,
+                "month": 12,
+                "year": 2010
+            }
+        },
+        "string": "Oct 1, 2010 to Dec 17, 2010"
+    },
+    "score": 6.1,
+    "scored_by": 10444,
+    "rank": 7794,
+    "popularity": 3307,
+    "members": 24328,
+    "favorites": 32,
+    "premiered": "Fall 2010",
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

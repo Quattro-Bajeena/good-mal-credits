@@ -1,0 +1,44 @@
+{
+    "mal_id": 1397,
+    "url": "https://myanimelist.net/anime/1397/Macross_7",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/22786.jpg",
+    "title": "Macross 7",
+    "title_english": null,
+    "title_japanese": "マクロス７",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 49,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-10-16T00:00:00+00:00",
+        "to": "1995-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 10,
+                "year": 1994
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 1995
+            }
+        },
+        "string": "Oct 16, 1994 to Sep 24, 1995"
+    },
+    "score": 7.13,
+    "scored_by": 9047,
+    "rank": 3096,
+    "popularity": 3296,
+    "members": 24416,
+    "favorites": 201,
+    "premiered": "Fall 1994",
+    "studios": [
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

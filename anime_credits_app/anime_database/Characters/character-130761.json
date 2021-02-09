@@ -1,0 +1,28 @@
+{
+    "mal_id": 130761,
+    "url": "https://myanimelist.net/character/130761/Jean",
+    "name": "Jean",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 3836,
+            "name": "Meiken Jolie",
+            "url": "https://myanimelist.net/anime/3836/Meiken_Jolie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/22959.jpg?s=a8cb75405902c87b131f527ec1a18b35",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

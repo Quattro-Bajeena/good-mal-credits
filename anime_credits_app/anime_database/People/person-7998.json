@@ -6,7 +6,7 @@
     "given_name": "曜",
     "family_name": "吉成",
     "birthday": "1971-05-06T00:00:00+00:00",
-    "member_favorites": 1171,
+    "member_favorites": 1181,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -793,7 +793,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 4705,
                 "url": "https://myanimelist.net/anime/4705/Tengen_Toppa_Gurren_Lagann__Parallel_Works",
@@ -802,7 +802,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 4705,
                 "url": "https://myanimelist.net/anime/4705/Tengen_Toppa_Gurren_Lagann__Parallel_Works",
@@ -925,6 +925,17 @@
                 "url": "https://myanimelist.net/anime/3295/Yatterman",
                 "image_url": "https://cdn.myanimelist.net/images/anime/9/44217.jpg?s=45802a9cdd3922cf107ac985e6ac89c3",
                 "name": "Yatterman"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Story",
+            "manga": {
+                "mal_id": 104064,
+                "url": "https://myanimelist.net/manga/104064/Little_Witch_Academia",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/196656.jpg?s=2cedbf2fc86bc4904c049f9a83c49db8",
+                "name": "Little Witch Academia"
             }
         }
     ]

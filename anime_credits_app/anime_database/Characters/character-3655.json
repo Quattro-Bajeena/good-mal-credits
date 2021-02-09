@@ -1,0 +1,85 @@
+{
+    "mal_id": 3655,
+    "url": "https://myanimelist.net/character/3655/Tony",
+    "name": "Tony",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 20,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/302355.jpg",
+    "animeography": [
+        {
+            "mal_id": 2158,
+            "name": "Terra e... (TV)",
+            "url": "https://myanimelist.net/anime/2158/Terra_e_TV",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/30979.jpg?s=3b2ba5024340589c49348a6565169a4f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2560,
+            "name": "Terra e...",
+            "url": "https://myanimelist.net/anime/2560/Terra_e",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/42523.jpg?s=cfc88b31b04f823e81433aa236499fd4",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1207,
+            "name": "Terra e...",
+            "url": "https://myanimelist.net/manga/1207/Terra_e",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/21628.jpg?s=68f394d1b8e9c0f79560ace4b63ed96a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 16,
+            "name": "Sugiyama, Noriaki",
+            "url": "https://myanimelist.net/people/16/Noriaki_Sugiyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/44267.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 413,
+            "name": "Kitamura, Eri",
+            "url": "https://myanimelist.net/people/413/Eri_Kitamura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56752.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1406,
+            "name": "Kawashima, Chiyoko",
+            "url": "https://myanimelist.net/people/1406/Chiyoko_Kawashima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/58200.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14827,
+            "name": "Seong, Wan Gyeong",
+            "url": "https://myanimelist.net/people/14827/Wan_Gyeong_Seong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18717.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 14925,
+            "name": "Son, Won Il",
+            "url": "https://myanimelist.net/people/14925/Won_Il_Son",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15625.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 16075,
+            "name": "Cordoviz, Charmaine",
+            "url": "https://myanimelist.net/people/16075/Charmaine_Cordoviz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18339.jpg",
+            "language": "English"
+        }
+    ]
+}

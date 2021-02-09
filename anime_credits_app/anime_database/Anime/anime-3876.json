@@ -1,0 +1,44 @@
+{
+    "mal_id": 3876,
+    "url": "https://myanimelist.net/anime/3876/Maeterlinck_no_Aoi_Tori__Tyltyl_Mytyl_no_Bouken_Ryokou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/55609.jpg",
+    "title": "Maeterlinck no Aoi Tori: Tyltyl Mytyl no Bouken Ryokou",
+    "title_english": null,
+    "title_japanese": "メーテルリングの青い鳥 チルチルミチルの冒険旅行",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1980-01-09T00:00:00+00:00",
+        "to": "1980-07-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 1980
+            },
+            "to": {
+                "day": 9,
+                "month": 7,
+                "year": 1980
+            }
+        },
+        "string": "Jan 9, 1980 to Jul 9, 1980"
+    },
+    "score": 6.29,
+    "scored_by": 135,
+    "rank": 6952,
+    "popularity": 11205,
+    "members": 725,
+    "favorites": 2,
+    "premiered": "Winter 1980",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

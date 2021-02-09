@@ -6,7 +6,7 @@
     "given_name": "和哉",
     "family_name": "鶴巻",
     "birthday": "1966-02-02T00:00:00+00:00",
-    "member_favorites": 726,
+    "member_favorites": 728,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -172,7 +172,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Screenplay",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -181,7 +181,7 @@
             }
         },
         {
-            "position": "Screenplay",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 3785,
                 "url": "https://myanimelist.net/anime/3785/Evangelion__30_You_Can_Not_Redo",
@@ -559,15 +559,6 @@
             }
         },
         {
-            "position": "Episode Director",
-            "anime": {
-                "mal_id": 30,
-                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
-                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
-                "name": "Neon Genesis Evangelion"
-            }
-        },
-        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 30,
@@ -577,7 +568,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Episode Director",
             "anime": {
                 "mal_id": 30,
                 "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
@@ -587,6 +578,15 @@
         },
         {
             "position": "Animation Director",
+            "anime": {
+                "mal_id": 30,
+                "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg?s=5661e506793ca2fcef19280b624b6e58",
+                "name": "Neon Genesis Evangelion"
+            }
+        },
+        {
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 30,
                 "url": "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion",
@@ -631,7 +631,7 @@
             }
         },
         {
-            "position": "Director",
+            "position": "Original Character Design",
             "anime": {
                 "mal_id": 28149,
                 "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
@@ -640,7 +640,7 @@
             }
         },
         {
-            "position": "Original Character Design",
+            "position": "Director",
             "anime": {
                 "mal_id": 28149,
                 "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
@@ -919,15 +919,6 @@
             }
         },
         {
-            "position": "Storyboard",
-            "anime": {
-                "mal_id": 5462,
-                "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
-                "image_url": "https://cdn.myanimelist.net/images/anime/4/11213.jpg?s=1946de1b9f23443e5bb34d8bdc405dfc",
-                "name": "Top wo Nerae! Kagaku Kouza"
-            }
-        },
-        {
             "position": "Key Animation",
             "anime": {
                 "mal_id": 5462,
@@ -938,6 +929,15 @@
         },
         {
             "position": "Screenplay",
+            "anime": {
+                "mal_id": 5462,
+                "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/11213.jpg?s=1946de1b9f23443e5bb34d8bdc405dfc",
+                "name": "Top wo Nerae! Kagaku Kouza"
+            }
+        },
+        {
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 5462,
                 "url": "https://myanimelist.net/anime/5462/Top_wo_Nerae_Kagaku_Kouza",
@@ -979,6 +979,26 @@
                 "url": "https://myanimelist.net/anime/599/Yuugen_Kaisha",
                 "image_url": "https://cdn.myanimelist.net/images/anime/1932/96386.jpg?s=e82980a0c6d74035bcfcfbe0ca677688",
                 "name": "Yuugen Kaisha"
+            }
+        }
+    ],
+    "published_manga": [
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 33445,
+                "url": "https://myanimelist.net/manga/33445/Comic☆Hoshi_Shinichi",
+                "image_url": "https://cdn.myanimelist.net/images/manga/2/61119.jpg?s=ac8c4d2946155cbda390cb984357c188",
+                "name": "Comic☆Hoshi Shinichi"
+            }
+        },
+        {
+            "position": "Art",
+            "manga": {
+                "mal_id": 8173,
+                "url": "https://myanimelist.net/manga/8173/FLCL",
+                "image_url": "https://cdn.myanimelist.net/images/manga/1/11144.jpg?s=50ab323a0546aac7bf090f0d07dadfeb",
+                "name": "FLCL"
             }
         }
     ]

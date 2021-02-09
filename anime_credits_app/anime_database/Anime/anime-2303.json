@@ -1,0 +1,44 @@
+{
+    "mal_id": 2303,
+    "url": "https://myanimelist.net/anime/2303/Mobile_Suit_SD_Gundam_Mk_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/55903.jpg",
+    "title": "Mobile Suit SD Gundam Mk II",
+    "title_english": null,
+    "title_japanese": "機動戦士SDガンダム Mk-II",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1989-06-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 1989
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 25, 1989"
+    },
+    "score": 6.27,
+    "scored_by": 1277,
+    "rank": 7035,
+    "popularity": 7612,
+    "members": 3237,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

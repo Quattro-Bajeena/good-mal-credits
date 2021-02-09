@@ -1,0 +1,44 @@
+{
+    "mal_id": 1006,
+    "url": "https://myanimelist.net/anime/1006/Tenchi_Muyou_in_Love",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1543/92823.jpg",
+    "title": "Tenchi Muyou! in Love",
+    "title_english": "Tenchi Muyo! In Love",
+    "title_japanese": "天地無用! in Love",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-04-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 1996
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 20, 1996"
+    },
+    "score": 7.43,
+    "scored_by": 10595,
+    "rank": 1801,
+    "popularity": 3649,
+    "members": 20001,
+    "favorites": 50,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

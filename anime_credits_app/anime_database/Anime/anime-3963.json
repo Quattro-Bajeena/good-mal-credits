@@ -1,0 +1,44 @@
+{
+    "mal_id": 3963,
+    "url": "https://myanimelist.net/anime/3963/Turn_A_Gundam_I_Movie__Earth_Light",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/7121.jpg",
+    "title": "Turn A Gundam I Movie: Earth Light",
+    "title_english": "∀ Gundam I: Earth Light",
+    "title_japanese": "劇場版∀ガンダムI 地球光",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-02-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 2,
+                "year": 2002
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 9, 2002"
+    },
+    "score": 6.51,
+    "scored_by": 1151,
+    "rank": 5835,
+    "popularity": 7100,
+    "members": 3955,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

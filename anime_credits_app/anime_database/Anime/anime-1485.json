@@ -1,0 +1,44 @@
+{
+    "mal_id": 1485,
+    "url": "https://myanimelist.net/anime/1485/Akachan_to_Boku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/49693.jpg",
+    "title": "Akachan to Boku",
+    "title_english": "Baby and Me",
+    "title_japanese": "赤ちゃんと僕",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 35,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1996-07-11T00:00:00+00:00",
+        "to": "1997-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 7,
+                "year": 1996
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 1997
+            }
+        },
+        "string": "Jul 11, 1996 to Mar 26, 1997"
+    },
+    "score": 7.86,
+    "scored_by": 6230,
+    "rank": 720,
+    "popularity": 3925,
+    "members": 16943,
+    "favorites": 126,
+    "premiered": "Summer 1996",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

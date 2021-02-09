@@ -26,16 +26,16 @@ const comparer = function(idx, asc){
 } 
 
 const arrows = {
-    "up" : "⬆",
-    "down" : "⬇"
+    "up" : "/static/icons/arrow-up.svg",
+    "down" : "/static/icons/arrow-down.svg"
 }
 
-arrow = document.createElement("span");
-arrow.classList.add("arrow") 
+arrow = document.createElement("img");
+arrow.classList.add("sortArrow");
 
 const move_arrow = function(th, asc){
     const direction = asc ? arrows['up'] : arrows['down'];
-    arrow.innerText = direction;
+    arrow.src = direction;
     th.appendChild(arrow);
 }
 
@@ -56,6 +56,28 @@ const sortTable = function (event){
 
 // do the work...
 document.querySelectorAll('.sortableColHeader').forEach(th => th.addEventListener('click', sortTable));
+
+
+const hideTable = function(event){
+
+    const table_body = event.target.closest('table').querySelector('tbody');
+
+    let arrow, display;
+    if(table_body.style.display != "none"){
+        display = "none";
+        arrow = arrows["up"];
+    }
+    else{
+        display = "table-row-group";
+        arrow = arrows["down"];
+    }
+
+    table_body.style.display = display;
+    event.target.src = arrow;
+    
+}
+
+document.querySelectorAll('.hideTableButton').forEach(button => button.addEventListener('click', hideTable));
 
 
 }

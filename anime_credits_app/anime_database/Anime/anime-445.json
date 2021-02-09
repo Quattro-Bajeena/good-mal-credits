@@ -1,0 +1,50 @@
+{
+    "mal_id": 445,
+    "url": "https://myanimelist.net/anime/445/Tales_of_Eternia_The_Animation",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/42089.jpg",
+    "title": "Tales of Eternia The Animation",
+    "title_english": "Tales of Eternia",
+    "title_japanese": "テイルズ オブ エターニア THE ANIMATION",
+    "type": "TV",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2001-01-08T00:00:00+00:00",
+        "to": "2001-03-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 1,
+                "year": 2001
+            },
+            "to": {
+                "day": 26,
+                "month": 3,
+                "year": 2001
+            }
+        },
+        "string": "Jan 8, 2001 to Mar 26, 2001"
+    },
+    "score": 6.21,
+    "scored_by": 5642,
+    "rank": 7276,
+    "popularity": 4134,
+    "members": 15101,
+    "favorites": 12,
+    "premiered": "Winter 2001",
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Xebec",
+            "url": "https://myanimelist.net/anime/producer/27/Xebec"
+        }
+    ]
+}

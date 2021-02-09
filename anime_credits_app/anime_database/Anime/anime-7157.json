@@ -1,0 +1,44 @@
+{
+    "mal_id": 7157,
+    "url": "https://myanimelist.net/anime/7157/Dr_Slump_Movie_07__Arale-chan_N-cha_Penguin_Mura_yori_Ai_wo_Komete",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/61965.jpg",
+    "title": "Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete",
+    "title_english": "Dr. Slump and Arale-chan: N-cha! From Penguin Village with Love",
+    "title_japanese": "Ｄｒ．スランプ アラレちゃん んちゃ！ペンギン村より愛をこめて",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1993-07-10T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 7,
+                "year": 1993
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 10, 1993"
+    },
+    "score": 6.17,
+    "scored_by": 358,
+    "rank": 7476,
+    "popularity": 10197,
+    "members": 1108,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

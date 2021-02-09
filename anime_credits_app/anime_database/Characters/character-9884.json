@@ -1,0 +1,42 @@
+{
+    "mal_id": 9884,
+    "url": "https://myanimelist.net/character/9884/Nanami_Simpson",
+    "name": "Nanami Simpson",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/357662.jpg",
+    "animeography": [
+        {
+            "mal_id": 3199,
+            "name": "Nanatsu no Umi no Tico",
+            "url": "https://myanimelist.net/anime/3199/Nanatsu_no_Umi_no_Tico",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/69547.jpg?s=ae95fd3cdc7bd22cde565fa6777558fd",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1846,
+            "name": "Hernández, Cristina",
+            "url": "https://myanimelist.net/people/1846/Cristina_Hernández",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/22015.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 37651,
+            "name": "Weckler, Saskia",
+            "url": "https://myanimelist.net/people/37651/Saskia_Weckler",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47059.jpg",
+            "language": "German"
+        }
+    ]
+}

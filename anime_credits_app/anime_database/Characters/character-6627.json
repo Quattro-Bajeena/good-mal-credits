@@ -1,0 +1,57 @@
+{
+    "mal_id": 6627,
+    "url": "https://myanimelist.net/character/6627/Tsubame_Otorii",
+    "name": "Tsubame Otorii",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 10,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/73757.jpg",
+    "animeography": [
+        {
+            "mal_id": 2288,
+            "name": "Akihabara Dennou-gumi",
+            "url": "https://myanimelist.net/anime/2288/Akihabara_Dennou-gumi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/83429.jpg?s=b394fca41ea1d8fb280a89e29a5ba858",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2289,
+            "name": "Akihabara Dennou-gumi: 2011-nen no Natsuyasumi",
+            "url": "https://myanimelist.net/anime/2289/Akihabara_Dennou-gumi__2011-nen_no_Natsuyasumi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1731/96495.jpg?s=9d6c583f5998c6c8efcde5ef157a028a",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 1818,
+            "name": "Akihabara Dennou-gumi Patapi!",
+            "url": "https://myanimelist.net/manga/1818/Akihabara_Dennou-gumi_Patapi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/44015.jpg?s=03426aaf7cbfd437cf2f906e621eaf2c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 151,
+            "name": "Haag, Hilary",
+            "url": "https://myanimelist.net/people/151/Hilary_Haag",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/41024.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11964,
+            "name": "Menezes, Ana Lúcia",
+            "url": "https://myanimelist.net/people/11964/Ana_Lúcia_Menezes",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/24597.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

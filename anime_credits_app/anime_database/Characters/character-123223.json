@@ -1,0 +1,28 @@
+{
+    "mal_id": 123223,
+    "url": "https://myanimelist.net/character/123223/Ken",
+    "name": "Ken",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "animeography": [
+        {
+            "mal_id": 9781,
+            "name": "Hyouga Senshi Gaislugger",
+            "url": "https://myanimelist.net/anime/9781/Hyouga_Senshi_Gaislugger",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/27078.jpg?s=baed469d220c84880a5b04b2bd4fa300",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

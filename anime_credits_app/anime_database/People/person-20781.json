@@ -46,7 +46,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 2689,
                 "url": "https://myanimelist.net/anime/2689/Akai_Koudan_Zillion__Utahime_Yakyoku",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 2689,
                 "url": "https://myanimelist.net/anime/2689/Akai_Koudan_Zillion__Utahime_Yakyoku",
@@ -109,7 +109,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1762,
                 "url": "https://myanimelist.net/anime/1762/Arslan_Senki",
@@ -118,7 +118,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1762,
                 "url": "https://myanimelist.net/anime/1762/Arslan_Senki",
@@ -217,7 +217,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Storyboard",
             "anime": {
                 "mal_id": 34636,
                 "url": "https://myanimelist.net/anime/34636/Ballroom_e_Youkoso",
@@ -226,7 +226,7 @@
             }
         },
         {
-            "position": "Storyboard",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 34636,
                 "url": "https://myanimelist.net/anime/34636/Ballroom_e_Youkoso",
@@ -982,7 +982,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1777,
                 "url": "https://myanimelist.net/anime/1777/Kaze_no_Tairiku",
@@ -991,7 +991,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1777,
                 "url": "https://myanimelist.net/anime/1777/Kaze_no_Tairiku",
@@ -1864,7 +1864,7 @@
             }
         },
         {
-            "position": "Animation Director",
+            "position": "Key Animation",
             "anime": {
                 "mal_id": 1693,
                 "url": "https://myanimelist.net/anime/1693/Reideen",
@@ -1873,7 +1873,7 @@
             }
         },
         {
-            "position": "Key Animation",
+            "position": "Animation Director",
             "anime": {
                 "mal_id": 1693,
                 "url": "https://myanimelist.net/anime/1693/Reideen",
@@ -2502,5 +2502,6 @@
                 "name": "Yuyushiki"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

@@ -1,0 +1,44 @@
+{
+    "mal_id": 142,
+    "url": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.jpg",
+    "title": "Kamikaze Kaitou Jeanne",
+    "title_english": null,
+    "title_japanese": "神風怪盗ジャンヌ",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 44,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-02-13T00:00:00+00:00",
+        "to": "2000-01-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 2,
+                "year": 1999
+            },
+            "to": {
+                "day": 29,
+                "month": 1,
+                "year": 2000
+            }
+        },
+        "string": "Feb 13, 1999 to Jan 29, 2000"
+    },
+    "score": 7.45,
+    "scored_by": 23134,
+    "rank": 1751,
+    "popularity": 2359,
+    "members": 45952,
+    "favorites": 495,
+    "premiered": "Winter 1999",
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

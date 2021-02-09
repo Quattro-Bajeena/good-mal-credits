@@ -6,7 +6,7 @@
     "given_name": "博之",
     "family_name": "山賀",
     "birthday": "1962-03-23T00:00:00+00:00",
-    "member_favorites": 37,
+    "member_favorites": 38,
     "voice_acting_roles": [],
     "anime_staff_positions": [
         {
@@ -603,5 +603,6 @@
                 "name": "Zero Seiki Movie 3: Maetel"
             }
         }
-    ]
+    ],
+    "published_manga": []
 }

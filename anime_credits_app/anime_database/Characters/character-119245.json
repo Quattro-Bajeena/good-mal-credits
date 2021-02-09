@@ -1,0 +1,66 @@
+{
+    "mal_id": 119245,
+    "url": "https://myanimelist.net/character/119245/Nonoko_Kishii",
+    "name": "Nonoko Kishii",
+    "name_kanji": null,
+    "nicknames": [
+        "Girl"
+    ],
+    "member_favorites": 31,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/318646.jpg",
+    "animeography": [
+        {
+            "mal_id": 28149,
+            "name": "Nihon Animator Mihonichi",
+            "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/71901.jpg?s=056739c3582a33f9b6d687870a777c51",
+            "role": "Main"
+        },
+        {
+            "mal_id": 34549,
+            "name": "Ryuu no Haisha",
+            "url": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/83336.jpg?s=1fab1b8c54e3aa1b81e2da9fcc0214a0",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 108906,
+            "name": "Ryuu no Haisha",
+            "url": "https://myanimelist.net/manga/108906/Ryuu_no_Haisha",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/204863.jpg?s=147eed653c8081afd1e8ee0af4daaa2c",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1284,
+            "name": "Granato, Jolanda",
+            "url": "https://myanimelist.net/people/1284/Jolanda_Granato",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1277.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 8492,
+            "name": "Huynh, Xanthe",
+            "url": "https://myanimelist.net/people/8492/Xanthe_Huynh",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53534.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 42812,
+            "name": "Shimizu, Fumika",
+            "url": "https://myanimelist.net/people/42812/Fumika_Shimizu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46638.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

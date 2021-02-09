@@ -1,0 +1,36 @@
+{
+    "mal_id": 39333,
+    "url": "https://myanimelist.net/character/39333/Taro",
+    "name": "Taro",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/142635.jpg",
+    "animeography": [
+        {
+            "mal_id": 1453,
+            "name": "Maison Ikkoku",
+            "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/17576.jpg?s=d9223c09ecbd27c8cd2eece32c7fcae7",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 688,
+            "name": "Maison Ikkoku",
+            "url": "https://myanimelist.net/manga/688/Maison_Ikkoku",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/71227.jpg?s=36ab99683bb3d1a0bd70452d174b0e7e",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

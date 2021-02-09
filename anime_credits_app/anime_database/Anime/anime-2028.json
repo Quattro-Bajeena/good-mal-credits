@@ -1,0 +1,44 @@
+{
+    "mal_id": 2028,
+    "url": "https://myanimelist.net/anime/2028/Zettai_Muteki_Raijin-Oh_1992",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1781/94499.jpg",
+    "title": "Zettai Muteki Raijin-Oh (1992)",
+    "title_english": null,
+    "title_japanese": "絶対無敵ライジンオー (1992)",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 4,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-09-30T00:00:00+00:00",
+        "to": "1993-02-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 9,
+                "year": 1992
+            },
+            "to": {
+                "day": 24,
+                "month": 2,
+                "year": 1993
+            }
+        },
+        "string": "Sep 30, 1992 to Feb 24, 1993"
+    },
+    "score": 6.51,
+    "scored_by": 125,
+    "rank": 5840,
+    "popularity": 12156,
+    "members": 484,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 14,
+            "type": "anime",
+            "name": "Sunrise",
+            "url": "https://myanimelist.net/anime/producer/14/Sunrise"
+        }
+    ]
+}

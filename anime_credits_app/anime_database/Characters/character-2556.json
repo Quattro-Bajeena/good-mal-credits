@@ -1,0 +1,71 @@
+{
+    "mal_id": 2556,
+    "url": "https://myanimelist.net/character/2556/Tira_Misu",
+    "name": "Tira Misu",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 20,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/227133.jpg",
+    "animeography": [
+        {
+            "mal_id": 495,
+            "name": "Bakuretsu Hunters",
+            "url": "https://myanimelist.net/anime/495/Bakuretsu_Hunters",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1607/96463.jpg?s=c5ed2dd0dec1fe781dd7022053975017",
+            "role": "Main"
+        },
+        {
+            "mal_id": 808,
+            "name": "Bakuretsu Hunters OVA",
+            "url": "https://myanimelist.net/anime/808/Bakuretsu_Hunters_OVA",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1267/97321.jpg?s=6faffe458e81675e441be5c697e9015b",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 140,
+            "name": "Bakuretsu Hunters",
+            "url": "https://myanimelist.net/manga/140/Bakuretsu_Hunters",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/157573.jpg?s=8b8f18534458d57a36824306208e436e",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 14,
+            "name": "Hayashibara, Megumi",
+            "url": "https://myanimelist.net/people/14/Megumi_Hayashibara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54011.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1182,
+            "name": "Baldini, Antonella",
+            "url": "https://myanimelist.net/people/1182/Antonella_Baldini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4983.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 6135,
+            "name": "Oeffinger, Marieke",
+            "url": "https://myanimelist.net/people/6135/Marieke_Oeffinger",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/11910.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 7626,
+            "name": "Lo, Tamara",
+            "url": "https://myanimelist.net/people/7626/Tamara_Lo",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "English"
+        },
+        {
+            "mal_id": 15135,
+            "name": "Song, Do Yeong",
+            "url": "https://myanimelist.net/people/15135/Do_Yeong_Song",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/16033.jpg",
+            "language": "Korean"
+        }
+    ]
+}

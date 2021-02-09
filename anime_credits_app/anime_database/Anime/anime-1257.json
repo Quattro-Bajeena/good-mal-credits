@@ -1,0 +1,44 @@
+{
+    "mal_id": 1257,
+    "url": "https://myanimelist.net/anime/1257/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/16343.jpg",
+    "title": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+    "title_english": "Saint Seiya: The Hades Chapter - Sanctuary",
+    "title_japanese": "聖闘士星矢 冥王ハーデス十二宮編",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2002-11-09T00:00:00+00:00",
+        "to": "2003-07-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 11,
+                "year": 2002
+            },
+            "to": {
+                "day": 25,
+                "month": 7,
+                "year": 2003
+            }
+        },
+        "string": "Nov 9, 2002 to Jul 25, 2003"
+    },
+    "score": 8.06,
+    "scored_by": 28058,
+    "rank": 470,
+    "popularity": 2382,
+    "members": 45025,
+    "favorites": 370,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "mal_id": 23610,
+    "url": "https://myanimelist.net/character/23610/Leslie_Harris",
+    "name": "Leslie Harris",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/296301.jpg",
+    "animeography": [
+        {
+            "mal_id": 1520,
+            "name": "Black Jack",
+            "url": "https://myanimelist.net/anime/1520/Black_Jack",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg?s=d901511b8856a33634174b4e122ef2e0",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 326,
+            "name": "Furuya, Toru",
+            "url": "https://myanimelist.net/people/326/Toru_Furuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53077.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 692,
+            "name": "Hayter, David",
+            "url": "https://myanimelist.net/people/692/David_Hayter",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18363.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6066,
+            "name": "Gerick, Wanja",
+            "url": "https://myanimelist.net/people/6066/Wanja_Gerick",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33595.jpg",
+            "language": "German"
+        }
+    ]
+}
