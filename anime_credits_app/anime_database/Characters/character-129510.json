@@ -1,0 +1,43 @@
+{
+    "mal_id": 129510,
+    "url": "https://myanimelist.net/character/129510/Barom",
+    "name": "Barom",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/342083.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 17111,
+            "name": "Taki, Masaya",
+            "url": "https://myanimelist.net/people/17111/Masaya_Taki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/19853.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42910,
+            "name": "Stacchi, Renzo",
+            "url": "https://myanimelist.net/people/42910/Renzo_Stacchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46476.jpg",
+            "language": "Italian"
+        }
+    ]
+}

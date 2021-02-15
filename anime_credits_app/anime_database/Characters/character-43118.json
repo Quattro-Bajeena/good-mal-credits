@@ -1,0 +1,70 @@
+{
+    "mal_id": 43118,
+    "url": "https://myanimelist.net/character/43118/Woody_Malden",
+    "name": "Woody Malden",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/117645.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 24835,
+            "name": "Mobile Suit Gundam-san",
+            "url": "https://myanimelist.net/anime/24835/Mobile_Suit_Gundam-san",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/67549.jpg?s=0fb00706d6f126a0a7c9d5ef949df1ca",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 234,
+            "name": "Tanaka, Hideyuki",
+            "url": "https://myanimelist.net/people/234/Hideyuki_Tanaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/55048.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 307,
+            "name": "Morrow, Kirby",
+            "url": "https://myanimelist.net/people/307/Kirby_Morrow",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39581.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 685,
+            "name": "Matsuyama, Takashi",
+            "url": "https://myanimelist.net/people/685/Takashi_Matsuyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59290.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7917,
+            "name": "Okabe, Masaaki",
+            "url": "https://myanimelist.net/people/7917/Masaaki_Okabe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5178.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 41397,
+            "name": "Bonetto, Giuliano",
+            "url": "https://myanimelist.net/people/41397/Giuliano_Bonetto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43269.jpg",
+            "language": "Italian"
+        }
+    ]
+}

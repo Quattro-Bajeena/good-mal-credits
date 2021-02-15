@@ -1,0 +1,44 @@
+{
+    "mal_id": 39584,
+    "url": "https://myanimelist.net/anime/39584/Human_Lost__Ningen_Shikkaku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1815/104501.jpg",
+    "title": "Human Lost: Ningen Shikkaku",
+    "title_english": null,
+    "title_japanese": "HUMAN LOST 人間失格",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-10-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 10,
+                "year": 2019
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct 22, 2019"
+    },
+    "score": 5.87,
+    "scored_by": 1929,
+    "rank": 8625,
+    "popularity": 4250,
+    "members": 14259,
+    "favorites": 34,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

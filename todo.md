@@ -1,13 +1,11 @@
 # ONGOING
-- hiding columns
-- squashing staffposition with the same person into one
-- dynamic searching
-- figure out rate limiting when this will be on more than one threads on a server
-- rate limitng that is long, but doesnt limit single requsts like when searching
-- add studio page
-- drop down filters for language, studio
-- footer with contact info
-- make tables not changes size when filtering
+- ~~hiding columns~~
+- ~~squashing staffposition with the same person into one~~
+- ~~figure out rate limiting when this will be on more than one threads on a server~~
+- hadnling exceptions and 404 erros
+- long term: pull data from other sites
+
+
 
 # DONE:
 - creator page
@@ -25,4 +23,10 @@
 - clear filters
 - format number of members on pages
 - filtering
+- drop down filters for language, studio
+- make tables not changes size when filtering (works for now, maybe will have to tweak it)
+- add studio page
+- footer with contact info
+- rate limitng that is long, but doesnt limit single requsts like when searching
+- dynamic searching
 

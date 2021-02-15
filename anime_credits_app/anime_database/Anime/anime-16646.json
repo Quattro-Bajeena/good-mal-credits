@@ -1,0 +1,44 @@
+{
+    "mal_id": 16646,
+    "url": "https://myanimelist.net/anime/16646/Hanamaru_Youchien__Panda_Neko_Taisou",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/44862.jpg",
+    "title": "Hanamaru Youchien: Panda Neko Taisou",
+    "title_english": null,
+    "title_japanese": "はなまる幼稚園 ぱんだねこ体操",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 8,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-05-26T00:00:00+00:00",
+        "to": "2010-08-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 26,
+                "month": 5,
+                "year": 2010
+            },
+            "to": {
+                "day": 25,
+                "month": 8,
+                "year": 2010
+            }
+        },
+        "string": "May 26, 2010 to Aug 25, 2010"
+    },
+    "score": 6.2,
+    "scored_by": 840,
+    "rank": 7352,
+    "popularity": 8245,
+    "members": 2522,
+    "favorites": 2,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

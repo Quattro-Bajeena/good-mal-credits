@@ -1,0 +1,29 @@
+{
+    "mal_id": 38197,
+    "url": "https://myanimelist.net/people/38197/Kazuko_Matsuzawa",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Kazuko Matsuzawa",
+    "given_name": "和子",
+    "family_name": "松沢",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129559,
+                "url": "https://myanimelist.net/character/129559/Simus_Al_Bakharov",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/283956.jpg?s=bb834233769a98f770e49e7cfdea0647",
+                "name": "Al Bakharov, Simus"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

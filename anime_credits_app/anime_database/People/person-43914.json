@@ -1,0 +1,74 @@
+{
+    "mal_id": 43914,
+    "url": "https://myanimelist.net/people/43914/Gianluca_Musiu",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47418.jpg",
+    "name": "Gianluca Musiu",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1972-10-11T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 249,
+                "url": "https://myanimelist.net/anime/249/InuYasha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg?s=b28fc0284c6245cf1277c94f582d5a10",
+                "name": "InuYasha"
+            },
+            "character": {
+                "mal_id": 6275,
+                "url": "https://myanimelist.net/character/6275/Hakkaku",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/57157.jpg?s=ef123e9fd7a8acefbb03079d95349e6d",
+                "name": "Hakkaku"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6811,
+                "url": "https://myanimelist.net/anime/6811/InuYasha__Kanketsu-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75570.jpg?s=673d04f3c2625d00a1824a5b0d750be9",
+                "name": "InuYasha: Kanketsu-hen"
+            },
+            "character": {
+                "mal_id": 6275,
+                "url": "https://myanimelist.net/character/6275/Hakkaku",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/57157.jpg?s=ef123e9fd7a8acefbb03079d95349e6d",
+                "name": "Hakkaku"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129551,
+                "url": "https://myanimelist.net/character/129551/Omar_Fang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/283948.jpg?s=24824b1f4e54dc7a0edf0fdeb7bae74b",
+                "name": "Fang, Omar"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 85,
+                "url": "https://myanimelist.net/anime/85/Mobile_Suit_Zeta_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg?s=e681f44fbd6b8c13a311cd39dda5e742",
+                "name": "Mobile Suit Zeta Gundam"
+            },
+            "character": {
+                "mal_id": 129574,
+                "url": "https://myanimelist.net/character/129574/Saegusa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/283973.jpg?s=4bc65c6a2834f1226c93474af9a1f635",
+                "name": "Saegusa"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,119 @@
+{
+    "mal_id": 42685,
+    "url": "https://myanimelist.net/people/42685/Stefano_De_Sando",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46259.jpg",
+    "name": "Stefano De Sando",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1954-07-31T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 889,
+                "url": "https://myanimelist.net/anime/889/Black_Lagoon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/25596.jpg?s=f31fbd58d0fc2ed2e82cea0ef72067a2",
+                "name": "Black Lagoon"
+            },
+            "character": {
+                "mal_id": 22311,
+                "url": "https://myanimelist.net/character/22311/Masahiro_Takenaka",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/279744.jpg?s=b3a179a8848ba9425e96dd591c480e86",
+                "name": "Takenaka, Masahiro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1419,
+                "url": "https://myanimelist.net/anime/1419/Lupin_III__Kutabare_Nostradamus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21668.jpg?s=e60fabdcbb97f102e557836ba32439fd",
+                "name": "Lupin III: Kutabare! Nostradamus"
+            },
+            "character": {
+                "mal_id": 126984,
+                "url": "https://myanimelist.net/character/126984/Douglas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/280765.jpg?s=e0b58295ad542c88d08ca4eccb51d3a0",
+                "name": "Douglas"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129532,
+                "url": "https://myanimelist.net/character/129532/Flanagan_Boone",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/342084.jpg?s=84699135efb91f6991d387162d92b84d",
+                "name": "Boone, Flanagan"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 13601,
+                "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/43399.jpg?s=3fc4e5e66a1dbf31382bca82a7fa6e22",
+                "name": "Psycho-Pass"
+            },
+            "character": {
+                "mal_id": 69061,
+                "url": "https://myanimelist.net/character/69061/Tomomi_Masaoka",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/179597.jpg?s=7aa087d32b2e0b703dbfa97ef0491119",
+                "name": "Masaoka, Tomomi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 199,
+                "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                "name": "Sen to Chihiro no Kamikakushi"
+            },
+            "character": {
+                "mal_id": 8301,
+                "url": "https://myanimelist.net/character/8301/Kamajii",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/314029.jpg?s=6136dbde92674756781c8329f0182052",
+                "name": "Kamajii"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 38826,
+                "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1880/101146.jpg?s=7df325929dd1a4ca5eed3986872db1dd",
+                "name": "Tenki no Ko"
+            },
+            "character": {
+                "mal_id": 171314,
+                "url": "https://myanimelist.net/character/171314/Yasui",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Yasui"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3692,
+                "url": "https://myanimelist.net/anime/3692/Yes_Precure_5_GoGo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/25746.jpg?s=c64161fec28e2c93480acbe7705b2aa7",
+                "name": "Yes! Precure 5 GoGo!"
+            },
+            "character": {
+                "mal_id": 35357,
+                "url": "https://myanimelist.net/character/35357/Boss",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/120627.jpg?s=b76f59e9bdfe9784aedd957a656d4d88",
+                "name": "Boss"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

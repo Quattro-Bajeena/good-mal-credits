@@ -1,7 +1,4 @@
-import os
-from datetime import timedelta
-
-from flask import render_template, request, redirect, url_for, flash, session
+from flask import render_template, request, redirect, url_for, flash, session, abort
 
 from anime_credits_app import app, adc, db, tasks, models, mal_db, celery
 import anime_credits_app.log_n_cache as lnc
@@ -13,126 +10,118 @@ from pathlib import Path
 
 @app.route('/')
 def index():
-    return render_template('base.html')
+    return render_template('index.html')
 
-@app.route('/test_celery', methods=['POST'] )
-def test_celery():
-    if request.method == 'POST':
-        task = tasks.add_1_async.delay(10)
-        return redirect(url_for('download', task_id = task.id))
+@app.errorhandler(404)
+def page_not_found(e):
+    print(e)
+    return render_template('404.html'), 404
 
-@app.route('/celery_result/<task_id>')
-def celery_results(task_id):
-    task = tasks.add_1_async.AsyncResult(task_id)
-
-    response = {
-        'state' : task.state,
-        'info' : task.info
-    }
-
-
-    return response
 
 @app.route('/search', methods=['POST'])
 def search():
-    if request.method == 'POST':
-        if 'query' in request.form:
+    #print(request.form['search_form'])
 
-            query = request.form['query']
-            category = request.form['category']
+    if 'query' in request.form:
 
-            return redirect(url_for('search_options', category = category, query = query))
-        else:
-            return redirect(url_for('index'))
+        query = request.form['query']
+        category = request.form['category']
 
-
+        return redirect(url_for('search_options', category = category, query = query))
+    else:
+        return redirect(url_for('index'))
 
 @app.route('/search/<category>/<query>')
 def search_options(category, query):
-    results = adc.mal.search_options(category, query, 10)
 
-    if category == 'people' and len(results) == 0:
-        mal_id = adc.util.search_people_fallback(query)
-        if mal_id:
-            return redirect(url_for('person', mal_id = mal_id))
+    if category == 'studios':
+        results = models.Studio.query.filter(models.Studio.name.contains(query)).all()
+    else:
+        results = adc.mal.search_options(category, query, 10)
+        if category == 'people' and len(results) == 0:
+            mal_id = adc.util.search_people_fallback(query)
+            if mal_id:
+                return redirect(url_for('content',category='people', mal_id = mal_id))
 
     return render_template('searching.html', results = results, category=category)
+
+@app.route('/quick_search/<category>/<query>')
+def quick_search(category, query):
+    response = {}
+    response['category'] = category
+
+    if category == 'people':
+        results = models.Person.query.filter(models.Person.name.contains(query)).all()
+        results += models.Person.query.filter(models.Person.given_name.contains(query)).all()
+        results += models.Person.query.filter(models.Person.family_name.contains(query)).all()
+        response['results'] = [{'identifier':result.name, 'mal_id':result.mal_id} for result in results]
+
+    elif category == 'studios':
+        results = models.Studio.query.filter(models.Studio.name.contains(query)).all()
+        response['results'] = [{'identifier':result.name, 'mal_id':result.mal_id} for result in results]
+
+    elif category == 'anime':
+        results = models.Anime.query.filter(models.Anime.title.contains(query)).all()
+        results += models.Anime.query.filter(models.Anime.title_english.contains(query)).all()
+        results += models.Anime.query.filter(models.Anime.title_japanese.contains(query)).all()
+        response['results'] = [{'identifier':result.title, 'mal_id':result.mal_id} for result in results]
+
+    else:
+        response = []
+
+    
+    response['results'] = response['results'][:6]
+    return response
+
+    
 
 @app.route('/downloading/<task_id>')
 def page_downloading(task_id):
     task = tasks.update_resources_async.AsyncResult(task_id)
 
+    # task.info could be a exception
     response = {
         'state' : task.state,
-        'result': task.result,
-        'info' : task.info
+        'info' : str(task.info)
     }
     return response
 
 
-@app.route('/download/<task_id>')
-def download(task_id):
-    return render_template('page_downloading.html', category='staff', task_id = task_id) 
+@app.route('/<category>/<int:mal_id>')
+def content(category, mal_id : int):
 
-@app.route('/anime/<int:mal_id>')
-def anime_staff(mal_id):
-    
-    # staffr -> characters_staff
-    category = 'characters_staff'
-    page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
+    if not adc.util.check_resource_exists(category, mal_id):
+        abort(404)
 
-    print(page_status)
+    templates = {
+        'anime' : "characters_staff.html",
+        'people' : "person.html",
+        'studios' : 'studio.html'
+    }
 
-    if page_status['being_created'] or page_status['scheduled_to_update']:
-        print("1111111111111")
-        return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
+    resource_models = {
+        'anime' : models.Anime,
+        'people' : models.Person,
+        'studios' : models.Studio
+    }
 
-    elif not page_status['exists']:
-        print("2222222222222222")
-        task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
-        lnc.register_page_update_scheduled(category, mal_id, task.id)
-
-        return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
-
-    elif page_status['needs_update']:
-        print("33333333333333")
-        anime = models.Anime.query.get(mal_id)
-        task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
-
-        return render_template("characters_staff.html", anime = anime)
-
-    else:
-        print("4444444444444")
-        anime = models.Anime.query.get(mal_id)
-        return render_template("characters_staff.html", anime = anime)
-
-
-
-
-@app.route('/people/<int:mal_id>')
-def person(mal_id):
-
-    category = 'people'
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
     print(page_status)
 
     if page_status['being_created'] or page_status['scheduled_to_update']:
-        print("1111111111111")
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
-        print("2222222222222222")
         task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
         lnc.register_page_update_scheduled(category, mal_id, task.id)
         return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
-        print("33333333333333")
-        person = models.Person.query.get(mal_id)
+        resource = resource_models[category].query.get_or_404(mal_id)
         task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
 
-        return render_template("person.html", person = person)
+        return render_template(templates[category], resource = resource)
     else:
-        print("4444444444444")
-        person = models.Person.query.get(mal_id)
-        return render_template("person.html", person = person)
+        resource = resource_models[category].query.get_or_404(mal_id)
+        return render_template(templates[category], resource = resource)
+

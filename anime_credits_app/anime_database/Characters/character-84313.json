@@ -1,0 +1,71 @@
+{
+    "mal_id": 84313,
+    "url": "https://myanimelist.net/character/84313/Grandfather_Arlert",
+    "name": "Grandfather Arlert",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/206359.jpg",
+    "animeography": [
+        {
+            "mal_id": 16498,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=548dd4aba0c4644f8b5fbae5cfad52ea",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 23775,
+            "name": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+            "url": "https://myanimelist.net/anime/23775/Shingeki_no_Kyojin_Movie_1__Guren_no_Yumiya",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/63283.jpg?s=73fe68f6d19076de830578709a12ecf6",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 31374,
+            "name": "Shingeki! Kyojin Chuugakkou",
+            "url": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/75467.jpg?s=f1d031a24d84cd7ca92dba7fd3839c27",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 23390,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/37846.jpg?s=840274d02db453f962e83662b4d7d40e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 36535,
+            "name": "Shingeki! Kyojin Chuugakkou",
+            "url": "https://myanimelist.net/manga/36535/Shingeki_Kyojin_Chuugakkou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/178950.jpg?s=1c7c35bfd0a699f1b3a3642bde2a2386",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 5386,
+            "name": "Satou, Masaharu",
+            "url": "https://myanimelist.net/people/5386/Masaharu_Satou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59539.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42647,
+            "name": "Biagioni, Dante",
+            "url": "https://myanimelist.net/people/42647/Dante_Biagioni",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46011.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 46929,
+            "name": "Henry, Francis",
+            "url": "https://myanimelist.net/people/46929/Francis_Henry",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/50794.jpg",
+            "language": "English"
+        }
+    ]
+}

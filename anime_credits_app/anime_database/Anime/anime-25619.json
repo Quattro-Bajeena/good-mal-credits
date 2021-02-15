@@ -1,0 +1,44 @@
+{
+    "mal_id": 25619,
+    "url": "https://myanimelist.net/anime/25619/Genki_Genki_Non-tan__Spoon_Tan_Tan_Tan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/65141.jpg",
+    "title": "Genki Genki Non-tan: Spoon Tan Tan Tan",
+    "title_english": null,
+    "title_japanese": "げんきげんきノンタン　スプーン たんたんたん",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-04-24T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 24,
+                "month": 4,
+                "year": 2013
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 24, 2013"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14105,
+    "popularity": 15660,
+    "members": 155,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "mal_id": 1225,
+    "url": "https://myanimelist.net/people/1225/Giuliano_Giacomelli",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46649.jpg",
+    "name": "Giuliano Giacomelli",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 719,
+                "url": "https://myanimelist.net/anime/719/Ai_no_Kusabi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/6531.jpg?s=f815c5c845a207ef23327d16064127c4",
+                "name": "Ai no Kusabi"
+            },
+            "character": {
+                "mal_id": 8194,
+                "url": "https://myanimelist.net/character/8194/Sid",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/47599.jpg?s=69b4b349b582c23b6beb3f0aba607f50",
+                "name": "Sid"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 146852,
+                "url": "https://myanimelist.net/character/146852/Antonio_Callas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/342291.jpg?s=b5468741f07e07260d4c5c80d04353b4",
+                "name": "Callas, Antonio"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1130,
+                "url": "https://myanimelist.net/anime/1130/Windaria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/25497.jpg?s=58a91a67f08dfe8b2ff5dc456978836e",
+                "name": "Windaria"
+            },
+            "character": {
+                "mal_id": 35107,
+                "url": "https://myanimelist.net/character/35107/Jill",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/292755.jpg?s=efbaf9a0fb5beae1e123ada9b3f662c5",
+                "name": "Jill"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

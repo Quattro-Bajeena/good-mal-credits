@@ -1,0 +1,89 @@
+{
+    "mal_id": 42858,
+    "url": "https://myanimelist.net/people/42858/Emilio_Cappuccio",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46627.jpg",
+    "name": "Emilio Cappuccio",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1939-09-15T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1542,
+                "url": "https://myanimelist.net/anime/1542/Brain_Powerd",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1749/91562.jpg?s=09bdc6b99ec2d0405f9be04c696fa8cf",
+                "name": "Brain Powerd"
+            },
+            "character": {
+                "mal_id": 27194,
+                "url": "https://myanimelist.net/character/27194/Winston_Geybridge",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/68772.jpg?s=3d07d408e7bcb7a1f66cda3509caaee3",
+                "name": "Geybridge, Winston"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2561,
+                "url": "https://myanimelist.net/anime/2561/Captain_Future",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/87992.jpg?s=fff0036ddd81bccc0f5c8b14a1f5bb2a",
+                "name": "Captain Future"
+            },
+            "character": {
+                "mal_id": 142664,
+                "url": "https://myanimelist.net/character/142664/Simon_Wright",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/308564.jpg?s=13df35699026a9930b133fd20e2f8fa7",
+                "name": "Wright, Simon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 33082,
+                "url": "https://myanimelist.net/anime/33082/Kingsglaive__Final_Fantasy_XV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/79392.jpg?s=8704e52c5e125b107eaf6f178c4503b7",
+                "name": "Kingsglaive: Final Fantasy XV"
+            },
+            "character": {
+                "mal_id": 141744,
+                "url": "https://myanimelist.net/character/141744/Iedolas_Aldercapt",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/311514.jpg?s=9f03e02d4d93875b59dfa390a7ac6909",
+                "name": "Aldercapt, Iedolas"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5019,
+                "url": "https://myanimelist.net/anime/5019/Lupin_III__Sweet_Lost_Night_-_Mahou_no_Lamp_wa_Akumu_no_Yokan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14156.jpg?s=dfd9a480eb3837c37043869af89136d6",
+                "name": "Lupin III: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan"
+            },
+            "character": {
+                "mal_id": 142904,
+                "url": "https://myanimelist.net/character/142904/Dr_Eichmann",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Dr. Eichmann"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129563,
+                "url": "https://myanimelist.net/character/129563/Tachi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/283962.jpg?s=af9e8dfae11b42201b1079b550ce33f1",
+                "name": "Tachi"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

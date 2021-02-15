@@ -1,0 +1,44 @@
+{
+    "mal_id": 29105,
+    "url": "https://myanimelist.net/anime/29105/Aruite_Mikka",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/70203.jpg",
+    "title": "Aruite Mikka!",
+    "title_english": null,
+    "title_japanese": "歩いてみっか！",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-12-01T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 12,
+                "year": 1999
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 1, 1999"
+    },
+    "score": 4.44,
+    "scored_by": 247,
+    "rank": 10923,
+    "popularity": 12521,
+    "members": 426,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

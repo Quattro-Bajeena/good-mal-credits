@@ -1,0 +1,49 @@
+{
+    "mal_id": 10517,
+    "url": "https://myanimelist.net/character/10517/Toola_Cm_Sacl",
+    "name": "Toola Cm Sacl",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 8,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/133755.jpg",
+    "animeography": [
+        {
+            "mal_id": 1140,
+            "name": "Giniro no Kami no Agito",
+            "url": "https://myanimelist.net/anime/1140/Giniro_no_Kami_no_Agito",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/83824.jpg?s=97203761016c94f66057a3d165edf55c",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 327,
+            "name": "Savage, Carrie",
+            "url": "https://myanimelist.net/people/327/Carrie_Savage",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/6771.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1055,
+            "name": "Miyazaki, Aoi",
+            "url": "https://myanimelist.net/people/1055/Aoi_Miyazaki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49681.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5681,
+            "name": "Volpe, Isabelle",
+            "url": "https://myanimelist.net/people/5681/Isabelle_Volpe",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22469.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 14987,
+            "name": "Yun, Seong Hye",
+            "url": "https://myanimelist.net/people/14987/Seong_Hye_Yun",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/15819.jpg",
+            "language": "Korean"
+        }
+    ]
+}

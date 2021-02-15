@@ -1,0 +1,44 @@
+{
+    "mal_id": 21421,
+    "url": "https://myanimelist.net/anime/21421/Mahou_Shoujo_Taisen",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/62221.jpg",
+    "title": "Mahou Shoujo Taisen",
+    "title_english": "Magica Wars",
+    "title_japanese": "魔法少女大戦",
+    "type": "TV",
+    "source": "Other",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-08T00:00:00+00:00",
+        "to": "2014-09-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 30,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Apr 8, 2014 to Sep 30, 2014"
+    },
+    "score": 5.77,
+    "scored_by": 4744,
+    "rank": 8946,
+    "popularity": 4088,
+    "members": 15551,
+    "favorites": 4,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

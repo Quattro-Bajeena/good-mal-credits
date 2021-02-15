@@ -1,15 +1,14 @@
 
-#mainBlock{
-    text-align: center;
-    height: 1000px;
-    line-height: 200px;
-    border: 2px dashed #f69c55;
 
-    
+#mainBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
 }
 
 #mainBlock span{
-    display: inline-block;
-    vertical-align: middle;
-    line-height: normal;
+    text-align: center;
+    font-size: 7em;
+    
 }

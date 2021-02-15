@@ -1,0 +1,56 @@
+{
+    "mal_id": 15527,
+    "url": "https://myanimelist.net/anime/15527/24H",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1114/98952.jpg",
+    "title": "24H",
+    "title_english": "24H",
+    "title_japanese": "24H",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 9,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2010-07-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 7,
+                "year": 2010
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 28, 2010"
+    },
+    "score": 4.86,
+    "scored_by": 316,
+    "rank": 10703,
+    "popularity": 11395,
+    "members": 671,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        },
+        {
+            "mal_id": 1953,
+            "type": "anime",
+            "name": "W+K Tokyo",
+            "url": "https://myanimelist.net/anime/producer/1953/W_K_Tokyo"
+        },
+        {
+            "mal_id": 1954,
+            "type": "anime",
+            "name": "Welz Animation Studios",
+            "url": "https://myanimelist.net/anime/producer/1954/Welz_Animation_Studios"
+        }
+    ]
+}

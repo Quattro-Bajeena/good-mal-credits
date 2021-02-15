@@ -1,0 +1,50 @@
+{
+    "mal_id": 129523,
+    "url": "https://myanimelist.net/character/129523/Cuaran",
+    "name": "Cuaran",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/283912.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 34033,
+            "name": "Mobile Suit Gundam: U.C. Hard Graph Iron Mustang",
+            "url": "https://myanimelist.net/manga/34033/Mobile_Suit_Gundam__UC_Hard_Graph_Iron_Mustang",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/62381.jpg?s=7f05a82d636b3f35c1c1f621eec426c8",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 882,
+            "name": "Klassen, Terry",
+            "url": "https://myanimelist.net/people/882/Terry_Klassen",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/21193.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 38196,
+            "name": "Ichito, Akihide",
+            "url": "https://myanimelist.net/people/38196/Akihide_Ichito",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42567,
+            "name": "Anselmo, Pasquale",
+            "url": "https://myanimelist.net/people/42567/Pasquale_Anselmo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46112.jpg",
+            "language": "Italian"
+        }
+    ]
+}

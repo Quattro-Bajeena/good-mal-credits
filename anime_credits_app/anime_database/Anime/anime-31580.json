@@ -1,0 +1,44 @@
+{
+    "mal_id": 31580,
+    "url": "https://myanimelist.net/anime/31580/Ajin",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+    "title": "Ajin",
+    "title_english": "Ajin: Demi-Human",
+    "title_japanese": "亜人",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-01-16T00:00:00+00:00",
+        "to": "2016-04-09T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 1,
+                "year": 2016
+            },
+            "to": {
+                "day": 9,
+                "month": 4,
+                "year": 2016
+            }
+        },
+        "string": "Jan 16, 2016 to Apr 9, 2016"
+    },
+    "score": 7.49,
+    "scored_by": 217948,
+    "rank": 1604,
+    "popularity": 290,
+    "members": 446791,
+    "favorites": 2664,
+    "premiered": "Winter 2016",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

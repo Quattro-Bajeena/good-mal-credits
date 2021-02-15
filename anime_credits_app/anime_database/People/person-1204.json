@@ -1,0 +1,374 @@
+{
+    "mal_id": 1204,
+    "url": "https://myanimelist.net/people/1204/Giorgio_Locuratolo",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37221.jpg",
+    "name": "Giorgio Locuratolo",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1954-09-26T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            },
+            "character": {
+                "mal_id": 2181,
+                "url": "https://myanimelist.net/character/2181/Bear",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/85951.jpg?s=7f6377e41c9496d296d45ab3519ffb20",
+                "name": "Bear"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 283,
+                "url": "https://myanimelist.net/anime/283/Akage_no_Anne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/8707.jpg?s=701d10c40798d6fd98bf1488c7ad2811",
+                "name": "Akage no Anne"
+            },
+            "character": {
+                "mal_id": 38294,
+                "url": "https://myanimelist.net/character/38294/Minister_Allan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/105570.jpg?s=75d15ce616dab62a2b32fd309b397635",
+                "name": "Allan, Minister"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3043,
+                "url": "https://myanimelist.net/anime/3043/Andersen_Douwa__Ningyohime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42477.jpg?s=bb4fd90ed0ee00edd330abefb30594b6",
+                "name": "Andersen Douwa: Ningyohime"
+            },
+            "character": {
+                "mal_id": 31040,
+                "url": "https://myanimelist.net/character/31040/Fjord",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/115019.jpg?s=c3e066ce4cba13a47a233afddd90b1b4",
+                "name": "Fjord"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2921,
+                "url": "https://myanimelist.net/anime/2921/Ashita_no_Joe_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/45028.jpg?s=44c708632a1abf2b93f9ce4dc3b2de86",
+                "name": "Ashita no Joe 2"
+            },
+            "character": {
+                "mal_id": 76166,
+                "url": "https://myanimelist.net/character/76166/Harry_Robert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/338113.jpg?s=7406890fe55eefc43d0bec5a3cf48fdb",
+                "name": "Robert, Harry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 889,
+                "url": "https://myanimelist.net/anime/889/Black_Lagoon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/25596.jpg?s=f31fbd58d0fc2ed2e82cea0ef72067a2",
+                "name": "Black Lagoon"
+            },
+            "character": {
+                "mal_id": 25551,
+                "url": "https://myanimelist.net/character/25551/The_Captain",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/279749.jpg?s=95ecc9ae79a5f05401fb2c67a01f327d",
+                "name": "The Captain"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1675,
+                "url": "https://myanimelist.net/anime/1675/Chou_Robot_Seimeitai_Transformers_Micron_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1231/104729.jpg?s=bbfccb2d3f135de396eb89e56158e661",
+                "name": "Chou Robot Seimeitai Transformers Micron Densetsu"
+            },
+            "character": {
+                "mal_id": 18966,
+                "url": "https://myanimelist.net/character/18966/Master_Megatron",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/281723.jpg?s=1e4fd3d4035557ceef31b5af6066cc78",
+                "name": "Master Megatron"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1,
+                "url": "https://myanimelist.net/anime/1/Cowboy_Bebop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/19644.jpg?s=7da34943f22dfae2227ccf433c1246ed",
+                "name": "Cowboy Bebop"
+            },
+            "character": {
+                "mal_id": 96385,
+                "url": "https://myanimelist.net/character/96385/Shaft",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/227899.jpg?s=2ec2279c8fd17dfaa600ef03ec7caeeb",
+                "name": "Shaft"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 552,
+                "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/11070.jpg?s=6680583700e000255934a64b0dedeb80",
+                "name": "Digimon Adventure"
+            },
+            "character": {
+                "mal_id": 9957,
+                "url": "https://myanimelist.net/character/9957/Piemon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/170065.jpg?s=9459f1df91f46ee9a8ea7e6914bb6136",
+                "name": "Piemon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8624,
+                "url": "https://myanimelist.net/anime/8624/Digimon_Xros_Wars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/24495.jpg?s=9f6ff81fc75fba17c6e4501987a85504",
+                "name": "Digimon Xros Wars"
+            },
+            "character": {
+                "mal_id": 49945,
+                "url": "https://myanimelist.net/character/49945/MailBirdramon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/136979.jpg?s=c2f29bececa3de6da1639c64c47f54b9",
+                "name": "MailBirdramon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10444,
+                "url": "https://myanimelist.net/anime/10444/Digimon_Xros_Wars__Aku_no_Death_General_to_Nanatsu_no_Oukoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/28688.jpg?s=606cf02df6568f9e4ac49c88a3dc5fa6",
+                "name": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku"
+            },
+            "character": {
+                "mal_id": 49945,
+                "url": "https://myanimelist.net/character/49945/MailBirdramon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/136979.jpg?s=c2f29bececa3de6da1639c64c47f54b9",
+                "name": "MailBirdramon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 898,
+                "url": "https://myanimelist.net/anime/898/Dragon_Ball_Z_Movie_05__Tobikkiri_no_Saikyou_tai_Saikyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1145/93668.jpg?s=f81075d843b01c61cffa814a05830af8",
+                "name": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou"
+            },
+            "character": {
+                "mal_id": 9763,
+                "url": "https://myanimelist.net/character/9763/Sauzer",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73091.jpg?s=f4a88222c4a3496c7bc49f2197f99603",
+                "name": "Sauzer"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 918,
+                "url": "https://myanimelist.net/anime/918/Gintama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg?s=9f6be74bce91c5bf28b77d27bc0acf48",
+                "name": "Gintama"
+            },
+            "character": {
+                "mal_id": 32207,
+                "url": "https://myanimelist.net/character/32207/Jii",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/86042.jpg?s=c0e0c0c15485cd62cfa09d6fd62fcffc",
+                "name": "Jii"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3481,
+                "url": "https://myanimelist.net/anime/3481/Grendizer__Getter_Robo_G_-_Great_Mazinger_Kessen_Daikaijuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1125/99760.jpg?s=639d538606171cc8afa8724bfce99488",
+                "name": "Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu"
+            },
+            "character": {
+                "mal_id": 7372,
+                "url": "https://myanimelist.net/character/7372/Kouji_Kabuto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/61762.jpg?s=12f9f210b7eedcefe804b3bfdaac1f57",
+                "name": "Kabuto, Kouji"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1448,
+                "url": "https://myanimelist.net/anime/1448/Hyakujuu-Ou_GoLion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/51647.jpg?s=8abc62fff411eb4ea1afe593adb01d3e",
+                "name": "Hyakujuu-Ou GoLion"
+            },
+            "character": {
+                "mal_id": 18002,
+                "url": "https://myanimelist.net/character/18002/Prince_Sincline",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/39392.jpg?s=bb2292f4d2ca6218f0707672df768c12",
+                "name": "Prince Sincline"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4073,
+                "url": "https://myanimelist.net/anime/4073/Kyouryuu_Daisensou_Izenborg",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/71249.jpg?s=6f67648623dfec38d01dfb91bb1fcc95",
+                "name": "Kyouryuu Daisensou Izenborg"
+            },
+            "character": {
+                "mal_id": 123449,
+                "url": "https://myanimelist.net/character/123449/Zen_Tachibana",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Tachibana, Zen"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129536,
+                "url": "https://myanimelist.net/character/129536/Giyal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/283933.jpg?s=44a07b6c119992a668303b7e17efdf3a",
+                "name": "Giyal"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 800,
+                "url": "https://myanimelist.net/anime/800/NieA_Under_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18922.jpg?s=abbeda4d617616874814cde6bc86d418",
+                "name": "NieA Under 7"
+            },
+            "character": {
+                "mal_id": 102201,
+                "url": "https://myanimelist.net/character/102201/Nenji_Yoshioka",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/238425.jpg?s=750e2d7bce4aaf2a2da65217029afb0c",
+                "name": "Yoshioka, Nenji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1148,
+                "url": "https://myanimelist.net/anime/1148/Teito_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/88664.jpg?s=5eeac9370b8d9cbd866bcb9ba4e82e1e",
+                "name": "Teito Monogatari"
+            },
+            "character": {
+                "mal_id": 26228,
+                "url": "https://myanimelist.net/character/26228/Junichi_Narutaki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/70583.jpg?s=4a67e234b65d40b808f79864711364fc",
+                "name": "Narutaki, Junichi"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 928,
+                "url": "https://myanimelist.net/anime/928/Transformers_Galaxy_Force",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/87406.jpg?s=12869b525f1eb56f4863a8eb7d872df6",
+                "name": "Transformers Galaxy Force"
+            },
+            "character": {
+                "mal_id": 18966,
+                "url": "https://myanimelist.net/character/18966/Master_Megatron",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/281723.jpg?s=1e4fd3d4035557ceef31b5af6066cc78",
+                "name": "Master Megatron"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 927,
+                "url": "https://myanimelist.net/anime/927/Transformers_Superlink",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73878.jpg?s=e00438d2addf1d78cbf38029a8119b97",
+                "name": "Transformers Superlink"
+            },
+            "character": {
+                "mal_id": 18966,
+                "url": "https://myanimelist.net/character/18966/Master_Megatron",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/281723.jpg?s=1e4fd3d4035557ceef31b5af6066cc78",
+                "name": "Master Megatron"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 4387,
+                "url": "https://myanimelist.net/anime/4387/UFO_Robo_Grendizer_tai_Great_Mazinger",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1592/99764.jpg?s=8e646260b66fe259c092cd393fad825c",
+                "name": "UFO Robo Grendizer tai Great Mazinger"
+            },
+            "character": {
+                "mal_id": 7372,
+                "url": "https://myanimelist.net/character/7372/Kouji_Kabuto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/61762.jpg?s=12f9f210b7eedcefe804b3bfdaac1f57",
+                "name": "Kabuto, Kouji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 338,
+                "url": "https://myanimelist.net/anime/338/Versailles_no_Bara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57043.jpg?s=42bcc829cef485218a1d0ecbe981e19b",
+                "name": "Versailles no Bara"
+            },
+            "character": {
+                "mal_id": 1704,
+                "url": "https://myanimelist.net/character/1704/Maximilien_Robespierre",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/114263.jpg?s=38e453ccf2f082b08b16ab56102a0b9a",
+                "name": "Robespierre, Maximilien"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 961,
+                "url": "https://myanimelist.net/anime/961/Virtua_Fighter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1234/110241.jpg?s=10c7a4589b477a7f31aa9083f3e796cb",
+                "name": "Virtua Fighter"
+            },
+            "character": {
+                "mal_id": 30388,
+                "url": "https://myanimelist.net/character/30388/Kagemaru_Hagakure",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Hagakure, Kagemaru"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 599,
+                "url": "https://myanimelist.net/anime/599/Yuugen_Kaisha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1932/96386.jpg?s=e82980a0c6d74035bcfcfbe0ca677688",
+                "name": "Yuugen Kaisha"
+            },
+            "character": {
+                "mal_id": 24192,
+                "url": "https://myanimelist.net/character/24192/Kozu_Karina",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/151123.jpg?s=58a528c411554ea5fd2002dcd1de37d2",
+                "name": "Karina, Kozu"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

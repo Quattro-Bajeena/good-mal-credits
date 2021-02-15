@@ -1,0 +1,44 @@
+{
+    "mal_id": 6344,
+    "url": "https://myanimelist.net/anime/6344/Shikabane_Hime__Kuro_–_Soredemo_Hito_to_Shite",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/73631.jpg",
+    "title": "Shikabane Hime: Kuro – Soredemo, Hito to Shite",
+    "title_english": "Corpse Princess: Kuro - Even So, As a Person",
+    "title_japanese": "屍姫 玄 それでも、人として",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-08-05T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 5, 2009"
+    },
+    "score": 7,
+    "scored_by": 5379,
+    "rank": 3646,
+    "popularity": 4345,
+    "members": 13434,
+    "favorites": 9,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "mal_id": 44528,
+    "url": "https://myanimelist.net/people/44528/Tatsuma_Minamikawa",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48621.jpg",
+    "name": "Tatsuma Minamikawa",
+    "given_name": "達馬",
+    "family_name": "南川",
+    "birthday": null,
+    "member_favorites": 7,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 15061,
+                "url": "https://myanimelist.net/anime/15061/Aikatsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74783.jpg?s=8b9eea71b51c49ed5480488aa2d7e0be",
+                "name": "Aikatsu!"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 22729,
+                "url": "https://myanimelist.net/anime/22729/AldnoahZero",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/60263.jpg?s=882b1827c6f0e176f514a117f130e0bf",
+                "name": "Aldnoah.Zero"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 27655,
+                "url": "https://myanimelist.net/anime/27655/AldnoahZero_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/71297.jpg?s=8aedd53dd1906c555600fd457b0b3394",
+                "name": "Aldnoah.Zero 2nd Season"
+            }
+        },
+        {
+            "position": "Production Coordination",
+            "anime": {
+                "mal_id": 2889,
+                "url": "https://myanimelist.net/anime/2889/Bleach_Movie_2__The_DiamondDust_Rebellion_-_Mou_Hitotsu_no_Hyourinmaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7499.jpg?s=0628d1a0a102f86ab92bc36de2b15701",
+                "name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 21437,
+                "url": "https://myanimelist.net/anime/21437/Buddy_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57303.jpg?s=dc6a62e00111849f3ef7e15223f99cb1",
+                "name": "Buddy Complex"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21437,
+                "url": "https://myanimelist.net/anime/21437/Buddy_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/57303.jpg?s=dc6a62e00111849f3ef7e15223f99cb1",
+                "name": "Buddy Complex"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 14397,
+                "url": "https://myanimelist.net/anime/14397/Chihayafuru_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/47435.jpg?s=495f81f07509588a1c513d101cb4ba85",
+                "name": "Chihayafuru 2"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 36973,
+                "url": "https://myanimelist.net/anime/36973/Ekimemo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1712/90354.jpg?s=f9d0a9b773aa18ddca173dbf5f4e4257",
+                "name": "Ekimemo!"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 36973,
+                "url": "https://myanimelist.net/anime/36973/Ekimemo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1712/90354.jpg?s=f9d0a9b773aa18ddca173dbf5f4e4257",
+                "name": "Ekimemo!"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 36973,
+                "url": "https://myanimelist.net/anime/36973/Ekimemo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1712/90354.jpg?s=f9d0a9b773aa18ddca173dbf5f4e4257",
+                "name": "Ekimemo!"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 32608,
+                "url": "https://myanimelist.net/anime/32608/Endride",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/78289.jpg?s=0019af6e94dc08c9282ec09c9d9dc08b",
+                "name": "Endride"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 32608,
+                "url": "https://myanimelist.net/anime/32608/Endride",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/78289.jpg?s=0019af6e94dc08c9282ec09c9d9dc08b",
+                "name": "Endride"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 38671,
+                "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1664/103275.jpg?s=58a3c606a97ce1440ea65131ab75dde9",
+                "name": "Enen no Shouboutai"
+            }
+        },
+        {
+            "position": "Series Composition",
+            "anime": {
+                "mal_id": 40956,
+                "url": "https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg?s=9eb113963778c0adfc31fb4dd10779a4",
+                "name": "Enen no Shouboutai: Ni no Shou"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 40956,
+                "url": "https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg?s=9eb113963778c0adfc31fb4dd10779a4",
+                "name": "Enen no Shouboutai: Ni no Shou"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 30778,
+                "url": "https://myanimelist.net/anime/30778/Fairy_Tail_Movie_2__Dragon_Cry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85391.jpg?s=5ee857ab4b762fa68739c881ea4246e4",
+                "name": "Fairy Tail Movie 2: Dragon Cry"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 30778,
+                "url": "https://myanimelist.net/anime/30778/Fairy_Tail_Movie_2__Dragon_Cry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85391.jpg?s=5ee857ab4b762fa68739c881ea4246e4",
+                "name": "Fairy Tail Movie 2: Dragon Cry"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 30778,
+                "url": "https://myanimelist.net/anime/30778/Fairy_Tail_Movie_2__Dragon_Cry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/85391.jpg?s=5ee857ab4b762fa68739c881ea4246e4",
+                "name": "Fairy Tail Movie 2: Dragon Cry"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 33047,
+                "url": "https://myanimelist.net/anime/33047/Fate_Extra__Last_Encore",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1122/90836.jpg?s=1b663219ba9fa4f6051d1c4033d1771b",
+                "name": "Fate/Extra: Last Encore"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 28907,
+                "url": "https://myanimelist.net/anime/28907/Gate__Jieitai_Kanochi_nite_Kaku_Tatakaeri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76222.jpg?s=a3236df8f4d7927498ced5a065af5949",
+                "name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 28977,
+                "url": "https://myanimelist.net/anime/28977/Gintama°",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72078.jpg?s=c5b9e427fa2099c196fc3e1aedb36d7c",
+                "name": "Gintama°"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 34279,
+                "url": "https://myanimelist.net/anime/34279/Grancrest_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/89883.jpg?s=1fd9137da9faece415e24316dbe1487a",
+                "name": "Grancrest Senki"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 34279,
+                "url": "https://myanimelist.net/anime/34279/Grancrest_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/89883.jpg?s=1fd9137da9faece415e24316dbe1487a",
+                "name": "Grancrest Senki"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 24625,
+                "url": "https://myanimelist.net/anime/24625/Gundam_Build_Fighters_Try",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/67511.jpg?s=309bbff26cf4be9d22ab421b1305dbb5",
+                "name": "Gundam Build Fighters Try"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 36220,
+                "url": "https://myanimelist.net/anime/36220/Itsudatte_Bokura_no_Koi_wa_10_cm_Datta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/89554.jpg?s=2c1404362c83a0e88955f496b6c2d24d",
+                "name": "Itsudatte Bokura no Koi wa 10 cm Datta."
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 37991,
+                "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg?s=930384d2ece0ff367d0e03b05fc8e7c4",
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 37991,
+                "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg?s=930384d2ece0ff367d0e03b05fc8e7c4",
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 37991,
+                "url": "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1572/95010.jpg?s=930384d2ece0ff367d0e03b05fc8e7c4",
+                "name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 16668,
+                "url": "https://myanimelist.net/anime/16668/Kakumeiki_Valvrave",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/49251.jpg?s=f72a080060d7a876343db14f3fb188a1",
+                "name": "Kakumeiki Valvrave"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 24629,
+                "url": "https://myanimelist.net/anime/24629/Koufuku_Graffiti",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/71963.jpg?s=35e722efb31c15d0e920b17e53708337",
+                "name": "Koufuku Graffiti"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 32526,
+                "url": "https://myanimelist.net/anime/32526/Love_Live_Sunshine",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/80791.jpg?s=34d3477264b34a7c5c8ec8199492aa07",
+                "name": "Love Live! Sunshine!!"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 34973,
+                "url": "https://myanimelist.net/anime/34973/Love_Live_Sunshine_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/88322.jpg?s=70e628b9d54387d85c27210decbf7c37",
+                "name": "Love Live! Sunshine!! 2nd Season"
+            }
+        },
+        {
+            "position": "Director",
+            "anime": {
+                "mal_id": 40513,
+                "url": "https://myanimelist.net/anime/40513/Nami_yo_Kiitekure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg?s=759f5fe07120fadb37b500f881b7dafd",
+                "name": "Nami yo Kiitekure"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 40513,
+                "url": "https://myanimelist.net/anime/40513/Nami_yo_Kiitekure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg?s=759f5fe07120fadb37b500f881b7dafd",
+                "name": "Nami yo Kiitekure"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 40513,
+                "url": "https://myanimelist.net/anime/40513/Nami_yo_Kiitekure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1615/105582.jpg?s=759f5fe07120fadb37b500f881b7dafd",
+                "name": "Nami yo Kiitekure"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 36023,
+                "url": "https://myanimelist.net/anime/36023/Persona_5_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg?s=5a0004d8cdafe7aa0824c4637790d18f",
+                "name": "Persona 5 the Animation"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 36023,
+                "url": "https://myanimelist.net/anime/36023/Persona_5_the_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1829/92056.jpg?s=5a0004d8cdafe7aa0824c4637790d18f",
+                "name": "Persona 5 the Animation"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 30187,
+                "url": "https://myanimelist.net/anime/30187/Sakurako-san_no_Ashimoto_ni_wa_Shitai_ga_Umatteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76116.jpg?s=17f6109fcaa7134f12ce0b82d979b71d",
+                "name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 30187,
+                "url": "https://myanimelist.net/anime/30187/Sakurako-san_no_Ashimoto_ni_wa_Shitai_ga_Umatteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76116.jpg?s=17f6109fcaa7134f12ce0b82d979b71d",
+                "name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru"
+            }
+        },
+        {
+            "position": "Assistant Director",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 23325,
+                "url": "https://myanimelist.net/anime/23325/Shirogane_no_Ishi__Argevollen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64453.jpg?s=40b735f156b5723f3bf9a6c8bb19ee23",
+                "name": "Shirogane no Ishi: Argevollen"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 23325,
+                "url": "https://myanimelist.net/anime/23325/Shirogane_no_Ishi__Argevollen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64453.jpg?s=40b735f156b5723f3bf9a6c8bb19ee23",
+                "name": "Shirogane no Ishi: Argevollen"
+            }
+        }
+    ],
+    "published_manga": []
+}

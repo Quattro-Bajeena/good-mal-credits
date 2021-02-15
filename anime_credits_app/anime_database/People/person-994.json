@@ -1,0 +1,479 @@
+{
+    "mal_id": 994,
+    "url": "https://myanimelist.net/people/994/Ted_Cole",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/20289.jpg",
+    "name": "Ted Cole",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1971-04-05T00:00:00+00:00",
+    "member_favorites": 10,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 84517,
+                "url": "https://myanimelist.net/character/84517/Larry_Conners",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/206665.jpg?s=c93ccc1dd3a83a960688a4cd383da0b4",
+                "name": "Conners, Larry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 1929,
+                "url": "https://myanimelist.net/character/1929/Reiji_Namikawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/57873.jpg?s=ed69e04087ba8f1ca6ed6fc44b7ce832",
+                "name": "Namikawa, Reiji"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 4014,
+                "url": "https://myanimelist.net/character/4014/Yamcha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=d19896f3b02b5479bf7454c21e372e4c",
+                "name": "Yamcha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 502,
+                "url": "https://myanimelist.net/anime/502/Dragon_Ball_Movie_1__Shen_Long_no_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1854/90339.jpg?s=3fe710aedbde423bff91671379bb8f1a",
+                "name": "Dragon Ball Movie 1: Shen Long no Densetsu"
+            },
+            "character": {
+                "mal_id": 4014,
+                "url": "https://myanimelist.net/character/4014/Yamcha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=d19896f3b02b5479bf7454c21e372e4c",
+                "name": "Yamcha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 2147,
+                "url": "https://myanimelist.net/character/2147/Jinzouningen_17-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/48582.jpg?s=a483eafb1d4da01e2f4abd3a5085407c",
+                "name": "Jinzouningen 17-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 4014,
+                "url": "https://myanimelist.net/character/4014/Yamcha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=d19896f3b02b5479bf7454c21e372e4c",
+                "name": "Yamcha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 896,
+                "url": "https://myanimelist.net/anime/896/Dragon_Ball_Z_Movie_03__Chikyuu_Marugoto_Choukessen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg?s=dd7a3692225603910c1062a658d50a38",
+                "name": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen"
+            },
+            "character": {
+                "mal_id": 4014,
+                "url": "https://myanimelist.net/character/4014/Yamcha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/126147.jpg?s=d19896f3b02b5479bf7454c21e372e4c",
+                "name": "Yamcha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28977,
+                "url": "https://myanimelist.net/anime/28977/Gintama°",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72078.jpg?s=c5b9e427fa2099c196fc3e1aedb36d7c",
+                "name": "Gintama°"
+            },
+            "character": {
+                "mal_id": 3760,
+                "url": "https://myanimelist.net/character/3760/Taizou_Hasegawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/115541.jpg?s=782b8e8edf01b381c9e0ec22fdbfe8cb",
+                "name": "Hasegawa, Taizou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1483,
+                "url": "https://myanimelist.net/anime/1483/Master_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2817.jpg?s=692acb415b6cf3328c26df4b2942cff7",
+                "name": "Master Keaton"
+            },
+            "character": {
+                "mal_id": 5899,
+                "url": "https://myanimelist.net/character/5899/Taichi_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/118284.jpg?s=b900af3b4198e3136ff7b81133bace35",
+                "name": "Keaton, Taichi"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1910,
+                "url": "https://myanimelist.net/anime/1910/Master_Keaton_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/14522.jpg?s=cdc6b42b479580b2498f3316628b59e9",
+                "name": "Master Keaton OVA"
+            },
+            "character": {
+                "mal_id": 5899,
+                "url": "https://myanimelist.net/character/5899/Taichi_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/118284.jpg?s=b900af3b4198e3136ff7b81133bace35",
+                "name": "Keaton, Taichi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 128835,
+                "url": "https://myanimelist.net/character/128835/Gene_Wakkein",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/286402.jpg?s=56473964bda6abb5617d9887b55fb942",
+                "name": "Wakkein, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2581,
+                "url": "https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/13200.jpg?s=c0524dc7e81d3f49c9ba8646de596bfb",
+                "name": "Mobile Suit Gundam 00"
+            },
+            "character": {
+                "mal_id": 9075,
+                "url": "https://myanimelist.net/character/9075/Michael_Trinity",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/33468.jpg?s=248f71a27b7b15126b0792ef7567143f",
+                "name": "Trinity, Michael"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            },
+            "character": {
+                "mal_id": 1267,
+                "url": "https://myanimelist.net/character/1267/Gilbert_Durandal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/30417.jpg?s=5019108e0b77d8aae2b94004af6c904c",
+                "name": "Durandal, Gilbert"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1241,
+                "url": "https://myanimelist.net/anime/1241/Mobile_Suit_Gundam_SEED_Destiny_Final_Plus__The_Chosen_Future",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/80397.jpg?s=27c9e79e309db0be87e96aec8ad95b1a",
+                "name": "Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future"
+            },
+            "character": {
+                "mal_id": 1267,
+                "url": "https://myanimelist.net/character/1267/Gilbert_Durandal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/30417.jpg?s=5019108e0b77d8aae2b94004af6c904c",
+                "name": "Durandal, Gilbert"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 90,
+                "url": "https://myanimelist.net/anime/90/Mobile_Suit_Gundam_Wing",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6613.jpg?s=7ce792c7c13f575c94ddd1352fb27165",
+                "name": "Mobile Suit Gundam Wing"
+            },
+            "character": {
+                "mal_id": 110,
+                "url": "https://myanimelist.net/character/110/Wufei_Chang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/277945.jpg?s=05583cdce895df634933ee8d3c779533",
+                "name": "Chang, Wufei"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 91,
+                "url": "https://myanimelist.net/anime/91/Mobile_Suit_Gundam_Wing__Endless_Waltz",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/91.jpg?s=9840fa4f3960f69605b865dd021d41d9",
+                "name": "Mobile Suit Gundam Wing: Endless Waltz"
+            },
+            "character": {
+                "mal_id": 110,
+                "url": "https://myanimelist.net/character/110/Wufei_Chang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/277945.jpg?s=05583cdce895df634933ee8d3c779533",
+                "name": "Chang, Wufei"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2273,
+                "url": "https://myanimelist.net/anime/2273/Mobile_Suit_Gundam_Wing__Endless_Waltz_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2507.jpg?s=c69ac06add256b63d970080942f8aa51",
+                "name": "Mobile Suit Gundam Wing: Endless Waltz Movie"
+            },
+            "character": {
+                "mal_id": 110,
+                "url": "https://myanimelist.net/character/110/Wufei_Chang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/277945.jpg?s=05583cdce895df634933ee8d3c779533",
+                "name": "Chang, Wufei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 210,
+                "url": "https://myanimelist.net/anime/210/Ranma_½",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6441.jpg?s=f17401242c8779929bfeec581b66b3b3",
+                "name": "Ranma ½"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1007,
+                "url": "https://myanimelist.net/anime/1007/Ranma_½_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/63459.jpg?s=15fc4246194faa9e9a9734cea7160090",
+                "name": "Ranma ½ OVA"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1011,
+                "url": "https://myanimelist.net/anime/1011/Ranma_½_Super",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1071/94957.jpg?s=8074ee2d54d350e5995e0a977eed80f5",
+                "name": "Ranma ½ Super"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1010,
+                "url": "https://myanimelist.net/anime/1010/Ranma_½__Chou_Musabetsu_Kessen_Ranma_Team_vs_Densetsu_no_Houou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1985/107722.jpg?s=2944cfc00081d996d38fe6d50ca903db",
+                "name": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 418,
+                "url": "https://myanimelist.net/anime/418/Ranma_½__Chuugoku_Nekonron_Daikessen_Okite_Yaburi_no_Gekitou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76023.jpg?s=2563bef95bf9692a17c77a7e30c722bb",
+                "name": "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 792,
+                "url": "https://myanimelist.net/anime/792/Ranma_½__Kessen_Tougenkyou_Hanayome_wo_Torimodose",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1855/95323.jpg?s=f3a03f78efdbd93c77d5d7b9ae34f860",
+                "name": "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1008,
+                "url": "https://myanimelist.net/anime/1008/Ranma_½__Yomigaeru_Kioku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/63453.jpg?s=63d8cb14f7b72974361a387e60c2b966",
+                "name": "Ranma ½: Yomigaeru Kioku"
+            },
+            "character": {
+                "mal_id": 7699,
+                "url": "https://myanimelist.net/character/7699/Tatewaki_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/76692.jpg?s=89b2c6d79314b51b32bbd77c8832b9bd",
+                "name": "Kuno, Tatewaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1710,
+                "url": "https://myanimelist.net/anime/1710/RockmanEXE",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26575.jpg?s=70866662821efcd03024e41fa1b9da60",
+                "name": "Rockman.EXE"
+            },
+            "character": {
+                "mal_id": 25723,
+                "url": "https://myanimelist.net/character/25723/GlydeEXE",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/199259.jpg?s=8b5ec403273b0f2ce2619840da55c0f8",
+                "name": "Glyde.EXE"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1837,
+                "url": "https://myanimelist.net/anime/1837/Sumeba_Miyako_no_Cosmos-sou_Suttoko_Taisen_Dokkoida",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/84824.jpg?s=298047604e3ed5e1eb010b9a527b6b20",
+                "name": "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida"
+            },
+            "character": {
+                "mal_id": 32066,
+                "url": "https://myanimelist.net/character/32066/Pierre",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/106740.jpg?s=587d5f4136831f70882cbe52a0828ef9",
+                "name": "Pierre"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 182,
+                "url": "https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30689.jpg?s=dec965692399fb8214ba850ed4bcb965",
+                "name": "Tenkuu no Escaflowne"
+            },
+            "character": {
+                "mal_id": 8788,
+                "url": "https://myanimelist.net/character/8788/Excavation_Site_Commander",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/280294.jpg?s=cde8c8e3f03e1a2f9860dbb27e392802",
+                "name": "Excavation Site Commander"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 508,
+                "url": "https://myanimelist.net/anime/508/Tottoko_Hamtarou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21562.jpg?s=5fad09a028185b1079be51d9cee257aa",
+                "name": "Tottoko Hamtarou"
+            },
+            "character": {
+                "mal_id": 7208,
+                "url": "https://myanimelist.net/character/7208/Taishoo-kun",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/11166.jpg?s=788299078aafdee9a4415c4937355daa",
+                "name": "Taishoo-kun"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 928,
+                "url": "https://myanimelist.net/anime/928/Transformers_Galaxy_Force",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/87406.jpg?s=12869b525f1eb56f4863a8eb7d872df6",
+                "name": "Transformers Galaxy Force"
+            },
+            "character": {
+                "mal_id": 128249,
+                "url": "https://myanimelist.net/character/128249/Doubleface",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/281623.jpg?s=769f7a48cd4a3351c7f14a558424c0b3",
+                "name": "Doubleface"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 744,
+                "url": "https://myanimelist.net/anime/744/Trouble_Chocolate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/61293.jpg?s=abe5e8ed4b16832589e5832a7e9b8b64",
+                "name": "Trouble Chocolate"
+            },
+            "character": {
+                "mal_id": 14495,
+                "url": "https://myanimelist.net/character/14495/Murakata",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/28786.jpg?s=d6efc731792fe2dd6caca3cbd5527eb7",
+                "name": "Murakata"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 764,
+                "url": "https://myanimelist.net/anime/764/Zoids_Shinseiki_Zero",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/24972.jpg?s=d9ce1450fa278b7e50e9c64979abe5a5",
+                "name": "Zoids Shinseiki/Zero"
+            },
+            "character": {
+                "mal_id": 19696,
+                "url": "https://myanimelist.net/character/19696/Leon_Toros",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/44728.jpg?s=1323ba250134559742c49571a9b3a42b",
+                "name": "Toros, Leon"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

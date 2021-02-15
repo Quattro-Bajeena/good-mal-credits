@@ -23,9 +23,12 @@
     margin: 25px 50px;
 }
 
+.contentTable thead th.fixedWidth{
+    width: 200px;
+}
 
-.contentTable tbody {
-    font-size: 0.9em;
+.contentTable thead th.pictureCol{
+    min-width: 50px;
 }
 
 .contentTable .mainHeader th{
@@ -40,16 +43,25 @@
     padding-right: 15px;
 }
 
+.contentTable tbody {
+    font-size: 0.9em;
+}
+
 .contentTable tbody tr{
     border-bottom: 1px solid lightgray;
 }
 
 .contentTable tbody tr:nth-last-of-type(even){
     background-color: rgb(233, 233, 233);
+    
 }
 
 .contentTable tbody tr:last-of-type{
     border-bottom: 2px solid crimson;
+}
+
+.contentTable tbody tr td{
+    max-width: 200px;
 }
 
 .sortableColHeader{

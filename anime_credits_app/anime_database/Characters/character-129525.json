@@ -1,0 +1,50 @@
+{
+    "mal_id": 129525,
+    "url": "https://myanimelist.net/character/129525/Darota",
+    "name": "Darota",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283922.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 515,
+            "name": "Drummond, Brian",
+            "url": "https://myanimelist.net/people/515/Brian_Drummond",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39588.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 673,
+            "name": "Furukawa, Toshio",
+            "url": "https://myanimelist.net/people/673/Toshio_Furukawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12850.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 43345,
+            "name": "Di Troia, Enrico",
+            "url": "https://myanimelist.net/people/43345/Enrico_Di_Troia",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46952.jpg",
+            "language": "Italian"
+        }
+    ]
+}

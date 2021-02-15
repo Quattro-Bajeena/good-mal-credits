@@ -1,0 +1,44 @@
+{
+    "mal_id": 32015,
+    "url": "https://myanimelist.net/anime/32015/Ajin_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/79906.jpg",
+    "title": "Ajin OVA",
+    "title_english": null,
+    "title_japanese": "亜人",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-05-06T00:00:00+00:00",
+        "to": "2016-10-07T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 5,
+                "year": 2016
+            },
+            "to": {
+                "day": 7,
+                "month": 10,
+                "year": 2016
+            }
+        },
+        "string": "May 6, 2016 to Oct 7, 2016"
+    },
+    "score": 7.25,
+    "scored_by": 14796,
+    "rank": 2562,
+    "popularity": 2597,
+    "members": 38569,
+    "favorites": 28,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

@@ -54,12 +54,16 @@ def rate_limiter(func_with_api_call):
         # second_limit -= 1
         # minute_limit -= 1
         
-        # last_request = time.time()
 
-        time.sleep(4)
+        if time.time() - last_request <= 4:
+            time.sleep(4)
+
+        last_request = time.time()
         return func_with_api_call(*args, **kwargs)
 
     return wrapper
+
+
 
 @rate_limiter
 def id_from_search(type: str, query: str) -> int:
@@ -96,7 +100,7 @@ def search_options(q_type: str, query: str, number : int = 0):
 
 # CHARACTERS AND STAFF
 @rate_limiter
-def get_characters_staff_api(mal_id : int) -> list:
+def get_characters_staff_api(mal_id : int) -> dict:
     characters_staff = jikan.anime(mal_id, extension="characters_staff")
     return {"mal_id": mal_id, "characters":characters_staff['characters'], "staff": characters_staff["staff"]}
 
@@ -186,6 +190,37 @@ def save_manga(manga: dict):
     with open(config.manga_folder / Path(f"manga-{mal_id}.json"), 'w', encoding='utf-8') as f:
         json.dump(manga, f, indent=4, ensure_ascii=False)
 
+
+@rate_limiter
+def get_studio_api(mal_id : int)->dict:
+    
+    studio = {}
+    studio_mal = jikan.producer(mal_id)
+    attributes_to_copy = ['mal_id', 'type', 'name', 'url']
+    for attr in attributes_to_copy:
+        studio[attr] = studio_mal['meta'][attr]
+
+    studio['anime'] = []
+
+    page = 2
+    try:
+        while True:
+            time.sleep(4)
+            studio['anime'] += studio_mal['anime']
+            studio_mal = jikan.producer(mal_id, page=page)
+            page += 1
+    except APIException as e:
+        return studio
+        
+
+    
+
+def save_studio(studio:dict):
+    mal_id = studio["mal_id"]
+    with open(config.studios_folder / Path(f"studio-{mal_id}.json"), 'w', encoding='utf-8') as f:
+        json.dump(studio, f, indent=4, ensure_ascii=False)
+
+
 #GENERAL
 
 def check_file(resource_type, mal_id : int) -> bool:
@@ -221,7 +256,8 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
         'people' : get_person_api,
         'characters_staff' : get_characters_staff_api,
         'characters' : get_character_api,
-        'manga' : get_manga_api
+        'manga' : get_manga_api,
+        'studios' : get_studio_api
     }
 
     save_functions = {
@@ -229,7 +265,8 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
         'people' : save_person,
         'characters_staff' : save_characters_staff,
         'characters' : save_character,
-        'manga' : save_manga
+        'manga' : save_manga,
+        'studios' : save_studio
     }
 
     

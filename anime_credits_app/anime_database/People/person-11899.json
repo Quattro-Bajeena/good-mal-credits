@@ -1,0 +1,89 @@
+{
+    "mal_id": 11899,
+    "url": "https://myanimelist.net/people/11899/Alaina_Burnett",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Alaina Burnett",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1977-12-06T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 249,
+                "url": "https://myanimelist.net/anime/249/InuYasha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg?s=b28fc0284c6245cf1277c94f582d5a10",
+                "name": "InuYasha"
+            },
+            "character": {
+                "mal_id": 21685,
+                "url": "https://myanimelist.net/character/21685/Izayoi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/56822.jpg?s=24831a6bcbd35c32ebc04516a5029a9d",
+                "name": "Izayoi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 451,
+                "url": "https://myanimelist.net/anime/451/InuYasha_Movie_3__Tenka_Hadou_no_Ken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg?s=c00c6f6e0695809d6991ad78c9f45d26",
+                "name": "InuYasha Movie 3: Tenka Hadou no Ken"
+            },
+            "character": {
+                "mal_id": 21685,
+                "url": "https://myanimelist.net/character/21685/Izayoi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/56822.jpg?s=24831a6bcbd35c32ebc04516a5029a9d",
+                "name": "Izayoi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 1338,
+                "url": "https://myanimelist.net/character/1338/Sayla_Mass",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/115368.jpg?s=441df3a8a53b5cad62d4b31976c42ce5",
+                "name": "Mass, Sayla"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 593,
+                "url": "https://myanimelist.net/anime/593/Mugen_no_Ryvius",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16734.jpg?s=46a961890cb7aee6a9d28be25e86533e",
+                "name": "Mugen no Ryvius"
+            },
+            "character": {
+                "mal_id": 17500,
+                "url": "https://myanimelist.net/character/17500/Ran_Luckmolde",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/58262.jpg?s=b5540659ff67bf614418f8ed2e417258",
+                "name": "Luckmolde, Ran"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 764,
+                "url": "https://myanimelist.net/anime/764/Zoids_Shinseiki_Zero",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/24972.jpg?s=d9ce1450fa278b7e50e9c64979abe5a5",
+                "name": "Zoids Shinseiki/Zero"
+            },
+            "character": {
+                "mal_id": 19947,
+                "url": "https://myanimelist.net/character/19947/Pierce",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/45814.jpg?s=eeb50739bf4c67af164aa587bd7abe15",
+                "name": "Pierce"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

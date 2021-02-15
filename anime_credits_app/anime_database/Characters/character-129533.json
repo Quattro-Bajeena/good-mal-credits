@@ -1,0 +1,57 @@
+{
+    "mal_id": 129533,
+    "url": "https://myanimelist.net/character/129533/Gadem",
+    "name": "Gadem",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/283930.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 73633,
+            "name": "Gundam Legacy",
+            "url": "https://myanimelist.net/manga/73633/Gundam_Legacy",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/128373.jpg?s=feaf4c756127edf4f9f75a3158d9e104",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 562,
+            "name": "Dobson, Michael",
+            "url": "https://myanimelist.net/people/562/Michael_Dobson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/40856.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11821,
+            "name": "Mizutori, Tetsuo",
+            "url": "https://myanimelist.net/people/11821/Tetsuo_Mizutori",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/11026.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 20595,
+            "name": "Alessandro, Bruno",
+            "url": "https://myanimelist.net/people/20595/Bruno_Alessandro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/38263.jpg",
+            "language": "Italian"
+        }
+    ]
+}

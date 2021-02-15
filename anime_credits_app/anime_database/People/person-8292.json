@@ -1,0 +1,89 @@
+{
+    "mal_id": 8292,
+    "url": "https://myanimelist.net/people/8292/Ross_Douglas",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5490.jpg",
+    "name": "Ross Douglas",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1483,
+                "url": "https://myanimelist.net/anime/1483/Master_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2817.jpg?s=692acb415b6cf3328c26df4b2942cff7",
+                "name": "Master Keaton"
+            },
+            "character": {
+                "mal_id": 23421,
+                "url": "https://myanimelist.net/character/23421/Daniel_OConnell",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "O'Connell, Daniel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1910,
+                "url": "https://myanimelist.net/anime/1910/Master_Keaton_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/14522.jpg?s=cdc6b42b479580b2498f3316628b59e9",
+                "name": "Master Keaton OVA"
+            },
+            "character": {
+                "mal_id": 23421,
+                "url": "https://myanimelist.net/character/23421/Daniel_OConnell",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "O'Connell, Daniel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 43152,
+                "url": "https://myanimelist.net/character/43152/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1492,
+                "url": "https://myanimelist.net/anime/1492/Project_ARMS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1197/92994.jpg?s=44b83885c2fb2574dfb0ece9068da2e1",
+                "name": "Project ARMS"
+            },
+            "character": {
+                "mal_id": 36504,
+                "url": "https://myanimelist.net/character/36504/Keith_Blue",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/276927.jpg?s=c419c2a1dd66bc07030a81708ba85a02",
+                "name": "Blue, Keith"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1493,
+                "url": "https://myanimelist.net/anime/1493/Project_ARMS__The_2nd_Chapter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72859.jpg?s=e1cb2cf6b4e541bb56b3f2e278bd9b5c",
+                "name": "Project ARMS: The 2nd Chapter"
+            },
+            "character": {
+                "mal_id": 36504,
+                "url": "https://myanimelist.net/character/36504/Keith_Blue",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/276927.jpg?s=c419c2a1dd66bc07030a81708ba85a02",
+                "name": "Blue, Keith"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

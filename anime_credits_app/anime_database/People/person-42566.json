@@ -1,0 +1,74 @@
+{
+    "mal_id": 42566,
+    "url": "https://myanimelist.net/people/42566/Silvio_Anselmo",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46113.jpg",
+    "name": "Silvio Anselmo",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1936-05-02T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 97,
+                "url": "https://myanimelist.net/anime/97/Last_Exile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg?s=a8fa15483440ba9a639ea96554142faa",
+                "name": "Last Exile"
+            },
+            "character": {
+                "mal_id": 19173,
+                "url": "https://myanimelist.net/character/19173/Marius_Bassianus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/279701.jpg?s=f6bd524fa26d38437b027fabd87ad646",
+                "name": "Bassianus, Marius"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 131043,
+                "url": "https://myanimelist.net/character/131043/Connolly",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/286391.jpg?s=ac9205e86739eadb818afd42033dcbe2",
+                "name": "Connolly"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 338,
+                "url": "https://myanimelist.net/anime/338/Versailles_no_Bara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57043.jpg?s=42bcc829cef485218a1d0ecbe981e19b",
+                "name": "Versailles no Bara"
+            },
+            "character": {
+                "mal_id": 8148,
+                "url": "https://myanimelist.net/character/8148/Comte_de_Mercy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/114270.jpg?s=a8637f36a4227fab8a157527f228ae1f",
+                "name": "de Mercy, Comte"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28771,
+                "url": "https://myanimelist.net/anime/28771/Yu☆Gi☆Oh_The_Dark_Side_of_Dimensions",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/77614.jpg?s=ccf3807cf9c48ebec1b724486dda6bb8",
+                "name": "Yu☆Gi☆Oh! The Dark Side of Dimensions"
+            },
+            "character": {
+                "mal_id": 16202,
+                "url": "https://myanimelist.net/character/16202/Sugoroku_Mutou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/108434.jpg?s=acf76c93e014d2eb9520078b6151ddf5",
+                "name": "Mutou, Sugoroku"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

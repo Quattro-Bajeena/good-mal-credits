@@ -1,0 +1,119 @@
+{
+    "mal_id": 30565,
+    "url": "https://myanimelist.net/people/30565/Marc_Gómez",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49697.jpg",
+    "name": "Marc Gómez",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28725,
+                "url": "https://myanimelist.net/anime/28725/Kokoro_ga_Sakebitagatterunda",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75745.jpg?s=b31a3e2122dc51a1d49e3485c8bc7572",
+                "name": "Kokoro ga Sakebitagatterunda."
+            },
+            "character": {
+                "mal_id": 139725,
+                "url": "https://myanimelist.net/character/139725/Itsuki_Mishima",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/360215.jpg?s=0c5f0c0bb51d5a121db1797d7a020907",
+                "name": "Mishima, Itsuki"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            },
+            "character": {
+                "mal_id": 46494,
+                "url": "https://myanimelist.net/character/46494/Armin_Arlert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=08cc24bb5959bb8c5cb81536d43e89bc",
+                "name": "Arlert, Armin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 23775,
+                "url": "https://myanimelist.net/anime/23775/Shingeki_no_Kyojin_Movie_1__Guren_no_Yumiya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/63283.jpg?s=bca4479a75edc08bf677997679aab94d",
+                "name": "Shingeki no Kyojin Movie 1: Guren no Yumiya"
+            },
+            "character": {
+                "mal_id": 46494,
+                "url": "https://myanimelist.net/character/46494/Armin_Arlert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=08cc24bb5959bb8c5cb81536d43e89bc",
+                "name": "Arlert, Armin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 23777,
+                "url": "https://myanimelist.net/anime/23777/Shingeki_no_Kyojin_Movie_2__Jiyuu_no_Tsubasa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/72510.jpg?s=1929797f704d2de10ebe20c62d93da56",
+                "name": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa"
+            },
+            "character": {
+                "mal_id": 46494,
+                "url": "https://myanimelist.net/character/46494/Armin_Arlert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=08cc24bb5959bb8c5cb81536d43e89bc",
+                "name": "Arlert, Armin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 25777,
+                "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg?s=95eed836fcc0e5ce6f2f816cd4a007b5",
+                "name": "Shingeki no Kyojin Season 2"
+            },
+            "character": {
+                "mal_id": 46494,
+                "url": "https://myanimelist.net/character/46494/Armin_Arlert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=08cc24bb5959bb8c5cb81536d43e89bc",
+                "name": "Arlert, Armin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 31374,
+                "url": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75467.jpg?s=d6a7f8f3eacd8fbfab1cad2750ce3565",
+                "name": "Shingeki! Kyojin Chuugakkou"
+            },
+            "character": {
+                "mal_id": 46494,
+                "url": "https://myanimelist.net/character/46494/Armin_Arlert",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/220267.jpg?s=08cc24bb5959bb8c5cb81536d43e89bc",
+                "name": "Arlert, Armin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 19157,
+                "url": "https://myanimelist.net/anime/19157/Youkai_Watch",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/58137.jpg?s=6b878b3fb4c9a4f1fcb2191725abe6b7",
+                "name": "Youkai Watch"
+            },
+            "character": {
+                "mal_id": 146899,
+                "url": "https://myanimelist.net/character/146899/Kyuubi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/344852.jpg?s=4906f1582cd26225c7b0d43d23ae7bcb",
+                "name": "Kyuubi"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 43367,
+    "url": "https://myanimelist.net/people/43367/Bruno_Conti",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46880.jpg",
+    "name": "Bruno Conti",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1961-06-09T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 136,
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19473.jpg?s=ebc060a61ea40c597b642a84ee74a53c",
+                "name": "Hunter x Hunter"
+            },
+            "character": {
+                "mal_id": 52497,
+                "url": "https://myanimelist.net/character/52497/Majitani",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/144181.jpg?s=2216d2455bd3182f7f0f08bf8ee1f936",
+                "name": "Majitani"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129507,
+                "url": "https://myanimelist.net/character/129507/Akahana",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/342079.jpg?s=daf7d0edc1e6338f4d0832372c625e98",
+                "name": "Akahana"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

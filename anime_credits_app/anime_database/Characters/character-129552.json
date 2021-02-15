@@ -1,0 +1,85 @@
+{
+    "mal_id": 129552,
+    "url": "https://myanimelist.net/character/129552/Ortega",
+    "name": "Ortega",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/283949.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10937,
+            "name": "Mobile Suit Gundam: The Origin",
+            "url": "https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/72702.jpg?s=add3b90975f5a2b8d852d41685eed19d",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 51179,
+            "name": "Kidou Senshi Gunam MSV-R: Uchuu Seiki Eiyuu Densetsu - Kougei no Shin Matsunaga",
+            "url": "https://myanimelist.net/manga/51179/Kidou_Senshi_Gunam_MSV-R__Uchuu_Seiki_Eiyuu_Densetsu_-_Kougei_no_Shin_Matsunaga",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/90403.jpg?s=103b2c24c766e5c0107da3bc8f6846c4",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 232,
+            "name": "Thornton, Kirk",
+            "url": "https://myanimelist.net/people/232/Kirk_Thornton",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40780.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 629,
+            "name": "Futamata, Issei",
+            "url": "https://myanimelist.net/people/629/Issei_Futamata",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54852.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1547,
+            "name": "Erholtz, Doug",
+            "url": "https://myanimelist.net/people/1547/Doug_Erholtz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40024.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 10273,
+            "name": "Matsuda, Kenichirou",
+            "url": "https://myanimelist.net/people/10273/Kenichirou_Matsuda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32521.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 44555,
+            "name": "Fidecaro, Roberto",
+            "url": "https://myanimelist.net/people/44555/Roberto_Fidecaro",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

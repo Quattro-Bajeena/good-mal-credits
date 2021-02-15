@@ -1,0 +1,44 @@
+{
+    "mal_id": 39531,
+    "url": "https://myanimelist.net/anime/39531/Kuutei_Dragons",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1019/103606.jpg",
+    "title": "Kuutei Dragons",
+    "title_english": "Drifting Dragons",
+    "title_japanese": "空挺ドラゴンズ",
+    "type": "ONA",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2020-01-09T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 1,
+                "year": 2020
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 9, 2020"
+    },
+    "score": 7.05,
+    "scored_by": 8093,
+    "rank": 3466,
+    "popularity": 2999,
+    "members": 29559,
+    "favorites": 68,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

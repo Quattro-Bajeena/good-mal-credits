@@ -1,0 +1,59 @@
+{
+    "mal_id": 9597,
+    "url": "https://myanimelist.net/people/9597/Kristie_Marsden",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/7160.jpg",
+    "name": "Kristie Marsden",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1982-02-02T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 8135,
+                "url": "https://myanimelist.net/character/8135/Sayu_Yagami",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/262773.jpg?s=292fcda2198173bf69ca165e862337a3",
+                "name": "Yagami, Sayu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 1349,
+                "url": "https://myanimelist.net/character/1349/Fraw_Bow",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/69552.jpg?s=cf6d51c5c9f23ec1b2e25c6607dee978",
+                "name": "Bow, Fraw"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2236,
+                "url": "https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2432.jpg?s=57b6bac001444f2f8560a31642c7c1f1",
+                "name": "Toki wo Kakeru Shoujo"
+            },
+            "character": {
+                "mal_id": 16604,
+                "url": "https://myanimelist.net/character/16604/Yuri_Hayakawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/64962.jpg?s=7b648193b634d8d63e13ae3e7713de30",
+                "name": "Hayakawa, Yuri"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 32739,
+    "url": "https://myanimelist.net/anime/32739/JRA_Hokan_Keikaku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/78558.jpg",
+    "title": "JRA Hokan Keikaku",
+    "title_english": null,
+    "title_japanese": "JRA補完計画",
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2012-06-15T00:00:00+00:00",
+        "to": "2012-10-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 15,
+                "month": 6,
+                "year": 2012
+            },
+            "to": {
+                "day": 21,
+                "month": 10,
+                "year": 2012
+            }
+        },
+        "string": "Jun 15, 2012 to Oct 21, 2012"
+    },
+    "score": 4.74,
+    "scored_by": 713,
+    "rank": 10785,
+    "popularity": 8444,
+    "members": 2334,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

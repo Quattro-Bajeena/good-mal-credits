@@ -25,3 +25,4 @@ from anime_credits_app import routes, models, config, mal_db, log_n_cache
 
 
 
+

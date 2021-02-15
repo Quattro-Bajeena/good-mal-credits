@@ -1,0 +1,44 @@
+{
+    "mal_id": 6571,
+    "url": "https://myanimelist.net/anime/6571/Koume-chan_ga_Iku",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/15018.jpg",
+    "title": "Koume-chan ga Iku!",
+    "title_english": "Here Comes Koume!",
+    "title_japanese": "小梅ちゃんが行く!!",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-08-01T00:00:00+00:00",
+        "to": "1999-10-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 8,
+                "year": 1999
+            },
+            "to": {
+                "day": 1,
+                "month": 10,
+                "year": 1999
+            }
+        },
+        "string": "Aug 1, 1999 to Oct 1, 1999"
+    },
+    "score": 5.97,
+    "scored_by": 145,
+    "rank": 8323,
+    "popularity": 10509,
+    "members": 970,
+    "favorites": 1,
+    "premiered": "Summer 1999",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

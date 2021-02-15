@@ -1,0 +1,45 @@
+{
+    "mal_id": 160679,
+    "url": "https://myanimelist.net/character/160679/Flare_Arlgrande_Jioral",
+    "name": "Flare Arlgrande Jioral",
+    "name_kanji": null,
+    "nicknames": [
+        "Freia"
+    ],
+    "member_favorites": 770,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/422029.jpg",
+    "animeography": [
+        {
+            "mal_id": 40750,
+            "name": "Kaifuku Jutsushi no Yarinaoshi",
+            "url": "https://myanimelist.net/anime/40750/Kaifuku_Jutsushi_no_Yarinaoshi",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg?s=1e33980eb3cbadeb80e6b83df2a5eeca",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 107279,
+            "name": "Kaifuku Jutsushi no Yarinaoshi: Sokushi Mahou to Skill Copy no Chouetsu Heal",
+            "url": "https://myanimelist.net/manga/107279/Kaifuku_Jutsushi_no_Yarinaoshi__Sokushi_Mahou_to_Skill_Copy_no_Chouetsu_Heal",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/201375.jpg?s=9d069b4042789143e7c2fe5e1001eaac",
+            "role": "Main"
+        },
+        {
+            "mal_id": 108197,
+            "name": "Kaifuku Jutsushi no Yarinaoshi",
+            "url": "https://myanimelist.net/manga/108197/Kaifuku_Jutsushi_no_Yarinaoshi",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/208529.jpg?s=1f7d88cd17e2e1c77cc9278c16b0fcf7",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 45432,
+            "name": "Shibuya, Ayano",
+            "url": "https://myanimelist.net/people/45432/Ayano_Shibuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48829.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

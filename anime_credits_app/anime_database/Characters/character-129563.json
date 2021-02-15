@@ -1,0 +1,35 @@
+{
+    "mal_id": 129563,
+    "url": "https://myanimelist.net/character/129563/Tachi",
+    "name": "Tachi",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/283962.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 1301,
+            "name": "Matsuoka, Youko",
+            "url": "https://myanimelist.net/people/1301/Youko_Matsuoka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/52870.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42858,
+            "name": "Cappuccio, Emilio",
+            "url": "https://myanimelist.net/people/42858/Emilio_Cappuccio",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46627.jpg",
+            "language": "Italian"
+        }
+    ]
+}

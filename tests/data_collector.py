@@ -16,7 +16,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 import anime_data_collector as adc
 
 test_folder = Path(__file__).parent
-
+adc.anime_db_config.config_database(test_folder)
 
 
 # query = "patlabor"
@@ -47,7 +47,14 @@ def save_character(mal_id):
             json.dump(character, f, indent=4, ensure_ascii=False)
 
 
-save_character(140810)
+def studio_test(mal_id):
+    studio = adc.mal.get_studio_api(1)
+    adc.mal.save_studio(studio)
+
+# print(adc.util.check_resource_exists('anime', 1))
+# print(adc.util.check_resource_exists('anime', 2))
+# print(adc.util.check_resource_exists('people', 99999))
+# print(adc.util.check_resource_exists('studios', 803))
 
 
 

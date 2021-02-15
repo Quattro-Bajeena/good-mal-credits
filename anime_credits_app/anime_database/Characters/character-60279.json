@@ -1,0 +1,64 @@
+{
+    "mal_id": 60279,
+    "url": "https://myanimelist.net/character/60279/Hana",
+    "name": "Hana",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1137,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/161461.jpg",
+    "animeography": [
+        {
+            "mal_id": 12355,
+            "name": "Ookami Kodomo no Ame to Yuki",
+            "url": "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/35721.jpg?s=f7b0202d31642600bd62c1a973118799",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 40761,
+            "name": "Ookami Kodomo no Ame to Yuki",
+            "url": "https://myanimelist.net/manga/40761/Ookami_Kodomo_no_Ame_to_Yuki",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/165496.jpg?s=06c071940f0b44f174244cba3573908e",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 472,
+            "name": "Clinkenbeard, Colleen",
+            "url": "https://myanimelist.net/people/472/Colleen_Clinkenbeard",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/30191.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1055,
+            "name": "Miyazaki, Aoi",
+            "url": "https://myanimelist.net/people/1055/Aoi_Miyazaki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49681.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1182,
+            "name": "Baldini, Antonella",
+            "url": "https://myanimelist.net/people/1182/Antonella_Baldini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4983.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 19958,
+            "name": "Eberhard, Gundi",
+            "url": "https://myanimelist.net/people/19958/Gundi_Eberhard",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/22682.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 44542,
+            "name": "Carneiro, Alessandra",
+            "url": "https://myanimelist.net/people/44542/Alessandra_Carneiro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48033.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<title>gMs - {{anime.title}}</title>
+<title>GMS - {{resource.title}}</title>
 
 {% endblock %}
 
@@ -17,10 +17,17 @@
 
 
 <div class="animeInfo infoSection" >
-    <img class="mainImage" src={{anime.image_url}}>
-    <p><b>Title:</b> {{anime.title}} </p>
-    <p><b>Premiered: </b>{{anime.aired_from | format_date}}</p>
-    <p><a href={{anime.url}} target="_blank">MAL link</a></p>
+    <img class="mainImage" src={{resource.image_url}}>
+    <p><b>Title:</b> {{resource.title}} </p>
+    <p><b>Premiered: </b>{{resource.aired_from | format_date}}</p>
+    <p><a href={{resource.url}} target="_blank">MAL link</a></p>
+    <p><b>Studios:</b>
+        <ul>
+        {% for studio in resource.studios %}
+            <li><a href="{{url_for('content',category='studios' , mal_id=studio.mal_id)}}">{{studio.name}}</a></li> 
+        {%endfor%}
+        </ul>
+    </p>
 </div>
 
 <div class="tableSection">
@@ -28,7 +35,7 @@
 <table id="staffTable" class="contentTable">
     <thead>
         <tr class="mainHeader">
-            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="hideTableButton pictureCol"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">NAME</th>
             <th class="sortableColHeader">POSITION</th>
             <th class="sortableColHeader">FAVORITES</th>
@@ -39,8 +46,8 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterText"><input type="text"></th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>
             <th></th>
             <th></th>
@@ -49,14 +56,14 @@
     </thead>
 
     <tbody>
-        {% for member in anime.staff %}
+        {% for member in resource.staff %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{member.person.image_url}}> </td>
-            <td><a href="{{url_for('person', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
+            <td><a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
             <td> {{ member.position }} </td>
             <td>{{member.person.member_favorites}}</td>
             <td>{{ member.person.birthday | format_date}}</td>
-            <td>{{ staff_age( anime.aired_from, member.person.birthday) }}</td>
+            <td>{{ staff_age( resource.aired_from, member.person.birthday) }}</td>
             <td>{{ len(member.person.staff_credits) }}</td>
         </tr>   
         {% endfor %}
@@ -69,12 +76,12 @@
 <table id="voiceActorsTable" class="contentTable">
     <thead class="contentTableHead">
         <tr class="mainHeader">
-            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="hideTableButton pictureCol"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
             <th class="sortableColHeader">CHARACTER</th>
             <th class="sortableColHeader">FAVOURITES</th>
             <th class="sortableColHeader">ROLE</th>
 
-            <th></th>
+            <th class="pictureCol"></th>
             <th class="sortableColHeader">SEIYUU</th>
             <th class="sortableColHeader">FAVOURITES</th>
             <th class="sortableColHeader">BIRTHDAY</th>
@@ -85,22 +92,24 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>  
             <th></th>  
             <th></th>  
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><select class="filterList languageFilter"> 
+                <option value="">ALL</option>
+            </select></th>
             <th></th>  
         </tr>
     </thead>
 
     <tbody class="contentTableBody">
 
-        {% for role in anime.voice_actors %}
+        {% for role in resource.voice_actors %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
             <td>{{role.character.name}}</td>
@@ -108,11 +117,11 @@
             <td>{{role.role}}</td>
 
             <td class="imageCell"><img class="tableImage" src={{role.person.image_url}} ></td>
-            <td><a href="{{url_for('person', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
+            <td><a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
             
             <td>{{role.person.member_favorites}}</td>
             <td>{{role.person.birthday | format_date}}</td>
-            <td>{{ staff_age( anime.aired_from, role.person.birthday) }}</td>
+            <td>{{ staff_age( resource.aired_from, role.person.birthday) }}</td>
             <td>{{role.language}}</td>
             <td>{{ len(role.person.voice_acting_roles) }}</td>
         </tr>

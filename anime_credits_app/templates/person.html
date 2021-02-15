@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<title>gMs - {{person.name}}</title>
+<title>gMs - {{resource.name}}</title>
 {% endblock %}
 
 {% block css %}
@@ -15,21 +15,21 @@
 {% block main %}
 
 <div class="personInfo infoSection">
-    <img class="mainImage" src={{person.image_url}}>
-    <p><b>Name: </b>{{person.name}} </p>
-    <p><b>Birthday: </b>{{person.birthday | format_date}} </p>
-    <p><a href={{person.url}} target="_blank">MAL link</a></p>
+    <img class="mainImage" src={{resource.image_url}}>
+    <p><b>Name: </b>{{resource.name}} </p>
+    <p><b>Birthday: </b>{{resource.birthday | format_date}} </p>
+    <p><a href={{resource.url}} target="_blank">MAL link</a></p>
     <br>
 </div>
 
 <div class="tableSection">
-{% if len(person.staff_credits) > 0 %}
+{% if len(resource.staff_credits) > 0 %}
 
 <table id="personCreditsTable" class="contentTable">
     <thead>
         <tr class="mainHeader">
-            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
-            <th class="sortableColHeader">TITLE</th>
+            <th class="hideTableButton pictureCol"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="sortableColHeader fixedWidth">TITLE</th>
             <th class="sortableColHeader">POSITION</th>
 
             <th class="sortableColHeader">MEMBERS</th>
@@ -46,24 +46,24 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterText"><input type="text"> </th>
-            <th class="filterText"><input type="text"> </th>
+            <th class="filterCol"><input type="text"> </th>
+            <th class="filterCol"><input type="text"> </th>
             <th></th>
             <th></th>
             <th></th>
             <th></th>
             <th></th>
             <th></th>
-            <th class="filterText"><input type="text"> </th>
+            <th class="filterCol"><input type="text"></th>
         </tr>
     </thead>
 
 
     <tbody>
-        {% for credit in person.staff_credits %}
+        {% for credit in resource.staff_credits %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{credit.anime.image_url}}></td>
-            <td><a href="{{url_for('anime_staff', mal_id=credit.anime.mal_id)}}" >{{credit.anime.title}}</a></td>
+            <td><a href="{{url_for('content',category='anime', mal_id=credit.anime.mal_id)}}" >{{credit.anime.title}}</a></td>
             <td>{{credit.position}}</td>
 
             <td>{{credit.anime.members | format_big_number}}</td>
@@ -73,10 +73,10 @@
             <td>{{credit.anime.rank | format_big_number}}</td>
             
             <td>{{credit.anime.aired_from | format_year}}</td>
-            <td>{{ staff_age( credit.anime.aired_from, person.birthday) }}</td>
+            <td>{{ staff_age( credit.anime.aired_from, resource.birthday) }}</td>
 
             {% if len(credit.anime.studios) > 0 %}
-            <td>{{credit.anime.studios[0].name}}</td>
+            <td><a href="{{url_for('content',category='studios', mal_id=credit.anime.studios[0].mal_id)}}">{{credit.anime.studios[0].name}}</a></td>
             {% else %}
             <td>-</td>
             {% endif %}
@@ -95,15 +95,15 @@
 
 
 
-{% if len(person.voice_acting_roles) > 0 %}
+{% if len(resource.voice_acting_roles) > 0 %}
 
 <table id="personVoiceActingTable" class="contentTable">
     <thead class="contentTableHead">
         <tr class="mainHeader">
-            <th></th>
-            <th class="sortableColHeader">ANIME</th>
+            <th class="hideTableButton pictureCol"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="sortableColHeader fixedWidth">ANIME</th>
 
-            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="pictureCol"></th>
             <th class="sortableColHeader">CHARACTER</th>
             <th class="sortableColHeader">CHARACTER FAVOURITES</th>
 
@@ -120,9 +120,10 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterText"><input type="text"> </th>
+            <th class="filterCol"><input type="text"> </th>
             <th></th>
-            <th class="filterText"><input type="text"> </th>
+            <th class="filterCol"><input type="text"> </th>
+            <th></th>
             <th></th>
             <th></th>
             <th></th>
@@ -134,11 +135,11 @@
 
     <tbody class="contentTableBody">
 
-        {% for role in person.voice_acting_roles %}
+        {% for role in resource.voice_acting_roles %}
 
         <tr>
             <td class="imageCell"><img class="tableImage" src={{role.anime.image_url}} ></td>
-            <td><a href="{{url_for('anime_staff', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
+            <td><a href="{{url_for('content',category='anime', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
             <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites | format_big_number}}</td>
@@ -150,7 +151,7 @@
             <td>{{role.anime.rank | format_big_number}}</td>
             
             <td>{{role.anime.aired_from | format_year}}</td>
-            <td>{{staff_age( role.anime.aired_from, person.birthday)}}</td>
+            <td>{{staff_age( role.anime.aired_from, resource.birthday)}}</td>
         </tr>
 
         {% endfor %}
@@ -163,13 +164,13 @@
 {% endif %}
 
 
-{% if len(person.published_manga) > 0 %}
+{% if len(resource.published_manga) > 0 %}
 
 <table id="personMangaTable" class="contentTable">
     <thead>
         <tr class="mainHeader">
-            <th class="hideTableButton"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
-            <th class="sortableColHeader">TITLE</th>
+            <th class="hideTableButton pictureCol" ><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="sortableColHeader fixedWidth">TITLE</th>
             <th class="sortableColHeader">POSITION</th>
 
             <th class="sortableColHeader">MEMBERS</th>
@@ -190,8 +191,8 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterText"><input type="text"></th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>
             <th></th>
             <th></th>
@@ -200,13 +201,13 @@
             <th></th>
             <th></th>
             <th></th>
-            <th class="filterText"><input type="text"></th>
+            <th class="filterCol"><input type="text"></th>
         </tr>
     </thead>
 
 
     <tbody>
-        {% for credit in person.published_manga %}
+        {% for credit in resource.published_manga %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{credit.manga.image_url}}></td>
             <td>{{credit.manga.title}}</td>
@@ -221,10 +222,15 @@
             <td>{{credit.manga.published_from | format_year}}</td>
             <td>{{credit.manga.published_to | format_year}}</td>
 
-            <td>{{ staff_age( credit.manga.published_from, person.birthday) }}</td>
-            <td>{{ staff_age( credit.manga.published_to, person.birthday) }}</td>
+            <td>{{ staff_age( credit.manga.published_from, resource.birthday) }}</td>
+            <td>{{ staff_age( credit.manga.published_to, resource.birthday) }}</td>
 
-            <td>{{credit.manga.serialization}}</td>
+            {% if credit.manga.serialization %}
+                <td>{{credit.manga.serialization}}</td>
+            {% else %}
+                <td>-</td>
+            {% endif %}
+            
         </tr>
 
         {% endfor %}

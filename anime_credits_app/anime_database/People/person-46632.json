@@ -1,0 +1,59 @@
+{
+    "mal_id": 46632,
+    "url": "https://myanimelist.net/people/46632/Sacha_Pilara",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Sacha Pilara",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1985-08-13T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 34933,
+                "url": "https://myanimelist.net/anime/34933/Kakegurui",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86578.jpg?s=c1e23cdda453d9bd898ef5caff0f3cab",
+                "name": "Kakegurui"
+            },
+            "character": {
+                "mal_id": 123912,
+                "url": "https://myanimelist.net/character/123912/Ryouta_Suzui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/401064.jpg?s=9dd1e3e63e2cef2ce5f3e2d4e8a293a1",
+                "name": "Suzui, Ryouta"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 37086,
+                "url": "https://myanimelist.net/anime/37086/Kakegurui××",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg?s=933cab6a3457069e17a225e3b1bb35d5",
+                "name": "Kakegurui××"
+            },
+            "character": {
+                "mal_id": 123912,
+                "url": "https://myanimelist.net/character/123912/Ryouta_Suzui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/401064.jpg?s=9dd1e3e63e2cef2ce5f3e2d4e8a293a1",
+                "name": "Suzui, Ryouta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            },
+            "character": {
+                "mal_id": 84339,
+                "url": "https://myanimelist.net/character/84339/Father_Ackerman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/206391.jpg?s=e8ad093815309d4f23093aabd164bd9e",
+                "name": "Ackerman, Father"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

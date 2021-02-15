@@ -1,0 +1,761 @@
+{
+    "mal_id": 11561,
+    "url": "https://myanimelist.net/people/11561/Shirou_Shibata",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Shirou Shibata",
+    "given_name": "志朗",
+    "family_name": "柴田",
+    "birthday": null,
+    "member_favorites": 3,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 49,
+                "url": "https://myanimelist.net/anime/49/Aa_Megami-sama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/71215.jpg?s=015496af19ac6e85f46a179839123c5e",
+                "name": "Aa! Megami-sama!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22199,
+                "url": "https://myanimelist.net/anime/22199/Akame_ga_Kill",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg?s=7feca4fa5d6450a1743805e5e5475fc7",
+                "name": "Akame ga Kill!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 8676,
+                "url": "https://myanimelist.net/anime/8676/Amagami_SS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78699.jpg?s=b246d0c8edb84e692dadbfd765bbf0fa",
+                "name": "Amagami SS"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8676,
+                "url": "https://myanimelist.net/anime/8676/Amagami_SS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78699.jpg?s=b246d0c8edb84e692dadbfd765bbf0fa",
+                "name": "Amagami SS"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 66,
+                "url": "https://myanimelist.net/anime/66/Azumanga_Daioh",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/66.jpg?s=accdb5fdc010d7866199f3ca9afef134",
+                "name": "Azumanga Daioh"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 232,
+                "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg?s=ba6394350bfde4e62963b02889694bcb",
+                "name": "Cardcaptor Sakura"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 831,
+                "url": "https://myanimelist.net/anime/831/Chicchana_Yukitsukai_Sugar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17101.jpg?s=d4969b6b0c813112ec6742a7087ca9ff",
+                "name": "Chicchana Yukitsukai Sugar"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1477,
+                "url": "https://myanimelist.net/anime/1477/City_Hunter__The_Secret_Service",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1437/94390.jpg?s=33ac40ea827b48f7cf570b5da5110f77",
+                "name": "City Hunter: The Secret Service"
+            }
+        },
+        {
+            "position": "Assistant Director",
+            "anime": {
+                "mal_id": 14829,
+                "url": "https://myanimelist.net/anime/14829/Fate_kaleid_liner_Prisma☆Illya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/52603.jpg?s=a8e58906323a078d0f59ab132efa0669",
+                "name": "Fate/kaleid liner Prisma☆Illya"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1571,
+                "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg?s=5844e51f5b9f3e6097878ff9996176c8",
+                "name": "Ghost Hunt"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1571,
+                "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg?s=5844e51f5b9f3e6097878ff9996176c8",
+                "name": "Ghost Hunt"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 649,
+                "url": "https://myanimelist.net/anime/649/Hanaukyou_Maid-tai__La_Verite",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/10518.jpg?s=6e975c3aa66e34f8d76888d72e824367",
+                "name": "Hanaukyou Maid-tai: La Verite"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4192,
+                "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg?s=e935c5e7a728837913434494249e6a64",
+                "name": "Hayate no Gotoku!!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4192,
+                "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg?s=e935c5e7a728837913434494249e6a64",
+                "name": "Hayate no Gotoku!!"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 4192,
+                "url": "https://myanimelist.net/anime/4192/Hayate_no_Gotoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75212.jpg?s=e935c5e7a728837913434494249e6a64",
+                "name": "Hayate no Gotoku!!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 379,
+                "url": "https://myanimelist.net/anime/379/Heppoko_Jikken_Animation_Excel♥Saga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1728/97423.jpg?s=0ff3d9d22521bceb4119ef4c816ae71e",
+                "name": "Heppoko Jikken Animation Excel♥Saga"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 31068,
+                "url": "https://myanimelist.net/anime/31068/Hime_Chen_Otogi_Chikku_Idol_Lilpri_2011",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/74658.jpg?s=1fd62067ff68bb21ebcebcbb4fb733c1",
+                "name": "Hime Chen! Otogi Chikku Idol Lilpri (2011)"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 5686,
+                "url": "https://myanimelist.net/anime/5686/Himekishi_Angelica",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1104/103992.jpg?s=74c3ca9f946d5b4a89e69cadedf85e3f",
+                "name": "Himekishi Angelica"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 578,
+                "url": "https://myanimelist.net/anime/578/Hotaru_no_Haka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75808.jpg?s=efdd6ee49bbe8242a5c1a79f48655416",
+                "name": "Hotaru no Haka"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2169,
+                "url": "https://myanimelist.net/anime/2169/Ice",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2329.jpg?s=81b2b395240cdfd36697c6cc6e20a59a",
+                "name": "Ice"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4811,
+                "url": "https://myanimelist.net/anime/4811/Ichigo_Mashimaro_Encore",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/14251.jpg?s=f9ebc08e37e5b8316252dcfd9f6047fb",
+                "name": "Ichigo Mashimaro Encore"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 29730,
+                "url": "https://myanimelist.net/anime/29730/Ienai_Koto_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1074/104304.jpg?s=6de506162f1a5b38b135097b26d22cf8",
+                "name": "Ienai Koto The Animation"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 28517,
+                "url": "https://myanimelist.net/anime/28517/Ikenai_Koto_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1821/104305.jpg?s=66ac970ebeb95725e9286e57004e5291",
+                "name": "Ikenai Koto The Animation"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4084,
+                "url": "https://myanimelist.net/anime/4084/Inma_Youjo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/7437.jpg?s=365cbf1f79fa1d3059a3bbaa5ca03472",
+                "name": "Inma Youjo"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 249,
+                "url": "https://myanimelist.net/anime/249/InuYasha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg?s=b28fc0284c6245cf1277c94f582d5a10",
+                "name": "InuYasha"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 37086,
+                "url": "https://myanimelist.net/anime/37086/Kakegurui××",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg?s=933cab6a3457069e17a225e3b1bb35d5",
+                "name": "Kakegurui××"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 37086,
+                "url": "https://myanimelist.net/anime/37086/Kakegurui××",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1496/96519.jpg?s=933cab6a3457069e17a225e3b1bb35d5",
+                "name": "Kakegurui××"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 469,
+                "url": "https://myanimelist.net/anime/469/Karin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/46833.jpg?s=d539e52b346a4bf5675a1111dc46cc71",
+                "name": "Karin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6594,
+                "url": "https://myanimelist.net/anime/6594/Katanagatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/50023.jpg?s=c75a46251a31d747f72cc5fe6543b7b6",
+                "name": "Katanagatari"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6531,
+                "url": "https://myanimelist.net/anime/6531/Kimihagu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/14897.jpg?s=075087c6e40e159aa4d28da36e40cd99",
+                "name": "Kimihagu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3085,
+                "url": "https://myanimelist.net/anime/3085/Koharu_Biyori",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/5074.jpg?s=2e84f7ea507d35bda99e7f23264ec7f3",
+                "name": "Koharu Biyori"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 189,
+                "url": "https://myanimelist.net/anime/189/Love_Hina",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1725/94697.jpg?s=2a9718fac9a333dedc11db72931459d3",
+                "name": "Love Hina"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 519,
+                "url": "https://myanimelist.net/anime/519/Mahoraba__Heartful_days",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50903.jpg?s=00cada915e8c11bd535767a6ff3cc252",
+                "name": "Mahoraba: Heartful days"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 512,
+                "url": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75916.jpg?s=fd50906d479c9a1004e437f4ad697f45",
+                "name": "Majo no Takkyuubin"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 860,
+                "url": "https://myanimelist.net/anime/860/Makai_Senki_Disgaea",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/11816.jpg?s=4ba6c4dd5f57b14cb8e3bce741220b65",
+                "name": "Makai Senki Disgaea"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2445,
+                "url": "https://myanimelist.net/anime/2445/Maple_Colors",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5771.jpg?s=b299ee3c07bae20dda3a9e5ff09c5fad",
+                "name": "Maple Colors"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2445,
+                "url": "https://myanimelist.net/anime/2445/Maple_Colors",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5771.jpg?s=b299ee3c07bae20dda3a9e5ff09c5fad",
+                "name": "Maple Colors"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3655,
+                "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg?s=a6c9f042b2cae1ed03cc6e60859a26e9",
+                "name": "Nabari no Ou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3655,
+                "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg?s=a6c9f042b2cae1ed03cc6e60859a26e9",
+                "name": "Nabari no Ou"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 23755,
+                "url": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/65409.jpg?s=a75da2757d939a7b5bb82362eee9b451",
+                "name": "Nanatsu no Taizai"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 838,
+                "url": "https://myanimelist.net/anime/838/Narutaru__Mukuro_Naru_Hoshi_Tama_Taru_Ko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/12023.jpg?s=7826fcbc6e3a006643df960f0dd3d871",
+                "name": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 13585,
+                "url": "https://myanimelist.net/anime/13585/Natsuyuki_Rendezvous",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38181.jpg?s=d5964f97b0aab8cde2402b43158c54a5",
+                "name": "Natsuyuki Rendezvous"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2446,
+                "url": "https://myanimelist.net/anime/2446/Nikuyome__Takayanagi_Ke_no_Hitobito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22149.jpg?s=9add4756090ff3bb3fc97d0efe4c0c9d",
+                "name": "Nikuyome: Takayanagi Ke no Hitobito"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 18897,
+                "url": "https://myanimelist.net/anime/18897/Nisekoi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75587.jpg?s=72843b2401d92812637d03d889461e71",
+                "name": "Nisekoi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 18095,
+                "url": "https://myanimelist.net/anime/18095/Nourin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/57563.jpg?s=d599eadb46fd5394f9196181fb7bb4e7",
+                "name": "Nourin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 195,
+                "url": "https://myanimelist.net/anime/195/Onegai☆Teacher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5241.jpg?s=614821da89622786be2de0b97a50c8c9",
+                "name": "Onegai☆Teacher"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 196,
+                "url": "https://myanimelist.net/anime/196/Onegai☆Twins",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/7090.jpg?s=bf4abca96eb8da68bfc82f838a3a8d16",
+                "name": "Onegai☆Twins"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 7769,
+                "url": "https://myanimelist.net/anime/7769/Ookami-san_to_Shichinin_no_Nakama-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75240.jpg?s=13d1a3a9364c22dff5a73df43834f8de",
+                "name": "Ookami-san to Shichinin no Nakama-tachi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2332,
+                "url": "https://myanimelist.net/anime/2332/Plastic_Little",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2599.jpg?s=65274ed9912812d916d0bb9190ecf2dc",
+                "name": "Plastic Little"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 11491,
+                "url": "https://myanimelist.net/anime/11491/Recorder_to_Randoseru_Do♪",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/33003.jpg?s=480dbdac816c8337144d9874064ba662",
+                "name": "Recorder to Randoseru Do♪"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 13377,
+                "url": "https://myanimelist.net/anime/13377/Recorder_to_Randoseru_Re♪",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38901.jpg?s=d3b4565fc909cbe360051021c8256e37",
+                "name": "Recorder to Randoseru Re♪"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1601,
+                "url": "https://myanimelist.net/anime/1601/Red_Garden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25411.jpg?s=6538d004e914cbb591f1d236f1e434bb",
+                "name": "Red Garden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 941,
+                "url": "https://myanimelist.net/anime/941/Renkin_San-kyuu_Magical_Pokaan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/75229.jpg?s=0ac7f6cd4e1ba946aeb62fab42f56a27",
+                "name": "Renkin San-kyuu Magical? Pokaan"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 22273,
+                "url": "https://myanimelist.net/anime/22273/Selector_Infected_WIXOSS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/70147.jpg?s=43fc4b30479b0267e7889145e9db9f58",
+                "name": "Selector Infected WIXOSS"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2104,
+                "url": "https://myanimelist.net/anime/2104/Seto_no_Hanayome",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/58383.jpg?s=f5410376627249778fff355de073a3a8",
+                "name": "Seto no Hanayome"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6773,
+                "url": "https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/32539.jpg?s=a3906cbc510840a01dc7beea7a3e29ec",
+                "name": "Shakugan no Shana III (Final)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6773,
+                "url": "https://myanimelist.net/anime/6773/Shakugan_no_Shana_III_Final",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/32539.jpg?s=a3906cbc510840a01dc7beea7a3e29ec",
+                "name": "Shakugan no Shana III (Final)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7724,
+                "url": "https://myanimelist.net/anime/7724/Shiki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21343.jpg?s=d3415a1bf2c959e1c6b9dfdae8171b95",
+                "name": "Shiki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 28171,
+                "url": "https://myanimelist.net/anime/28171/Shokugeki_no_Souma",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72943.jpg?s=7e4ad990b94893fd1362e80603ea56f1",
+                "name": "Shokugeki no Souma"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2604,
+                "url": "https://myanimelist.net/anime/2604/Sky_Girls",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/22733.jpg?s=4f37ff3624c59a969685ef3c7927a2a2",
+                "name": "Sky Girls"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1081,
+                "url": "https://myanimelist.net/anime/1081/Space_Pirate_Captain_Herlock__Outside_Legend_-_The_Endless_Odyssey",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1543/106174.jpg?s=73afce4e7032a59e3f7555980500d4f1",
+                "name": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9253,
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=42dc613dc84cfe02cbcd6a91c7250ae8",
+                "name": "Steins;Gate"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 11341,
+                "url": "https://myanimelist.net/anime/11341/Tantei_Opera_Milky_Holmes_Dai_2_Maku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/35372.jpg?s=26d59bbcd600f32db097fdc42658a47e",
+                "name": "Tantei Opera Milky Holmes Dai 2 Maku"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12445,
+                "url": "https://myanimelist.net/anime/12445/Tasogare_Otome_x_Amnesia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/64435.jpg?s=0a7bcb9c228c9b193259f9bb53ce98d9",
+                "name": "Tasogare Otome x Amnesia"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6213,
+                "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.jpg?s=9442ae6f923dc910c2a56ba77f6fa6b0",
+                "name": "Toaru Kagaku no Railgun"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6213,
+                "url": "https://myanimelist.net/anime/6213/Toaru_Kagaku_no_Railgun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/53581.jpg?s=9442ae6f923dc910c2a56ba77f6fa6b0",
+                "name": "Toaru Kagaku no Railgun"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 9047,
+                "url": "https://myanimelist.net/anime/9047/Toaru_Kagaku_no_Railgun__Misaka-san_wa_Ima_Chuumoku_no_Mato_Desu_kara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1134/98125.jpg?s=abc87a24fa96b434d144a7a5936cf330",
+                "name": "Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 8937,
+                "url": "https://myanimelist.net/anime/8937/Toaru_Majutsu_no_Index_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75612.jpg?s=ef6cd7f511a76fd5485388ce29a3052d",
+                "name": "Toaru Majutsu no Index II"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 8937,
+                "url": "https://myanimelist.net/anime/8937/Toaru_Majutsu_no_Index_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75612.jpg?s=ef6cd7f511a76fd5485388ce29a3052d",
+                "name": "Toaru Majutsu no Index II"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8937,
+                "url": "https://myanimelist.net/anime/8937/Toaru_Majutsu_no_Index_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75612.jpg?s=ef6cd7f511a76fd5485388ce29a3052d",
+                "name": "Toaru Majutsu no Index II"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11743,
+                "url": "https://myanimelist.net/anime/11743/Toaru_Majutsu_no_Index_Movie__Endymion_no_Kiseki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1885/93861.jpg?s=d171aaade2790932131a35ab72d65cfa",
+                "name": "Toaru Majutsu no Index Movie: Endymion no Kiseki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 113,
+                "url": "https://myanimelist.net/anime/113/Uchuu_no_Stellvia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/15225.jpg?s=4cb1cfcd98b01e31cd42249fb93d2c6b",
+                "name": "Uchuu no Stellvia"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 12029,
+                "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s=cb23ccc1827c6154951f7145e51d318f",
+                "name": "Uchuu Senkan Yamato 2199"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7144,
+                "url": "https://myanimelist.net/anime/7144/Uchuu_Senkan_Yamato__Fukkatsu-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/83052.jpg?s=8507b4221fa8ba17c40da798a2125807",
+                "name": "Uchuu Senkan Yamato: Fukkatsu-hen"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 544,
+                "url": "https://myanimelist.net/anime/544/Venus_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1598/97574.jpg?s=2e2987f6823c8b36e91698fb0f86f6ce",
+                "name": "Venus Senki"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 23847,
+                "url": "https://myanimelist.net/anime/23847/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Zoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75376.jpg?s=02006def3e87ce7fb36b8f36695e6799",
+                "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 20545,
+                "url": "https://myanimelist.net/anime/20545/Yuusha_ni_Narenakatta_Ore_wa_Shibushibu_Shuushoku_wo_Ketsui_Shimashita_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/62683.jpg?s=ed947afc16bab3db2a2dfa1a45df71ab",
+                "name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1195,
+                "url": "https://myanimelist.net/anime/1195/Zero_no_Tsukaima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20680.jpg?s=854381db460dcc6cbfb9cace8d7d33e1",
+                "name": "Zero no Tsukaima"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1195,
+                "url": "https://myanimelist.net/anime/1195/Zero_no_Tsukaima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20680.jpg?s=854381db460dcc6cbfb9cace8d7d33e1",
+                "name": "Zero no Tsukaima"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1041,
+                "url": "https://myanimelist.net/anime/1041/Zetsuai_1989",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73226.jpg?s=267cd4e503b72747942c6092da17a570",
+                "name": "Zetsuai 1989"
+            }
+        }
+    ],
+    "published_manga": []
+}

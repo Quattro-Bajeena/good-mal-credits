@@ -1,0 +1,35 @@
+{
+    "mal_id": 129543,
+    "url": "https://myanimelist.net/character/129543/Kom",
+    "name": "Kom",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/6/283940.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 673,
+            "name": "Furukawa, Toshio",
+            "url": "https://myanimelist.net/people/673/Toshio_Furukawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12850.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42646,
+            "name": "Lucchetti, Sergio",
+            "url": "https://myanimelist.net/people/42646/Sergio_Lucchetti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46010.jpg",
+            "language": "Italian"
+        }
+    ]
+}

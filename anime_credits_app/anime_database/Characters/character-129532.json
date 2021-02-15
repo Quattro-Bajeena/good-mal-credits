@@ -1,0 +1,63 @@
+{
+    "mal_id": 129532,
+    "url": "https://myanimelist.net/character/129532/Flanagan_Boone",
+    "name": "Flanagan Boone",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/342084.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 352,
+            "name": "Epcar, Richard",
+            "url": "https://myanimelist.net/people/352/Richard_Epcar",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/34985.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 515,
+            "name": "Drummond, Brian",
+            "url": "https://myanimelist.net/people/515/Brian_Drummond",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39588.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 5446,
+            "name": "Kanie, Eiji",
+            "url": "https://myanimelist.net/people/5446/Eiji_Kanie",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/8590.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6730,
+            "name": "Nagai, Ichiro",
+            "url": "https://myanimelist.net/people/6730/Ichiro_Nagai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/32971.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42685,
+            "name": "De Sando, Stefano",
+            "url": "https://myanimelist.net/people/42685/Stefano_De_Sando",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46259.jpg",
+            "language": "Italian"
+        }
+    ]
+}

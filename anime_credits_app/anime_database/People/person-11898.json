@@ -1,0 +1,59 @@
+{
+    "mal_id": 11898,
+    "url": "https://myanimelist.net/people/11898/Sylvia_Zaradic",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/11129.jpg",
+    "name": "Sylvia Zaradic",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1542,
+                "url": "https://myanimelist.net/anime/1542/Brain_Powerd",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1749/91562.jpg?s=09bdc6b99ec2d0405f9be04c696fa8cf",
+                "name": "Brain Powerd"
+            },
+            "character": {
+                "mal_id": 27189,
+                "url": "https://myanimelist.net/character/27189/Midori_Isami",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/68767.jpg?s=b85e4b67978498f72dc5dced3fa84ced",
+                "name": "Isami, Midori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 35015,
+                "url": "https://myanimelist.net/character/35015/Matilda_Ajan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/95464.jpg?s=55e6ea67a1638e6443bb5d5d9259448c",
+                "name": "Ajan, Matilda"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 210,
+                "url": "https://myanimelist.net/anime/210/Ranma_½",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6441.jpg?s=f17401242c8779929bfeec581b66b3b3",
+                "name": "Ranma ½"
+            },
+            "character": {
+                "mal_id": 10028,
+                "url": "https://myanimelist.net/character/10028/Kodachi_Kuno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/71621.jpg?s=8e3cf6afd4c4bcc667b5215d6e3cdea9",
+                "name": "Kuno, Kodachi"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

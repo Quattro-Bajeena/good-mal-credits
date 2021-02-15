@@ -137,6 +137,9 @@ class MangaAuthor(db.Model):
     person_id = db.Column(db.Integer, db.ForeignKey('person.mal_id'))
     manga_id = db.Column(db.Integer, db.ForeignKey('manga.mal_id'))
 
+    def __repr__(self):
+        return f"MangaAuthor pos:{self.position}, person:{self.person_id}, manga:{self.manga_id}"
+
 class Studio(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     # just type in MAL api
@@ -146,12 +149,18 @@ class Studio(db.Model):
 
     
     anime = db.relationship('Anime', secondary=studios, lazy='subquery', backref=db.backref('studios', lazy=True))
+
+    def __repr__(self):
+        return f"Studio {self.name}"
     
     
     
 class PageStatus(db.Model):
-    mal_id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(db.String(50), primary_key=True)
+    
+    mal_id = db.Column(db.Integer, nullable=False)
     category = db.Column(db.String(50), nullable=False)
+
     exists = db.Column(db.Boolean, default=False, nullable=False)
 
     last_modified = db.Column(db.DateTime)
@@ -159,5 +168,16 @@ class PageStatus(db.Model):
     scheduled_to_update = db.Column(db.Boolean, default=False)
     
     task_id = db.Column(db.String(100))
+
+    def __repr__(self):
+        return f"PageStatus {self.id}, exists: {self.exists}, updating:{self.updating}, last modified: {self.last_modified}"
+
+
+
+category_models = {
+    'anime' : Anime,
+    'people' : Person,
+    'studios' : Studio
+}
 
 

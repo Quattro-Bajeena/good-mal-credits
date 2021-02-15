@@ -1,10 +1,10 @@
-let bar_fill = document.getElementById("pageDownloadBar");
-let bar_status = document.getElementById("pageDownloadStatus");
+const barFill = document.getElementById("pageDownloadBar");
+const barStatus = document.getElementById("pageDownloadStatus");
 
 function change_bar_fill(current, max, transition_duration){
 
     //console.log(current, max);
-    bar_fill.style.transitionDuration = transition_duration;
+    barFill.style.transitionDuration = transition_duration;
 
     let new_width;
     if (typeof current == 'number' && typeof max == 'number'){
@@ -13,11 +13,11 @@ function change_bar_fill(current, max, transition_duration){
         new_width =  (percent * 100) + '%';
     }
     else{
-        new_width = '100%';
+        new_width = '0%';
     }
 
     //console.log(new_width);
-    bar_fill.style.width = new_width;
+    barFill.style.width = new_width;
 }
 
 function change_bar_description(description){
@@ -28,9 +28,9 @@ function change_bar_description(description){
         text = description;
     }
     else{
-        text = "Finished";
+        text = "starting";
     }
-    bar_status.innerText = text;
+    barStatus.innerText = text;
     
 }
 
@@ -58,6 +58,11 @@ function update_bar(){
                 window.location.reload();
             }, 1000)
         }
+        else if(response['state'] == 'FAILURE'){
+            console.log(response['info']);
+            change_bar_description("Download failure");
+            barFill.style['background-color'] = 'gray';
+        }
         else if(response['info'] != null){
             //normal download situation
 
@@ -74,6 +79,12 @@ function update_bar(){
             setTimeout(update_bar, interval_time * 4);
         }
     })
+    .catch(error => {
+        console.log("Error: Couldn't retrieve progress data");
+        console.log(error);
+    });
+
+
 }
 
 

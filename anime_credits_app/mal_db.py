@@ -6,6 +6,8 @@ from celery.app.task import Task
 from anime_credits_app import db, adc, log_n_cache
 from anime_credits_app.models import Anime, Person, Character, StaffMember, VoiceActor, Studio, Manga, MangaAuthor
 
+
+
 mal = adc.mal
 
 class StatusUpdater():
@@ -539,6 +541,33 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
     db.session.commit()
 
     
+def update_studio_page(mal_id:int, use_cached:bool, celery_task:Task):
+
+    update_function_status("updating studio information", 0, 1, celery_task)
+
+    studio = mal.get_resource('studios', mal_id, use_cached=use_cached)
+
+    studio_db = Studio.query.get(mal_id)
+    if not studio_db:
+        studio_db = add_studio(studio)
+    elif not use_cached:
+        update_studio(studio_db, studio)
+
+    total_progress = 1 + len(studio['anime'])
+    status = StatusUpdater(total_progress, celery_task)
+    status.update_status("updating studio's anime")
+    print("updated studio info")
+
+    for anime_info in studio['anime']:
+        anime = mal.get_resource('anime', anime_info['mal_id'], use_cached)
+
+        anime_db = get_anime_db(anime, use_cached)
+        studio_db.anime.append(anime_db)
+        status.update_status(("updating studio's anime", f"{anime['title']}"))
+
+    print("updated all about studio")
+    update_function_status("finishing", 1, 1, celery_task )
+    db.session.commit()
         
 
 

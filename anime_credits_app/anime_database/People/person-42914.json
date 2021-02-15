@@ -1,0 +1,89 @@
+{
+    "mal_id": 42914,
+    "url": "https://myanimelist.net/people/42914/Vladimiro_Grana",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46480.jpg",
+    "name": "Vladimiro Grana",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1941-02-02T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 379,
+                "url": "https://myanimelist.net/anime/379/Heppoko_Jikken_Animation_Excel♥Saga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1728/97423.jpg?s=0ff3d9d22521bceb4119ef4c816ae71e",
+                "name": "Heppoko Jikken Animation Excel♥Saga"
+            },
+            "character": {
+                "mal_id": 101389,
+                "url": "https://myanimelist.net/character/101389/Iron_Mask",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/236917.jpg?s=423b484beeab208408ea8a20a2aa5030",
+                "name": "Iron Mask"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 967,
+                "url": "https://myanimelist.net/anime/967/Hokuto_no_Ken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18502.jpg?s=c67efbfa0c4ecf82e32f4a4c43555d82",
+                "name": "Hokuto no Ken"
+            },
+            "character": {
+                "mal_id": 9130,
+                "url": "https://myanimelist.net/character/9130/Toki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/286190.jpg?s=ff09a2a013bd865c3a8ac486455f7529",
+                "name": "Toki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 967,
+                "url": "https://myanimelist.net/anime/967/Hokuto_no_Ken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18502.jpg?s=c67efbfa0c4ecf82e32f4a4c43555d82",
+                "name": "Hokuto no Ken"
+            },
+            "character": {
+                "mal_id": 32642,
+                "url": "https://myanimelist.net/character/32642/Amiba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/87538.jpg?s=28c070b40d80b6c1c8b165edeba36e0a",
+                "name": "Amiba"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 191,
+                "url": "https://myanimelist.net/anime/191/Love_Hina_Christmas_Special__Silent_Eve",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/82467.jpg?s=8dbc4cbda497f427a88dc33dcf82adfb",
+                "name": "Love Hina Christmas Special: Silent Eve"
+            },
+            "character": {
+                "mal_id": 6420,
+                "url": "https://myanimelist.net/character/6420/Kentaro_Sakata",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/57855.jpg?s=a1d0e14ae439a8cf75bff4612dc05039",
+                "name": "Sakata, Kentaro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129542,
+                "url": "https://myanimelist.net/character/129542/Koka_Lasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/283939.jpg?s=34ef57362ed132ee4de57eb4c06b9560",
+                "name": "Lasa, Koka"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

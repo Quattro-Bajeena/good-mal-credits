@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>404 Resource Not Found</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/index.css')}}">
+{% endblock %}
+
+{% block main %}
+<span>
+    <h1>404</h1>
+    <h2>Resource does not exist</h2>
+</span>
+
+{%endblock%}

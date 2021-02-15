@@ -1,0 +1,71 @@
+{
+    "mal_id": 84339,
+    "url": "https://myanimelist.net/character/84339/Father_Ackerman",
+    "name": "Father Ackerman",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 7,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/206391.jpg",
+    "animeography": [
+        {
+            "mal_id": 16498,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=548dd4aba0c4644f8b5fbae5cfad52ea",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 23390,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/37846.jpg?s=840274d02db453f962e83662b4d7d40e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 82799,
+            "name": "Shingeki no Kyojin: Lost Girls",
+            "url": "https://myanimelist.net/manga/82799/Shingeki_no_Kyojin__Lost_Girls",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/143495.jpg?s=daae6b0cb4614e0c67a9e652ad524756",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 91047,
+            "name": "Shingeki no Kyojin: Lost Girls",
+            "url": "https://myanimelist.net/manga/91047/Shingeki_no_Kyojin__Lost_Girls",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/177247.jpg?s=db8dfc3e9a6cf10491e30545ec016b53",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 10675,
+            "name": "Endou, Daichi",
+            "url": "https://myanimelist.net/people/10675/Daichi_Endou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54908.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 19285,
+            "name": "Greene, Jarrod",
+            "url": "https://myanimelist.net/people/19285/Jarrod_Greene",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41476.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 44978,
+            "name": "Derksen, Simon",
+            "url": "https://myanimelist.net/people/44978/Simon_Derksen",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48309.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 46632,
+            "name": "Pilara, Sacha",
+            "url": "https://myanimelist.net/people/46632/Sacha_Pilara",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Italian"
+        }
+    ]
+}

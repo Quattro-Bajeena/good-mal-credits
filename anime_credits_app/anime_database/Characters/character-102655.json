@@ -1,0 +1,98 @@
+{
+    "mal_id": 102655,
+    "url": "https://myanimelist.net/character/102655/Oscar_Dublin",
+    "name": "Oscar Dublin",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/5/238931.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1090,
+            "name": "Mobile Suit Gundam I",
+            "url": "https://myanimelist.net/anime/1090/Mobile_Suit_Gundam_I",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75772.jpg?s=8a18ee23d8bffda9b229a94370b76524",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1092,
+            "name": "Mobile Suit Gundam III: Encounters in Space",
+            "url": "https://myanimelist.net/anime/1092/Mobile_Suit_Gundam_III__Encounters_in_Space",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg?s=9e3f2fdab83e9c65c6aeab89b3359a7a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 598,
+            "name": "Ikeda, Shuuichi",
+            "url": "https://myanimelist.net/people/598/Shuuichi_Ikeda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34777.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 651,
+            "name": "Shimada, Bin",
+            "url": "https://myanimelist.net/people/651/Bin_Shimada",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/32043.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 673,
+            "name": "Furukawa, Toshio",
+            "url": "https://myanimelist.net/people/673/Toshio_Furukawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12850.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 738,
+            "name": "Tanaka, Kazunari",
+            "url": "https://myanimelist.net/people/738/Kazunari_Tanaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/17731.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1129,
+            "name": "Suzuki, Kiyonobu",
+            "url": "https://myanimelist.net/people/1129/Kiyonobu_Suzuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56483.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1448,
+            "name": "Nimoy, Jeff",
+            "url": "https://myanimelist.net/people/1448/Jeff_Nimoy",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/40983.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 30035,
+            "name": "Suzuki, Seiichi",
+            "url": "https://myanimelist.net/people/30035/Seiichi_Suzuki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42684,
+            "name": "De Filippis, Stefano",
+            "url": "https://myanimelist.net/people/42684/Stefano_De_Filippis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46258.jpg",
+            "language": "Italian"
+        }
+    ]
+}

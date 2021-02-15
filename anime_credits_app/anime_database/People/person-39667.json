@@ -1,0 +1,446 @@
+{
+    "mal_id": 39667,
+    "url": "https://myanimelist.net/people/39667/Yumiko_Ishii",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Yumiko Ishii",
+    "given_name": "ゆみこ",
+    "family_name": "石井",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12291,
+                "url": "https://myanimelist.net/anime/12291/Acchi_Kocchi_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/46489.jpg?s=b66475739707b15dd71b77b21aad2240",
+                "name": "Acchi Kocchi (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 713,
+                "url": "https://myanimelist.net/anime/713/Air_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/26507.jpg?s=af47f9789ae116fccd521eea90112a84",
+                "name": "Air Movie"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 32171,
+                "url": "https://myanimelist.net/anime/32171/Ange_Vierge",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/80684.jpg?s=126a8ff08fe0f9727c68a9d4cdb72e80",
+                "name": "Ange Vierge"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 4999,
+                "url": "https://myanimelist.net/anime/4999/Asu_no_Yoichi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20621.jpg?s=6d66a14d1a99390dd95d2a3ce097d35f",
+                "name": "Asu no Yoichi!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4999,
+                "url": "https://myanimelist.net/anime/4999/Asu_no_Yoichi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20621.jpg?s=6d66a14d1a99390dd95d2a3ce097d35f",
+                "name": "Asu no Yoichi!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 4999,
+                "url": "https://myanimelist.net/anime/4999/Asu_no_Yoichi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20621.jpg?s=6d66a14d1a99390dd95d2a3ce097d35f",
+                "name": "Asu no Yoichi!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2986,
+                "url": "https://myanimelist.net/anime/2986/Bamboo_Blade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6979.jpg?s=b74fe8ddaebbb55a197ac5075661b12c",
+                "name": "Bamboo Blade"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2986,
+                "url": "https://myanimelist.net/anime/2986/Bamboo_Blade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6979.jpg?s=b74fe8ddaebbb55a197ac5075661b12c",
+                "name": "Bamboo Blade"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 32947,
+                "url": "https://myanimelist.net/anime/32947/Battery",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79158.jpg?s=654145f4a4856e07b9947cf18d662131",
+                "name": "Battery"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 831,
+                "url": "https://myanimelist.net/anime/831/Chicchana_Yukitsukai_Sugar",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17101.jpg?s=d4969b6b0c813112ec6742a7087ca9ff",
+                "name": "Chicchana Yukitsukai Sugar"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 235,
+                "url": "https://myanimelist.net/anime/235/Detective_Conan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg?s=614b950ad92b7bf700f693ccb3cd84f9",
+                "name": "Detective Conan"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2398,
+                "url": "https://myanimelist.net/anime/2398/Digimon_Adventure_02__Diablomon_no_Gyakushuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82620.jpg?s=6d52bed4db3ca16ddc07bd6b4b4368b5",
+                "name": "Digimon Adventure 02: Diablomon no Gyakushuu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3031,
+                "url": "https://myanimelist.net/anime/3031/Digimon_Frontier__Ornismon_Fukkatsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/4416.jpg?s=36eb30b50931bfede4261aa0eb0f53af",
+                "name": "Digimon Frontier: Ornismon Fukkatsu!!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22733,
+                "url": "https://myanimelist.net/anime/22733/Dragon_Collection",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/59129.jpg?s=e9a78b54b15a2918cf8280ac54360af9",
+                "name": "Dragon Collection"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 22733,
+                "url": "https://myanimelist.net/anime/22733/Dragon_Collection",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/59129.jpg?s=e9a78b54b15a2918cf8280ac54360af9",
+                "name": "Dragon Collection"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 22043,
+                "url": "https://myanimelist.net/anime/22043/Fairy_Tail_2014",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/60551.jpg?s=1d72673a444be65a8a0744b09bd9c190",
+                "name": "Fairy Tail (2014)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6527,
+                "url": "https://myanimelist.net/anime/6527/Fresh_Precure_Movie__Omocha_no_Kuni_wa_Himitsu_ga_Ippai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/28480.jpg?s=9f53c9d8b56c8d72fa6e6fc0fb7234e4",
+                "name": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 5670,
+                "url": "https://myanimelist.net/anime/5670/GA__Geijutsuka_Art_Design_Class",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/56975.jpg?s=ade5c36fff0bba493c02f5fee61a2a48",
+                "name": "GA: Geijutsuka Art Design Class"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 10793,
+                "url": "https://myanimelist.net/anime/10793/Guilty_Crown",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/33713.jpg?s=c8cedef02efa70cbecc3dd73d0c1159c",
+                "name": "Guilty Crown"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 28211,
+                "url": "https://myanimelist.net/anime/28211/Harmony",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/76993.jpg?s=029eb294e355713f663e051b38a47c6c",
+                "name": "Harmony"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 2026,
+                "url": "https://myanimelist.net/anime/2026/Hayate_no_Gotoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/73932.jpg?s=168293160b544a85a40b0a39af606188",
+                "name": "Hayate no Gotoku!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7645,
+                "url": "https://myanimelist.net/anime/7645/Heartcatch_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/25915.jpg?s=082dd20ed15afb5192105b367782406a",
+                "name": "Heartcatch Precure!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9288,
+                "url": "https://myanimelist.net/anime/9288/Heartcatch_Precure_Movie__Hana_no_Miyako_de_Fashion_Show_Desu_ka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25737.jpg?s=1e0a911acf5b6e4566405ee369acf93e",
+                "name": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?"
+            }
+        },
+        {
+            "position": "Storyboard",
+            "anime": {
+                "mal_id": 33572,
+                "url": "https://myanimelist.net/anime/33572/Idol_Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/80935.jpg?s=e2bf508e28a4a4e90b96cdb4274e20e3",
+                "name": "Idol Memories"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 33572,
+                "url": "https://myanimelist.net/anime/33572/Idol_Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/80935.jpg?s=e2bf508e28a4a4e90b96cdb4274e20e3",
+                "name": "Idol Memories"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 33572,
+                "url": "https://myanimelist.net/anime/33572/Idol_Memories",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/80935.jpg?s=e2bf508e28a4a4e90b96cdb4274e20e3",
+                "name": "Idol Memories"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 22295,
+                "url": "https://myanimelist.net/anime/22295/Juuza_Engi__Engetsu_Sangokuden_-_Gaiden_Youzhou_Genya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/69969.jpg?s=dd58014166c943b7a131711062dd7377",
+                "name": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 22295,
+                "url": "https://myanimelist.net/anime/22295/Juuza_Engi__Engetsu_Sangokuden_-_Gaiden_Youzhou_Genya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/69969.jpg?s=dd58014166c943b7a131711062dd7377",
+                "name": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14807,
+                "url": "https://myanimelist.net/anime/14807/Kara_no_Kyoukai__Mirai_Fukuin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/56621.jpg?s=1b0f3bde024a68e9999c61ca54596d05",
+                "name": "Kara no Kyoukai: Mirai Fukuin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5710,
+                "url": "https://myanimelist.net/anime/5710/Keroro_Gunsou_Movie_4__Gekishin_Dragon_Warriors_de_Arimasu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/84853.jpg?s=d912c1f1a1fb868d8d62def143930cb2",
+                "name": "Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2526,
+                "url": "https://myanimelist.net/anime/2526/Kirara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1335/94553.jpg?s=bb7624bf380ba1af985ebd17f7695d62",
+                "name": "Kirara"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 12237,
+                "url": "https://myanimelist.net/anime/12237/Koi-ken__Watashitachi_Anime_ni_Nacchatta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/39121.jpg?s=55b6f6887d6720a7c0bae82b39b4559f",
+                "name": "Koi-ken!: Watashitachi Anime ni Nacchatta!"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 4985,
+                "url": "https://myanimelist.net/anime/4985/Mahou_Shoujo_Lyrical_Nanoha__The_Movie_1st",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1058/94433.jpg?s=7e60c114591727db47e62341a900f35a",
+                "name": "Mahou Shoujo Lyrical Nanoha: The Movie 1st"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 30307,
+                "url": "https://myanimelist.net/anime/30307/Monster_Musume_no_Iru_Nichijou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75104.jpg?s=aa205a7ac60ecbdf824c9a1464a962ec",
+                "name": "Monster Musume no Iru Nichijou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 800,
+                "url": "https://myanimelist.net/anime/800/NieA_Under_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18922.jpg?s=abbeda4d617616874814cde6bc86d418",
+                "name": "NieA Under 7"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2947,
+                "url": "https://myanimelist.net/anime/2947/Ojamajo_Doremi_Sharp_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/40405.jpg?s=3f3fb221bc36c949600d799f258e2a2f",
+                "name": "Ojamajo Doremi Sharp Movie"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 25161,
+                "url": "https://myanimelist.net/anime/25161/One_Piece_3D2Y__Ace_no_shi_wo_Koete_Luffy_Nakama_Tono_Chikai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64755.jpg?s=8eaacb80abcbeb115c9c7fd04ca19f7e",
+                "name": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 32729,
+                "url": "https://myanimelist.net/anime/32729/Orange",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/80110.jpg?s=bd19286c265abc8478887082c49bcc8c",
+                "name": "Orange"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 32094,
+                "url": "https://myanimelist.net/anime/32094/Reikenzan__Hoshikuzu-tachi_no_Utage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/78196.jpg?s=b7fe9630dc4004136225537a3e1935b5",
+                "name": "Reikenzan: Hoshikuzu-tachi no Utage"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10821,
+                "url": "https://myanimelist.net/anime/10821/Suite_Precure♪_Movie__Torimodose_Kokoro_ga_Tsunagu_Kiseki_no_Melody♪",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1159/99768.jpg?s=325053499303d0ed43f3acc5770fa060",
+                "name": "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1587,
+                "url": "https://myanimelist.net/anime/1587/Tenpou_Ibun__Ayakashi_Ayashi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4452.jpg?s=5ff46bd54183e9d4479be8d0006807be",
+                "name": "Tenpou Ibun: Ayakashi Ayashi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7014,
+                "url": "https://myanimelist.net/anime/7014/Tezuka_Osamu_no_Buddha__Akai_Sabaku_yo_Utsukushiku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/39437.jpg?s=9a7e7aec7c61e91ab6359eef58324d8b",
+                "name": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 567,
+                "url": "https://myanimelist.net/anime/567/The_Big_O",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/567.jpg?s=ef7aeac796160c07694d42f62a74911a",
+                "name": "The Big O"
+            }
+        }
+    ],
+    "published_manga": []
+}

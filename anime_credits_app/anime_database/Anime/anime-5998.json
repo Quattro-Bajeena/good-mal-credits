@@ -1,0 +1,50 @@
+{
+    "mal_id": 5998,
+    "url": "https://myanimelist.net/anime/5998/Hottarake_no_Shima__Haruka_to_Mahou_no_Kagami",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/22255.jpg",
+    "title": "Hottarake no Shima: Haruka to Mahou no Kagami",
+    "title_english": "Oblivion Island: Haruka and the Magic Mirror",
+    "title_japanese": "ホッタラケの島　～遥と魔法の鏡～",
+    "type": "Movie",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-08-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 8,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Aug 22, 2009"
+    },
+    "score": 7.39,
+    "scored_by": 3845,
+    "rank": 1953,
+    "popularity": 5211,
+    "members": 8559,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

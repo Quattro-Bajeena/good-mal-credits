@@ -1,0 +1,356 @@
+{
+    "mal_id": 1336,
+    "url": "https://myanimelist.net/character/1336/Char_Aznable",
+    "name": "Char Aznable",
+    "name_kanji": null,
+    "nicknames": [
+        "Casval Rem Deikun",
+        "Édouard Mass",
+        "Quattro Bajeena",
+        "The Red Comet"
+    ],
+    "member_favorites": 4308,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/81955.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Main"
+        },
+        {
+            "mal_id": 85,
+            "name": "Mobile Suit Zeta Gundam",
+            "url": "https://myanimelist.net/anime/85/Mobile_Suit_Zeta_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/11153.jpg?s=e5d76daf92e6075f390e309e1d902ab7",
+            "role": "Main"
+        },
+        {
+            "mal_id": 87,
+            "name": "Mobile Suit Gundam: Char's Counterattack",
+            "url": "https://myanimelist.net/anime/87/Mobile_Suit_Gundam__Chars_Counterattack",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1523/92371.jpg?s=6d269efd4243c90d3e08fc8671d455a0",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1090,
+            "name": "Mobile Suit Gundam I",
+            "url": "https://myanimelist.net/anime/1090/Mobile_Suit_Gundam_I",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75772.jpg?s=8a18ee23d8bffda9b229a94370b76524",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1092,
+            "name": "Mobile Suit Gundam III: Encounters in Space",
+            "url": "https://myanimelist.net/anime/1092/Mobile_Suit_Gundam_III__Encounters_in_Space",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg?s=9e3f2fdab83e9c65c6aeab89b3359a7a",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1917,
+            "name": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+            "url": "https://myanimelist.net/anime/1917/Mobile_Suit_Gundam_MS_IGLOO__The_Hidden_One_Year_War",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/4730.jpg?s=0fd36723b6b3faf73aeb77872738bc9e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1967,
+            "name": "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+            "url": "https://myanimelist.net/anime/1967/Mobile_Suit_Zeta_Gundam__A_New_Translation_-_Heir_to_the_Stars",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/36701.jpg?s=5bf06f26a1417a7092413df4448c429c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1968,
+            "name": "Mobile Suit Zeta Gundam: A New Translation II - Lovers",
+            "url": "https://myanimelist.net/anime/1968/Mobile_Suit_Zeta_Gundam__A_New_Translation_II_-_Lovers",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1183/94730.jpg?s=7151d79b4725b0b9159b47215abddaea",
+            "role": "Main"
+        },
+        {
+            "mal_id": 1969,
+            "name": "Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars",
+            "url": "https://myanimelist.net/anime/1969/Mobile_Suit_Zeta_Gundam__A_New_Translation_III_-_Love_Is_the_Pulse_of_the_Stars",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/1969.jpg?s=338b5d7fe8920580717fee894f1b1a69",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2302,
+            "name": "Mobile Suit SD Gundam Mk I",
+            "url": "https://myanimelist.net/anime/2302/Mobile_Suit_SD_Gundam_Mk_I",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/51035.jpg?s=739dfbb342b3dc800430235fa903ff16",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 2303,
+            "name": "Mobile Suit SD Gundam Mk II",
+            "url": "https://myanimelist.net/anime/2303/Mobile_Suit_SD_Gundam_Mk_II",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/55903.jpg?s=eb5937c662cb82300988c7f6303e6182",
+            "role": "Main"
+        },
+        {
+            "mal_id": 2306,
+            "name": "Mobile Suit SD Gundam's Counterattack",
+            "url": "https://myanimelist.net/anime/2306/Mobile_Suit_SD_Gundams_Counterattack",
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/2546.jpg?s=fb62989bc34aba50e714039ba96fde30",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 3288,
+            "name": "Gundam Evolve",
+            "url": "https://myanimelist.net/anime/3288/Gundam_Evolve",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/28142.jpg?s=22044a25bcb95566c5bee2aed9017adb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 10937,
+            "name": "Mobile Suit Gundam: The Origin",
+            "url": "https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/72702.jpg?s=add3b90975f5a2b8d852d41685eed19d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 14007,
+            "name": "Akai Shouzou: Char, Soshite Frontal e",
+            "url": "https://myanimelist.net/anime/14007/Akai_Shouzou__Char_Soshite_Frontal_e",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/54423.jpg?s=a8916ccb16e29b7aad5f39bd63b153f5",
+            "role": "Main"
+        },
+        {
+            "mal_id": 20355,
+            "name": "Zeonic Toyota Special Movie",
+            "url": "https://myanimelist.net/anime/20355/Zeonic_Toyota_Special_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/54101.jpg?s=14273cfcf67189584c2556ab9f43e565",
+            "role": "Main"
+        },
+        {
+            "mal_id": 24835,
+            "name": "Mobile Suit Gundam-san",
+            "url": "https://myanimelist.net/anime/24835/Mobile_Suit_Gundam-san",
+            "image_url": "https://cdn.myanimelist.net/images/anime/13/67549.jpg?s=0fb00706d6f126a0a7c9d5ef949df1ca",
+            "role": "Main"
+        },
+        {
+            "mal_id": 35567,
+            "name": "Gundam Build Fighters: Battlogue",
+            "url": "https://myanimelist.net/anime/35567/Gundam_Build_Fighters__Battlogue",
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/87160.jpg?s=6eda3268e28408adb77cabc82fdd27cb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 39592,
+            "name": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+            "url": "https://myanimelist.net/anime/39592/Mobile_Suit_Gundam__The_Origin_-_Advent_of_the_Red_Comet",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1897/100015.jpg?s=6fd326530b49ccce1311e948f2d7f163",
+            "role": "Main"
+        },
+        {
+            "mal_id": 41063,
+            "name": "Mobile Suit Gundam G40",
+            "url": "https://myanimelist.net/anime/41063/Mobile_Suit_Gundam_G40",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1770/105718.jpg?s=7d5fb07b106df5fadac0b23e17bc02b2",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 206,
+            "name": "Kidou Senshi Gundam 0079",
+            "url": "https://myanimelist.net/manga/206/Kidou_Senshi_Gundam_0079",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/6308.jpg?s=05c6cb8f95ca0dc0fe580ec92c5d6806",
+            "role": "Main"
+        },
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Main"
+        },
+        {
+            "mal_id": 7768,
+            "name": "Gaia Gear",
+            "url": "https://myanimelist.net/manga/7768/Gaia_Gear",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/11134.jpg?s=9bcde1425b44a27c6febb884b1fffeb2",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 9142,
+            "name": "Kidou Senshi Gundam: C.D.A. - Wakaki Suisei no Shouzou",
+            "url": "https://myanimelist.net/manga/9142/Kidou_Senshi_Gundam__CDA_-_Wakaki_Suisei_no_Shouzou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/4/12944.jpg?s=689ec10b09307dbaabfcc369441ca35f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 9736,
+            "name": "Kidou Senshi Z Gundam",
+            "url": "https://myanimelist.net/manga/9736/Kidou_Senshi_Z_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148093.jpg?s=64d7c2d4044aa16db0e80be59400ed2f",
+            "role": "Main"
+        },
+        {
+            "mal_id": 9889,
+            "name": "Kidou Senshi Gundam",
+            "url": "https://myanimelist.net/manga/9889/Kidou_Senshi_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148121.jpg?s=521c80158466024b014a818dea5c269d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 15018,
+            "name": "Kidou Senshi Gundam-san",
+            "url": "https://myanimelist.net/manga/15018/Kidou_Senshi_Gundam-san",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/40572.jpg?s=5fc5109c4ef0b79d72d5af361ed822cc",
+            "role": "Main"
+        },
+        {
+            "mal_id": 20423,
+            "name": "Mobile Suit Gundam: Char's Counterattack - Beyond the Time",
+            "url": "https://myanimelist.net/manga/20423/Mobile_Suit_Gundam__Chars_Counterattack_-_Beyond_the_Time",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/113425.jpg?s=f3791d40f93849397de064c002f54a0e",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 29391,
+            "name": "Kidou Senshi Z Gundam Define",
+            "url": "https://myanimelist.net/manga/29391/Kidou_Senshi_Z_Gundam_Define",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/148281.jpg?s=40d72295f52ab06739d619c0c82b0652",
+            "role": "Main"
+        },
+        {
+            "mal_id": 30593,
+            "name": "Kidou Senshi Gundam: Gyakushuu no Char - Beltorchika's Children",
+            "url": "https://myanimelist.net/manga/30593/Kidou_Senshi_Gundam__Gyakushuu_no_Char_-_Beltorchikas_Children",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148119.jpg?s=f54ddd5052e88a1368cfbcd9a419b068",
+            "role": "Main"
+        },
+        {
+            "mal_id": 70331,
+            "name": "Char no Nichijou",
+            "url": "https://myanimelist.net/manga/70331/Char_no_Nichijou",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/120465.jpg?s=b13c763a720cb02ab7384895bb1f7717",
+            "role": "Main"
+        },
+        {
+            "mal_id": 72431,
+            "name": "Kidou Senshi Gundam: Gyakushuu no Char - Beltorchika's Children",
+            "url": "https://myanimelist.net/manga/72431/Kidou_Senshi_Gundam__Gyakushuu_no_Char_-_Beltorchikas_Children",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/215398.jpg?s=159680be8fc306e19464956fdb71fa4d",
+            "role": "Main"
+        },
+        {
+            "mal_id": 81643,
+            "name": "Kidou Senshi Gundam U.C. Senki: Tsuioku no Char Aznable",
+            "url": "https://myanimelist.net/manga/81643/Kidou_Senshi_Gundam_UC_Senki__Tsuioku_no_Char_Aznable",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/141293.jpg?s=b2ff07c4107a4aab159dba55b8fe84f4",
+            "role": "Main"
+        },
+        {
+            "mal_id": 85391,
+            "name": "Kidou Senshi Zeta Gundam",
+            "url": "https://myanimelist.net/manga/85391/Kidou_Senshi_Zeta_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/148097.jpg?s=8f2284e712c0ebc0a865e766f49926cb",
+            "role": "Main"
+        },
+        {
+            "mal_id": 96390,
+            "name": "Tony Takezaki no Gundam Manga",
+            "url": "https://myanimelist.net/manga/96390/Tony_Takezaki_no_Gundam_Manga",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/177022.jpg?s=af7b63e2a499d373123b9630b8b7c381",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 12,
+            "name": "Blum, Steven",
+            "url": "https://myanimelist.net/people/12/Steven_Blum",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/45741.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20,
+            "name": "Konishi, Katsuyuki",
+            "url": "https://myanimelist.net/people/20/Katsuyuki_Konishi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42160.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 75,
+            "name": "Tanaka, Mayumi",
+            "url": "https://myanimelist.net/people/75/Mayumi_Tanaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/16623.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 129,
+            "name": "Seki, Toshihiko",
+            "url": "https://myanimelist.net/people/129/Toshihiko_Seki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54991.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 598,
+            "name": "Ikeda, Shuuichi",
+            "url": "https://myanimelist.net/people/598/Shuuichi_Ikeda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34777.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 779,
+            "name": "Boccanera, Fabio",
+            "url": "https://myanimelist.net/people/779/Fabio_Boccanera",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/832.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1054,
+            "name": "Strassman, Karen",
+            "url": "https://myanimelist.net/people/1054/Karen_Strassman",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39759.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1185,
+            "name": "Rossi, Massimo",
+            "url": "https://myanimelist.net/people/1185/Massimo_Rossi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/37227.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 5476,
+            "name": "Silverstein, Keith",
+            "url": "https://myanimelist.net/people/5476/Keith_Silverstein",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33313.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6835,
+            "name": "Kopsa, Michael",
+            "url": "https://myanimelist.net/people/6835/Michael_Kopsa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41421.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 20268,
+            "name": "Puccio, Alessio",
+            "url": "https://myanimelist.net/people/20268/Alessio_Puccio",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22433.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 20989,
+            "name": "Edwards, Tom",
+            "url": "https://myanimelist.net/people/20989/Tom_Edwards",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/23723.jpg",
+            "language": "English"
+        }
+    ]
+}

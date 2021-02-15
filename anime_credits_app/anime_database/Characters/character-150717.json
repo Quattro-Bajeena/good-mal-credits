@@ -1,0 +1,66 @@
+{
+    "mal_id": 150717,
+    "url": "https://myanimelist.net/character/150717/Abel",
+    "name": "Abel",
+    "name_kanji": null,
+    "nicknames": [
+        "Goggles"
+    ],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/329189.jpg",
+    "animeography": [
+        {
+            "mal_id": 16498,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=548dd4aba0c4644f8b5fbae5cfad52ea",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 23777,
+            "name": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+            "url": "https://myanimelist.net/anime/23777/Shingeki_no_Kyojin_Movie_2__Jiyuu_no_Tsubasa",
+            "image_url": "https://cdn.myanimelist.net/images/anime/2/72510.jpg?s=c50480822c2a4e75f5f30b38dc65c6bb",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 25777,
+            "name": "Shingeki no Kyojin Season 2",
+            "url": "https://myanimelist.net/anime/25777/Shingeki_no_Kyojin_Season_2",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg?s=28ee2e59b5a388a91a7ee050b95d2248",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 35760,
+            "name": "Shingeki no Kyojin Season 3",
+            "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=0add0435feb2bb613326a05941c61cdb",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 23390,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/manga/23390/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/37846.jpg?s=840274d02db453f962e83662b4d7d40e",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 4761,
+            "name": "Yoshikai, Kiyohito",
+            "url": "https://myanimelist.net/people/4761/Kiyohito_Yoshikai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/17009.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 36888,
+            "name": "Mills, Daman",
+            "url": "https://myanimelist.net/people/36888/Daman_Mills",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48658.jpg",
+            "language": "English"
+        }
+    ]
+}

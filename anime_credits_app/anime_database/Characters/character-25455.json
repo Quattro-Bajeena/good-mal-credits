@@ -1,0 +1,70 @@
+{
+    "mal_id": 25455,
+    "url": "https://myanimelist.net/character/25455/MQuve",
+    "name": "M'Quve",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/117768.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1092,
+            "name": "Mobile Suit Gundam III: Encounters in Space",
+            "url": "https://myanimelist.net/anime/1092/Mobile_Suit_Gundam_III__Encounters_in_Space",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg?s=9e3f2fdab83e9c65c6aeab89b3359a7a",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 10937,
+            "name": "Mobile Suit Gundam: The Origin",
+            "url": "https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/72702.jpg?s=add3b90975f5a2b8d852d41685eed19d",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 346,
+            "name": "Yamazaki, Takumi",
+            "url": "https://myanimelist.net/people/346/Takumi_Yamazaki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/20995.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 424,
+            "name": "Shiozawa, Kaneto",
+            "url": "https://myanimelist.net/people/424/Kaneto_Shiozawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12357.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1414,
+            "name": "Tanaka, Masahiko",
+            "url": "https://myanimelist.net/people/1414/Masahiko_Tanaka",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12361.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 42909,
+            "name": "Malaspina, Romano",
+            "url": "https://myanimelist.net/people/42909/Romano_Malaspina",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46475.jpg",
+            "language": "Italian"
+        }
+    ]
+}

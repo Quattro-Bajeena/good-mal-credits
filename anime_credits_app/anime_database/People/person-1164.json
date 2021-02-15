@@ -1,0 +1,209 @@
+{
+    "mal_id": 1164,
+    "url": "https://myanimelist.net/people/1164/Ron_Halder",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1206.jpg",
+    "name": "Ron Halder",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 586,
+                "url": "https://myanimelist.net/anime/586/Ayakashi__Japanese_Classic_Horror",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/11746.jpg?s=1167beb4bfccb7d0c9aeeeed4c074ffd",
+                "name": "Ayakashi: Japanese Classic Horror"
+            },
+            "character": {
+                "mal_id": 36465,
+                "url": "https://myanimelist.net/character/36465/Nanboku_Tsuruya",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Tsuruya, Nanboku"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4901,
+                "url": "https://myanimelist.net/anime/4901/Black_Lagoon__Robertas_Blood_Trail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75529.jpg?s=6ea9369d616b80d8e231989008811afd",
+                "name": "Black Lagoon: Roberta's Blood Trail"
+            },
+            "character": {
+                "mal_id": 31841,
+                "url": "https://myanimelist.net/character/31841/Shane_Caxton",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/279756.jpg?s=e0bdf87642dcd817c1f24dbc95299cc7",
+                "name": "Caxton, Shane"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 570,
+                "url": "https://myanimelist.net/anime/570/Jin-Rou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg?s=3ab6fc67d5c7d9626e44551a5782e050",
+                "name": "Jin-Rou"
+            },
+            "character": {
+                "mal_id": 9063,
+                "url": "https://myanimelist.net/character/9063/Shiro_Tatsumi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/86669.jpg?s=24b0a20931a20789f61e43d51e00eb9d",
+                "name": "Tatsumi, Shiro"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1453,
+                "url": "https://myanimelist.net/anime/1453/Maison_Ikkoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/17576.jpg?s=66a4917d95759b7e87ccf73f56da1d85",
+                "name": "Maison Ikkoku"
+            },
+            "character": {
+                "mal_id": 4753,
+                "url": "https://myanimelist.net/character/4753/Yotsuya",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/231627.jpg?s=47e32bf0727757e4520a58d8ecc030b6",
+                "name": "Yotsuya"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129508,
+                "url": "https://myanimelist.net/character/129508/Asakura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/342081.jpg?s=b179f0c72c7c02b962f0e6f178b30560",
+                "name": "Asakura"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129520,
+                "url": "https://myanimelist.net/character/129520/Cozun_Graham",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/283905.jpg?s=94b306f9b2a13ceb3bf38fedcb3c2498",
+                "name": "Graham, Cozun"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2581,
+                "url": "https://myanimelist.net/anime/2581/Mobile_Suit_Gundam_00",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/13200.jpg?s=c0524dc7e81d3f49c9ba8646de596bfb",
+                "name": "Mobile Suit Gundam 00"
+            },
+            "character": {
+                "mal_id": 9303,
+                "url": "https://myanimelist.net/character/9303/Ralph_Eifman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/34444.jpg?s=c4b4920871ba46ceb0de2fdde8c2efc5",
+                "name": "Eifman, Ralph"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            },
+            "character": {
+                "mal_id": 34516,
+                "url": "https://myanimelist.net/character/34516/William_Sutherland",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/93891.jpg?s=3067c0f9e2a9e997d09dddeec7d73ad5",
+                "name": "Sutherland, William"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2269,
+                "url": "https://myanimelist.net/anime/2269/Mobile_Suit_Gundam_SEED_Special_Edition",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2503.jpg?s=1762e6ecc59c7908a6a0c866319d6bb3",
+                "name": "Mobile Suit Gundam SEED Special Edition"
+            },
+            "character": {
+                "mal_id": 34516,
+                "url": "https://myanimelist.net/character/34516/William_Sutherland",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/93891.jpg?s=3067c0f9e2a9e997d09dddeec7d73ad5",
+                "name": "Sutherland, William"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1212,
+                "url": "https://myanimelist.net/anime/1212/Oban_Star-Racers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3702.jpg?s=4d0bc378867715c2ce8b18f7f7ffd054",
+                "name": "Oban Star-Racers"
+            },
+            "character": {
+                "mal_id": 5193,
+                "url": "https://myanimelist.net/character/5193/Don_Wei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/97602.jpg?s=230239edd47b072ceaec04098a4b6715",
+                "name": "Wei, Don"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 355,
+                "url": "https://myanimelist.net/anime/355/Shakugan_no_Shana",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21197.jpg?s=ce60515b1e56484bac0b9177bd309c9d",
+                "name": "Shakugan no Shana"
+            },
+            "character": {
+                "mal_id": 1944,
+                "url": "https://myanimelist.net/character/1944/Lamies",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/166693.jpg?s=c1b89c948201e990f20dd38d656b8504",
+                "name": "Lamies"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 744,
+                "url": "https://myanimelist.net/anime/744/Trouble_Chocolate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/61293.jpg?s=abe5e8ed4b16832589e5832a7e9b8b64",
+                "name": "Trouble Chocolate"
+            },
+            "character": {
+                "mal_id": 13359,
+                "url": "https://myanimelist.net/character/13359/Papaya",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/28781.jpg?s=a2358fe5768ed8591d59534592dfc6b5",
+                "name": "Papaya"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 764,
+                "url": "https://myanimelist.net/anime/764/Zoids_Shinseiki_Zero",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/24972.jpg?s=d9ce1450fa278b7e50e9c64979abe5a5",
+                "name": "Zoids Shinseiki/Zero"
+            },
+            "character": {
+                "mal_id": 19944,
+                "url": "https://myanimelist.net/character/19944/Steve_Toros",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/45809.jpg?s=56bacb9e79f20be9b64d7d439602c6a1",
+                "name": "Toros, Steve"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

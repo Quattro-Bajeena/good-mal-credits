@@ -1,0 +1,43 @@
+{
+    "mal_id": 179847,
+    "url": "https://myanimelist.net/character/179847/Bibimi_Kenranzaki",
+    "name": "Bibimi Kenranzaki",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/404116.jpg",
+    "animeography": [
+        {
+            "mal_id": 38408,
+            "name": "Boku no Hero Academia 4th Season",
+            "url": "https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg?s=e5c6c8e80ea8cdea7a13139c9c3d1c34",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 75989,
+            "name": "Boku no Hero Academia",
+            "url": "https://myanimelist.net/manga/75989/Boku_no_Hero_Academia",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/209370.jpg?s=5d176888cf8c9d4684e92c490d0598b0",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 17793,
+            "name": "Lee, Amanda",
+            "url": "https://myanimelist.net/people/17793/Amanda_Lee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/59033.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 45432,
+            "name": "Shibuya, Ayano",
+            "url": "https://myanimelist.net/people/45432/Ayano_Shibuya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48829.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "mal_id": 84327,
+    "url": "https://myanimelist.net/character/84327/Balto",
+    "name": "Balto",
+    "name_kanji": null,
+    "nicknames": [
+        "Barto",
+        "Wald"
+    ],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/206405.jpg",
+    "animeography": [
+        {
+            "mal_id": 16498,
+            "name": "Shingeki no Kyojin",
+            "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=548dd4aba0c4644f8b5fbae5cfad52ea",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 5431,
+            "name": "Yandell, Barry",
+            "url": "https://myanimelist.net/people/5431/Barry_Yandell",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/13949.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 8996,
+            "name": "Takaguchi, Kousuke",
+            "url": "https://myanimelist.net/people/8996/Kousuke_Takaguchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54407.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 20595,
+            "name": "Alessandro, Bruno",
+            "url": "https://myanimelist.net/people/20595/Bruno_Alessandro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/38263.jpg",
+            "language": "Italian"
+        }
+    ]
+}

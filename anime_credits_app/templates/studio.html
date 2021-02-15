@@ -1,0 +1,98 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>gMs - studio</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_page.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/studio.css')}}">
+{% endblock %}
+
+
+{% block main %}
+
+
+<div class="studioInfo infoSection">
+    <p><b>Name: </b>{{resource.name}} </p>
+    <p><a href={{resource.url}} target="_blank">MAL link</a></p>
+    <br>
+</div>
+
+<div class="tableSection">
+
+
+<table id="studioAnimeTable" class="contentTable">
+    <thead>
+        <tr class="mainHeader">
+            <th class="hideTableButton pictureCol"><img class="hideArrow" src="{{url_for('static', filename='icons/arrow-down.svg')}}"></th>
+            <th class="sortableColHeader fixedWidth">TITLE</th>
+
+            <th class="sortableColHeader">MEMBERS</th>
+            <th class="sortableColHeader">POPULARITY</th>
+            <th class="sortableColHeader">FAVOURITES</th>
+
+            <th class="sortableColHeader">SCORE</th>
+            <th class="sortableColHeader">RANK</th>
+
+            <th class="sortableColHeader">YEAR</th>
+            <th class="sortableColHeader">EPISODES</th>
+            <th class="sortableColHeader">SOURCE</th>
+
+            
+        </tr>
+
+        <tr class="filterHeader">
+            <th class="clearFilter">CLEAR</th>
+            <th class="filterCol"><input type="text"> </th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th class="filterCol"><select class="filterList languageFilter"> 
+                <option value="" selected>ALL</option>
+            </select></th>
+            
+        </tr>
+    </thead>
+
+
+    <tbody>
+        {% for anime in resource.anime %}
+        <tr>
+            <td class="imageCell"><img class="tableImage" src={{anime.image_url}}></td>
+            <td><a href="{{url_for('content',category='people', mal_id=anime.mal_id)}}" >{{anime.title}}</a></td>
+
+            <td>{{anime.members | format_big_number}}</td>
+            <td>{{anime.popularity | format_big_number}}</td>
+            <td>{{anime.favorites | format_big_number}}</td>
+
+            <td>{{anime.score}}</td>
+            <td>{{anime.rank | format_big_number}}</td>
+
+            <td>{{anime.aired_from | format_year}}</td>
+
+            <td>{{anime.episodes}}</td>
+            <td>{{anime.source}}</td>
+            
+            
+        </tr>
+        {% endfor %}
+    </tbody>
+    
+</table>
+
+</div>
+
+{%endblock%}
+
+
+
+
+{% block javascript %}
+<script type="text/javascript" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+{%endblock%}

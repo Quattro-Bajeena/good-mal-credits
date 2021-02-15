@@ -1,0 +1,44 @@
+{
+    "mal_id": 12791,
+    "url": "https://myanimelist.net/people/12791/Misa_Kadoya",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Misa Kadoya",
+    "given_name": "美佐",
+    "family_name": "門谷",
+    "birthday": "1950-02-02T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 44645,
+                "url": "https://myanimelist.net/character/44645/Zenna_Zabi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/122853.jpg?s=e505733d17c19f555ecac5af03975640",
+                "name": "Zabi, Zenna"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 44647,
+                "url": "https://myanimelist.net/character/44647/Persia",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/122855.jpg?s=4f760a4a687f2ba4041dc9750e56a37e",
+                "name": "Persia"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

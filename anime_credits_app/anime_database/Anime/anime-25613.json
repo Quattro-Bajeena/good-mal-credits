@@ -1,0 +1,44 @@
+{
+    "mal_id": 25613,
+    "url": "https://myanimelist.net/anime/25613/Genki_Genki_Non-tan__Utaou_Christmas",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/65135.jpg",
+    "title": "Genki Genki Non-tan: Utaou! Christmas",
+    "title_english": null,
+    "title_japanese": "げんき げんき ノンタン うたおう!クリスマス",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-11-03T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 3,
+                "month": 11,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Nov 3, 2004"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14106,
+    "popularity": 15661,
+    "members": 155,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

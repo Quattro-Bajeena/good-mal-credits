@@ -1,0 +1,49 @@
+{
+    "mal_id": 42651,
+    "url": "https://myanimelist.net/character/42651/Shouko_Sano",
+    "name": "Shouko Sano",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/16/139529.jpg",
+    "animeography": [
+        {
+            "mal_id": 8142,
+            "name": "Colorful (Movie)",
+            "url": "https://myanimelist.net/anime/8142/Colorful_Movie",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1839/103426.jpg?s=97eee62b86ffcda66fa01b65dbd7da7a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 414,
+            "name": "Karbowski, Brittney",
+            "url": "https://myanimelist.net/people/414/Brittney_Karbowski",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/34809.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1055,
+            "name": "Miyazaki, Aoi",
+            "url": "https://myanimelist.net/people/1055/Aoi_Miyazaki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49681.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 20494,
+            "name": "Ambrós, Carmen",
+            "url": "https://myanimelist.net/people/20494/Carmen_Ambrós",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/49707.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 26505,
+            "name": "Lambotte, Jessie",
+            "url": "https://myanimelist.net/people/26505/Jessie_Lambotte",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/31513.jpg",
+            "language": "French"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "mal_id": 22359,
+    "url": "https://myanimelist.net/anime/22359/Sanzoku_no_Musume_Ronja",
+    "image_url": "https://cdn.myanimelist.net/images/anime/11/68125.jpg",
+    "title": "Sanzoku no Musume Ronja",
+    "title_english": "Ronja Rövardotter",
+    "title_japanese": "山賊の娘ローニャ",
+    "type": "TV",
+    "source": "Book",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-10-11T00:00:00+00:00",
+        "to": "2015-03-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 10,
+                "year": 2014
+            },
+            "to": {
+                "day": 28,
+                "month": 3,
+                "year": 2015
+            }
+        },
+        "string": "Oct 11, 2014 to Mar 28, 2015"
+    },
+    "score": 7.15,
+    "scored_by": 4638,
+    "rank": 2964,
+    "popularity": 3292,
+    "members": 24750,
+    "favorites": 61,
+    "premiered": "Fall 2014",
+    "studios": [
+        {
+            "mal_id": 21,
+            "type": "anime",
+            "name": "Studio Ghibli",
+            "url": "https://myanimelist.net/anime/producer/21/Studio_Ghibli"
+        },
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

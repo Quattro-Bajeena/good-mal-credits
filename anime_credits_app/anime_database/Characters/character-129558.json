@@ -1,0 +1,35 @@
+{
+    "mal_id": 129558,
+    "url": "https://myanimelist.net/character/129558/Seki",
+    "name": "Seki",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/283955.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 572,
+            "name": "Suzuoki, Hirotaka",
+            "url": "https://myanimelist.net/people/572/Hirotaka_Suzuoki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49522.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 43387,
+            "name": "Picconi, Fabrizio",
+            "url": "https://myanimelist.net/people/43387/Fabrizio_Picconi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46854.jpg",
+            "language": "Italian"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 36625,
+    "url": "https://myanimelist.net/anime/36625/Ajin_2nd_Season_OVA",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/88499.jpg",
+    "title": "Ajin 2nd Season OVA",
+    "title_english": null,
+    "title_japanese": "亜人 (佐藤 ZERO)",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-04-07T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr 7, 2017"
+    },
+    "score": 7.1,
+    "scored_by": 3333,
+    "rank": 3181,
+    "popularity": 4796,
+    "members": 10648,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

@@ -4,7 +4,14 @@ const getCellValue = function  (tr, idx) {
     return tr.children[idx].innerText || tr.children[idx].textContent;
 } 
 
+const recolorRowBackgrounds = function(visible_rows){
+    visible_rows.forEach(tr => tr.style.backgroundColor = "inherit" );
+    visible_rows.filter((tr, index) => index%2 == 0).forEach(tr => tr.style.backgroundColor = "rgb(233, 233, 233)");
+    //background-color: rgb(233, 233, 233);
+}
 
+
+// SORTING--------------------------------
 // if any of the values arent empty strings or NaNs, then it compares them like numbers, in the other case like strings
 const comparer = function(idx, asc){
 
@@ -49,11 +56,20 @@ const sortTable = function (event){
     //console.log(table_body)
 
     //appendChild moves the node
-    
-    Array.from(table_body.querySelectorAll('tr:nth-child(n+1)'))
+    const visible_rows = Array.from(table_body.querySelectorAll('tr'))
+        .filter(tr => {
+            return tr.style.display != "none"
+        });
+
+
+    visible_rows
         .sort(comparer(Array.from(th.parentNode.children).indexOf(th), this.asc = !this.asc))
         .forEach(tr => table_body.appendChild(tr) );
     move_arrow(th, this.asc);
+
+
+
+    recolorRowBackgrounds(visible_rows);
     
 }
 
@@ -61,6 +77,7 @@ const sortTable = function (event){
 document.querySelectorAll('.sortableColHeader').forEach(th => th.addEventListener('click', sortTable));
 
 
+// HIDE TABLE----------------------------------
 const hideTable = function(event){
 
     const table_body = event.target.closest('table').querySelector('tbody');
@@ -83,7 +100,7 @@ const hideTable = function(event){
 document.querySelectorAll('.hideTableButton').forEach(button => button.addEventListener('click', hideTable));
 
 
-
+//FILTERING------------------------------------------------
 const column_filter = function(idx, searched_value){
 
     function column_filter_idx(tr){
@@ -93,11 +110,12 @@ const column_filter = function(idx, searched_value){
     return column_filter_idx;
 }
 
+
 const filterTable = function(event){
     
     const th = event.target.closest('th');
     const table_body = th.closest('table').querySelector('tbody');
-    const inputs = Array.from(th.closest('table').querySelectorAll('.filterText input'));
+    const inputs = Array.from(th.closest('table').querySelectorAll('.filterCol input, .filterCol select'));
 
     const arr = Array.from(table_body.querySelectorAll('tr'));
     let included = arr;
@@ -118,13 +136,15 @@ const filterTable = function(event){
 
     included.forEach(tr => tr.style.display = "table-row");
     not_included.forEach(tr => tr.style.display = "none");
+
+    recolorRowBackgrounds(included);
 }
 
-document.querySelectorAll('.filterText').forEach(header => header.addEventListener("input" ,filterTable));
+document.querySelectorAll('.filterCol').forEach(header => header.addEventListener("input" ,filterTable));
 
 const clearFilters = function(event){
     const th = event.target.closest('th');
-    const inputs = Array.from(th.closest('table').querySelectorAll('.filterText input'));
+    const inputs = Array.from(th.closest('table').querySelectorAll('.filterCol input'));
 
     for(const input of inputs){
         input.value = "";
@@ -136,6 +156,34 @@ const clearFilters = function(event){
 }
 
 document.querySelectorAll('.clearFilter').forEach(header => header.addEventListener('click', clearFilters));
+
+// Update filter list with all options available
+document.querySelectorAll('.filterList').forEach(
+    select => {
+        th = select.parentNode;
+        const body_rows = Array.from(select.closest('table').querySelector('tbody').querySelectorAll('tr'));
+        const index = Array.from(select.closest('tr').children).indexOf(th);
+        const values = new Set(body_rows.map(tr => getCellValue(tr, index)));
+
+        for(const value of values){
+            const new_option = new Option(value, value);
+            select.appendChild(new_option);
+        }
+        
+    })
+
+// Set languge to japanese by deafult
+document.querySelectorAll('.languageFilter').forEach(
+    select => {
+        japanese = Array.from(select.children).filter(option => option.value == "Japanese");
+        if(japanese){
+            select.value = "Japanese";
+        }
+        const fake_event = {target : select.closest('th')};
+        filterTable(fake_event);
+    }
+)
+
 
 
 }

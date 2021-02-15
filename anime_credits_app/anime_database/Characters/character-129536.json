@@ -1,0 +1,43 @@
+{
+    "mal_id": 129536,
+    "url": "https://myanimelist.net/character/129536/Giyal",
+    "name": "Giyal",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/283933.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 34033,
+            "name": "Mobile Suit Gundam: U.C. Hard Graph Iron Mustang",
+            "url": "https://myanimelist.net/manga/34033/Mobile_Suit_Gundam__UC_Hard_Graph_Iron_Mustang",
+            "image_url": "https://cdn.myanimelist.net/images/manga/3/62381.jpg?s=7f05a82d636b3f35c1c1f621eec426c8",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 629,
+            "name": "Futamata, Issei",
+            "url": "https://myanimelist.net/people/629/Issei_Futamata",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54852.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1204,
+            "name": "Locuratolo, Giorgio",
+            "url": "https://myanimelist.net/people/1204/Giorgio_Locuratolo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37221.jpg",
+            "language": "Italian"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 602,
+    "url": "https://myanimelist.net/anime/602/KO_Seiki_Beast_Sanjuushi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/20394.jpg",
+    "title": "KO Seiki Beast Sanjuushi",
+    "title_english": "KO Century Beast Warriors",
+    "title_japanese": "ＫＯ世紀　ビースト三獣士",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 7,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1992-05-02T00:00:00+00:00",
+        "to": "1993-11-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 2,
+                "month": 5,
+                "year": 1992
+            },
+            "to": {
+                "day": 21,
+                "month": 11,
+                "year": 1993
+            }
+        },
+        "string": "May 2, 1992 to Nov 21, 1993"
+    },
+    "score": 6.52,
+    "scored_by": 622,
+    "rank": 5812,
+    "popularity": 8604,
+    "members": 2180,
+    "favorites": 8,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

@@ -1,0 +1,797 @@
+{
+    "mal_id": 49435,
+    "url": "https://myanimelist.net/people/49435/Katsuji_Morishita",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/56615.jpg",
+    "name": "Katsuji Morishita",
+    "given_name": "勝司",
+    "family_name": "森下",
+    "birthday": "1972-10-09T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 21995,
+                "url": "https://myanimelist.net/anime/21995/Ao_Haru_Ride",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/64813.jpg?s=1303d817a3fca265590fd3973dcc807c",
+                "name": "Ao Haru Ride"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 9737,
+                "url": "https://myanimelist.net/anime/9737/Appleseed_XIII",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/28796.jpg?s=08173b72823149cf67c6810d83ab2690",
+                "name": "Appleseed XIII"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 32827,
+                "url": "https://myanimelist.net/anime/32827/B__The_Beginning",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg?s=2f9d27907b6a6ee5d1b59f8d42b7f58d",
+                "name": "B: The Beginning"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 34636,
+                "url": "https://myanimelist.net/anime/34636/Ballroom_e_Youkoso",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/86739.jpg?s=0e108b1fb44b69b479f54ab1995e0ae0",
+                "name": "Ballroom e Youkoso"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 4151,
+                "url": "https://myanimelist.net/anime/4151/Blade_of_the_Immortal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/74074.jpg?s=73877d6a9fc13a2986fb567bc4e12e06",
+                "name": "Blade of the Immortal"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 150,
+                "url": "https://myanimelist.net/anime/150/Blood_",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=f0a6eb5df371dd4f2840cfa6265964fa",
+                "name": "Blood+"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 10490,
+                "url": "https://myanimelist.net/anime/10490/Blood-C",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg?s=a9510442012a71bd55d7139bdd02a206",
+                "name": "Blood-C"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 10681,
+                "url": "https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg?s=decc38a59f751b2132a45933cd9af69f",
+                "name": "Blood-C: The Last Dark"
+            }
+        },
+        {
+            "position": "Assistant Producer",
+            "anime": {
+                "mal_id": 405,
+                "url": "https://myanimelist.net/anime/405/Blood__The_Last_Vampire",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/18913.jpg?s=2e546f3ce43d3a19f17b4266e56e9453",
+                "name": "Blood: The Last Vampire"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 33685,
+                "url": "https://myanimelist.net/anime/33685/Cyborg_009__Call_of_Justice_1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/81018.jpg?s=b905ca46ad722c2ee698b8dd5d9f917f",
+                "name": "Cyborg 009: Call of Justice 1"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 33686,
+                "url": "https://myanimelist.net/anime/33686/Cyborg_009__Call_of_Justice_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/81019.jpg?s=73636b2c99622ffe732ac974271bd811",
+                "name": "Cyborg 009: Call of Justice 2"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 33687,
+                "url": "https://myanimelist.net/anime/33687/Cyborg_009__Call_of_Justice_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/81020.jpg?s=f3d9cf1bf7b70ad43e5dd51a2e37a93b",
+                "name": "Cyborg 009: Call of Justice 3"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 974,
+                "url": "https://myanimelist.net/anime/974/Dead_Leaves",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/8621.jpg?s=298a742f491e26e7d848265f9962bded",
+                "name": "Dead Leaves"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 18689,
+                "url": "https://myanimelist.net/anime/18689/Diamond_no_Ace",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/54235.jpg?s=0a0768b032a9601b799c29e12efed353",
+                "name": "Diamond no Ace"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 18689,
+                "url": "https://myanimelist.net/anime/18689/Diamond_no_Ace",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/54235.jpg?s=0a0768b032a9601b799c29e12efed353",
+                "name": "Diamond no Ace"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 1317,
+                "url": "https://myanimelist.net/anime/1317/Eyeshield_21__Maboroshi_no_Golden_Bowl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/6087.jpg?s=14b4d16fb67b39e60c97a85808224489",
+                "name": "Eyeshield 21: Maboroshi no Golden Bowl"
+            }
+        },
+        {
+            "position": "Production Manager",
+            "anime": {
+                "mal_id": 19115,
+                "url": "https://myanimelist.net/anime/19115/Giovanni_no_Shima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56297.jpg?s=9dbea6704f70bc1a120219c72477dad4",
+                "name": "Giovanni no Shima"
+            }
+        },
+        {
+            "position": "Production Manager",
+            "anime": {
+                "mal_id": 10793,
+                "url": "https://myanimelist.net/anime/10793/Guilty_Crown",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/33713.jpg?s=c8cedef02efa70cbecc3dd73d0c1159c",
+                "name": "Guilty Crown"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 20583,
+                "url": "https://myanimelist.net/anime/20583/Haikyuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg?s=0d3a5a73ba1a8bfbf306277c6e511af6",
+                "name": "Haikyuu!!"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 29755,
+                "url": "https://myanimelist.net/anime/29755/Haikyuu_Movie_1__Owari_to_Hajimari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76011.jpg?s=a6914957ff0de10e16de8ac5f2f4b716",
+                "name": "Haikyuu!! Movie 1: Owari to Hajimari"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 30364,
+                "url": "https://myanimelist.net/anime/30364/Haikyuu_Movie_2__Shousha_to_Haisha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/74813.jpg?s=6707bcac3aa1739df4e0ef25d8d69425",
+                "name": "Haikyuu!! Movie 2: Shousha to Haisha"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 35110,
+                "url": "https://myanimelist.net/anime/35110/Haikyuu_Movie_3__Sainou_to_Sense",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86069.jpg?s=e93934b09e35976994ea2ff6ac58248a",
+                "name": "Haikyuu!! Movie 3: Sainou to Sense"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 35111,
+                "url": "https://myanimelist.net/anime/35111/Haikyuu_Movie_4__Concept_no_Tatakai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86346.jpg?s=c5ea4f392d146a52a18cf1eae829dbc6",
+                "name": "Haikyuu!! Movie 4: Concept no Tatakai"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 28891,
+                "url": "https://myanimelist.net/anime/28891/Haikyuu_Second_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/76662.jpg?s=a1edfa43d6511b66bf3400a1471b07c3",
+                "name": "Haikyuu!! Second Season"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 32935,
+                "url": "https://myanimelist.net/anime/32935/Haikyuu__Karasuno_Koukou_vs_Shiratorizawa_Gakuen_Koukou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/81992.jpg?s=24d611352b55b7f29cc2da9b14535506",
+                "name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 40262,
+                "url": "https://myanimelist.net/anime/40262/Haikyuu__Riku_vs_Kuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1527/102671.jpg?s=6ef0bc4e60cd158548fe37b600022cf8",
+                "name": "Haikyuu!!: Riku vs. Kuu"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 38883,
+                "url": "https://myanimelist.net/anime/38883/Haikyuu__To_the_Top",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1813/105367.jpg?s=b3a78145e7e98066e8d8a195a113304b",
+                "name": "Haikyuu!!: To the Top"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 40776,
+                "url": "https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg?s=b4d3fe014e875ed01765986bfd97f30a",
+                "name": "Haikyuu!!: To the Top 2nd Season"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 16528,
+                "url": "https://myanimelist.net/anime/16528/Hal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46549.jpg?s=e2a002bfd7527e431271e6b202ff7278",
+                "name": "Hal"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 33204,
+                "url": "https://myanimelist.net/anime/33204/Hirune_Hime__Shiranai_Watashi_no_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/84071.jpg?s=c47995b14556b3a2c8421ea7aec158d4",
+                "name": "Hirune Hime: Shiranai Watashi no Monogatari"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 5998,
+                "url": "https://myanimelist.net/anime/5998/Hottarake_no_Shima__Haruka_to_Mahou_no_Kagami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22255.jpg?s=4a3089cac4e5c41b60ac9ccfb9df4d7d",
+                "name": "Hottarake no Shima: Haruka to Mahou no Kagami"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 468,
+                "url": "https://myanimelist.net/anime/468/Innocence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg?s=95dde4a96bde0b247b99f3d0c1a94bd3",
+                "name": "Innocence"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 31405,
+                "url": "https://myanimelist.net/anime/31405/Joker_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77523.jpg?s=2ebde1d4f3a41a9b4b6b30f665d4be82",
+                "name": "Joker Game"
+            }
+        },
+        {
+            "position": "Chief Producer",
+            "anime": {
+                "mal_id": 26441,
+                "url": "https://myanimelist.net/anime/26441/Junketsu_no_Maria",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/69301.jpg?s=afd248301b5a5c1e145da6a7b0dd1dbd",
+                "name": "Junketsu no Maria"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 38161,
+                "url": "https://myanimelist.net/anime/38161/Kabukichou_Sherlock",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1657/111622.jpg?s=5d12b9b13790492276d5c7198197196f",
+                "name": "Kabukichou Sherlock"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 1622,
+                "url": "https://myanimelist.net/anime/1622/Kai_Doh_Maru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/11152.jpg?s=806e53ecc75116c1e8161baf973c6b4b",
+                "name": "Kai Doh Maru"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 37965,
+                "url": "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1692/93918.jpg?s=a7be9374144b3778911d89472c48bbd7",
+                "name": "Kaze ga Tsuyoku Fuiteiru"
+            }
+        },
+        {
+            "position": "Production Coordination",
+            "anime": {
+                "mal_id": 27411,
+                "url": "https://myanimelist.net/anime/27411/Koukaku_Kidoutai__Shin_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/72690.jpg?s=5780f6044dcf47b7a15a176a341b7c71",
+                "name": "Koukaku Kidoutai: Shin Movie"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 1566,
+                "url": "https://myanimelist.net/anime/1566/Koukaku_Kidoutai__Stand_Alone_Complex_-_Solid_State_Society",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29816.jpg?s=9d7a4984f673b975f1684e506ec7d0bb",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 2449,
+                "url": "https://myanimelist.net/anime/2449/Koukaku_Kidoutai__Stand_Alone_Complex_-_The_Laughing_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21835.jpg?s=86e6580877381cba1b3842803fd7ac32",
+                "name": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 801,
+                "url": "https://myanimelist.net/anime/801/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/51465.jpg?s=921519b5a4a193d67097c880b12773f2",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 2448,
+                "url": "https://myanimelist.net/anime/2448/Koukaku_Kidoutai__Stand_Alone_Complex_2nd_GIG_-_Individual_Eleven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/2829.jpg?s=a4fc647975e0ec8dc4256e0473d9dbb5",
+                "name": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 11771,
+                "url": "https://myanimelist.net/anime/11771/Kuroko_no_Basket",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50453.jpg?s=74199f63ab9058c4ca3be9fcd9287b89",
+                "name": "Kuroko no Basket"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 16894,
+                "url": "https://myanimelist.net/anime/16894/Kuroko_no_Basket_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56155.jpg?s=f4f37d5384cbfe064605373fd8231bc6",
+                "name": "Kuroko no Basket 2nd Season"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 24415,
+                "url": "https://myanimelist.net/anime/24415/Kuroko_no_Basket_3rd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/68299.jpg?s=5de31fd0bfa274ddb8b43eab4933300e",
+                "name": "Kuroko no Basket 3rd Season"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 1013,
+                "url": "https://myanimelist.net/anime/1013/Le_Chevalier_DEon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/74930.jpg?s=4bdede632860ebefefff95e2e3d3b152",
+                "name": "Le Chevalier D'Eon"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 32461,
+                "url": "https://myanimelist.net/anime/32461/Mitsuami_no_Kamisama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/79853.jpg?s=a1d52d33e8b7e7620c2e9ddd55a6f008",
+                "name": "Mitsuami no Kamisama"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 5386,
+                "url": "https://myanimelist.net/anime/5386/Miyamoto_Musashi__Souken_ni_Haseru_Yume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/15118.jpg?s=8296e72e871638bb184fbd6c3658ae07",
+                "name": "Miyamoto Musashi: Souken ni Haseru Yume"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 10389,
+                "url": "https://myanimelist.net/anime/10389/Momo_e_no_Tegami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg?s=e1590d14f74eeeeb060b81e1c77f7c4d",
+                "name": "Momo e no Tegami"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 36038,
+                "url": "https://myanimelist.net/anime/36038/Net-juu_no_Susume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/87463.jpg?s=3f4a9057ea5444ad8e470b69d87cedf2",
+                "name": "Net-juu no Susume"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 525,
+                "url": "https://myanimelist.net/anime/525/Otogizoushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/16736.jpg?s=0ed1985224ca4c6b79649e27fb7c739c",
+                "name": "Otogizoushi"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 30386,
+                "url": "https://myanimelist.net/anime/30386/Pikaia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/78238.jpg?s=0291ce102276be72ba46fdf78f336b43",
+                "name": "Pikaia!"
+            }
+        },
+        {
+            "position": "Production Manager",
+            "anime": {
+                "mal_id": 13601,
+                "url": "https://myanimelist.net/anime/13601/Psycho-Pass",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/43399.jpg?s=3fc4e5e66a1dbf31382bca82a7fa6e22",
+                "name": "Psycho-Pass"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 23281,
+                "url": "https://myanimelist.net/anime/23281/Psycho-Pass_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1197/100616.jpg?s=113f6bede8c6eba3d26e1f6f512e61fe",
+                "name": "Psycho-Pass 2"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 39491,
+                "url": "https://myanimelist.net/anime/39491/Psycho-Pass_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1406/104344.jpg?s=04c4e1b3318e887f0a46db035ee29bd7",
+                "name": "Psycho-Pass 3"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 40858,
+                "url": "https://myanimelist.net/anime/40858/Psycho-Pass_3__First_Inspector",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1085/110722.jpg?s=f732f2c946934f611d4b31c4280bc2f4",
+                "name": "Psycho-Pass 3: First Inspector"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 21339,
+                "url": "https://myanimelist.net/anime/21339/Psycho-Pass_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/71793.jpg?s=a9b59864def7736a38995a4619047631",
+                "name": "Psycho-Pass Movie"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 37440,
+                "url": "https://myanimelist.net/anime/37440/Psycho-Pass__Sinners_of_the_System_Case1_-_Tsumi_to_Bachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1623/96878.jpg?s=3865792c844046fb73668dc298654b6b",
+                "name": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 37441,
+                "url": "https://myanimelist.net/anime/37441/Psycho-Pass__Sinners_of_the_System_Case2_-_First_Guardian",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1357/96879.jpg?s=472dbb82b870785ccde11a2869e18c21",
+                "name": "Psycho-Pass: Sinners of the System Case.2 - First Guardian"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 1693,
+                "url": "https://myanimelist.net/anime/1693/Reideen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/7363.jpg?s=4bc3d881073660681c043eb8c211db17",
+                "name": "Reideen"
+            }
+        },
+        {
+            "position": "Production Manager",
+            "anime": {
+                "mal_id": 13599,
+                "url": "https://myanimelist.net/anime/13599/Robotics_Notes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/42013.jpg?s=d1d2afaef55ee28ef57f194903787316",
+                "name": "Robotics;Notes"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 23987,
+                "url": "https://myanimelist.net/anime/23987/Sarusuberi__Miss_Hokusai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/72531.jpg?s=79e3953a1e66a8fe59069a9b4ecf7dd0",
+                "name": "Sarusuberi: Miss Hokusai"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 1827,
+                "url": "https://myanimelist.net/anime/1827/Seirei_no_Moribito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/50337.jpg?s=a47347ac69684d95630653b00a90facc",
+                "name": "Seirei no Moribito"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 5355,
+                "url": "https://myanimelist.net/anime/5355/Sengoku_Basara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21849.jpg?s=e2aa750b05b88e9a259375e4e50a22f5",
+                "name": "Sengoku Basara"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 9745,
+                "url": "https://myanimelist.net/anime/9745/Sengoku_Basara_Movie__The_Last_Party",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/50871.jpg?s=a57c2369fe6b5becd957d6b7b1ec0028",
+                "name": "Sengoku Basara Movie: The Last Party"
+            }
+        },
+        {
+            "position": "Planning Producer",
+            "anime": {
+                "mal_id": 6634,
+                "url": "https://myanimelist.net/anime/6634/Sengoku_Basara_Ni",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/80999.jpg?s=9ca65be4e180f8123f9572bb856f7509",
+                "name": "Sengoku Basara Ni"
+            }
+        },
+        {
+            "position": "Planning Producer",
+            "anime": {
+                "mal_id": 16498,
+                "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg?s=119cefa0efd1ee46e9a91bba1a46eaa5",
+                "name": "Shingeki no Kyojin"
+            }
+        },
+        {
+            "position": "Planning Producer",
+            "anime": {
+                "mal_id": 35760,
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=2466154861ca6dd897cedefad18d6eba",
+                "name": "Shingeki no Kyojin Season 3"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 35760,
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=2466154861ca6dd897cedefad18d6eba",
+                "name": "Shingeki no Kyojin Season 3"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 35760,
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=2466154861ca6dd897cedefad18d6eba",
+                "name": "Shingeki no Kyojin Season 3"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 38524,
+                "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg?s=b0a77a1da1ec8e50a1b603ad43c24a03",
+                "name": "Shingeki no Kyojin Season 3 Part 2"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 38524,
+                "url": "https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg?s=b0a77a1da1ec8e50a1b603ad43c24a03",
+                "name": "Shingeki no Kyojin Season 3 Part 2"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 31374,
+                "url": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75467.jpg?s=d6a7f8f3eacd8fbfab1cad2750ce3565",
+                "name": "Shingeki! Kyojin Chuugakkou"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 31374,
+                "url": "https://myanimelist.net/anime/31374/Shingeki_Kyojin_Chuugakkou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75467.jpg?s=d6a7f8f3eacd8fbfab1cad2750ce3565",
+                "name": "Shingeki! Kyojin Chuugakkou"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 2596,
+                "url": "https://myanimelist.net/anime/2596/Shinreigari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/22691.jpg?s=dfd794b47b3e11dfff1ddc941e863ee2",
+                "name": "Shinreigari"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 2388,
+                "url": "https://myanimelist.net/anime/2388/Tachiguishi_Retsuden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/2647.jpg?s=c55f1612b495c666cb407fafd5455312",
+                "name": "Tachiguishi Retsuden"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 31221,
+                "url": "https://myanimelist.net/anime/31221/Tantei_Team_KZ_Jiken_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/76574.jpg?s=0bfe4a4349deb2ffef6844e27393c710",
+                "name": "Tantei Team KZ Jiken Note"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 3089,
+                "url": "https://myanimelist.net/anime/3089/The_Sky_Crawlers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/8212.jpg?s=36ad4ce6f72f52535992a1da09b34e75",
+                "name": "The Sky Crawlers"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 807,
+                "url": "https://myanimelist.net/anime/807/Tsubasa_Chronicle__Tori_Kago_no_Kuni_no_Himegimi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/45953.jpg?s=84096296619e24fb68f406ba1985160c",
+                "name": "Tsubasa Chronicle: Tori Kago no Kuni no Himegimi"
+            }
+        },
+        {
+            "position": "Associate Producer",
+            "anime": {
+                "mal_id": 12029,
+                "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s=cb23ccc1827c6154951f7145e51d318f",
+                "name": "Uchuu Senkan Yamato 2199"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 10162,
+                "url": "https://myanimelist.net/anime/10162/Usagi_Drop",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29665.jpg?s=a3f91a59edf1df88496a4fa039043630",
+                "name": "Usagi Drop"
+            }
+        },
+        {
+            "position": "Planning",
+            "anime": {
+                "mal_id": 2032,
+                "url": "https://myanimelist.net/anime/2032/Wellber_no_Monogatari__Sisters_of_Wellber",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23585.jpg?s=edbf0f9c017feea533b9b4470cdb2f86",
+                "name": "Wellber no Monogatari: Sisters of Wellber"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 2032,
+                "url": "https://myanimelist.net/anime/2032/Wellber_no_Monogatari__Sisters_of_Wellber",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/23585.jpg?s=edbf0f9c017feea533b9b4470cdb2f86",
+                "name": "Wellber no Monogatari: Sisters of Wellber"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 861,
+                "url": "https://myanimelist.net/anime/861/xxxHOLiC",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/21858.jpg?s=5ade84a16e59761b9c14d12b5fd32352",
+                "name": "xxxHOLiC"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 3091,
+                "url": "https://myanimelist.net/anime/3091/xxxHOLiC_Kei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/8626.jpg?s=72ae13ec716932038d279543bc535c08",
+                "name": "xxxHOLiC Kei"
+            }
+        },
+        {
+            "position": "Executive Producer",
+            "anime": {
+                "mal_id": 793,
+                "url": "https://myanimelist.net/anime/793/xxxHOLiC_Movie__Manatsu_no_Yoru_no_Yume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1482/107802.jpg?s=e3babc670f4d1131ab930564c5d27f07",
+                "name": "xxxHOLiC Movie: Manatsu no Yoru no Yume"
+            }
+        }
+    ],
+    "published_manga": []
+}

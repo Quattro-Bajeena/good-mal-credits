@@ -1,0 +1,44 @@
+{
+    "mal_id": 17821,
+    "url": "https://myanimelist.net/anime/17821/Stella_Jogakuin_Koutou-ka_C³-bu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/52125.jpg",
+    "title": "Stella Jogakuin Koutou-ka C³-bu",
+    "title_english": "Stella Women's Academy, High School Division Class C³",
+    "title_japanese": "ステラ女学院高等科C³部（しーきゅーぶ）",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-05T00:00:00+00:00",
+        "to": "2013-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 5, 2013 to Sep 27, 2013"
+    },
+    "score": 6.54,
+    "scored_by": 18853,
+    "rank": 5705,
+    "popularity": 2281,
+    "members": 49093,
+    "favorites": 75,
+    "premiered": "Summer 2013",
+    "studios": [
+        {
+            "mal_id": 6,
+            "type": "anime",
+            "name": "Gainax",
+            "url": "https://myanimelist.net/anime/producer/6/Gainax"
+        }
+    ]
+}

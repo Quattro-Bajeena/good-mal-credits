@@ -7,10 +7,15 @@ from anime_credits_app import app_root, db
 from anime_credits_app.models import PageStatus
 
 
+def page_id_maker(category, mal_id)->str:
+    return f"{category}-{mal_id}"
+
 def register_page_update_scheduled(category, mal_id, task_id):
-    log = PageStatus.query.get(mal_id)
+    page_id = page_id_maker(category, mal_id)
+    log = PageStatus.query.get(page_id)
     if not log:
         log = PageStatus(
+            id = page_id,
             mal_id = mal_id,
             category=category,
             exists = False,
@@ -32,16 +37,18 @@ def register_page_update_scheduled(category, mal_id, task_id):
 
 
 
-def register_page_update_start(mal_id):
-    log = PageStatus.query.get(mal_id)
+def register_page_update_start(category, mal_id):
+    page_id = page_id_maker(category, mal_id)
+    log = PageStatus.query.get(page_id)
     log.updating = True
     log.scheduled_to_update = False
     print("register_page_update_start")
     db.session.commit()
 
 
-def register_page_update_complete(mal_id):
-    log = PageStatus.query.get(mal_id)
+def register_page_update_complete(category, mal_id):
+    page_id = page_id_maker(category, mal_id)
+    log = PageStatus.query.get(page_id)
     log.updating = False
     log.exists = True
     log.task_id = ''
@@ -49,10 +56,11 @@ def register_page_update_complete(mal_id):
     db.session.commit()
     print("register_page_update_complete")
 
-def failed_page_update_cleanup(mal_id):
+def failed_page_update_cleanup(category, mal_id):
+    page_id = page_id_maker(category, mal_id)
     db.session.rollback()
 
-    log = PageStatus.query.get(mal_id)
+    log = PageStatus.query.get(page_id)
     log.updating = False
     log.task_id = ''
     db.session.commit()
@@ -67,8 +75,8 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -in database but not created and updating at the moment   -> exists:False, updating:True, task_id : xxx
     # -in databse but not created and not updating              -> exists:False, updating:False, task_id : None
     # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
-
-    log = PageStatus.query.get(mal_id)
+    page_id = page_id_maker(category, mal_id)
+    log = PageStatus.query.get(page_id)
     print(f"check_page_update - log: {log} ")
     in_db = bool(log)
     exists = in_db and log.exists

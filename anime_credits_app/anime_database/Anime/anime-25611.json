@@ -1,0 +1,44 @@
+{
+    "mal_id": 25611,
+    "url": "https://myanimelist.net/anime/25611/Genki_Genki_Non-tan_2004",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/65133.jpg",
+    "title": "Genki Genki Non-tan (2004)",
+    "title_english": null,
+    "title_japanese": "げんき げんき ノンタン",
+    "type": "TV",
+    "source": "Picture book",
+    "episodes": 10,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-04-20T00:00:00+00:00",
+        "to": "2004-05-03T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2004
+            },
+            "to": {
+                "day": 3,
+                "month": 5,
+                "year": 2004
+            }
+        },
+        "string": "Apr 20, 2004 to May 3, 2004"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 14101,
+    "popularity": 15220,
+    "members": 180,
+    "favorites": 0,
+    "premiered": "Spring 2004",
+    "studios": [
+        {
+            "mal_id": 1023,
+            "type": "anime",
+            "name": "Polygon Pictures",
+            "url": "https://myanimelist.net/anime/producer/1023/Polygon_Pictures"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "mal_id": 129551,
+    "url": "https://myanimelist.net/character/129551/Omar_Fang",
+    "name": "Omar Fang",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/10/283948.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 214,
+            "name": "Kidou Senshi Gundam: The Origin",
+            "url": "https://myanimelist.net/manga/214/Kidou_Senshi_Gundam__The_Origin",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/151300.jpg?s=a418d1796093bd119b164681a97e229c",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 424,
+            "name": "Shiozawa, Kaneto",
+            "url": "https://myanimelist.net/people/424/Kaneto_Shiozawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12357.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 598,
+            "name": "Ikeda, Shuuichi",
+            "url": "https://myanimelist.net/people/598/Shuuichi_Ikeda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34777.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 629,
+            "name": "Futamata, Issei",
+            "url": "https://myanimelist.net/people/629/Issei_Futamata",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54852.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 673,
+            "name": "Furukawa, Toshio",
+            "url": "https://myanimelist.net/people/673/Toshio_Furukawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12850.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1129,
+            "name": "Suzuki, Kiyonobu",
+            "url": "https://myanimelist.net/people/1129/Kiyonobu_Suzuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56483.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 43914,
+            "name": "Musiu, Gianluca",
+            "url": "https://myanimelist.net/people/43914/Gianluca_Musiu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/47418.jpg",
+            "language": "Italian"
+        }
+    ]
+}

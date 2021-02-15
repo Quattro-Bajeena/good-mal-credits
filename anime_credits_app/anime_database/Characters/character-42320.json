@@ -1,0 +1,112 @@
+{
+    "mal_id": 42320,
+    "url": "https://myanimelist.net/character/42320/Marker_Clan",
+    "name": "Marker Clan",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/117752.jpg",
+    "animeography": [
+        {
+            "mal_id": 80,
+            "name": "Mobile Suit Gundam",
+            "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=0ff06c8641670435e57b8776177b6260",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1090,
+            "name": "Mobile Suit Gundam I",
+            "url": "https://myanimelist.net/anime/1090/Mobile_Suit_Gundam_I",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75772.jpg?s=8a18ee23d8bffda9b229a94370b76524",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1091,
+            "name": "Mobile Suit Gundam II: Soldiers of Sorrow",
+            "url": "https://myanimelist.net/anime/1091/Mobile_Suit_Gundam_II__Soldiers_of_Sorrow",
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/75773.jpg?s=564a4a79159d3ef3ac808988ac42487f",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 1092,
+            "name": "Mobile Suit Gundam III: Encounters in Space",
+            "url": "https://myanimelist.net/anime/1092/Mobile_Suit_Gundam_III__Encounters_in_Space",
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/75774.jpg?s=9e3f2fdab83e9c65c6aeab89b3359a7a",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 86,
+            "name": "Fukuyama, Jun",
+            "url": "https://myanimelist.net/people/86/Jun_Fukuyama",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60810.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 424,
+            "name": "Shiozawa, Kaneto",
+            "url": "https://myanimelist.net/people/424/Kaneto_Shiozawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12357.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 673,
+            "name": "Furukawa, Toshio",
+            "url": "https://myanimelist.net/people/673/Toshio_Furukawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/12850.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 921,
+            "name": "Mori, Katsuji",
+            "url": "https://myanimelist.net/people/921/Katsuji_Mori",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/17165.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1129,
+            "name": "Suzuki, Kiyonobu",
+            "url": "https://myanimelist.net/people/1129/Kiyonobu_Suzuki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/56483.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1506,
+            "name": "Shioya, Yoku",
+            "url": "https://myanimelist.net/people/1506/Yoku_Shioya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/49815.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1522,
+            "name": "Tatsuta, Naoki",
+            "url": "https://myanimelist.net/people/1522/Naoki_Tatsuta",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33099.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7075,
+            "name": "Weisz, Ezra",
+            "url": "https://myanimelist.net/people/7075/Ezra_Weisz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41343.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 12551,
+            "name": "Funaki, Hiroyuki",
+            "url": "https://myanimelist.net/people/12551/Hiroyuki_Funaki",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 20258,
+            "name": "Veltroni, Simone",
+            "url": "https://myanimelist.net/people/20258/Simone_Veltroni",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/22513.jpg",
+            "language": "Italian"
+        }
+    ]
+}

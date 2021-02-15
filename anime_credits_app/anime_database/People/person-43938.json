@@ -1,0 +1,74 @@
+{
+    "mal_id": 43938,
+    "url": "https://myanimelist.net/people/43938/Cristina_Poccardi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47448.jpg",
+    "name": "Cristina Poccardi",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1972-01-24T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5684,
+                "url": "https://myanimelist.net/anime/5684/Fresh_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/21267.jpg?s=8d6cc91db6aafe3ce4361bc215253f06",
+                "name": "Fresh Precure!"
+            },
+            "character": {
+                "mal_id": 102731,
+                "url": "https://myanimelist.net/character/102731/Nana",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/239019.jpg?s=17fcce2b34516e4abee87763ec0ee014",
+                "name": "Nana"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2034,
+                "url": "https://myanimelist.net/anime/2034/Lovely★Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75563.jpg?s=d1f718ddefdb3b6f237cdc157cd710ed",
+                "name": "Lovely★Complex"
+            },
+            "character": {
+                "mal_id": 96897,
+                "url": "https://myanimelist.net/character/96897/Kazuko_Matsubara",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/228443.jpg?s=ee754129a6f4122b7bc70eb51218111d",
+                "name": "Matsubara, Kazuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 80,
+                "url": "https://myanimelist.net/anime/80/Mobile_Suit_Gundam",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88524.jpg?s=32cc680b54e9023e0bceecd8c8ccd286",
+                "name": "Mobile Suit Gundam"
+            },
+            "character": {
+                "mal_id": 129559,
+                "url": "https://myanimelist.net/character/129559/Simus_Al_Bakharov",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/283956.jpg?s=bb834233769a98f770e49e7cfdea0647",
+                "name": "Al Bakharov, Simus"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3655,
+                "url": "https://myanimelist.net/anime/3655/Nabari_no_Ou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/79037.jpg?s=a6c9f042b2cae1ed03cc6e60859a26e9",
+                "name": "Nabari no Ou"
+            },
+            "character": {
+                "mal_id": 13414,
+                "url": "https://myanimelist.net/character/13414/Kourin_Shimizu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/26214.jpg?s=564b7cd2d6327dd0a9c7f233ae7ba9d4",
+                "name": "Shimizu, Kourin"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}
