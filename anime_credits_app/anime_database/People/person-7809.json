@@ -1,0 +1,104 @@
+{
+    "mal_id": 7809,
+    "url": "https://myanimelist.net/people/7809/Kriszta_Németh",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5063.jpg",
+    "name": "Kriszta Németh",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1969-08-13T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 54,
+                "url": "https://myanimelist.net/anime/54/Appleseed_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57231.jpg?s=d360227ef0aaae2bb1638a9759997da0",
+                "name": "Appleseed (Movie)"
+            },
+            "character": {
+                "mal_id": 5373,
+                "url": "https://myanimelist.net/character/5373/Athena_Areios",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/269533.jpg?s=eca26d414951da50b20db71c34584cb0",
+                "name": "Areios, Athena"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 5,
+                "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1439/93480.jpg?s=537b7ffd65a9e37dfca989f0bd99c8df",
+                "name": "Cowboy Bebop: Tengoku no Tobira"
+            },
+            "character": {
+                "mal_id": 2,
+                "url": "https://myanimelist.net/character/2/Faye_Valentine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/264961.jpg?s=fa386795ec9553d01523e3e5ae216b1f",
+                "name": "Valentine, Faye"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 552,
+                "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/11070.jpg?s=6680583700e000255934a64b0dedeb80",
+                "name": "Digimon Adventure"
+            },
+            "character": {
+                "mal_id": 2276,
+                "url": "https://myanimelist.net/character/2276/Sora_Takenouchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/86723.jpg?s=7ba19c34ae1cc9fac87dc46f09097759",
+                "name": "Takenouchi, Sora"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 67,
+                "url": "https://myanimelist.net/character/67/Izumi_Curtis",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/85257.jpg?s=316e84bf65e17b987e67118e2fc2357d",
+                "name": "Curtis, Izumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 67,
+                "url": "https://myanimelist.net/character/67/Izumi_Curtis",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/85257.jpg?s=316e84bf65e17b987e67118e2fc2357d",
+                "name": "Curtis, Izumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 274,
+                "url": "https://myanimelist.net/anime/274/Kiddy_Grade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/73995.jpg?s=057163607dd326b40aa14c76e9f010a2",
+                "name": "Kiddy Grade"
+            },
+            "character": {
+                "mal_id": 7293,
+                "url": "https://myanimelist.net/character/7293/Eclipse",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/114857.jpg?s=c2527894f6caea3b0644338b051608bc",
+                "name": "Eclipse"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

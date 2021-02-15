@@ -1,0 +1,569 @@
+{
+    "mal_id": 6066,
+    "url": "https://myanimelist.net/people/6066/Wanja_Gerick",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/33595.jpg",
+    "name": "Wanja Gerick",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1981-02-16T00:00:00+00:00",
+    "member_favorites": 17,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2156,
+                "url": "https://myanimelist.net/anime/2156/Bakugan_Battle_Brawlers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/21568.jpg?s=dd78f79645b0ff58ed293c4732b5b1aa",
+                "name": "Bakugan Battle Brawlers"
+            },
+            "character": {
+                "mal_id": 12357,
+                "url": "https://myanimelist.net/character/12357/Masquerade",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/427640.jpg?s=df603dfb8a69c78ff64c058711256f56",
+                "name": "Masquerade"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1520,
+                "url": "https://myanimelist.net/anime/1520/Black_Jack",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12978.jpg?s=e7ab653a100ca9fe18fc7c553e2043df",
+                "name": "Black Jack"
+            },
+            "character": {
+                "mal_id": 23610,
+                "url": "https://myanimelist.net/character/23610/Leslie_Harris",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/296301.jpg?s=29a50b741be40f42a4e0cad9023e37f5",
+                "name": "Harris, Leslie"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 1087,
+                "url": "https://myanimelist.net/character/1087/Gin_Ichimaru",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/98077.jpg?s=632fb487c97f517ee6f1f3f43b0811d1",
+                "name": "Ichimaru, Gin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 5174,
+                "url": "https://myanimelist.net/character/5174/Shingo_Midou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/177549.jpg?s=43156ffc37e4622f33576d398c4325c9",
+                "name": "Midou, Shingo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6467,
+                "url": "https://myanimelist.net/anime/6467/Detective_Conan_Movie_14__The_Lost_Ship_in_the_Sky",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/22312.jpg?s=002d3c899d9fb960963db293f046e5d9",
+                "name": "Detective Conan Movie 14: The Lost Ship in the Sky"
+            },
+            "character": {
+                "mal_id": 54747,
+                "url": "https://myanimelist.net/character/54747/Junpei_Ishimoto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/149763.jpg?s=a2ddefe3d78f8c581f45c1bf9a6cebc0",
+                "name": "Ishimoto, Junpei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 552,
+                "url": "https://myanimelist.net/anime/552/Digimon_Adventure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/11070.jpg?s=6680583700e000255934a64b0dedeb80",
+                "name": "Digimon Adventure"
+            },
+            "character": {
+                "mal_id": 9959,
+                "url": "https://myanimelist.net/character/9959/Pinocchimon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/53867.jpg?s=bec4da7606d9d39e71062f8282c5a654",
+                "name": "Pinocchimon"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1132,
+                "url": "https://myanimelist.net/anime/1132/Digimon_Frontier",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/31591.jpg?s=429d154283b0e7c730a68e395905aace",
+                "name": "Digimon Frontier"
+            },
+            "character": {
+                "mal_id": 1889,
+                "url": "https://myanimelist.net/character/1889/Junpei_Shibayama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/55509.jpg?s=89789e0b91420891763987b34e9bb804",
+                "name": "Shibayama, Junpei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 891,
+                "url": "https://myanimelist.net/anime/891/Dragon_Ball_Movie_2__Majinjou_no_Nemurihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1285/90340.jpg?s=52b1623c07652a351ce87ccfb19daa65",
+                "name": "Dragon Ball Movie 2: Majinjou no Nemurihime"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 892,
+                "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg?s=b72ef2b26b0358bf5e6036c96ec5007c",
+                "name": "Dragon Ball Movie 3: Makafushigi Daibouken"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 894,
+                "url": "https://myanimelist.net/anime/894/Dragon_Ball_Z_Movie_01__Ora_no_Gohan_wo_Kaese",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1258/90343.jpg?s=0a9ceb9d8b44d46eaa63dbfb796c9fe6",
+                "name": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 896,
+                "url": "https://myanimelist.net/anime/896/Dragon_Ball_Z_Movie_03__Chikyuu_Marugoto_Choukessen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1956/90345.jpg?s=dd7a3692225603910c1062a658d50a38",
+                "name": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 897,
+                "url": "https://myanimelist.net/anime/897/Dragon_Ball_Z_Movie_04__Super_Saiyajin_da_Son_Gokuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1620/93667.jpg?s=73a88aa31f1d73f72ea2d9b02a34a182",
+                "name": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 899,
+                "url": "https://myanimelist.net/anime/899/Dragon_Ball_Z_Movie_06__Gekitotsu_100-oku_Power_no_Senshi-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1007/93669.jpg?s=5a26563adf1b9cd4ca457819f74752f2",
+                "name": "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 901,
+                "url": "https://myanimelist.net/anime/901/Dragon_Ball_Z_Movie_08__Moetsukiro_Nessen_Ressen_Chougekisen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1180/93671.jpg?s=35d1e524235ca4d07959b4cfa40b5366",
+                "name": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 902,
+                "url": "https://myanimelist.net/anime/902/Dragon_Ball_Z_Movie_09__Ginga_Girigiri_Bucchigiri_no_Sugoi_Yatsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1730/93672.jpg?s=66338374ee74b77324dee95120cd460f",
+                "name": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 903,
+                "url": "https://myanimelist.net/anime/903/Dragon_Ball_Z_Movie_10__Kiken_na_Futari_Super_Senshi_wa_Nemurenai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1191/93673.jpg?s=ed205623ecb01d5e68336f04ac0da8a7",
+                "name": "Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 904,
+                "url": "https://myanimelist.net/anime/904/Dragon_Ball_Z_Movie_11__Super_Senshi_Gekiha_Katsu_no_wa_Ore_da",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg?s=fda138ee128971b0b8f408fb7f8064ad",
+                "name": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 906,
+                "url": "https://myanimelist.net/anime/906/Dragon_Ball_Z_Movie_13__Ryuuken_Bakuhatsu_Gokuu_ga_Yaraneba_Dare_ga_Yaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1704/93676.jpg?s=b51a3d328f5b941175ffd16ad35b4a98",
+                "name": "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 14837,
+                "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1734/93678.jpg?s=935b453935e3c8bebba964255039dfc2",
+                "name": "Dragon Ball Z Movie 14: Kami to Kami"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 25389,
+                "url": "https://myanimelist.net/anime/25389/Dragon_Ball_Z_Movie_15__Fukkatsu_no_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1833/93679.jpg?s=ce2f3d2db532139b56305cf7b1e32429",
+                "name": "Dragon Ball Z Movie 15: Fukkatsu no \"F\""
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 985,
+                "url": "https://myanimelist.net/anime/985/Dragon_Ball_Z_Special_2__Zetsubou_e_no_Hankou_Nokosareta_Chousenshi_-_Gohan_to_Trunks",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10207.jpg?s=da1f719f331f20afe6db6511a325657a",
+                "name": "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks"
+            },
+            "character": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/character/2159/Kuririn",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/48517.jpg?s=53257848ad64eea381e7e97710af3a4d",
+                "name": "Kuririn"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2030,
+                "url": "https://myanimelist.net/anime/2030/El_Cazador_de_la_Bruja",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/19922.jpg?s=8d56fbe18c0aa94f36b97aa7f76d4352",
+                "name": "El Cazador de la Bruja"
+            },
+            "character": {
+                "mal_id": 2434,
+                "url": "https://myanimelist.net/character/2434/LA",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/52082.jpg?s=cb454fd23e47f558741dfd8c3a78ed6a",
+                "name": "L.A."
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 3576,
+                "url": "https://myanimelist.net/character/3576/Alfons_Heiderich",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/113283.jpg?s=51a8aaeb73c0f393d52869d7f5bf53b0",
+                "name": "Heiderich, Alfons"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 603,
+                "url": "https://myanimelist.net/anime/603/Futari_wa_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7533.jpg?s=60baface765d06277ba4f2aa3ac43b3c",
+                "name": "Futari wa Precure"
+            },
+            "character": {
+                "mal_id": 30891,
+                "url": "https://myanimelist.net/character/30891/Kiriya_",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/120667.jpg?s=7c713f8448059918367ee81da7dc99dc",
+                "name": "Kiriya "
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 385,
+                "url": "https://myanimelist.net/anime/385/Gilgamesh",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6640.jpg?s=97d00a34fc29170eb1d0bd620ddebbb5",
+                "name": "Gilgamesh"
+            },
+            "character": {
+                "mal_id": 4042,
+                "url": "https://myanimelist.net/character/4042/Toru_Tsukioka",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/56226.jpg?s=9f45bb5448b2a961655963b9d43373c0",
+                "name": "Tsukioka, Toru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 243,
+                "url": "https://myanimelist.net/anime/243/Gravitation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/21856.jpg?s=b497a4e85a62cd46c2598b6ef3296027",
+                "name": "Gravitation"
+            },
+            "character": {
+                "mal_id": 699,
+                "url": "https://myanimelist.net/character/699/Sakano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/107472.jpg?s=4993237ca67a5298471211174f607fa6",
+                "name": "Sakano"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 507,
+                "url": "https://myanimelist.net/anime/507/Gravitation__Lyrics_of_Love",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1656/94257.jpg?s=ff3f11e3984d4ea7a918efd5b08cf817",
+                "name": "Gravitation: Lyrics of Love"
+            },
+            "character": {
+                "mal_id": 699,
+                "url": "https://myanimelist.net/character/699/Sakano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/107472.jpg?s=4993237ca67a5298471211174f607fa6",
+                "name": "Sakano"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 257,
+                "url": "https://myanimelist.net/anime/257/Ikkitousen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23091.jpg?s=d286e23f94aa6f731fcff64a77e80330",
+                "name": "Ikkitousen"
+            },
+            "character": {
+                "mal_id": 24798,
+                "url": "https://myanimelist.net/character/24798/Kouha_Kannei",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Kannei, Kouha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 157,
+                "url": "https://myanimelist.net/anime/157/Mahou_Sensei_Negima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/89535.jpg?s=33390e15f169d5e9218a846baaaa62a1",
+                "name": "Mahou Sensei Negima!"
+            },
+            "character": {
+                "mal_id": 10928,
+                "url": "https://myanimelist.net/character/10928/Fate_Averruncus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/64835.jpg?s=056d241a7caa09ca1418e8205589a463",
+                "name": "Averruncus, Fate"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10370,
+                "url": "https://myanimelist.net/anime/10370/Metal_Fight_Beyblade_4D",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29013.jpg?s=36f7733c352e9ea73b590f63137768b7",
+                "name": "Metal Fight Beyblade 4D"
+            },
+            "character": {
+                "mal_id": 65275,
+                "url": "https://myanimelist.net/character/65275/Zeo_Abyss",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/171357.jpg?s=6acfba28d8fa53d202a38fd78e970e8d",
+                "name": "Abyss, Zeo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1108,
+                "url": "https://myanimelist.net/anime/1108/Senkaiden_Houshin_Engi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1004/94169.jpg?s=9a0d1900ca8068fff9d4c46e08821055",
+                "name": "Senkaiden Houshin Engi"
+            },
+            "character": {
+                "mal_id": 9426,
+                "url": "https://myanimelist.net/character/9426/Shinkohyou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/353593.jpg?s=6df7e3ed53fdb4cca54e802c44501062",
+                "name": "Shinkohyou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3972,
+                "url": "https://myanimelist.net/anime/3972/Yu☆Gi☆Oh_5Ds",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1667/103658.jpg?s=069929cbf2479161b4e03563fb84a60b",
+                "name": "Yu☆Gi☆Oh! 5D's"
+            },
+            "character": {
+                "mal_id": 9700,
+                "url": "https://myanimelist.net/character/9700/Yuusei_Fudou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/78305.jpg?s=9cdf36672c56cde5fa824bc3d1491170",
+                "name": "Fudou, Yuusei"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

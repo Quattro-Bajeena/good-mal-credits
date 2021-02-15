@@ -1,0 +1,374 @@
+{
+    "mal_id": 1679,
+    "url": "https://myanimelist.net/people/1679/Sarah_Brückner",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Sarah Brückner",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 47,
+                "url": "https://myanimelist.net/anime/47/Akira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=948835589d4ffaae7a4a975a6c1d61b4",
+                "name": "Akira"
+            },
+            "character": {
+                "mal_id": 111817,
+                "url": "https://myanimelist.net/character/111817/Kiyoko",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/287471.jpg?s=f08e47720b93e05d74689b15cf2b0387",
+                "name": "Kiyoko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9919,
+                "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg?s=3df6fa77a517d305527ef4f0984fed48",
+                "name": "Ao no Exorcist"
+            },
+            "character": {
+                "mal_id": 43187,
+                "url": "https://myanimelist.net/character/43187/Kuro",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/135279.jpg?s=1708e0c13aa4b9cfa6045ab1bda91e7c",
+                "name": "Kuro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 11737,
+                "url": "https://myanimelist.net/anime/11737/Ao_no_Exorcist_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42005.jpg?s=dcec06447432b41b1d64e20a1c6f537f",
+                "name": "Ao no Exorcist Movie"
+            },
+            "character": {
+                "mal_id": 43187,
+                "url": "https://myanimelist.net/character/43187/Kuro",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/135279.jpg?s=1708e0c13aa4b9cfa6045ab1bda91e7c",
+                "name": "Kuro"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 11266,
+                "url": "https://myanimelist.net/anime/11266/Ao_no_Exorcist__Kuro_no_Iede",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73495.jpg?s=60feb4a7cc61d0054163c912b1a29b96",
+                "name": "Ao no Exorcist: Kuro no Iede"
+            },
+            "character": {
+                "mal_id": 43187,
+                "url": "https://myanimelist.net/character/43187/Kuro",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/135279.jpg?s=1708e0c13aa4b9cfa6045ab1bda91e7c",
+                "name": "Kuro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1498,
+                "url": "https://myanimelist.net/anime/1498/Black_Blood_Brothers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/13804.jpg?s=63309cabcd55b2da754ab0da1db532b6",
+                "name": "Black Blood Brothers"
+            },
+            "character": {
+                "mal_id": 791,
+                "url": "https://myanimelist.net/character/791/Alice_Eve",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/84185.jpg?s=f31319a78c0a26fd857b834d9b75b53a",
+                "name": "Eve, Alice"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/anime/68/Black_Cat_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1485/110010.jpg?s=d7a2d4c8e8c5bc3c90ea6dd3b216b2cb",
+                "name": "Black Cat (TV)"
+            },
+            "character": {
+                "mal_id": 45,
+                "url": "https://myanimelist.net/character/45/Rinslet_Walker",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/78923.jpg?s=55c9c7069ed1c8346f79ce70bf46e783",
+                "name": "Walker, Rinslet"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2589,
+                "url": "https://myanimelist.net/anime/2589/Black_Cat_TV__Toozakaru_Neko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/22527.jpg?s=f48bab4eb366ab394e82e4da050809a3",
+                "name": "Black Cat (TV): Toozakaru Neko"
+            },
+            "character": {
+                "mal_id": 45,
+                "url": "https://myanimelist.net/character/45/Rinslet_Walker",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/78923.jpg?s=55c9c7069ed1c8346f79ce70bf46e783",
+                "name": "Walker, Rinslet"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 22851,
+                "url": "https://myanimelist.net/character/22851/Michiru_Ogawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/103049.jpg?s=f9da848241d8c32d8f9f11e49d773cca",
+                "name": "Ogawa, Michiru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 31388,
+                "url": "https://myanimelist.net/character/31388/Shunou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/83572.jpg?s=4edb4853f4a50ad2b4a498a7d861218d",
+                "name": "Shun'ou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2025,
+                "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg?s=7bfc04d78ec59cca283822cdae1167c1",
+                "name": "Darker than Black: Kuro no Keiyakusha"
+            },
+            "character": {
+                "mal_id": 2435,
+                "url": "https://myanimelist.net/character/2435/Mai_Kashiwagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/54380.jpg?s=3f2369850a431ec68be823d818c26150",
+                "name": "Kashiwagi, Mai"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2025,
+                "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg?s=7bfc04d78ec59cca283822cdae1167c1",
+                "name": "Darker than Black: Kuro no Keiyakusha"
+            },
+            "character": {
+                "mal_id": 5432,
+                "url": "https://myanimelist.net/character/5432/Maki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/54724.jpg?s=086c767ccde4516e06b57da4a9234bd0",
+                "name": "Maki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 22474,
+                "url": "https://myanimelist.net/character/22474/Elicia_Hughes",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/53527.jpg?s=1adb9def8c9b2396b6e19d27fccc2344",
+                "name": "Hughes, Elicia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 22474,
+                "url": "https://myanimelist.net/character/22474/Elicia_Hughes",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/53527.jpg?s=1adb9def8c9b2396b6e19d27fccc2344",
+                "name": "Hughes, Elicia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 267,
+                "url": "https://myanimelist.net/anime/267/Gungrave",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.jpg?s=7e1494d25ddef47ba1a6f2ef4122b7f0",
+                "name": "Gungrave"
+            },
+            "character": {
+                "mal_id": 6014,
+                "url": "https://myanimelist.net/character/6014/Mika_Asagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/77918.jpg?s=78105b91b3cc03e202980764a4b790ac",
+                "name": "Asagi, Mika"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 389,
+                "url": "https://myanimelist.net/anime/389/Karas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1054/98245.jpg?s=1451cc43d9993006059bdf05a109737e",
+                "name": "Karas"
+            },
+            "character": {
+                "mal_id": 114767,
+                "url": "https://myanimelist.net/character/114767/Yoshiko_Sagisaka",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/261491.jpg?s=478d8bfd702f615a1014ca896e9fb08d",
+                "name": "Sagisaka, Yoshiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 43,
+                "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82594.jpg?s=091b0925a46fdd19af4b290030abaca0",
+                "name": "Koukaku Kidoutai"
+            },
+            "character": {
+                "mal_id": 1795,
+                "url": "https://myanimelist.net/character/1795/Motoko_Kusanagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/314931.jpg?s=c6f55b211177e71e826c014d4dcd4175",
+                "name": "Kusanagi, Motoko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 14513,
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=e345547c2b7567a434fcbb38036dd01d",
+                "name": "Magi: The Labyrinth of Magic"
+            },
+            "character": {
+                "mal_id": 54623,
+                "url": "https://myanimelist.net/character/54623/Sahsa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/186737.jpg?s=fe852a858f0aec191b79773561afc280",
+                "name": "Sahsa"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 322,
+                "url": "https://myanimelist.net/anime/322/Paradise_Kiss",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/80636.jpg?s=f12b12fb9c2e6de8fbc30fd0d3ba8c95",
+                "name": "Paradise Kiss"
+            },
+            "character": {
+                "mal_id": 433,
+                "url": "https://myanimelist.net/character/433/Miwako_Sakurada",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/125623.jpg?s=703ffeb33cbcde6f756f254c5bff3d28",
+                "name": "Sakurada, Miwako"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 417,
+                "url": "https://myanimelist.net/anime/417/Ragnarök_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2589.jpg?s=e63a2e7bfbf798245d0ed09dba1bf50d",
+                "name": "Ragnarök The Animation"
+            },
+            "character": {
+                "mal_id": 17504,
+                "url": "https://myanimelist.net/character/17504/Poi-Poi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/298754.jpg?s=75a4fb31dcb7a286ceacba92fcf6882a",
+                "name": "Poi-Poi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 166,
+                "url": "https://myanimelist.net/anime/166/Samurai_7",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1190/95421.jpg?s=f24995569a07f8c9a624395698145bf2",
+                "name": "Samurai 7"
+            },
+            "character": {
+                "mal_id": 75140,
+                "url": "https://myanimelist.net/character/75140/Honoka",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Honoka"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            },
+            "character": {
+                "mal_id": 4816,
+                "url": "https://myanimelist.net/character/4816/Koza",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/53515.jpg?s=f3b7346f476e3f9ec0674fb757708290",
+                "name": "Koza"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 167,
+                "url": "https://myanimelist.net/anime/167/Scrapped_Princess",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1238/94717.jpg?s=26532dd948363ae597bec97194c82e68",
+                "name": "Scrapped Princess"
+            },
+            "character": {
+                "mal_id": 4079,
+                "url": "https://myanimelist.net/character/4079/Eirote_Borchard",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/91705.jpg?s=eae9c2fbfe349321f8b4edcfb26d6482",
+                "name": "Borchard, Eirote"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3138,
+                "url": "https://myanimelist.net/anime/3138/Solty_Rei__Surechigau_Kimochi_de_Omoi_Au_Kokoro_de",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/69657.jpg?s=a3e38518e8b6be21afd7ef4ec9281f9e",
+                "name": "Solty Rei: Surechigau Kimochi de, Omoi Au Kokoro de."
+            },
+            "character": {
+                "mal_id": 20822,
+                "url": "https://myanimelist.net/character/20822/Accela_Warrick",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/79940.jpg?s=326c7aad9b387bf4df40b9fad2212dbd",
+                "name": "Warrick, Accela"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 916,
+                "url": "https://myanimelist.net/anime/916/Tokkou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/18280.jpg?s=b20a186d78e08af5458256372327c0a0",
+                "name": "Tokkou"
+            },
+            "character": {
+                "mal_id": 44375,
+                "url": "https://myanimelist.net/character/44375/Mayu_Araragi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/122183.jpg?s=585660a38a71ecc6aff5b8c5f7005523",
+                "name": "Araragi, Mayu"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

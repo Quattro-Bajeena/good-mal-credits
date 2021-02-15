@@ -1,0 +1,603 @@
+{
+    "mal_id": 7344,
+    "url": "https://myanimelist.net/people/7344/Francisco_Brêtas",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/61900.jpg",
+    "name": "Francisco Brêtas",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 30,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/anime/68/Black_Cat_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1485/110010.jpg?s=d7a2d4c8e8c5bc3c90ea6dd3b216b2cb",
+                "name": "Black Cat (TV)"
+            },
+            "character": {
+                "mal_id": 7710,
+                "url": "https://myanimelist.net/character/7710/Touma_Fudou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/427895.jpg?s=99cfed25b49bbdff77a426b65b30be8b",
+                "name": "Fudou, Touma"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 232,
+                "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/60781.jpg?s=ba6394350bfde4e62963b02889694bcb",
+                "name": "Cardcaptor Sakura"
+            },
+            "character": {
+                "mal_id": 3614,
+                "url": "https://myanimelist.net/character/3614/Fujitaka_Kinomoto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/75610.jpg?s=11a410f9f966f66cd54e87a37e37b78a",
+                "name": "Kinomoto, Fujitaka"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 372,
+                "url": "https://myanimelist.net/anime/372/Cardcaptor_Sakura_Movie_2__Fuuin_Sareta_Card",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1652/90326.jpg?s=52e685ca98d3906e012891a94e0c489b",
+                "name": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card"
+            },
+            "character": {
+                "mal_id": 3614,
+                "url": "https://myanimelist.net/character/3614/Fujitaka_Kinomoto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/75610.jpg?s=11a410f9f966f66cd54e87a37e37b78a",
+                "name": "Kinomoto, Fujitaka"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 966,
+                "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/59897.jpg?s=3bb02783e3a37f73452006e3f3a71f8f",
+                "name": "Crayon Shin-chan"
+            },
+            "character": {
+                "mal_id": 7880,
+                "url": "https://myanimelist.net/character/7880/Bunta_Takakura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/12551.jpg?s=a1bc8fab74fb5aa00488f7fd586d8f96",
+                "name": "Takakura, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1132,
+                "url": "https://myanimelist.net/anime/1132/Digimon_Frontier",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/31591.jpg?s=429d154283b0e7c730a68e395905aace",
+                "name": "Digimon Frontier"
+            },
+            "character": {
+                "mal_id": 26556,
+                "url": "https://myanimelist.net/character/26556/RhodoKnightmon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/248579.jpg?s=7c8aa452052fcd89a66b638f0bf1e05d",
+                "name": "RhodoKnightmon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 2124,
+                "url": "https://myanimelist.net/character/2124/Chapa-O",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/112704.jpg?s=49b677312f2a6251d8ab5d22f1b38c6c",
+                "name": "Chapa-O"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 102035,
+                "url": "https://myanimelist.net/character/102035/King_Kress",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/238183.jpg?s=48c1a0a3ddd9e0363c87250980b86366",
+                "name": "King Kress"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 6133,
+                "url": "https://myanimelist.net/character/6133/Higashi_no_Kaioshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/32340.jpg?s=4eaf6ace077855abf025a9565117e708",
+                "name": "Higashi no Kaioshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 170672,
+                "url": "https://myanimelist.net/character/170672/Kibitoshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/380614.jpg?s=c14c826048f5e428f0535f51b545b7f0",
+                "name": "Kibitoshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30694,
+                "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg?s=a28dfcaca9e4fa03116c1ff2c697dfaa",
+                "name": "Dragon Ball Super"
+            },
+            "character": {
+                "mal_id": 6133,
+                "url": "https://myanimelist.net/character/6133/Higashi_no_Kaioshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/32340.jpg?s=4eaf6ace077855abf025a9565117e708",
+                "name": "Higashi no Kaioshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30694,
+                "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg?s=a28dfcaca9e4fa03116c1ff2c697dfaa",
+                "name": "Dragon Ball Super"
+            },
+            "character": {
+                "mal_id": 170672,
+                "url": "https://myanimelist.net/character/170672/Kibitoshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/380614.jpg?s=c14c826048f5e428f0535f51b545b7f0",
+                "name": "Kibitoshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 6133,
+                "url": "https://myanimelist.net/character/6133/Higashi_no_Kaioshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/32340.jpg?s=4eaf6ace077855abf025a9565117e708",
+                "name": "Higashi no Kaioshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 170672,
+                "url": "https://myanimelist.net/character/170672/Kibitoshin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/380614.jpg?s=c14c826048f5e428f0535f51b545b7f0",
+                "name": "Kibitoshin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 21005,
+                "url": "https://myanimelist.net/character/21005/Isaac_McDougal",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/80247.jpg?s=9dd4f924f3e87dec3d6b034b565b5687",
+                "name": "McDougal, Isaac"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4854,
+                "url": "https://myanimelist.net/anime/4854/Fuuma_no_Kojirou__Yasha-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/30871.jpg?s=ec7c6c899a9234765974909cbc65ecc0",
+                "name": "Fuuma no Kojirou: Yasha-hen"
+            },
+            "character": {
+                "mal_id": 152852,
+                "url": "https://myanimelist.net/character/152852/Raiden",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Raiden"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31405,
+                "url": "https://myanimelist.net/anime/31405/Joker_Game",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77523.jpg?s=2ebde1d4f3a41a9b4b6b30f665d4be82",
+                "name": "Joker Game"
+            },
+            "character": {
+                "mal_id": 140911,
+                "url": "https://myanimelist.net/character/140911/Yasumasa_Akutsu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/305322.jpg?s=931fa7b72cbe1a251a652a509602c0b4",
+                "name": "Akutsu, Yasumasa"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 36040,
+                "url": "https://myanimelist.net/anime/36040/Knights_of_the_Zodiac__Saint_Seiya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1091/101664.jpg?s=63870205b30f9e908ae76d5d3fc6e270",
+                "name": "Knights of the Zodiac: Saint Seiya"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1089,
+                "url": "https://myanimelist.net/anime/1089/Macross__Do_You_Remember_Love",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1080/107017.jpg?s=4306e38bf592fe19fdb054f3091cd1fa",
+                "name": "Macross: Do You Remember Love?"
+            },
+            "character": {
+                "mal_id": 5826,
+                "url": "https://myanimelist.net/character/5826/Roy_Focker",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/240815.jpg?s=99e729526c3d91fe9c6a3cd22d236443",
+                "name": "Focker, Roy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 435,
+                "url": "https://myanimelist.net/anime/435/Magic_Knight_Rayearth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg?s=0926861082c94710be47192d5b5729a6",
+                "name": "Magic Knight Rayearth"
+            },
+            "character": {
+                "mal_id": 522,
+                "url": "https://myanimelist.net/character/522/Ferio",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/347066.jpg?s=47bbca65e66577144bcfccd580a93f95",
+                "name": "Ferio"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1563,
+                "url": "https://myanimelist.net/anime/1563/Magic_Knight_Rayearth_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/55885.jpg?s=a2ac92b3c75e62c361127cc1c876e972",
+                "name": "Magic Knight Rayearth II"
+            },
+            "character": {
+                "mal_id": 522,
+                "url": "https://myanimelist.net/character/522/Ferio",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/347066.jpg?s=47bbca65e66577144bcfccd580a93f95",
+                "name": "Ferio"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 37510,
+                "url": "https://myanimelist.net/anime/37510/Mob_Psycho_100_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1918/96303.jpg?s=be5ce028ecf393ad658d81ae8062f078",
+                "name": "Mob Psycho 100 II"
+            },
+            "character": {
+                "mal_id": 171888,
+                "url": "https://myanimelist.net/character/171888/Miguel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/384710.jpg?s=38e6cffba7f7d61373a62e73eadc8b92",
+                "name": "Miguel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 38663,
+                "url": "https://myanimelist.net/anime/38663/Mushikago_no_Cagaster",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg?s=2cf3872f150f9b725ae46fade4eb4a46",
+                "name": "Mushikago no Cagaster"
+            },
+            "character": {
+                "mal_id": 166959,
+                "url": "https://myanimelist.net/character/166959/Mario",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/403786.jpg?s=7194849927b8d4a40bd3acc2e1f8017d",
+                "name": "Mario"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 3879,
+                "url": "https://myanimelist.net/character/3879/Galdino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/56861.jpg?s=536a2ce2527c74ea74d997de9bc38924",
+                "name": "Galdino"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30276,
+                "url": "https://myanimelist.net/anime/30276/One_Punch_Man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg?s=a714b2e460bb02044cce11d9fe498054",
+                "name": "One Punch Man"
+            },
+            "character": {
+                "mal_id": 86039,
+                "url": "https://myanimelist.net/character/86039/Spring_Mustache",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/294846.jpg?s=07d5eef43a7c08c2e3c9bb2078a51062",
+                "name": "Spring Mustache"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 40542,
+                "url": "https://myanimelist.net/anime/40542/Saiki_Kusuo_no_Ψ-nan__Ψ-shidou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1943/103504.jpg?s=a9db0a6e5089b27b64413426b4bc3fc8",
+                "name": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen"
+            },
+            "character": {
+                "mal_id": 140312,
+                "url": "https://myanimelist.net/character/140312/Kuniharu_Saiki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/307194.jpg?s=2a73d9bb717b858cf8a75e0d4239b56a",
+                "name": "Saiki, Kuniharu"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1254,
+                "url": "https://myanimelist.net/anime/1254/Saint_Seiya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/28496.jpg?s=6df1bda2287fd0b69da4c647d1b98c84",
+                "name": "Saint Seiya"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 12929,
+                "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg?s=6a2dc7b8d47faec1a8f6d2be9d91bbf1",
+                "name": "Saint Seiya Omega"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1256,
+                "url": "https://myanimelist.net/anime/1256/Saint_Seiya__Jashin_Eris",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/26806.jpg?s=b7fd6078418751fd09411273ec964725",
+                "name": "Saint Seiya: Jashin Eris"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1258,
+                "url": "https://myanimelist.net/anime/1258/Saint_Seiya__Kamigami_no_Atsuki_Tatakai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30795.jpg?s=beabddc3ccdf2ce5fd1935335addec97",
+                "name": "Saint Seiya: Kamigami no Atsuki Tatakai"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 10687,
+                "url": "https://myanimelist.net/anime/10687/Saint_Seiya__Legend_of_Sanctuary",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/78671.jpg?s=4d9a985c2f1e8044a351bc9b8581ffa9",
+                "name": "Saint Seiya: Legend of Sanctuary"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3515,
+                "url": "https://myanimelist.net/anime/3515/Saint_Seiya__Meiou_Hades_Elysion-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/55659.jpg?s=71627781206e6954400b33449832fff3",
+                "name": "Saint Seiya: Meiou Hades Elysion-hen"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1257,
+                "url": "https://myanimelist.net/anime/1257/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/16343.jpg?s=071c46569274e62df2eb536cd906434b",
+                "name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6154,
+                "url": "https://myanimelist.net/anime/6154/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen_-_Yomigaerishi_Gold_Saint-tachi_no_Shinwa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/13518.jpg?s=7e5f172ae0cc62a2430d1e7e47d7f37b",
+                "name": "Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1253,
+                "url": "https://myanimelist.net/anime/1253/Saint_Seiya__Meiou_Hades_Meikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/75732.jpg?s=369813329c900c64fd89ba32caee3c53",
+                "name": "Saint Seiya: Meiou Hades Meikai-hen"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1260,
+                "url": "https://myanimelist.net/anime/1260/Saint_Seiya__Saishuu_Seisen_no_Senshi-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/16347.jpg?s=881fc0aba218becc70c3eb0f0504a954",
+                "name": "Saint Seiya: Saishuu Seisen no Senshi-tachi"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1255,
+                "url": "https://myanimelist.net/anime/1255/Saint_Seiya__Shinku_no_Shounen_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52889.jpg?s=998d7d268df69e29d47f3509dca9c16e",
+                "name": "Saint Seiya: Shinku no Shounen Densetsu"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1259,
+                "url": "https://myanimelist.net/anime/1259/Saint_Seiya__Tenkai-hen_Josou_-_Overture",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/5952.jpg?s=f28239a35cb9a37a861c5133b642212d",
+                "name": "Saint Seiya: Tenkai-hen Josou - Overture"
+            },
+            "character": {
+                "mal_id": 5921,
+                "url": "https://myanimelist.net/character/5921/Hyouga_Cygnus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/73686.jpg?s=23d43061874fc5be372362fd8f969f4d",
+                "name": "Cygnus, Hyouga"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2154,
+                "url": "https://myanimelist.net/anime/2154/Tekkon_Kinkreet",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/8520.jpg?s=a3350fe0052c587a1e652a1eea608b23",
+                "name": "Tekkon Kinkreet"
+            },
+            "character": {
+                "mal_id": 10709,
+                "url": "https://myanimelist.net/character/10709/The_Minotaur",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/96978.jpg?s=f68899f9c14efbdd72a73d1aeb174e4f",
+                "name": "The Minotaur"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 36040,
+                "url": "https://myanimelist.net/anime/36040/Knights_of_the_Zodiac__Saint_Seiya",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1091/101664.jpg?s=63870205b30f9e908ae76d5d3fc6e270",
+                "name": "Knights of the Zodiac: Saint Seiya"
+            }
+        },
+        {
+            "position": "ADR Director",
+            "anime": {
+                "mal_id": 40542,
+                "url": "https://myanimelist.net/anime/40542/Saiki_Kusuo_no_Ψ-nan__Ψ-shidou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1943/103504.jpg?s=a9db0a6e5089b27b64413426b4bc3fc8",
+                "name": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen"
+            }
+        }
+    ],
+    "published_manga": []
+}

@@ -1,0 +1,119 @@
+{
+    "mal_id": 8062,
+    "url": "https://myanimelist.net/people/8062/Borbála_Csuha",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5716.jpg",
+    "name": "Borbála Csuha",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 5,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 1096,
+                "url": "https://myanimelist.net/character/1096/Yuzu_Kurosaki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/33289.jpg?s=8e7c3a9c6aca7271cc6f1bd7fbf16bad",
+                "name": "Kurosaki, Yuzu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1482,
+                "url": "https://myanimelist.net/anime/1482/DGray-man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg?s=a6ae4013fa2a159c58193a41d5b798d3",
+                "name": "D.Gray-man"
+            },
+            "character": {
+                "mal_id": 8940,
+                "url": "https://myanimelist.net/character/8940/Mimi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/57985.jpg?s=922b98c918bcb6d00b6a38f2f33d14d4",
+                "name": "Mimi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 835,
+                "url": "https://myanimelist.net/character/835/Misa_Amane",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/30971.jpg?s=65a2c15b7099fd3218a46b355d65f79c",
+                "name": "Amane, Misa"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2994,
+                "url": "https://myanimelist.net/anime/2994/Death_Note__Rewrite",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/8518.jpg?s=0fe5609f6e0c717cbea0172b82cdb444",
+                "name": "Death Note: Rewrite"
+            },
+            "character": {
+                "mal_id": 835,
+                "url": "https://myanimelist.net/character/835/Misa_Amane",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/30971.jpg?s=65a2c15b7099fd3218a46b355d65f79c",
+                "name": "Amane, Misa"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 3292,
+                "url": "https://myanimelist.net/character/3292/Lan_Fan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/59557.jpg?s=b91a956af6c7f396a700492784e3aa4c",
+                "name": "Lan Fan"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1829,
+                "url": "https://myanimelist.net/anime/1829/Ged_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73443.jpg?s=11298f6e58c27dd79fbac364e24ab4bb",
+                "name": "Ged Senki"
+            },
+            "character": {
+                "mal_id": 5312,
+                "url": "https://myanimelist.net/character/5312/Therru",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/61038.jpg?s=8f21989397a6e7f29a857a51398164e3",
+                "name": "Therru"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 199,
+                "url": "https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/79597.jpg?s=089d7fb9c4699509ea79f471e12c0db0",
+                "name": "Sen to Chihiro no Kamikakushi"
+            },
+            "character": {
+                "mal_id": 384,
+                "url": "https://myanimelist.net/character/384/Chihiro_Ogino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/39349.jpg?s=65fab52073f9ed5c7619e82613a87de1",
+                "name": "Ogino, Chihiro"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

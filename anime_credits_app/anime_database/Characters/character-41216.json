@@ -1,0 +1,57 @@
+{
+    "mal_id": 41216,
+    "url": "https://myanimelist.net/character/41216/Neil",
+    "name": "Neil",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/112283.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 203,
+            "name": "Cook, Justin",
+            "url": "https://myanimelist.net/people/203/Justin_Cook",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/12472.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1659,
+            "name": "Nara, Tooru",
+            "url": "https://myanimelist.net/people/1659/Tooru_Nara",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/53891.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1830,
+            "name": "Bezerra, Wendel",
+            "url": "https://myanimelist.net/people/1830/Wendel_Bezerra",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/34185.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 42549,
+            "name": "Naas, Stefan",
+            "url": "https://myanimelist.net/people/42549/Stefan_Naas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46174.jpg",
+            "language": "German"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "mal_id": 92915,
+    "url": "https://myanimelist.net/character/92915/Karley",
+    "name": "Karley",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/303012.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 650,
+            "name": "Liebrecht, Jason",
+            "url": "https://myanimelist.net/people/650/Jason_Liebrecht",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47518.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1580,
+            "name": "Horikawa, Jin",
+            "url": "https://myanimelist.net/people/1580/Jin_Horikawa",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/14479.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

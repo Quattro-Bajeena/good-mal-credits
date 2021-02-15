@@ -1,0 +1,74 @@
+{
+    "mal_id": 8409,
+    "url": "https://myanimelist.net/people/8409/Katalin_Várnagy",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/5607.jpg",
+    "name": "Katalin Várnagy",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 65,
+                "url": "https://myanimelist.net/character/65/Pinako_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/81200.jpg?s=ca6a055baf9256328e8c9bd89047324e",
+                "name": "Rockbell, Pinako"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 65,
+                "url": "https://myanimelist.net/character/65/Pinako_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/81200.jpg?s=ca6a055baf9256328e8c9bd89047324e",
+                "name": "Rockbell, Pinako"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 65,
+                "url": "https://myanimelist.net/character/65/Pinako_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/81200.jpg?s=ca6a055baf9256328e8c9bd89047324e",
+                "name": "Rockbell, Pinako"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 512,
+                "url": "https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75916.jpg?s=fd50906d479c9a1004e437f4ad697f45",
+                "name": "Majo no Takkyuubin"
+            },
+            "character": {
+                "mal_id": 11288,
+                "url": "https://myanimelist.net/character/11288/Bertha",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/85565.jpg?s=40d58735a3c34cca50223ee786c9272b",
+                "name": "Bertha"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

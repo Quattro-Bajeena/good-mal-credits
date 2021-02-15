@@ -1,0 +1,92 @@
+{
+    "mal_id": 3293,
+    "url": "https://myanimelist.net/character/3293/Ling_Yao",
+    "name": "Ling Yao",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 4216,
+    "image_url": "https://cdn.myanimelist.net/images/characters/15/62602.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 65,
+            "name": "Miyano, Mamoru",
+            "url": "https://myanimelist.net/people/65/Mamoru_Miyano",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42141.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 860,
+            "name": "Haberkorn, Todd",
+            "url": "https://myanimelist.net/people/860/Todd_Haberkorn",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39033.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7728,
+            "name": "Merluzzo, Maurizio",
+            "url": "https://myanimelist.net/people/7728/Maurizio_Merluzzo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/38427.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 7779,
+            "name": "Előd, Álmos",
+            "url": "https://myanimelist.net/people/7779/Álmos_Előd",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5036.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 8757,
+            "name": "Dawn-Claude, René",
+            "url": "https://myanimelist.net/people/8757/René_Dawn-Claude",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/6147.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 10733,
+            "name": "Popovic, Frédéric",
+            "url": "https://myanimelist.net/people/10733/Frédéric_Popovic",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33041.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 11521,
+            "name": "Chesman, Yuri",
+            "url": "https://myanimelist.net/people/11521/Yuri_Chesman",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/34435.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 14863,
+            "name": "Hong, Beom Gi",
+            "url": "https://myanimelist.net/people/14863/Beom_Gi_Hong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15461.jpg",
+            "language": "Korean"
+        }
+    ]
+}

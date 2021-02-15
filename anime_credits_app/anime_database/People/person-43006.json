@@ -1,0 +1,89 @@
+{
+    "mal_id": 43006,
+    "url": "https://myanimelist.net/people/43006/Silvana_Fantini",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46500.jpg",
+    "name": "Silvana Fantini",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1954-09-28T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 36904,
+                "url": "https://myanimelist.net/anime/36904/Aggressive_Retsuko_ONA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/89288.jpg?s=b1901b08f16ba2a8939f8228b586b326",
+                "name": "Aggressive Retsuko (ONA)"
+            },
+            "character": {
+                "mal_id": 140322,
+                "url": "https://myanimelist.net/character/140322/Gori_Buchou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/345186.jpg?s=2a7d3db99f8a12b93cf6b41fd561ed4d",
+                "name": "Buchou, Gori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10085,
+                "url": "https://myanimelist.net/character/10085/Trisha_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/59741.jpg?s=52dc6c3f7b5e3e3926b454f0fc662cd7",
+                "name": "Elric, Trisha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10982,
+                "url": "https://myanimelist.net/character/10982/Selim_Bradley",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/71041.jpg?s=fd3fe64e0cfd7f9c96c43a3a7f3c119e",
+                "name": "Bradley, Selim"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            },
+            "character": {
+                "mal_id": 57657,
+                "url": "https://myanimelist.net/character/57657/Herschel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/382517.jpg?s=0672ae794aae904114d95f698dfabeb3",
+                "name": "Herschel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8074,
+                "url": "https://myanimelist.net/anime/8074/Highschool_of_the_Dead",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/78311.jpg?s=974a965b024237db8945e58f656c1363",
+                "name": "Highschool of the Dead"
+            },
+            "character": {
+                "mal_id": 95947,
+                "url": "https://myanimelist.net/character/95947/Zeke",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/227175.jpg?s=e757aeed179ea65137ed75bc4c6bbfc4",
+                "name": "Zeke"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,71 @@
+{
+    "mal_id": 20592,
+    "url": "https://myanimelist.net/character/20592/Kathleen_Elle_Armstrong",
+    "name": "Kathleen Elle Armstrong",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 17,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/80951.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 8,
+            "name": "Kugimiya, Rie",
+            "url": "https://myanimelist.net/people/8/Rie_Kugimiya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54599.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1550,
+            "name": "Oxley, Kate",
+            "url": "https://myanimelist.net/people/1550/Kate_Oxley",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29791.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11454,
+            "name": "Lima, Márcia Regina",
+            "url": "https://myanimelist.net/people/11454/Márcia_Regina_Lima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25031.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 23857,
+            "name": "Häcke, Maximiliane",
+            "url": "https://myanimelist.net/people/23857/Maximiliane_Häcke",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26763.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43991,
+            "name": "Milani, Gabi",
+            "url": "https://myanimelist.net/people/43991/Gabi_Milani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/61649.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

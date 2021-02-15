@@ -1,0 +1,284 @@
+{
+    "mal_id": 7840,
+    "url": "https://myanimelist.net/people/7840/Rókus_Varga",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5092.jpg",
+    "name": "Rókus Varga",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1981-02-25T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 1168,
+                "url": "https://myanimelist.net/character/1168/Mayuri_Kurotsuchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/73295.jpg?s=392df3442c19f4978381efc298af5504",
+                "name": "Kurotsuchi, Mayuri"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1686,
+                "url": "https://myanimelist.net/anime/1686/Bleach_Movie_1__Memories_of_Nobody",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1686.jpg?s=a584f101d2db6d710e3240a225430392",
+                "name": "Bleach Movie 1: Memories of Nobody"
+            },
+            "character": {
+                "mal_id": 1168,
+                "url": "https://myanimelist.net/character/1168/Mayuri_Kurotsuchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/73295.jpg?s=392df3442c19f4978381efc298af5504",
+                "name": "Kurotsuchi, Mayuri"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 58,
+                "url": "https://myanimelist.net/anime/58/Blue_Gender",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2023.jpg?s=fe27df56153badbcd77fe4d1bb683f04",
+                "name": "Blue Gender"
+            },
+            "character": {
+                "mal_id": 3352,
+                "url": "https://myanimelist.net/character/3352/Yuji_Kaido",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/64640.jpg?s=dff1d93227b0804fe61d65e52d69e3d2",
+                "name": "Kaido, Yuji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 5103,
+                "url": "https://myanimelist.net/character/5103/King_Bradley",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/62053.jpg?s=5f53450b472b8d3367b11e4241f71cea",
+                "name": "Bradley, King"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 5103,
+                "url": "https://myanimelist.net/character/5103/King_Bradley",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/62053.jpg?s=5f53450b472b8d3367b11e4241f71cea",
+                "name": "Bradley, King"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 239,
+                "url": "https://myanimelist.net/anime/239/Gankutsuou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2235.jpg?s=73e1ddcb1feb32536c25e73f8045c4bd",
+                "name": "Gankutsuou"
+            },
+            "character": {
+                "mal_id": 21953,
+                "url": "https://myanimelist.net/character/21953/Gankutsuou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/72747.jpg?s=5e8a10c794dcc16f7ea346dd2ef060e5",
+                "name": "Gankutsuou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 16,
+                "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73923.jpg?s=9dace938ca8b5c18851678f4a8d0a21a",
+                "name": "Hachimitsu to Clover"
+            },
+            "character": {
+                "mal_id": 11781,
+                "url": "https://myanimelist.net/character/11781/Kaoru_Morita",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/53262.jpg?s=6721e27abbe5a6b96c611c296d0f6c96",
+                "name": "Morita, Kaoru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1142,
+                "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11040.jpg?s=89127ddae8c55f0d813d219f8caa41c5",
+                "name": "Hachimitsu to Clover II"
+            },
+            "character": {
+                "mal_id": 11781,
+                "url": "https://myanimelist.net/character/11781/Kaoru_Morita",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/53262.jpg?s=6721e27abbe5a6b96c611c296d0f6c96",
+                "name": "Morita, Kaoru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 249,
+                "url": "https://myanimelist.net/anime/249/InuYasha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg?s=b28fc0284c6245cf1277c94f582d5a10",
+                "name": "InuYasha"
+            },
+            "character": {
+                "mal_id": 9733,
+                "url": "https://myanimelist.net/character/9733/Renkotsu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/93490.jpg?s=f7235ac081d4b8bea717b5087f1bcc06",
+                "name": "Renkotsu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 427,
+                "url": "https://myanimelist.net/anime/427/Kaleido_Star",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75487.jpg?s=a55f2888ba32746a835f971030ddfc8c",
+                "name": "Kaleido Star"
+            },
+            "character": {
+                "mal_id": 777,
+                "url": "https://myanimelist.net/character/777/Leon_Oswald",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/271187.jpg?s=082ed39b2ab6382581371b7de8d855a7",
+                "name": "Oswald, Leon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 428,
+                "url": "https://myanimelist.net/anime/428/Kaleido_Star__Aratanaru_Tsubasa_-_Extra_Stage",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23761.jpg?s=13c7f403301b3a07bd37615277fa9b4d",
+                "name": "Kaleido Star: Aratanaru Tsubasa - Extra Stage"
+            },
+            "character": {
+                "mal_id": 777,
+                "url": "https://myanimelist.net/character/777/Leon_Oswald",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/271187.jpg?s=082ed39b2ab6382581371b7de8d855a7",
+                "name": "Oswald, Leon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 429,
+                "url": "https://myanimelist.net/anime/429/Kaleido_Star__Legend_of_Phoenix_-_Layla_Hamilton_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/28863.jpg?s=d0e31719977f25f48cbc3759363f6d31",
+                "name": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari"
+            },
+            "character": {
+                "mal_id": 777,
+                "url": "https://myanimelist.net/character/777/Leon_Oswald",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/271187.jpg?s=082ed39b2ab6382581371b7de8d855a7",
+                "name": "Oswald, Leon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 877,
+                "url": "https://myanimelist.net/anime/877/Nana",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/11232.jpg?s=28bd7b8a493a95f45e7fbd305ba0535d",
+                "name": "Nana"
+            },
+            "character": {
+                "mal_id": 2451,
+                "url": "https://myanimelist.net/character/2451/Takumi_Ichinose",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/87981.jpg?s=819c7ba799630bea0fbca4d4c1e3e864",
+                "name": "Ichinose, Takumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            },
+            "character": {
+                "mal_id": 307,
+                "url": "https://myanimelist.net/character/307/Guy_Might",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/103576.jpg?s=801f9a87a615bf198fcf94cc02927ec7",
+                "name": "Might, Guy"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1710,
+                "url": "https://myanimelist.net/anime/1710/RockmanEXE",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26575.jpg?s=70866662821efcd03024e41fa1b9da60",
+                "name": "Rockman.EXE"
+            },
+            "character": {
+                "mal_id": 7199,
+                "url": "https://myanimelist.net/character/7199/BluesEXE",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/199235.jpg?s=17cd9c8918f24fe87d871242fb6f7931",
+                "name": "Blues.EXE"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1172,
+                "url": "https://myanimelist.net/anime/1172/Slayers_Try",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/50875.jpg?s=8f1e17cf0b7381ed8e84a724e0369ec7",
+                "name": "Slayers Try"
+            },
+            "character": {
+                "mal_id": 18566,
+                "url": "https://myanimelist.net/character/18566/Jillas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/215491.jpg?s=9d0e9bb67d79f81409c926989183553e",
+                "name": "Jillas"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3588,
+                "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7804.jpg?s=f8c5966d172e6a98b3dfc21bfc921208",
+                "name": "Soul Eater"
+            },
+            "character": {
+                "mal_id": 14099,
+                "url": "https://myanimelist.net/character/14099/Free",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/53240.jpg?s=f261868d28be4c75cac429867924c116",
+                "name": "Free"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 543,
+                "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg?s=bdcc701dd6dbf298a0c4f47e186c8e8e",
+                "name": "Vampire Hunter D (2000)"
+            },
+            "character": {
+                "mal_id": 1021,
+                "url": "https://myanimelist.net/character/1021/Meier_Link",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/367945.jpg?s=8ae9502fc4738a0f7d948c9c07328c17",
+                "name": "Link, Meier"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,106 @@
+{
+    "mal_id": 23106,
+    "url": "https://myanimelist.net/character/23106/Denny_Brosh",
+    "name": "Denny Brosh",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/56211.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 6124,
+            "name": "Sablik, Nico",
+            "url": "https://myanimelist.net/people/6124/Nico_Sablik",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33223.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 7800,
+            "name": "Markovics, Tamás",
+            "url": "https://myanimelist.net/people/7800/Tamás_Markovics",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5055.jpg",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 8520,
+            "name": "Harada, Masao",
+            "url": "https://myanimelist.net/people/8520/Masao_Harada",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/7206.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 8609,
+            "name": "Araújo, Márcio",
+            "url": "https://myanimelist.net/people/8609/Márcio_Araújo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/59113.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9882,
+            "name": "Pascal, Benjamin",
+            "url": "https://myanimelist.net/people/9882/Benjamin_Pascal",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28785.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 9968,
+            "name": "Hayashi, Yuuki",
+            "url": "https://myanimelist.net/people/9968/Yuuki_Hayashi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/7952.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 12026,
+            "name": "Foronda, Jim",
+            "url": "https://myanimelist.net/people/12026/Jim_Foronda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/24599.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 14825,
+            "name": "Jeon, Gwang ju",
+            "url": "https://myanimelist.net/people/14825/Gwang_ju_Jeon",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/15397.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 26561,
+            "name": "Beaucaire, Nicolas",
+            "url": "https://myanimelist.net/people/26561/Nicolas_Beaucaire",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/28677.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 37632,
+            "name": "Mantovani, Roger",
+            "url": "https://myanimelist.net/people/37632/Roger_Mantovani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39790.jpg",
+            "language": "Italian"
+        }
+    ]
+}

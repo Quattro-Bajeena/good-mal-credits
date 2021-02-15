@@ -1,0 +1,119 @@
+{
+    "mal_id": 10161,
+    "url": "https://myanimelist.net/people/10161/Adolfo_Nittoli",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/8382.jpg",
+    "name": "Adolfo Nittoli",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1986-03-04T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 66,
+                "url": "https://myanimelist.net/character/66/Scar",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/31591.jpg?s=6e247ad8665a61999572e66315825867",
+                "name": "Scar"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 66,
+                "url": "https://myanimelist.net/character/66/Scar",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/31591.jpg?s=6e247ad8665a61999572e66315825867",
+                "name": "Scar"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 384,
+                "url": "https://myanimelist.net/anime/384/Gantz",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/5998.jpg?s=ceb3b3f32cd70bac946e9c35ade768e7",
+                "name": "Gantz"
+            },
+            "character": {
+                "mal_id": 3111,
+                "url": "https://myanimelist.net/character/3111/Masaru_Katou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/71756.jpg?s=38a605984837b8b30c78207bd159939b",
+                "name": "Katou, Masaru"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 132,
+                "url": "https://myanimelist.net/anime/132/GetBackers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/7547.jpg?s=166c22d010af4b48a8471fe13023aa12",
+                "name": "GetBackers"
+            },
+            "character": {
+                "mal_id": 56,
+                "url": "https://myanimelist.net/character/56/Juubei_Kakei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/66595.jpg?s=6b4bf97dbaac044c0b8c0afeafed3c85",
+                "name": "Kakei, Juubei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 97,
+                "url": "https://myanimelist.net/anime/97/Last_Exile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10888.jpg?s=a8fa15483440ba9a639ea96554142faa",
+                "name": "Last Exile"
+            },
+            "character": {
+                "mal_id": 4127,
+                "url": "https://myanimelist.net/character/4127/Ethan_Pelerin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/279689.jpg?s=45770f3e27fa5e3e2bed7bbe0419c92b",
+                "name": "Pelerin, Ethan"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 198,
+                "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg?s=983531719c8394a0310737197178b718",
+                "name": "Speed Grapher"
+            },
+            "character": {
+                "mal_id": 2955,
+                "url": "https://myanimelist.net/character/2955/Tatsumi_Saiga",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/243915.jpg?s=f47d188ecf97e89553e9dcb2204b9068",
+                "name": "Saiga, Tatsumi"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 4823,
+                "url": "https://myanimelist.net/anime/4823/Youkai_Ningen_Bem_2006",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/12183.jpg?s=375100e9c379d5b20618c552849df289",
+                "name": "Youkai Ningen Bem (2006)"
+            },
+            "character": {
+                "mal_id": 18359,
+                "url": "https://myanimelist.net/character/18359/Bem",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/410427.jpg?s=683ee47170faade22c476daec4497e19",
+                "name": "Bem"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

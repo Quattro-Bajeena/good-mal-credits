@@ -1,0 +1,74 @@
+{
+    "mal_id": 27511,
+    "url": "https://myanimelist.net/people/27511/Audrey_Pic",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Audrey Pic",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            },
+            "character": {
+                "mal_id": 12,
+                "url": "https://myanimelist.net/character/12/Alphonse_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/54265.jpg?s=f0318ee8cc9b5c8d5745843f2539d6d6",
+                "name": "Elric, Alphonse"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

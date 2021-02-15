@@ -1,0 +1,41 @@
+{
+    "mal_id": 8715,
+    "url": "https://myanimelist.net/people/8715/Miho_Fukuhara",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/6057.jpg",
+    "name": "Miho Fukuhara",
+    "given_name": "美穂",
+    "family_name": "福原",
+    "birthday": "1987-06-19T00:00:00+00:00",
+    "member_favorites": 41,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 8487,
+                "url": "https://myanimelist.net/anime/8487/Onigamiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/28871.jpg?s=57721cb8ed7d923401daade6e0c601f2",
+                "name": "Onigamiden"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 12431,
+                "url": "https://myanimelist.net/anime/12431/Uchuu_Kyoudai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/37573.jpg?s=be60012fe7b934ad2736fcb35aa0c87d",
+                "name": "Uchuu Kyoudai"
+            }
+        }
+    ],
+    "published_manga": []
+}

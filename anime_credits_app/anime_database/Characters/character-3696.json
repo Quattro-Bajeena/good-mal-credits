@@ -1,0 +1,94 @@
+{
+    "mal_id": 3696,
+    "url": "https://myanimelist.net/character/3696/Shou_Tucker",
+    "name": "Shou Tucker",
+    "name_kanji": null,
+    "nicknames": [
+        "Sewing-Life Alchemist"
+    ],
+    "member_favorites": 119,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/52232.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 250,
+            "name": "Huber, Chuck",
+            "url": "https://myanimelist.net/people/250/Chuck_Huber",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/25497.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1025,
+            "name": "Magne, Bruno",
+            "url": "https://myanimelist.net/people/1025/Bruno_Magne",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/1080.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 7625,
+            "name": "Nagai, Makoto",
+            "url": "https://myanimelist.net/people/7625/Makoto_Nagai",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4770.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9613,
+            "name": "Guarnieri, José Otávio",
+            "url": "https://myanimelist.net/people/9613/José_Otávio_Guarnieri",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/7200.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 25651,
+            "name": "Pissardini, Marcelo",
+            "url": "https://myanimelist.net/people/25651/Marcelo_Pissardini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/27955.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 43067,
+            "name": "Danti, Federico",
+            "url": "https://myanimelist.net/people/43067/Federico_Danti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46565.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 45690,
+            "name": "Werner, Daniel",
+            "url": "https://myanimelist.net/people/45690/Daniel_Werner",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/49198.jpg",
+            "language": "German"
+        }
+    ]
+}

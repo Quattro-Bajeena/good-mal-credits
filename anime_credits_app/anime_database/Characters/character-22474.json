@@ -1,0 +1,92 @@
+{
+    "mal_id": 22474,
+    "url": "https://myanimelist.net/character/22474/Elicia_Hughes",
+    "name": "Elicia Hughes",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 21,
+    "image_url": "https://cdn.myanimelist.net/images/characters/13/53527.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 207,
+            "name": "Fukuen, Misato",
+            "url": "https://myanimelist.net/people/207/Misato_Fukuen",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/43879.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Clerici, Serena",
+            "url": "https://myanimelist.net/people/1233/Serena_Clerici",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37175.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1650,
+            "name": "Leigh, Cherami",
+            "url": "https://myanimelist.net/people/1650/Cherami_Leigh",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47505.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1679,
+            "name": "Brückner, Sarah",
+            "url": "https://myanimelist.net/people/1679/Sarah_Brückner",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "German"
+        },
+        {
+            "mal_id": 5384,
+            "name": "Yoshida, Mayumi",
+            "url": "https://myanimelist.net/people/5384/Mayumi_Yoshida",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/57250.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7301,
+            "name": "Reboul, Christelle",
+            "url": "https://myanimelist.net/people/7301/Christelle_Reboul",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 11118,
+            "name": "Titus, Tierney",
+            "url": "https://myanimelist.net/people/11118/Tierney_Titus",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/9999.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11403,
+            "name": "Paulita, Flora",
+            "url": "https://myanimelist.net/people/11403/Flora_Paulita",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/34149.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

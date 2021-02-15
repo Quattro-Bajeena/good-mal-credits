@@ -1,0 +1,85 @@
+{
+    "mal_id": 4159,
+    "url": "https://myanimelist.net/character/4159/Nina_Tucker",
+    "name": "Nina Tucker",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 55,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/35396.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 470,
+            "name": "Koorogi, Satomi",
+            "url": "https://myanimelist.net/people/470/Satomi_Koorogi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/16291.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 659,
+            "name": "Palencia, Brina",
+            "url": "https://myanimelist.net/people/659/Brina_Palencia",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48137.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1233,
+            "name": "Clerici, Serena",
+            "url": "https://myanimelist.net/people/1233/Serena_Clerici",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37175.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 1442,
+            "name": "Keplermaier, Tatiane",
+            "url": "https://myanimelist.net/people/1442/Tatiane_Keplermaier",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/34193.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 6147,
+            "name": "Liebing, Katja",
+            "url": "https://myanimelist.net/people/6147/Katja_Liebing",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/2792.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 11404,
+            "name": "Morohoshi, Sumire",
+            "url": "https://myanimelist.net/people/11404/Sumire_Morohoshi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53541.jpg",
+            "language": "Japanese"
+        }
+    ]
+}

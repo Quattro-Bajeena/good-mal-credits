@@ -5,13 +5,14 @@
 {% endblock %}
 
 {% block css %}
-<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/index.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/error_page.css')}}">
 {% endblock %}
 
 {% block main %}
 <span>
     <h1>404</h1>
-    <h2>Resource does not exist</h2>
+    <h2>RESOURCE DOESN'T EXIST</h2>
 </span>
+<img src="{{url_for('static', filename='images/404.png')}}" title="huh, what did you look for?">
 
 {%endblock%}

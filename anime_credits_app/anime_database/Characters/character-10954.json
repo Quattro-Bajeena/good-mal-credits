@@ -1,0 +1,106 @@
+{
+    "mal_id": 10954,
+    "url": "https://myanimelist.net/character/10954/Gracia_Hughes",
+    "name": "Gracia Hughes",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 6,
+    "image_url": "https://cdn.myanimelist.net/images/characters/4/59485.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 430,
+            "name": "Fullmetal Alchemist: The Conqueror of Shamballa",
+            "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=1f633bb6f8633a021999c1b2f84813a8",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6421,
+            "name": "Fullmetal Alchemist: Brotherhood Specials",
+            "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg?s=868b548f98589462a109c7739e609f6c",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 9,
+            "name": "Mitsuishi, Kotono",
+            "url": "https://myanimelist.net/people/9/Kotono_Mitsuishi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43715.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 471,
+            "name": "Hanba, Tomoe",
+            "url": "https://myanimelist.net/people/471/Tomoe_Hanba",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33525.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6122,
+            "name": "Glunz-grosch, Petra",
+            "url": "https://myanimelist.net/people/6122/Petra_Glunz-grosch",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/2759.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 7593,
+            "name": "Pissardini, Adriana",
+            "url": "https://myanimelist.net/people/7593/Adriana_Pissardini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/4726.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 7811,
+            "name": "Oláh, Orsolya",
+            "url": "https://myanimelist.net/people/7811/Orsolya_Oláh",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Hungarian"
+        },
+        {
+            "mal_id": 10292,
+            "name": "Munoz, Anastasia",
+            "url": "https://myanimelist.net/people/10292/Anastasia_Munoz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/23831.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11721,
+            "name": "Goode, Lauren",
+            "url": "https://myanimelist.net/people/11721/Lauren_Goode",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/10909.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43060,
+            "name": "De Luca, Lorella",
+            "url": "https://myanimelist.net/people/43060/Lorella_De_Luca",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46557.jpg",
+            "language": "Italian"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "mal_id": 46393,
+    "url": "https://myanimelist.net/people/46393/Gessy_Fonseca",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Gessy Fonseca",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 35595,
+                "url": "https://myanimelist.net/character/35595/Madame_Shan",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/120052.jpg?s=4e92f71fa08b8239f90d4c736f00ba29",
+                "name": "Madame Shan"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2890,
+                "url": "https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/8970.jpg?s=935c455d97d04454056a1bc7d793118f",
+                "name": "Gake no Ue no Ponyo"
+            },
+            "character": {
+                "mal_id": 155351,
+                "url": "https://myanimelist.net/character/155351/Toki",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Toki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 210,
+                "url": "https://myanimelist.net/anime/210/Ranma_½",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/6441.jpg?s=f17401242c8779929bfeec581b66b3b3",
+                "name": "Ranma ½"
+            },
+            "character": {
+                "mal_id": 24764,
+                "url": "https://myanimelist.net/character/24764/Cologne",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/87922.jpg?s=4bc88439d0969bae322fd180d4c511b1",
+                "name": "Cologne"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

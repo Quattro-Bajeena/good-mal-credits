@@ -1,0 +1,64 @@
+{
+    "mal_id": 50123,
+    "url": "https://myanimelist.net/character/50123/Charlie",
+    "name": "Charlie",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/177589.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 6421,
+            "name": "Fullmetal Alchemist: Brotherhood Specials",
+            "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg?s=868b548f98589462a109c7739e609f6c",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 5928,
+            "name": "Nishi, Rintarou",
+            "url": "https://myanimelist.net/people/5928/Rintarou_Nishi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/49818.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 9777,
+            "name": "Wald, David",
+            "url": "https://myanimelist.net/people/9777/David_Wald",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/24105.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 43715,
+            "name": "Perón, Fernando",
+            "url": "https://myanimelist.net/people/43715/Fernando_Perón",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        }
+    ]
+}

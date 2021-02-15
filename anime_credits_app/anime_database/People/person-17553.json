@@ -1,0 +1,314 @@
+{
+    "mal_id": 17553,
+    "url": "https://myanimelist.net/people/17553/Bernd_Kuschmann",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/20139.jpg",
+    "name": "Bernd Kuschmann",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 7,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/anime/68/Black_Cat_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1485/110010.jpg?s=d7a2d4c8e8c5bc3c90ea6dd3b216b2cb",
+                "name": "Black Cat (TV)"
+            },
+            "character": {
+                "mal_id": 21599,
+                "url": "https://myanimelist.net/character/21599/Torneo_Rudman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/108086.jpg?s=f1eb91847eba306f31c2c1a6f736225a",
+                "name": "Rudman, Torneo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31964,
+                "url": "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg?s=20f73cb3af8f70ee17f155e525e809e8",
+                "name": "Boku no Hero Academia"
+            },
+            "character": {
+                "mal_id": 142055,
+                "url": "https://myanimelist.net/character/142055/Sludge_Villain",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/307372.jpg?s=eeb3b9e103fe4fc8b006de7860a8ec0e",
+                "name": "Sludge Villain"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1535,
+                "url": "https://myanimelist.net/anime/1535/Death_Note",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg?s=42244bd9e3e5371957bd518ea99b4dc3",
+                "name": "Death Note"
+            },
+            "character": {
+                "mal_id": 75,
+                "url": "https://myanimelist.net/character/75/Ryuk",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/59125.jpg?s=b3b7ee8db6f75d67f55495a276ecb950",
+                "name": "Ryuk"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 10944,
+                "url": "https://myanimelist.net/character/10944/Cornello",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/57099.jpg?s=599904095a1b815aa4e13015d9015ae9",
+                "name": "Cornello"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 10966,
+                "url": "https://myanimelist.net/character/10966/Roa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/56214.jpg?s=9b80fab70b2a9edf1467e77423569573",
+                "name": "Roa"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10944,
+                "url": "https://myanimelist.net/character/10944/Cornello",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/57099.jpg?s=599904095a1b815aa4e13015d9015ae9",
+                "name": "Cornello"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10966,
+                "url": "https://myanimelist.net/character/10966/Roa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/56214.jpg?s=9b80fab70b2a9edf1467e77423569573",
+                "name": "Roa"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 267,
+                "url": "https://myanimelist.net/anime/267/Gungrave",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/75724.jpg?s=7e1494d25ddef47ba1a6f2ef4122b7f0",
+                "name": "Gungrave"
+            },
+            "character": {
+                "mal_id": 1610,
+                "url": "https://myanimelist.net/character/1610/Harry_MacDowel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/272979.jpg?s=e557deb13e0dab472f3eb87d7b0c3d74",
+                "name": "MacDowel, Harry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 14467,
+                "url": "https://myanimelist.net/anime/14467/K",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/47607.jpg?s=4cb863908362dfdd0b097e12a1b81433",
+                "name": "K"
+            },
+            "character": {
+                "mal_id": 70865,
+                "url": "https://myanimelist.net/character/70865/Daikaku_Kokujouji",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/189174.jpg?s=f199e1a73328c6a860e25f9da3e53740",
+                "name": "Kokujouji, Daikaku"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 24439,
+                "url": "https://myanimelist.net/anime/24439/Kekkai_Sensen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73559.jpg?s=714419d5881f113fdf0eecfffe640cd8",
+                "name": "Kekkai Sensen"
+            },
+            "character": {
+                "mal_id": 127546,
+                "url": "https://myanimelist.net/character/127546/Don_Arlelelle_Eruca_Fulgrouche",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/280712.jpg?s=30bbacfc44cf32029a73621e1befb4bd",
+                "name": "Don Arlelelle Eruca Fulgrouche"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31,
+                "url": "https://myanimelist.net/anime/31/Neon_Genesis_Evangelion__Death___Rebirth",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75963.jpg?s=275f50abde27ab3af6e166996097aec6",
+                "name": "Neon Genesis Evangelion: Death & Rebirth"
+            },
+            "character": {
+                "mal_id": 17620,
+                "url": "https://myanimelist.net/character/17620/Keel_Lorentz",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/109297.jpg?s=5da25e36ffc123d3c2ee02f52d182a27",
+                "name": "Lorentz, Keel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 32,
+                "url": "https://myanimelist.net/anime/32/Neon_Genesis_Evangelion__The_End_of_Evangelion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg?s=16f34fd26e04c8ca5ae6551e77220a58",
+                "name": "Neon Genesis Evangelion: The End of Evangelion"
+            },
+            "character": {
+                "mal_id": 17620,
+                "url": "https://myanimelist.net/character/17620/Keel_Lorentz",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/109297.jpg?s=5da25e36ffc123d3c2ee02f52d182a27",
+                "name": "Lorentz, Keel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 205,
+                "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/29134.jpg?s=91eda11887314d6dc1921043c5d4e39e",
+                "name": "Samurai Champloo"
+            },
+            "character": {
+                "mal_id": 403,
+                "url": "https://myanimelist.net/character/403/Heitarou_Kawara",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/53504.jpg?s=59a31eee00d649362ac0050c4f5b96f5",
+                "name": "Kawara, Heitarou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 20973,
+                "url": "https://myanimelist.net/anime/20973/Sekai_Seifuku__Bouryaku_no_Zvezda",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/56133.jpg?s=2bf666191b8b0fbf8f5fdfb59c46751a",
+                "name": "Sekai Seifuku: Bouryaku no Zvezda"
+            },
+            "character": {
+                "mal_id": 94535,
+                "url": "https://myanimelist.net/character/94535/Gorou_Shikabane",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/233477.jpg?s=f61c55e3a5caf5d5f278a2f7f1e6919f",
+                "name": "Shikabane, Gorou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 23459,
+                "url": "https://myanimelist.net/anime/23459/Sekai_Seifuku__Bouryaku_no_Zvezda_-_Shin_Zvezda_Daisakusen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72498.jpg?s=5ee4753c0f4e912d2b54c84f2c51808d",
+                "name": "Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen"
+            },
+            "character": {
+                "mal_id": 94535,
+                "url": "https://myanimelist.net/character/94535/Gorou_Shikabane",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/233477.jpg?s=f61c55e3a5caf5d5f278a2f7f1e6919f",
+                "name": "Shikabane, Gorou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28283,
+                "url": "https://myanimelist.net/anime/28283/Sengoku_Musou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/71770.jpg?s=43ad68c7e5cd1ccf768e5507e7e9e537",
+                "name": "Sengoku Musou"
+            },
+            "character": {
+                "mal_id": 105769,
+                "url": "https://myanimelist.net/character/105769/Ieyasu_Tokugawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/259171.jpg?s=9e0a5b9fa33e1c42acdc819dfd6b09ec",
+                "name": "Tokugawa, Ieyasu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 20057,
+                "url": "https://myanimelist.net/anime/20057/Space☆Dandy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56611.jpg?s=27ef910205861d135216623b7ab00429",
+                "name": "Space☆Dandy"
+            },
+            "character": {
+                "mal_id": 94723,
+                "url": "https://myanimelist.net/character/94723/Dr_Gel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/244667.jpg?s=aced9d08370e4c2cea807fb919684a25",
+                "name": "Dr. Gel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 23327,
+                "url": "https://myanimelist.net/anime/23327/Space☆Dandy_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64451.jpg?s=b9b921f85c0b08cfec940f1e0555394c",
+                "name": "Space☆Dandy 2nd Season"
+            },
+            "character": {
+                "mal_id": 94723,
+                "url": "https://myanimelist.net/character/94723/Dr_Gel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/244667.jpg?s=aced9d08370e4c2cea807fb919684a25",
+                "name": "Dr. Gel"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 22687,
+                "url": "https://myanimelist.net/anime/22687/Terra_Formars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/67117.jpg?s=9eedda30b475bd0f351c3399935cf6fe",
+                "name": "Terra Formars"
+            },
+            "character": {
+                "mal_id": 84819,
+                "url": "https://myanimelist.net/character/84819/Sylvester_Asimov",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/266465.jpg?s=b4cf4f29407f4c954a88fa6c2988af6f",
+                "name": "Asimov, Sylvester"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 12029,
+                "url": "https://myanimelist.net/anime/12029/Uchuu_Senkan_Yamato_2199",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/36607.jpg?s=cb23ccc1827c6154951f7145e51d318f",
+                "name": "Uchuu Senkan Yamato 2199"
+            },
+            "character": {
+                "mal_id": 6770,
+                "url": "https://myanimelist.net/character/6770/Juuzou_Okita",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/153609.jpg?s=6eb968106bfd5bae9e08d6124f2a464c",
+                "name": "Okita, Juuzou"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

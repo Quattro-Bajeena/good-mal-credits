@@ -1,0 +1,108 @@
+{
+    "mal_id": 5428,
+    "url": "https://myanimelist.net/character/5428/Barry_the_Chopper",
+    "name": "Barry the Chopper",
+    "name_kanji": null,
+    "nicknames": [
+        "Number 66"
+    ],
+    "member_favorites": 198,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/52723.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 221,
+            "name": "Itou, Kentarou",
+            "url": "https://myanimelist.net/people/221/Kentarou_Itou",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53838.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 302,
+            "name": "Jewell, Jerry",
+            "url": "https://myanimelist.net/people/302/Jerry_Jewell",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/23989.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 6602,
+            "name": "Umezu, Hideyuki",
+            "url": "https://myanimelist.net/people/6602/Hideyuki_Umezu",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54720.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 7438,
+            "name": "Lima, Mauro Eduardo",
+            "url": "https://myanimelist.net/people/7438/Mauro_Eduardo_Lima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41034.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 8882,
+            "name": "Sodre, Elcio",
+            "url": "https://myanimelist.net/people/8882/Elcio_Sodre",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/59115.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 11920,
+            "name": "Bottale, Luca",
+            "url": "https://myanimelist.net/people/11920/Luca_Bottale",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/16849.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 24239,
+            "name": "Gradi, Emmanuel",
+            "url": "https://myanimelist.net/people/24239/Emmanuel_Gradi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26997.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 42661,
+            "name": "Maise, Dieter",
+            "url": "https://myanimelist.net/people/42661/Dieter_Maise",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46049.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43614,
+            "name": "Obermeyer, Arne",
+            "url": "https://myanimelist.net/people/43614/Arne_Obermeyer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/47282.jpg",
+            "language": "German"
+        }
+    ]
+}

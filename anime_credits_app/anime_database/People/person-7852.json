@@ -1,0 +1,74 @@
+{
+    "mal_id": 7852,
+    "url": "https://myanimelist.net/people/7852/Ferenc_Hujber",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5114.jpg",
+    "name": "Ferenc Hujber",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1974-09-09T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/character/68/Roy_Mustang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/72983.jpg?s=c7443f39f77fed8a65aff54c87cea35a",
+                "name": "Mustang, Roy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/character/68/Roy_Mustang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/72983.jpg?s=c7443f39f77fed8a65aff54c87cea35a",
+                "name": "Mustang, Roy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/character/68/Roy_Mustang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/72983.jpg?s=c7443f39f77fed8a65aff54c87cea35a",
+                "name": "Mustang, Roy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            },
+            "character": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/character/68/Roy_Mustang",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/72983.jpg?s=c7443f39f77fed8a65aff54c87cea35a",
+                "name": "Mustang, Roy"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

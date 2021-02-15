@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>500 Server Error</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/error_page.css')}}">
+{% endblock %}
+
+{% block main %}
+<span>
+    <h1>500</h1>
+    <h2>INTERNAL SERVER ERROR</h2>
+</span>
+<img src="{{url_for('static', filename='images/505.png')}}" title="mfw I'll be debugging this">
+
+{%endblock%}

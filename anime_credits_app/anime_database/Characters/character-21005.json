@@ -1,0 +1,72 @@
+{
+    "mal_id": 21005,
+    "url": "https://myanimelist.net/character/21005/Isaac_McDougal",
+    "name": "Isaac McDougal",
+    "name_kanji": null,
+    "nicknames": [
+        "Isaac the Freezer"
+    ],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/80247.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 11,
+            "name": "Yamadera, Kouichi",
+            "url": "https://myanimelist.net/people/11/Kouichi_Yamadera",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60992.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1179,
+            "name": "Tome, Antoine",
+            "url": "https://myanimelist.net/people/1179/Antoine_Tome",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33055.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 7151,
+            "name": "Massey, Bryan",
+            "url": "https://myanimelist.net/people/7151/Bryan_Massey",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/23403.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7344,
+            "name": "Brêtas, Francisco",
+            "url": "https://myanimelist.net/people/7344/Francisco_Brêtas",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/61900.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 42660,
+            "name": "Martin, Thomas Balou",
+            "url": "https://myanimelist.net/people/42660/Thomas_Balou_Martin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46048.jpg",
+            "language": "German"
+        }
+    ]
+}

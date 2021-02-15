@@ -1,0 +1,86 @@
+{
+    "mal_id": 38194,
+    "url": "https://myanimelist.net/people/38194/Une_Shinya",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Une Shinya",
+    "given_name": "信也",
+    "family_name": "宇根",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Production Coordination",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Producer",
+            "anime": {
+                "mal_id": 17497,
+                "url": "https://myanimelist.net/anime/17497/Jewelpet_Happiness",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/47697.jpg?s=ea2b59051c6d89c44ce894e7e3023632",
+                "name": "Jewelpet Happiness"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 12963,
+                "url": "https://myanimelist.net/anime/12963/Jewelpet_Kira☆Deco",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1750/103979.jpg?s=80ccac596e531021140f25d4d328ef1f",
+                "name": "Jewelpet Kira☆Deco!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 10359,
+                "url": "https://myanimelist.net/anime/10359/Jewelpet_Sunshine",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/28699.jpg?s=fd485ed09eed96956f930ec8ec1b1680",
+                "name": "Jewelpet Sunshine"
+            }
+        },
+        {
+            "position": "Assistant Director",
+            "anime": {
+                "mal_id": 38993,
+                "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1393/107033.jpg?s=d10e6d925cd25d40e14b0548e0a6a13c",
+                "name": "Karakai Jouzu no Takagi-san 2"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 22693,
+                "url": "https://myanimelist.net/anime/22693/Lady_Jewelpet",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/73960.jpg?s=9d99ca61243eac752353d62e0a560f47",
+                "name": "Lady Jewelpet"
+            }
+        },
+        {
+            "position": "Production Coordination",
+            "anime": {
+                "mal_id": 3467,
+                "url": "https://myanimelist.net/anime/3467/Nogizaka_Haruka_no_Himitsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/56965.jpg?s=2181f80956ab3569e4e23ac21559cf8c",
+                "name": "Nogizaka Haruka no Himitsu"
+            }
+        },
+        {
+            "position": "Production Coordination",
+            "anime": {
+                "mal_id": 6956,
+                "url": "https://myanimelist.net/anime/6956/Working",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75262.jpg?s=98af66a0ff85b160534547f192a78368",
+                "name": "Working!!"
+            }
+        }
+    ],
+    "published_manga": []
+}

@@ -1,0 +1,39 @@
+
+#mainBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+    /* background-image: url(/static/images/505.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+#mainBlock span{
+    flex: 0 2 auto;
+
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 3em;
+    color: crimson;
+    
+}
+
+#mainBlock h1, h2{
+    margin: 10px;
+    
+}
+
+#mainBlock img{
+    flex: 0 1 auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+
+
+}

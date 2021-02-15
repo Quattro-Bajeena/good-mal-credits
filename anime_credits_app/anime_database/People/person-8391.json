@@ -1,0 +1,74 @@
+{
+    "mal_id": 8391,
+    "url": "https://myanimelist.net/people/8391/Lehel_Kisfalusi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5596.jpg",
+    "name": "Lehel Kisfalusi",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 150,
+                "url": "https://myanimelist.net/anime/150/Blood_",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=f0a6eb5df371dd4f2840cfa6265964fa",
+                "name": "Blood+"
+            },
+            "character": {
+                "mal_id": 848,
+                "url": "https://myanimelist.net/character/848/Joel_Goldschmidt_VI",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/53988.jpg?s=1e7ab5b495da4eb1d94c962227ce1ea5",
+                "name": "Goldschmidt VI, Joel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 5705,
+                "url": "https://myanimelist.net/character/5705/Kain_Fuery",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/70276.jpg?s=4e9f99720a2d2b6b34b84dfd29abfb1d",
+                "name": "Fuery, Kain"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 274,
+                "url": "https://myanimelist.net/anime/274/Kiddy_Grade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/73995.jpg?s=057163607dd326b40aa14c76e9f010a2",
+                "name": "Kiddy Grade"
+            },
+            "character": {
+                "mal_id": 7294,
+                "url": "https://myanimelist.net/character/7294/Armbrust",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/114858.jpg?s=194ce7ceaa4ec4de4b7de8dcea42d0b1",
+                "name": "Armbrust"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            },
+            "character": {
+                "mal_id": 13017,
+                "url": "https://myanimelist.net/character/13017/Yashamaru",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/103943.jpg?s=c552dff7b636ce9fd4cd0588d04400b9",
+                "name": "Yashamaru"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,527 @@
+{
+    "mal_id": 34457,
+    "url": "https://myanimelist.net/people/34457/Toshiko_Baba",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Toshiko Baba",
+    "given_name": "俊子",
+    "family_name": "馬場",
+    "birthday": null,
+    "member_favorites": 2,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 27557,
+                "url": "https://myanimelist.net/anime/27557/Ajisai_no_Uta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/66759.jpg?s=cb17a11db5c3ef17ba66538db2bbcc41",
+                "name": "Ajisai no Uta"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10447,
+                "url": "https://myanimelist.net/anime/10447/Aquarion_Evol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72743.jpg?s=a490e100ca05e82fa95c3fa44d3032a2",
+                "name": "Aquarion Evol"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3193,
+                "url": "https://myanimelist.net/anime/3193/Asobot_Senki_Gokuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/5030.jpg?s=d01ede4cba11d180bf51620876f8c2f0",
+                "name": "Asobot Senki Gokuu"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 997,
+                "url": "https://myanimelist.net/anime/997/Bishoujo_Senshi_Sailor_Moon_S__Kaguya-hime_no_Koibito",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/18896.jpg?s=94cf1d3182d6d9a80b33ea643f52f15a",
+                "name": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9812,
+                "url": "https://myanimelist.net/anime/9812/Bit_the_Cupid",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/27208.jpg?s=c62eb0c5fc600b67a651d83740223b93",
+                "name": "Bit the Cupid"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1686,
+                "url": "https://myanimelist.net/anime/1686/Bleach_Movie_1__Memories_of_Nobody",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1686.jpg?s=a584f101d2db6d710e3240a225430392",
+                "name": "Bleach Movie 1: Memories of Nobody"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2889,
+                "url": "https://myanimelist.net/anime/2889/Bleach_Movie_2__The_DiamondDust_Rebellion_-_Mou_Hitotsu_no_Hyourinmaru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/7499.jpg?s=0628d1a0a102f86ab92bc36de2b15701",
+                "name": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1347,
+                "url": "https://myanimelist.net/anime/1347/Bubblegum_Crisis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27361.jpg?s=da42fe09aedd14a7182a2ae98fed8cf4",
+                "name": "Bubblegum Crisis"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 767,
+                "url": "https://myanimelist.net/anime/767/Burn_Up",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/2888.jpg?s=4dfc5d9e95b41d5701894168894db1a1",
+                "name": "Burn Up!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2025,
+                "url": "https://myanimelist.net/anime/2025/Darker_than_Black__Kuro_no_Keiyakusha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/19570.jpg?s=7bfc04d78ec59cca283822cdae1167c1",
+                "name": "Darker than Black: Kuro no Keiyakusha"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1494,
+                "url": "https://myanimelist.net/anime/1494/Darkside_Blues",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/3766.jpg?s=bc7deac7266b4c9b9ccb5349051f35c8",
+                "name": "Darkside Blues"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 904,
+                "url": "https://myanimelist.net/anime/904/Dragon_Ball_Z_Movie_11__Super_Senshi_Gekiha_Katsu_no_wa_Ore_da",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg?s=fda138ee128971b0b8f408fb7f8064ad",
+                "name": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8425,
+                "url": "https://myanimelist.net/anime/8425/Gosick",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/27906.jpg?s=1c2c9846af2f2bedcac0bba5d2973378",
+                "name": "Gosick"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 2365,
+                "url": "https://myanimelist.net/anime/2365/Grandeek",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/2617.jpg?s=09d74bb726b70775aa17a4ffd1f1f1b4",
+                "name": "Grandeek"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2365,
+                "url": "https://myanimelist.net/anime/2365/Grandeek",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/2617.jpg?s=09d74bb726b70775aa17a4ffd1f1f1b4",
+                "name": "Grandeek"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4334,
+                "url": "https://myanimelist.net/anime/4334/Heroman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23841.jpg?s=169d1f58cb5a134492476c7cf865b172",
+                "name": "Heroman"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9032,
+                "url": "https://myanimelist.net/anime/9032/Inazuma_Eleven__Saikyou_Gundan_Ogre_Shuurai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/31189.jpg?s=837af361fd771fd24280d7f2fea784a3",
+                "name": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 940,
+                "url": "https://myanimelist.net/anime/940/Inukami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg?s=a593ba59ef19ba912b0afdd6c097fd06",
+                "name": "Inukami!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 953,
+                "url": "https://myanimelist.net/anime/953/Jyu_Oh_Sei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/14079.jpg?s=d308babbaa9328801ec3e33ffbac6325",
+                "name": "Jyu Oh Sei"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 1486,
+                "url": "https://myanimelist.net/anime/1486/Kodomo_no_Omocha_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/7016.jpg?s=e2d27f778dbd0d28cd8a23be91d87f1a",
+                "name": "Kodomo no Omocha (TV)"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 237,
+                "url": "https://myanimelist.net/anime/237/Koukyoushihen_Eureka_Seven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/34443.jpg?s=6bd9aef67c525453a62ee1b90eaddfb1",
+                "name": "Koukyoushihen Eureka Seven"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3595,
+                "url": "https://myanimelist.net/anime/3595/Kujakuou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82866.jpg?s=2a6a3ff537f019877c5c73b6e735d505",
+                "name": "Kujakuou"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 483,
+                "url": "https://myanimelist.net/anime/483/Kurau_Phantom_Memory",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1705/94509.jpg?s=d242de2ab49c01e69c906bf964d1326e",
+                "name": "Kurau Phantom Memory"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 434,
+                "url": "https://myanimelist.net/anime/434/Legend_of_Lemnear__Kyokuguro_no_Tsubasa_Valkisas",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/26903.jpg?s=19932ea485dad93a629863fe3e457b1e",
+                "name": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 207,
+                "url": "https://myanimelist.net/anime/207/Lodoss-tou_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1644/92493.jpg?s=4674302db54771a0b3f70a8d517427d7",
+                "name": "Lodoss-tou Senki"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1417,
+                "url": "https://myanimelist.net/anime/1417/Lupin_III__Moeyo_Zantetsuken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77771.jpg?s=e418e6973f4b19ce1e1caa8b95821f6d",
+                "name": "Lupin III: Moeyo Zantetsuken!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 76,
+                "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/6770.jpg?s=858f9a00b43ad993bc8c2056f6373ece",
+                "name": "Mahou Shoujo Lyrical Nanoha"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1935,
+                "url": "https://myanimelist.net/anime/1935/Megazone_23",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1153/94528.jpg?s=4f966bc96e369759c617336cccba1410",
+                "name": "Megazone 23"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 3619,
+                "url": "https://myanimelist.net/anime/3619/Nanako_SOS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/6635.jpg?s=20e64dbb3ea9ef5e17e48814ce68b3ff",
+                "name": "Nanako SOS"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 853,
+                "url": "https://myanimelist.net/anime/853/Ouran_Koukou_Host_Club",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/71992.jpg?s=31f67d6c3372344c256e028b45ad9889",
+                "name": "Ouran Koukou Host Club"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4026,
+                "url": "https://myanimelist.net/anime/4026/Pokemon_Movie_11__Giratina_to_Sora_no_Hanataba_Sheimi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/21316.jpg?s=57fc242c9a096174ab77391ebd7b3b8b",
+                "name": "Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6178,
+                "url": "https://myanimelist.net/anime/6178/Pokemon_Movie_12__Arceus_Choukoku_no_Jikuu_e",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21315.jpg?s=0f6b5c1062a0e15cb89e0efef85a20e9",
+                "name": "Pokemon Movie 12: Arceus Choukoku no Jikuu e"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7695,
+                "url": "https://myanimelist.net/anime/7695/Pokemon_Movie_13__Genei_no_Hasha_Zoroark",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/26915.jpg?s=2ce3f646b7f79b1847daf45b2287d845",
+                "name": "Pokemon Movie 13: Genei no Hasha Zoroark"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 10740,
+                "url": "https://myanimelist.net/anime/10740/Pokemon_Movie_14_Black__Victini_to_Shiroki_Eiyuu_Reshiram",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/29621.jpg?s=44e80dc0abf7f75983c14da954469c82",
+                "name": "Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9917,
+                "url": "https://myanimelist.net/anime/9917/Pokemon_Movie_14_White__Victini_to_Kuroki_Eiyuu_Zekrom",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29620.jpg?s=a2dc831dbae8b33ae2c9679495b0674a",
+                "name": "Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 12671,
+                "url": "https://myanimelist.net/anime/12671/Pokemon_Movie_15__Kyurem_vs_Seikenshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38311.jpg?s=169d7d8506a1fb34187e38eca370261a",
+                "name": "Pokemon Movie 15: Kyurem vs. Seikenshi"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 12671,
+                "url": "https://myanimelist.net/anime/12671/Pokemon_Movie_15__Kyurem_vs_Seikenshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38311.jpg?s=169d7d8506a1fb34187e38eca370261a",
+                "name": "Pokemon Movie 15: Kyurem vs. Seikenshi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21569,
+                "url": "https://myanimelist.net/anime/21569/Pokemon_Movie_17__Hakai_no_Mayu_to_Diancie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/59743.jpg?s=62019fdbb978d3f25709e116f9e50e4b",
+                "name": "Pokemon Movie 17: Hakai no Mayu to Diancie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 165,
+                "url": "https://myanimelist.net/anime/165/RahXephon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75168.jpg?s=1db640b5ce69587dad85609fbc99c60c",
+                "name": "RahXephon"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 758,
+                "url": "https://myanimelist.net/anime/758/RahXephon__Tagen_Hensoukyoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1771/94881.jpg?s=29a7afecb8b7614bf3e26f26b8014063",
+                "name": "RahXephon: Tagen Hensoukyoku"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 440,
+                "url": "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1078/95285.jpg?s=046e4080e152c837557ab7d9c20b3f65",
+                "name": "Shoujo Kakumei Utena"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1443,
+                "url": "https://myanimelist.net/anime/1443/Sol_Bianca",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/49503.jpg?s=4789ab1d744f48335412ad0c51102fa6",
+                "name": "Sol Bianca"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 21293,
+                "url": "https://myanimelist.net/anime/21293/Sore_Ike_Anpanman__Shabondama_no_Purun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56229.jpg?s=fdb0dd915ba0e6c4b4db5d42d8a00fd9",
+                "name": "Sore Ike! Anpanman: Shabondama no Purun"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 2583,
+                "url": "https://myanimelist.net/anime/2583/Soukou_Kihei_Votoms__The_Last_Red_Shoulder",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/24536.jpg?s=5aed9008ecc7b3fcdf60cb58f491b76a",
+                "name": "Soukou Kihei Votoms: The Last Red Shoulder"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 3588,
+                "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7804.jpg?s=f8c5966d172e6a98b3dfc21bfc921208",
+                "name": "Soul Eater"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 3451,
+                "url": "https://myanimelist.net/anime/3451/Space_Oz_no_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64345.jpg?s=cd82f27290b3b3037631ebf34519df8d",
+                "name": "Space Oz no Bouken"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 8934,
+                "url": "https://myanimelist.net/anime/8934/Star_Driver__Kagayaki_no_Takuto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/25953.jpg?s=83aadb28bc1f7f15af76deae5c552737",
+                "name": "Star Driver: Kagayaki no Takuto"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4884,
+                "url": "https://myanimelist.net/anime/4884/Tales_of_the_Abyss",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21243.jpg?s=5a7cc3bbe5b24f06efb453555c386060",
+                "name": "Tales of the Abyss"
+            }
+        },
+        {
+            "position": "In-Between Animation",
+            "anime": {
+                "mal_id": 2291,
+                "url": "https://myanimelist.net/anime/2291/Tatakae_Iczer-1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/52121.jpg?s=119efa4f4ad88172aca2732ef6b75ef1",
+                "name": "Tatakae!! Iczer-1"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9941,
+                "url": "https://myanimelist.net/anime/9941/Tiger___Bunny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/29466.jpg?s=b0e276066716a347b386b2a877ce1f8d",
+                "name": "Tiger & Bunny"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10798,
+                "url": "https://myanimelist.net/anime/10798/Un-Go",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/33009.jpg?s=857f5875f0cd234134fd6c6c17557d32",
+                "name": "Un-Go"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7174,
+                "url": "https://myanimelist.net/anime/7174/Usaru-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/16866.jpg?s=12a7bf43e23137a3b3cfd598e9053d87",
+                "name": "Usaru-san"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 7174,
+                "url": "https://myanimelist.net/anime/7174/Usaru-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/16866.jpg?s=12a7bf43e23137a3b3cfd598e9053d87",
+                "name": "Usaru-san"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 7174,
+                "url": "https://myanimelist.net/anime/7174/Usaru-san",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/16866.jpg?s=12a7bf43e23137a3b3cfd598e9053d87",
+                "name": "Usaru-san"
+            }
+        }
+    ],
+    "published_manga": []
+}

@@ -1,0 +1,359 @@
+{
+    "mal_id": 6796,
+    "url": "https://myanimelist.net/people/6796/Jerome_Keen",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Jerome Keen",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28249,
+                "url": "https://myanimelist.net/anime/28249/Arslan_Senki_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73588.jpg?s=afed32569b584ee0b3c68639b1706cb1",
+                "name": "Arslan Senki (TV)"
+            },
+            "character": {
+                "mal_id": 125905,
+                "url": "https://myanimelist.net/character/125905/Kishward",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/279496.jpg?s=31f4e905b2e0974a0bbbaa67056fde36",
+                "name": "Kishward"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10218,
+                "url": "https://myanimelist.net/anime/10218/Berserk__Ougon_Jidai-hen_I_-_Haou_no_Tamago",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/62179.jpg?s=787de9509fd1413eaa16a2265a686f46",
+                "name": "Berserk: Ougon Jidai-hen I - Haou no Tamago"
+            },
+            "character": {
+                "mal_id": 600,
+                "url": "https://myanimelist.net/character/600/Zodd_Nosferatu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/76209.jpg?s=1152dbbaf19c8fd4caccab44ff73c375",
+                "name": "Nosferatu, Zodd"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 10956,
+                "url": "https://myanimelist.net/character/10956/Tim_Marcoh",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/63841.jpg?s=e61b14a5dbe302bc8747c7e3c4c06556",
+                "name": "Marcoh, Tim"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10956,
+                "url": "https://myanimelist.net/character/10956/Tim_Marcoh",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/63841.jpg?s=e61b14a5dbe302bc8747c7e3c4c06556",
+                "name": "Marcoh, Tim"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 136,
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19473.jpg?s=ebc060a61ea40c597b642a84ee74a53c",
+                "name": "Hunter x Hunter"
+            },
+            "character": {
+                "mal_id": 5829,
+                "url": "https://myanimelist.net/character/5829/Koltopi_Tounofmaill",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/185807.jpg?s=6427c2982c12df5c284f098745ab8a6a",
+                "name": "Tounofmaill, Koltopi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 136,
+                "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/19473.jpg?s=ebc060a61ea40c597b642a84ee74a53c",
+                "name": "Hunter x Hunter"
+            },
+            "character": {
+                "mal_id": 5836,
+                "url": "https://myanimelist.net/character/5836/Uvogin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/198581.jpg?s=9ec193dc555de579bc6743c49d3b5cd2",
+                "name": "Uvogin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1483,
+                "url": "https://myanimelist.net/anime/1483/Master_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2817.jpg?s=692acb415b6cf3328c26df4b2942cff7",
+                "name": "Master Keaton"
+            },
+            "character": {
+                "mal_id": 5899,
+                "url": "https://myanimelist.net/character/5899/Taichi_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/118284.jpg?s=b900af3b4198e3136ff7b81133bace35",
+                "name": "Keaton, Taichi"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1910,
+                "url": "https://myanimelist.net/anime/1910/Master_Keaton_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/14522.jpg?s=cdc6b42b479580b2498f3316628b59e9",
+                "name": "Master Keaton OVA"
+            },
+            "character": {
+                "mal_id": 5899,
+                "url": "https://myanimelist.net/character/5899/Taichi_Keaton",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/118284.jpg?s=b900af3b4198e3136ff7b81133bace35",
+                "name": "Keaton, Taichi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 93,
+                "url": "https://myanimelist.net/anime/93/Mobile_Suit_Gundam_SEED",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg?s=f6fb69c786c5f9acbc1206432a6a5bd7",
+                "name": "Mobile Suit Gundam SEED"
+            },
+            "character": {
+                "mal_id": 122,
+                "url": "https://myanimelist.net/character/122/Andrew_Waltfeld",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/30427.jpg?s=bdea23800daccdad255b01571fea7981",
+                "name": "Waltfeld, Andrew"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 94,
+                "url": "https://myanimelist.net/anime/94/Mobile_Suit_Gundam_SEED_Destiny",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg?s=2c84f05fa0a18b17c890ae810f76b73c",
+                "name": "Mobile Suit Gundam SEED Destiny"
+            },
+            "character": {
+                "mal_id": 122,
+                "url": "https://myanimelist.net/character/122/Andrew_Waltfeld",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/30427.jpg?s=bdea23800daccdad255b01571fea7981",
+                "name": "Waltfeld, Andrew"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3199,
+                "url": "https://myanimelist.net/anime/3199/Nanatsu_no_Umi_no_Tico",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/69547.jpg?s=692a8d9b545c427d136d788b318a530f",
+                "name": "Nanatsu no Umi no Tico"
+            },
+            "character": {
+                "mal_id": 64863,
+                "url": "https://myanimelist.net/character/64863/Scott_Simpson",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/170611.jpg?s=544323797dbeb38110fe9ab5a42a9f5f",
+                "name": "Simpson, Scott"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1212,
+                "url": "https://myanimelist.net/anime/1212/Oban_Star-Racers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/3702.jpg?s=4d0bc378867715c2ce8b18f7f7ffd054",
+                "name": "Oban Star-Racers"
+            },
+            "character": {
+                "mal_id": 5193,
+                "url": "https://myanimelist.net/character/5193/Don_Wei",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/97602.jpg?s=230239edd47b072ceaec04098a4b6715",
+                "name": "Wei, Don"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 20288,
+                "url": "https://myanimelist.net/character/20288/Apoo_Scratchmen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/91154.jpg?s=da4874a6eb4cceb2d41680c377ac2d9d",
+                "name": "Scratchmen, Apoo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 22647,
+                "url": "https://myanimelist.net/character/22647/Inazuma",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84780.jpg?s=153efed9067a389704a4a71b54ba2b1f",
+                "name": "Inazuma"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 2748,
+                "url": "https://myanimelist.net/character/2748/Bellamy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/49730.jpg?s=de2881a3e7dbb8b18b851ac11557d3ec",
+                "name": "Bellamy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 4887,
+                "url": "https://myanimelist.net/character/4887/Arlong",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/350919.jpg?s=2e8d663e326214d91e236c95118babc8",
+                "name": "Arlong"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 459,
+                "url": "https://myanimelist.net/anime/459/One_Piece_Movie_1",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/20925.jpg?s=7e4821fa8a799eca7edfa1d77e3a40d8",
+                "name": "One Piece Movie 1"
+            },
+            "character": {
+                "mal_id": 53003,
+                "url": "https://myanimelist.net/character/53003/Ganzo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/384807.jpg?s=51a772bd3afac9d48571d5357f0b25fc",
+                "name": "Ganzo"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 15323,
+                "url": "https://myanimelist.net/anime/15323/One_Piece__Episode_of_Nami_-_Koukaishi_no_Namida_to_Nakama_no_Kizuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/41415.jpg?s=7c69294bf4b525b846d374ff5a055754",
+                "name": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna"
+            },
+            "character": {
+                "mal_id": 4887,
+                "url": "https://myanimelist.net/character/4887/Arlong",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/350919.jpg?s=2e8d663e326214d91e236c95118babc8",
+                "name": "Arlong"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 12929,
+                "url": "https://myanimelist.net/anime/12929/Saint_Seiya_Omega",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/76052.jpg?s=6a2dc7b8d47faec1a8f6d2be9d91bbf1",
+                "name": "Saint Seiya Omega"
+            },
+            "character": {
+                "mal_id": 64417,
+                "url": "https://myanimelist.net/character/64417/Mycene_Leo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/224745.jpg?s=dacb51b5fcc8ab0de6e35537ec0a5793",
+                "name": "Leo, Mycene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10033,
+                "url": "https://myanimelist.net/anime/10033/Toriko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg?s=5ecc131620af35201f27635b331d0e63",
+                "name": "Toriko"
+            },
+            "character": {
+                "mal_id": 43848,
+                "url": "https://myanimelist.net/character/43848/Gido",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/120413.jpg?s=2fcb40a32351bb1997ca8c08e0fedfc5",
+                "name": "Gido"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10033,
+                "url": "https://myanimelist.net/anime/10033/Toriko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1757/100671.jpg?s=5ecc131620af35201f27635b331d0e63",
+                "name": "Toriko"
+            },
+            "character": {
+                "mal_id": 53411,
+                "url": "https://myanimelist.net/character/53411/Johannes",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/146677.jpg?s=f0683bd6ddd003ada78368e9d074b990",
+                "name": "Johannes"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 544,
+                "url": "https://myanimelist.net/anime/544/Venus_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1598/97574.jpg?s=2e2987f6823c8b36e91698fb0f86f6ce",
+                "name": "Venus Senki"
+            },
+            "character": {
+                "mal_id": 58005,
+                "url": "https://myanimelist.net/character/58005/Kurtz",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/157033.jpg?s=dd98e5eacd777427b47cc9556998a8e0",
+                "name": "Kurtz"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 544,
+                "url": "https://myanimelist.net/anime/544/Venus_Senki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1598/97574.jpg?s=2e2987f6823c8b36e91698fb0f86f6ce",
+                "name": "Venus Senki"
+            },
+            "character": {
+                "mal_id": 58009,
+                "url": "https://myanimelist.net/character/58009/Jack",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/157037.jpg?s=5dc3b48165b2c3fb65b42a0da79956fb",
+                "name": "Jack"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

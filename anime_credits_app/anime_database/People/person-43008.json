@@ -1,0 +1,74 @@
+{
+    "mal_id": 43008,
+    "url": "https://myanimelist.net/people/43008/Giacomo_Zito",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/46502.jpg",
+    "name": "Giacomo Zito",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1963-07-29T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 15540,
+                "url": "https://myanimelist.net/character/15540/Miles",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/72473.jpg?s=308dab34d35a1e1e088d061ffac89273",
+                "name": "Miles"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 851,
+                "url": "https://myanimelist.net/anime/851/Kyou_kara_Ore_wa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/43779.jpg?s=b1a74d7cf1e29f7aa042708d27213ba2",
+                "name": "Kyou kara Ore wa!!"
+            },
+            "character": {
+                "mal_id": 56987,
+                "url": "https://myanimelist.net/character/56987/Makoto_Nakano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/156165.jpg?s=94e655f66c61e79b5100bff6859de154",
+                "name": "Nakano, Makoto"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 851,
+                "url": "https://myanimelist.net/anime/851/Kyou_kara_Ore_wa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/43779.jpg?s=b1a74d7cf1e29f7aa042708d27213ba2",
+                "name": "Kyou kara Ore wa!!"
+            },
+            "character": {
+                "mal_id": 142403,
+                "url": "https://myanimelist.net/character/142403/Isada",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Isada"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4752,
+                "url": "https://myanimelist.net/anime/4752/Vampire_Knight__Guilty",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/10075.jpg?s=07a23d2831310a7d7b671e6064de4e59",
+                "name": "Vampire Knight: Guilty"
+            },
+            "character": {
+                "mal_id": 16915,
+                "url": "https://myanimelist.net/character/16915/Rido_Kuran",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/101861.jpg?s=1e301ca52771c31cf9e043d76437335d",
+                "name": "Kuran, Rido"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

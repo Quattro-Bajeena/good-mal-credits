@@ -1,0 +1,119 @@
+{
+    "mal_id": 7821,
+    "url": "https://myanimelist.net/people/7821/Janka_Solecki",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5073.jpg",
+    "name": "Janka Solecki",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1978-06-29T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 25457,
+                "url": "https://myanimelist.net/anime/25457/Avengers_Confidential__Black_Widow_to_Punisher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/66947.jpg?s=49a5ab56e5758f251b8dac040082632d",
+                "name": "Avengers Confidential: Black Widow to Punisher"
+            },
+            "character": {
+                "mal_id": 81635,
+                "url": "https://myanimelist.net/character/81635/Natasha_Romanova",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/278674.jpg?s=7b8be24f6ce4e6d93df4fd75ca9b260b",
+                "name": "Romanova, Natasha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1482,
+                "url": "https://myanimelist.net/anime/1482/DGray-man",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/75194.jpg?s=a6ae4013fa2a159c58193a41d5b798d3",
+                "name": "D.Gray-man"
+            },
+            "character": {
+                "mal_id": 5229,
+                "url": "https://myanimelist.net/character/5229/Lulu_Bell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/74303.jpg?s=3e798d28a2a0b25b5d251f1d9568599c",
+                "name": "Lulu Bell"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 650,
+                "url": "https://myanimelist.net/character/650/Lust",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/81112.jpg?s=e74608a019bb3ce46e20c69349a2b83e",
+                "name": "Lust"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 650,
+                "url": "https://myanimelist.net/character/650/Lust",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/81112.jpg?s=e74608a019bb3ce46e20c69349a2b83e",
+                "name": "Lust"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            },
+            "character": {
+                "mal_id": 809,
+                "url": "https://myanimelist.net/character/809/Anko_Mitarashi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/66177.jpg?s=26150c5e22aaa0122c6ce100b045a2e2",
+                "name": "Mitarashi, Anko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 543,
+                "url": "https://myanimelist.net/anime/543/Vampire_Hunter_D_2000",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg?s=bdcc701dd6dbf298a0c4f47e186c8e8e",
+                "name": "Vampire Hunter D (2000)"
+            },
+            "character": {
+                "mal_id": 1020,
+                "url": "https://myanimelist.net/character/1020/Leila",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/56616.jpg?s=ec23cd4dbb529608e8153b9a64d81428",
+                "name": "Leila"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 482,
+                "url": "https://myanimelist.net/anime/482/Yu☆Gi☆Oh__Duel_Monsters_GX",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20873.jpg?s=18696d9d7d0b59d416757357638c0fd0",
+                "name": "Yu☆Gi☆Oh!: Duel Monsters GX"
+            },
+            "character": {
+                "mal_id": 1305,
+                "url": "https://myanimelist.net/character/1305/Asuka_Tenjouin",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/109900.jpg?s=cc6f560e86f5f46de9a81f3c01bbd11d",
+                "name": "Tenjouin, Asuka"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,6 +1,4 @@
-from time import sleep
-from celery.exceptions import Ignore
-from anime_credits_app import celery, adc, mal_db, models, log_n_cache
+from anime_credits_app import celery, mal_db, log_n_cache
 
 
 @celery.task(bind=True)
@@ -31,6 +29,3 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
     log_n_cache.register_page_update_complete(resource_type,mal_id)
     return 'Page Updated'
 
-@celery.task
-def save_page_visits_async():
-    log_n_cache.save_page_updates()

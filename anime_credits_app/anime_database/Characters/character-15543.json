@@ -1,0 +1,78 @@
+{
+    "mal_id": 15543,
+    "url": "https://myanimelist.net/character/15543/Sloth",
+    "name": "Sloth",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 46,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/72474.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 284,
+            "name": "Tachiki, Fumihiko",
+            "url": "https://myanimelist.net/people/284/Fumihiko_Tachiki",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/38867.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 340,
+            "name": "Seitz, Patrick",
+            "url": "https://myanimelist.net/people/340/Patrick_Seitz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/37829.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1179,
+            "name": "Tome, Antoine",
+            "url": "https://myanimelist.net/people/1179/Antoine_Tome",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33055.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 7320,
+            "name": "Bayer, Hans",
+            "url": "https://myanimelist.net/people/7320/Hans_Bayer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47321.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 34419,
+            "name": "Costha, Faduli",
+            "url": "https://myanimelist.net/people/34419/Faduli_Costha",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/35241.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 43007,
+            "name": "Oppido, Dario",
+            "url": "https://myanimelist.net/people/43007/Dario_Oppido",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46501.jpg",
+            "language": "Italian"
+        }
+    ]
+}

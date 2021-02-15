@@ -1,0 +1,44 @@
+{
+    "mal_id": 45891,
+    "url": "https://myanimelist.net/people/45891/Leon_Aubrecht-Puciata",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Leon Aubrecht-Puciata",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 9919,
+                "url": "https://myanimelist.net/anime/9919/Ao_no_Exorcist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75195.jpg?s=3df6fa77a517d305527ef4f0984fed48",
+                "name": "Ao no Exorcist"
+            },
+            "character": {
+                "mal_id": 24482,
+                "url": "https://myanimelist.net/character/24482/Rin_Okumura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/114367.jpg?s=34a987c8457e95547d1e0f5eb63cf5c9",
+                "name": "Okumura, Rin"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10958,
+                "url": "https://myanimelist.net/character/10958/Rick",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/63846.jpg?s=16440c2cb008ebeb96bc018215ce499d",
+                "name": "Rick"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

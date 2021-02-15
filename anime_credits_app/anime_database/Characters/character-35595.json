@@ -1,0 +1,42 @@
+{
+    "mal_id": 35595,
+    "url": "https://myanimelist.net/character/35595/Madame_Shan",
+    "name": "Madame Shan",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/120052.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [],
+    "voice_actors": [
+        {
+            "mal_id": 252,
+            "name": "Young, Linda",
+            "url": "https://myanimelist.net/people/252/Linda_Young",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/29089.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 8753,
+            "name": "Uemura, Noriko",
+            "url": "https://myanimelist.net/people/8753/Noriko_Uemura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/57927.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 46393,
+            "name": "Fonseca, Gessy",
+            "url": "https://myanimelist.net/people/46393/Gessy_Fonseca",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        }
+    ]
+}

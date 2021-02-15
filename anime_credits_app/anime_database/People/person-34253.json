@@ -1,0 +1,473 @@
+{
+    "mal_id": 34253,
+    "url": "https://myanimelist.net/people/34253/Nobuhiro_Arai",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Nobuhiro Arai",
+    "given_name": "伸浩",
+    "family_name": "新井",
+    "birthday": null,
+    "member_favorites": 7,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9989,
+                "url": "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/79697.jpg?s=06365eb350e88b0f3ec6c24f8fa3c028",
+                "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 31478,
+                "url": "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/79409.jpg?s=54fed735a3cf34d35c965ee8f31ad586",
+                "name": "Bungou Stray Dogs"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 31478,
+                "url": "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/79409.jpg?s=54fed735a3cf34d35c965ee8f31ad586",
+                "name": "Bungou Stray Dogs"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 32867,
+                "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88585.jpg?s=d46df4d875fac95d6c335a532d0a2359",
+                "name": "Bungou Stray Dogs 2nd Season"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 32867,
+                "url": "https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/88585.jpg?s=d46df4d875fac95d6c335a532d0a2359",
+                "name": "Bungou Stray Dogs 2nd Season"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 38003,
+                "url": "https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1037/100463.jpg?s=2f4aad26cbb25f9111a467296a50b58b",
+                "name": "Bungou Stray Dogs 3rd Season"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 34944,
+                "url": "https://myanimelist.net/anime/34944/Bungou_Stray_Dogs__Dead_Apple",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1127/93981.jpg?s=56337b381374c7127726775888f5ac05",
+                "name": "Bungou Stray Dogs: Dead Apple"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 34944,
+                "url": "https://myanimelist.net/anime/34944/Bungou_Stray_Dogs__Dead_Apple",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1127/93981.jpg?s=56337b381374c7127726775888f5ac05",
+                "name": "Bungou Stray Dogs: Dead Apple"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 16,
+                "url": "https://myanimelist.net/anime/16/Hachimitsu_to_Clover",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73923.jpg?s=9dace938ca8b5c18851678f4a8d0a21a",
+                "name": "Hachimitsu to Clover"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1142,
+                "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/11040.jpg?s=89127ddae8c55f0d813d219f8caa41c5",
+                "name": "Hachimitsu to Clover II"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 20853,
+                "url": "https://myanimelist.net/anime/20853/Hitsugi_no_Chaika",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/61781.jpg?s=6252ba3eacd6ccb93c11f4576399bfbe",
+                "name": "Hitsugi no Chaika"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 20853,
+                "url": "https://myanimelist.net/anime/20853/Hitsugi_no_Chaika",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/61781.jpg?s=6252ba3eacd6ccb93c11f4576399bfbe",
+                "name": "Hitsugi no Chaika"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 24261,
+                "url": "https://myanimelist.net/anime/24261/Hitsugi_no_Chaika_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/72479.jpg?s=6494aa64d13aa6775b59d85f3a2808bc",
+                "name": "Hitsugi no Chaika OVA"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 24261,
+                "url": "https://myanimelist.net/anime/24261/Hitsugi_no_Chaika_OVA",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/72479.jpg?s=6494aa64d13aa6775b59d85f3a2808bc",
+                "name": "Hitsugi no Chaika OVA"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 24231,
+                "url": "https://myanimelist.net/anime/24231/Hitsugi_no_Chaika__Avenging_Battle",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/67797.jpg?s=d8b36cac013608e62bd7393b4ac51c56",
+                "name": "Hitsugi no Chaika: Avenging Battle"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 24231,
+                "url": "https://myanimelist.net/anime/24231/Hitsugi_no_Chaika__Avenging_Battle",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/67797.jpg?s=d8b36cac013608e62bd7393b4ac51c56",
+                "name": "Hitsugi no Chaika: Avenging Battle"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 940,
+                "url": "https://myanimelist.net/anime/940/Inukami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg?s=a593ba59ef19ba912b0afdd6c097fd06",
+                "name": "Inukami!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 940,
+                "url": "https://myanimelist.net/anime/940/Inukami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1405/110246.jpg?s=a593ba59ef19ba912b0afdd6c097fd06",
+                "name": "Inukami!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 2927,
+                "url": "https://myanimelist.net/anime/2927/KimiKiss_Pure_Rouge",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/19934.jpg?s=22260e2667091a2261d08c7569c4c04f",
+                "name": "KimiKiss Pure Rouge"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 2927,
+                "url": "https://myanimelist.net/anime/2927/KimiKiss_Pure_Rouge",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/19934.jpg?s=22260e2667091a2261d08c7569c4c04f",
+                "name": "KimiKiss Pure Rouge"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6325,
+                "url": "https://myanimelist.net/anime/6325/Naruto__Shippuuden_Movie_3_-_Hi_no_Ishi_wo_Tsugu_Mono",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/14686.jpg?s=783e74e53f7651e5a4b6f85535354af8",
+                "name": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10161,
+                "url": "https://myanimelist.net/anime/10161/No6",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1474/90768.jpg?s=482dfcab42dd8714087f6f837242180c",
+                "name": "No.6"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6512,
+                "url": "https://myanimelist.net/anime/6512/Nyan_Koi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18299.jpg?s=18c7d552a59fda57dc8ddd2a2431c21d",
+                "name": "Nyan Koi!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 6512,
+                "url": "https://myanimelist.net/anime/6512/Nyan_Koi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18299.jpg?s=18c7d552a59fda57dc8ddd2a2431c21d",
+                "name": "Nyan Koi!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1538,
+                "url": "https://myanimelist.net/anime/1538/Pumpkin_Scissors",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75181.jpg?s=24596ea4158b51e5c5ea6cf87d01d7fe",
+                "name": "Pumpkin Scissors"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 42791,
+                "url": "https://myanimelist.net/anime/42791/Sakura_Kakumei__Hanasaku_Otome-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1651/110195.jpg?s=db924a6bd7b8f557dd729af4a41fbcf3",
+                "name": "Sakura Kakumei: Hanasaku Otome-tachi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 42791,
+                "url": "https://myanimelist.net/anime/42791/Sakura_Kakumei__Hanasaku_Otome-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1651/110195.jpg?s=db924a6bd7b8f557dd729af4a41fbcf3",
+                "name": "Sakura Kakumei: Hanasaku Otome-tachi"
+            }
+        },
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 42791,
+                "url": "https://myanimelist.net/anime/42791/Sakura_Kakumei__Hanasaku_Otome-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1651/110195.jpg?s=db924a6bd7b8f557dd729af4a41fbcf3",
+                "name": "Sakura Kakumei: Hanasaku Otome-tachi"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 355,
+                "url": "https://myanimelist.net/anime/355/Shakugan_no_Shana",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21197.jpg?s=ce60515b1e56484bac0b9177bd309c9d",
+                "name": "Shakugan no Shana"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 355,
+                "url": "https://myanimelist.net/anime/355/Shakugan_no_Shana",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21197.jpg?s=ce60515b1e56484bac0b9177bd309c9d",
+                "name": "Shakugan no Shana"
+            }
+        },
+        {
+            "position": "Assistant Animation Director",
+            "anime": {
+                "mal_id": 1815,
+                "url": "https://myanimelist.net/anime/1815/Shakugan_no_Shana_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/21513.jpg?s=8674b93d61bdc76d9bdb460cdc317911",
+                "name": "Shakugan no Shana Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1815,
+                "url": "https://myanimelist.net/anime/1815/Shakugan_no_Shana_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/21513.jpg?s=8674b93d61bdc76d9bdb460cdc317911",
+                "name": "Shakugan no Shana Movie"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 5233,
+                "url": "https://myanimelist.net/anime/5233/Slayers_Evolution-R",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/20938.jpg?s=f0583e480ea2cc87d622332cd289b436",
+                "name": "Slayers Evolution-R"
+            }
+        },
+        {
+            "position": "Chief Animation Director",
+            "anime": {
+                "mal_id": 9790,
+                "url": "https://myanimelist.net/anime/9790/Sora_no_Otoshimono__Tokeijikake_no_Angeloid",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/28729.jpg?s=2c27b3bb9f6e6ffabd484c9e5544ee56",
+                "name": "Sora no Otoshimono: Tokeijikake no Angeloid"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9790,
+                "url": "https://myanimelist.net/anime/9790/Sora_no_Otoshimono__Tokeijikake_no_Angeloid",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/28729.jpg?s=2c27b3bb9f6e6ffabd484c9e5544ee56",
+                "name": "Sora no Otoshimono: Tokeijikake no Angeloid"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9253,
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=42dc613dc84cfe02cbcd6a91c7250ae8",
+                "name": "Steins;Gate"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9253,
+                "url": "https://myanimelist.net/anime/9253/Steins_Gate",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73199.jpg?s=42dc613dc84cfe02cbcd6a91c7250ae8",
+                "name": "Steins;Gate"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 11757,
+                "url": "https://myanimelist.net/anime/11757/Sword_Art_Online",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg?s=0d39a46a21e7dac6a04cb02a3263c72e",
+                "name": "Sword Art Online"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4654,
+                "url": "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/75533.jpg?s=a1292c584e3babaaeaf437d6b861c694",
+                "name": "Toaru Majutsu no Index"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 4224,
+                "url": "https://myanimelist.net/anime/4224/Toradora",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/22128.jpg?s=f8e9d946dfdc419795c0d2de062d862d",
+                "name": "Toradora!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 4224,
+                "url": "https://myanimelist.net/anime/4224/Toradora",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/22128.jpg?s=f8e9d946dfdc419795c0d2de062d862d",
+                "name": "Toradora!"
+            }
+        },
+        {
+            "position": "Episode Director",
+            "anime": {
+                "mal_id": 7058,
+                "url": "https://myanimelist.net/anime/7058/Uragiri_wa_Boku_no_Namae_wo_Shitteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/26525.jpg?s=4ef73e5c9baf053df7e171fc7b558764",
+                "name": "Uragiri wa Boku no Namae wo Shitteiru"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 7058,
+                "url": "https://myanimelist.net/anime/7058/Uragiri_wa_Boku_no_Namae_wo_Shitteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/26525.jpg?s=4ef73e5c9baf053df7e171fc7b558764",
+                "name": "Uragiri wa Boku no Namae wo Shitteiru"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 7058,
+                "url": "https://myanimelist.net/anime/7058/Uragiri_wa_Boku_no_Namae_wo_Shitteiru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/26525.jpg?s=4ef73e5c9baf053df7e171fc7b558764",
+                "name": "Uragiri wa Boku no Namae wo Shitteiru"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 9331,
+                "url": "https://myanimelist.net/anime/9331/Yumekui_Merry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/30869.jpg?s=0b1b4c6ea2b2606d7a88d08d859bb857",
+                "name": "Yumekui Merry"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 9331,
+                "url": "https://myanimelist.net/anime/9331/Yumekui_Merry",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/30869.jpg?s=0b1b4c6ea2b2606d7a88d08d859bb857",
+                "name": "Yumekui Merry"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 14075,
+                "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=f265f76e2e501a991bc879dd7fbbef2e",
+                "name": "Zetsuen no Tempest"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 14075,
+                "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=f265f76e2e501a991bc879dd7fbbef2e",
+                "name": "Zetsuen no Tempest"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 14075,
+                "url": "https://myanimelist.net/anime/14075/Zetsuen_no_Tempest",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/42453.jpg?s=f265f76e2e501a991bc879dd7fbbef2e",
+                "name": "Zetsuen no Tempest"
+            }
+        }
+    ],
+    "published_manga": []
+}

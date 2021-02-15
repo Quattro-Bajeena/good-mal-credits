@@ -1,0 +1,71 @@
+{
+    "mal_id": 15533,
+    "url": "https://myanimelist.net/character/15533/Jerso",
+    "name": "Jerso",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 5,
+    "image_url": "https://cdn.myanimelist.net/images/characters/12/303011.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1520,
+            "name": "Shimura, Tomoyuki",
+            "url": "https://myanimelist.net/people/1520/Tomoyuki_Shimura",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/55122.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1848,
+            "name": "Love, Andrew",
+            "url": "https://myanimelist.net/people/1848/Andrew_Love",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/39304.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 10733,
+            "name": "Popovic, Frédéric",
+            "url": "https://myanimelist.net/people/10733/Frédéric_Popovic",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/33041.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 43007,
+            "name": "Oppido, Dario",
+            "url": "https://myanimelist.net/people/43007/Dario_Oppido",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46501.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 44427,
+            "name": "Rodrigues, Zeca",
+            "url": "https://myanimelist.net/people/44427/Zeca_Rodrigues",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/48314.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

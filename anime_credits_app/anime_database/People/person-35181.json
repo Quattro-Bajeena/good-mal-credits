@@ -1,0 +1,374 @@
+{
+    "mal_id": 35181,
+    "url": "https://myanimelist.net/people/35181/Héctor_Indriago",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/36637.jpg",
+    "name": "Héctor Indriago",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 3,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 48,
+                "url": "https://myanimelist.net/anime/48/hack__Sign",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1443/94665.jpg?s=8691b74743da0eeddcfe49d800bb7eb8",
+                "name": ".hack//Sign"
+            },
+            "character": {
+                "mal_id": 2231,
+                "url": "https://myanimelist.net/character/2231/Balmung",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/131721.jpg?s=a241570340c7dd9d1fa1d657adb1ea2c",
+                "name": "Balmung"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 298,
+                "url": "https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/78321.jpg?s=f3087a9d1d85a2c5c5176c947c3f6c58",
+                "name": ".hack//Tasogare no Udewa Densetsu"
+            },
+            "character": {
+                "mal_id": 2231,
+                "url": "https://myanimelist.net/character/2231/Balmung",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/131721.jpg?s=a241570340c7dd9d1fa1d657adb1ea2c",
+                "name": "Balmung"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 109,
+                "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.jpg?s=d5530afe9f9928826a93751d3edde604",
+                "name": "Bakuretsu Tenshi"
+            },
+            "character": {
+                "mal_id": 770,
+                "url": "https://myanimelist.net/character/770/Kyouhei_Tachibana",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/119483.jpg?s=6ccc775ea02009164b17d40c58406672",
+                "name": "Tachibana, Kyouhei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 67,
+                "url": "https://myanimelist.net/anime/67/Basilisk__Kouga_Ninpou_Chou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/6793.jpg?s=dc4b80823ddc7b378ad0ba24e8a5fc40",
+                "name": "Basilisk: Kouga Ninpou Chou"
+            },
+            "character": {
+                "mal_id": 2355,
+                "url": "https://myanimelist.net/character/2355/Gyoubu_Kasumi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/54309.jpg?s=422aeb213c7e7941d318b85c0febc295",
+                "name": "Kasumi, Gyoubu"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 4094,
+                "url": "https://myanimelist.net/anime/4094/Batman__Gotham_Knight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/17272.jpg?s=a7b07b36e8f2c2f1500f89840fbb74ba",
+                "name": "Batman: Gotham Knight"
+            },
+            "character": {
+                "mal_id": 10586,
+                "url": "https://myanimelist.net/character/10586/Bruce_Wayne",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/62183.jpg?s=538d4df9136fbfa82a8368be908cd4cc",
+                "name": "Wayne, Bruce"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 68,
+                "url": "https://myanimelist.net/anime/68/Black_Cat_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1485/110010.jpg?s=d7a2d4c8e8c5bc3c90ea6dd3b216b2cb",
+                "name": "Black Cat (TV)"
+            },
+            "character": {
+                "mal_id": 7691,
+                "url": "https://myanimelist.net/character/7691/Kosuke_Kanzaki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/108097.jpg?s=d01439978f9c1b24abc340e44f9179e7",
+                "name": "Kanzaki, Kosuke"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2142,
+                "url": "https://myanimelist.net/anime/2142/Blue_Dragon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/20597.jpg?s=a8cffaadc89c115f724112a69cf1af07",
+                "name": "Blue Dragon"
+            },
+            "character": {
+                "mal_id": 20637,
+                "url": "https://myanimelist.net/character/20637/Hippopotamus",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/362882.jpg?s=34c0ba956f35f25fec240969314bad30",
+                "name": "Hippopotamus"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1690,
+                "url": "https://myanimelist.net/anime/1690/Bokura_no",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1690/97048.jpg?s=07939022029c71b7e78ea8c82c125764",
+                "name": "Bokura no"
+            },
+            "character": {
+                "mal_id": 2714,
+                "url": "https://myanimelist.net/character/2714/Kanji_Yoshikawa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/97650.jpg?s=99b2579c1cbf66f885f3ceacf6c8fdf6",
+                "name": "Yoshikawa, Kanji"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 651,
+                "url": "https://myanimelist.net/character/651/Envy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/79027.jpg?s=84e07acc682941e8e263bef3ab0da53a",
+                "name": "Envy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 6917,
+                "url": "https://myanimelist.net/character/6917/Wrath",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/76637.jpg?s=dc607b9ddbf2ca3da6a1ceaa801079c0",
+                "name": "Wrath"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 9792,
+                "url": "https://myanimelist.net/character/9792/Van_Hohenheim",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/80676.jpg?s=3881a84d18c212875195feae1d7aaf85",
+                "name": "Hohenheim, Van"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 15541,
+                "url": "https://myanimelist.net/character/15541/Buccaneer",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/71767.jpg?s=79658ab9ea7da555b31e9611cf89fe14",
+                "name": "Buccaneer"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 239,
+                "url": "https://myanimelist.net/anime/239/Gankutsuou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2235.jpg?s=73e1ddcb1feb32536c25e73f8045c4bd",
+                "name": "Gankutsuou"
+            },
+            "character": {
+                "mal_id": 421,
+                "url": "https://myanimelist.net/character/421/Franz_dEpinay",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/72502.jpg?s=2caa8ae5ed1618583cbbb65ccae4c621",
+                "name": "d'Epinay, Franz"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 132,
+                "url": "https://myanimelist.net/anime/132/GetBackers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/7547.jpg?s=166c22d010af4b48a8471fe13023aa12",
+                "name": "GetBackers"
+            },
+            "character": {
+                "mal_id": 46,
+                "url": "https://myanimelist.net/character/46/Ban_Midou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/30608.jpg?s=b67aa177141ec85867350f090dcb651a",
+                "name": "Midou, Ban"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 379,
+                "url": "https://myanimelist.net/anime/379/Heppoko_Jikken_Animation_Excel♥Saga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1728/97423.jpg?s=0ff3d9d22521bceb4119ef4c816ae71e",
+                "name": "Heppoko Jikken Animation Excel♥Saga"
+            },
+            "character": {
+                "mal_id": 5463,
+                "url": "https://myanimelist.net/character/5463/Toru_Watanabe",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/236921.jpg?s=d51c24a7c9e259d06401570ae7c9ead1",
+                "name": "Watanabe, Toru"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 17,
+                "url": "https://myanimelist.net/anime/17/Hungry_Heart__Wild_Striker",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/49655.jpg?s=971ddd17e056f18995d2a21294b5262b",
+                "name": "Hungry Heart: Wild Striker"
+            },
+            "character": {
+                "mal_id": 13448,
+                "url": "https://myanimelist.net/character/13448/Rodrigo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/26248.jpg?s=26abc5247a01574431e8de311a050878",
+                "name": "Rodrigo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 228,
+                "url": "https://myanimelist.net/anime/228/Jigoku_Shoujo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/71958.jpg?s=713ee03c0b14e2a7d2f9e74ae86cb94b",
+                "name": "Jigoku Shoujo"
+            },
+            "character": {
+                "mal_id": 17365,
+                "url": "https://myanimelist.net/character/17365/Yoshiyuki_Honjou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/76545.jpg?s=76cc5e727660009a5c6987f42c29f1e6",
+                "name": "Honjou, Yoshiyuki"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 709,
+                "url": "https://myanimelist.net/anime/709/Mujin_Wakusei_Survive",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/46859.jpg?s=c4ddd306ec67c6879c42dcbcaa88fdeb",
+                "name": "Mujin Wakusei Survive"
+            },
+            "character": {
+                "mal_id": 6348,
+                "url": "https://myanimelist.net/character/6348/Bell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/133429.jpg?s=c8367b739186ab0f9953d66075ed1a47",
+                "name": "Bell"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 457,
+                "url": "https://myanimelist.net/anime/457/Mushishi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/73862.jpg?s=aa50ffa32575c50c11cb2828b8776a0f",
+                "name": "Mushishi"
+            },
+            "character": {
+                "mal_id": 24130,
+                "url": "https://myanimelist.net/character/24130/Shirou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/59099.jpg?s=6cf8f89db11d530b3054104dedd55fc2",
+                "name": "Shirou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1698,
+                "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=088cee985fab7fb80f17786b41dd6a99",
+                "name": "Nodame Cantabile"
+            },
+            "character": {
+                "mal_id": 4998,
+                "url": "https://myanimelist.net/character/4998/Yasunori_Kuroki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/99927.jpg?s=1fbfdb691a8f54d3406767437fb4cf84",
+                "name": "Kuroki, Yasunori"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 169,
+                "url": "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg?s=758fa362aebb92c04e5cfeab1568a6e4",
+                "name": "Shingetsutan Tsukihime"
+            },
+            "character": {
+                "mal_id": 2212,
+                "url": "https://myanimelist.net/character/2212/Shiki_Toono",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/288135.jpg?s=7634f9a7d74a0f709199ae8b86954e41",
+                "name": "Toono, Shiki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 198,
+                "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg?s=983531719c8394a0310737197178b718",
+                "name": "Speed Grapher"
+            },
+            "character": {
+                "mal_id": 10606,
+                "url": "https://myanimelist.net/character/10606/Bob",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/64601.jpg?s=3cc6dec50629e495a65a15b6fa562784",
+                "name": "Bob"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 27,
+                "url": "https://myanimelist.net/anime/27/Trinity_Blood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/24649.jpg?s=af0d9c7714f181e0f97d8fec8aa3cdac",
+                "name": "Trinity Blood"
+            },
+            "character": {
+                "mal_id": 1672,
+                "url": "https://myanimelist.net/character/1672/Abel_Nightroad",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/127341.jpg?s=95f7b8b70b663263f4a44c12560396b6",
+                "name": "Nightroad, Abel"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 278,
+                "url": "https://myanimelist.net/anime/278/Viewtiful_Joe",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/278.jpg?s=8419a4ff3254efccabf21dbeccad3bc0",
+                "name": "Viewtiful Joe"
+            },
+            "character": {
+                "mal_id": 13352,
+                "url": "https://myanimelist.net/character/13352/Captain_Blue",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/25926.jpg?s=b1069e795818ff02c53e3784abea4581",
+                "name": "Blue, Captain"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

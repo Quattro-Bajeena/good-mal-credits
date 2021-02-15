@@ -1,0 +1,338 @@
+{
+    "mal_id": 40868,
+    "url": "https://myanimelist.net/people/40868/Mika_Nakajima",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Mika Nakajima",
+    "given_name": "美佳",
+    "family_name": "中島",
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 6547,
+                "url": "https://myanimelist.net/anime/6547/Angel_Beats",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22061.jpg?s=f5b7871c53b116ed83efbde48cfda79b",
+                "name": "Angel Beats!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3874,
+                "url": "https://myanimelist.net/anime/3874/Ashita_e_Free_Kick",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/69971.jpg?s=f422f8fe369b8a445d33105c0a497c77",
+                "name": "Ashita e Free Kick"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 14913,
+                "url": "https://myanimelist.net/anime/14913/Battle_Spirits__Sword_Eyes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/49195.jpg?s=1049b65f006ef11da29024af7870b517",
+                "name": "Battle Spirits: Sword Eyes"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 19877,
+                "url": "https://myanimelist.net/anime/19877/Battle_Spirits__Sword_Eyes_Gekitouden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/52985.jpg?s=c2b674ff743ed8b2f7f72bb1e9582121",
+                "name": "Battle Spirits: Sword Eyes Gekitouden"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5356,
+                "url": "https://myanimelist.net/anime/5356/Canaan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75789.jpg?s=9722579cbff6fc431c1c9b98488b94eb",
+                "name": "Canaan"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2904,
+                "url": "https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/9391.jpg?s=6e6190c9daf0a579f94ed915106470cf",
+                "name": "Code Geass: Hangyaku no Lelouch R2"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5216,
+                "url": "https://myanimelist.net/anime/5216/DCif__Da_Capo_if",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/25445.jpg?s=047090356579bc6ac9cbedc1d33ae0bf",
+                "name": "D.C.if: Da Capo if"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 6880,
+                "url": "https://myanimelist.net/anime/6880/Deadman_Wonderland",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75299.jpg?s=b02475b9815ee5acd52c6a1a987ebd75",
+                "name": "Deadman Wonderland"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8425,
+                "url": "https://myanimelist.net/anime/8425/Gosick",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/27906.jpg?s=1c2c9846af2f2bedcac0bba5d2973378",
+                "name": "Gosick"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9288,
+                "url": "https://myanimelist.net/anime/9288/Heartcatch_Precure_Movie__Hana_no_Miyako_de_Fashion_Show_Desu_ka",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/25737.jpg?s=1e0a911acf5b6e4566405ee369acf93e",
+                "name": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 4756,
+                "url": "https://myanimelist.net/anime/4756/Hello_Harinezumi__Satsui_no_Ryoubun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/43659.jpg?s=f9bb15905cede374d9d5de89fee7f505",
+                "name": "Hello Harinezumi: Satsui no Ryoubun"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 4334,
+                "url": "https://myanimelist.net/anime/4334/Heroman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/23841.jpg?s=169d1f58cb5a134492476c7cf865b172",
+                "name": "Heroman"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 5983,
+                "url": "https://myanimelist.net/anime/5983/Higepiyo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/23125.jpg?s=5d2d194d6354b9435bd6dce86cf830b5",
+                "name": "Higepiyo"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 7405,
+                "url": "https://myanimelist.net/anime/7405/Jankenman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/17801.jpg?s=fa901fe41a9054c12ad25887161e5238",
+                "name": "Jankenman"
+            }
+        },
+        {
+            "position": "Setting",
+            "anime": {
+                "mal_id": 36754,
+                "url": "https://myanimelist.net/anime/36754/Kakuriyo_no_Yadomeshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1035/95056.jpg?s=d5f305d5fc1107fa962169926dc8ed06",
+                "name": "Kakuriyo no Yadomeshi"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3315,
+                "url": "https://myanimelist.net/anime/3315/Kikou_Keisatsu_Metal_Jack",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/77278.jpg?s=f479c4b0e20abe6f52c3f9e322e7cedd",
+                "name": "Kikou Keisatsu Metal Jack"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1573,
+                "url": "https://myanimelist.net/anime/1573/Kishin_Douji_Zenki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1225/92572.jpg?s=74955866cd03917897e6b3d432d355de",
+                "name": "Kishin Douji Zenki"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3858,
+                "url": "https://myanimelist.net/anime/3858/Konchuu_Monogatari_Minashigo_Hutch",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/6900.jpg?s=1035c04d8eb2663249e323504115d99c",
+                "name": "Konchuu Monogatari Minashigo Hutch"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 8141,
+                "url": "https://myanimelist.net/anime/8141/Konchuu_Monogatari_Mitsubachi_Hutch__Yuuki_no_Melody",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/47243.jpg?s=0ae94229928a59fc3880c97133b2a8ef",
+                "name": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 10721,
+                "url": "https://myanimelist.net/anime/10721/Mawaru_Penguindrum",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/30238.jpg?s=6ebe930d48aad233863b7dc7a043a5c5",
+                "name": "Mawaru Penguindrum"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 10808,
+                "url": "https://myanimelist.net/anime/10808/Mobile_Suit_Gundam_AGE",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/42535.jpg?s=f7aa82bec48a9f26255e3ff783a6e0f4",
+                "name": "Mobile Suit Gundam AGE"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 9181,
+                "url": "https://myanimelist.net/anime/9181/Motto_To_LOVE-Ru",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/59875.jpg?s=9c33083373cbf0e354f2b18a6ae3d52d",
+                "name": "Motto To LOVE-Ru"
+            }
+        },
+        {
+            "position": "2nd Key Animation",
+            "anime": {
+                "mal_id": 8246,
+                "url": "https://myanimelist.net/anime/8246/Naruto__Shippuuden_Movie_4_-_The_Lost_Tower",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/23344.jpg?s=bdd18fd6efed7a97b844459517999a57",
+                "name": "Naruto: Shippuuden Movie 4 - The Lost Tower"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 6512,
+                "url": "https://myanimelist.net/anime/6512/Nyan_Koi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18299.jpg?s=18c7d552a59fda57dc8ddd2a2431c21d",
+                "name": "Nyan Koi!"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 1565,
+                "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/25749.jpg?s=9364f05eb666d98bf57747718698729c",
+                "name": "Pokemon Diamond & Pearl"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 9979,
+                "url": "https://myanimelist.net/anime/9979/Precure_All_Stars_Movie_DX3__Mirai_ni_Todoke_Sekai_wo_Tsunagu☆Nijiiro_no_Hana",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/27934.jpg?s=602a3d588c771b2cb1981e1489563a4e",
+                "name": "Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 418,
+                "url": "https://myanimelist.net/anime/418/Ranma_½__Chuugoku_Nekonron_Daikessen_Okite_Yaburi_no_Gekitou-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/76023.jpg?s=2563bef95bf9692a17c77a7e30c722bb",
+                "name": "Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 792,
+                "url": "https://myanimelist.net/anime/792/Ranma_½__Kessen_Tougenkyou_Hanayome_wo_Torimodose",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1855/95323.jpg?s=f3a03f78efdbd93c77d5d7b9ae34f860",
+                "name": "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 19825,
+                "url": "https://myanimelist.net/anime/19825/Saikyou_Ginga_Ultimate_Zero__Battle_Spirits",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/56575.jpg?s=31011966d341cbb5433042545b60e7d8",
+                "name": "Saikyou Ginga Ultimate Zero: Battle Spirits"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 7588,
+                "url": "https://myanimelist.net/anime/7588/Saraiya_Goyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75203.jpg?s=da54100a2dd76aa06f3c3b842d97af10",
+                "name": "Saraiya Goyou"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 696,
+                "url": "https://myanimelist.net/anime/696/Tenchi_Muyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/61663.jpg?s=aa7fd0d558dcc2dab1683a90cfc754f6",
+                "name": "Tenchi Muyou!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 6211,
+                "url": "https://myanimelist.net/anime/6211/Tokyo_Magnitude_80",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/13776.jpg?s=ac2162e1fea77a76443b0915812d45f8",
+                "name": "Tokyo Magnitude 8.0"
+            }
+        }
+    ],
+    "published_manga": []
+}

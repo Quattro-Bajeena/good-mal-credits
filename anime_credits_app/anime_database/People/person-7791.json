@@ -1,0 +1,104 @@
+{
+    "mal_id": 7791,
+    "url": "https://myanimelist.net/people/7791/Attila_Király",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/5046.jpg",
+    "name": "Attila Király",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1970-08-25T00:00:00+00:00",
+    "member_favorites": 7,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 2682,
+                "url": "https://myanimelist.net/character/2682/Juushirou_Ukitake",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/33251.jpg?s=611826fc12fbbcd89ba99097b17eff83",
+                "name": "Ukitake, Juushirou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 9792,
+                "url": "https://myanimelist.net/character/9792/Van_Hohenheim",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/80676.jpg?s=3881a84d18c212875195feae1d7aaf85",
+                "name": "Hohenheim, Van"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 9792,
+                "url": "https://myanimelist.net/character/9792/Van_Hohenheim",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/80676.jpg?s=3881a84d18c212875195feae1d7aaf85",
+                "name": "Hohenheim, Van"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 9792,
+                "url": "https://myanimelist.net/character/9792/Van_Hohenheim",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/80676.jpg?s=3881a84d18c212875195feae1d7aaf85",
+                "name": "Hohenheim, Van"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 427,
+                "url": "https://myanimelist.net/anime/427/Kaleido_Star",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/75487.jpg?s=a55f2888ba32746a835f971030ddfc8c",
+                "name": "Kaleido Star"
+            },
+            "character": {
+                "mal_id": 7108,
+                "url": "https://myanimelist.net/character/7108/Kalos_Eido",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/63701.jpg?s=d11897286bf95337be8ffb6a50097736",
+                "name": "Eido, Kalos"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6,
+                "url": "https://myanimelist.net/anime/6/Trigun",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/20310.jpg?s=be98341c3694227037c3aeff67d233ba",
+                "name": "Trigun"
+            },
+            "character": {
+                "mal_id": 19193,
+                "url": "https://myanimelist.net/character/19193/Brilliant_Dynamites_Neon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/231977.jpg?s=c0b398b1511b21c8b4c7704cc4107f2f",
+                "name": "Brilliant Dynamites Neon"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

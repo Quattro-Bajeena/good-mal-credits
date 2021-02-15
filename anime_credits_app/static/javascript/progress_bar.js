@@ -23,7 +23,7 @@ function change_bar_fill(current, max, transition_duration){
 function change_bar_description(description){
 
     let text;
-    //console.log(description)
+    //console.log(description);
     if(typeof description == 'string'){
         text = description;
     }
@@ -43,9 +43,10 @@ function update_bar(){
     .then(response => response.json())
     .then(response => {
         //console.log(response);
-        //State pending
+        
 
         if(pending == true && response['info'] != null){
+            //State pending
             pending = false;
             window.location.reload();
         }
@@ -59,13 +60,12 @@ function update_bar(){
             }, 1000)
         }
         else if(response['state'] == 'FAILURE'){
-            console.log(response['info']);
             change_bar_description("Download failure");
             barFill.style['background-color'] = 'gray';
         }
         else if(response['info'] != null){
             //normal download situation
-
+            
             change_bar_description(response['info']['status']);
             change_bar_fill(response['info']['current'],response['info']['total'], interval_time );
             setTimeout(update_bar, interval_time);
@@ -80,6 +80,7 @@ function update_bar(){
         }
     })
     .catch(error => {
+        change_bar_description("Error: Couldn't retrieve progress data");
         console.log("Error: Couldn't retrieve progress data");
         console.log(error);
     });

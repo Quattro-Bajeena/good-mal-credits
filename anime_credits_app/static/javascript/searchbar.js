@@ -94,7 +94,16 @@ const dynamicSearch = function(event){
                 newEntry.style['display'] = "block";
                 searchAutocomplete.appendChild(newEntry);
             }
-            searchAutocomplete.style['visibility'] = "visible";
+            if(results.length > 0){
+                searchAutocomplete.style['visibility'] = "visible";
+            } 
+            else{
+                searchAutocomplete.style['visibility'] = "hidden";
+            }
+                
+            
+            
+            
         })
     }
     else{

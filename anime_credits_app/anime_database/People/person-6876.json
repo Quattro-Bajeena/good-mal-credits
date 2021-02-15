@@ -1,0 +1,509 @@
+{
+    "mal_id": 6876,
+    "url": "https://myanimelist.net/people/6876/Bill_Flynn",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/24541.jpg",
+    "name": "Bill Flynn",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 2,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 22789,
+                "url": "https://myanimelist.net/anime/22789/Barakamon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/65427.jpg?s=b30ab24d8eb29a70c3f4031eaeb3c1c0",
+                "name": "Barakamon"
+            },
+            "character": {
+                "mal_id": 109437,
+                "url": "https://myanimelist.net/character/109437/Kousaku_Kotoishi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/256723.jpg?s=246060fb52659fb7801247f215b69b2d",
+                "name": "Kotoishi, Kousaku"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 235,
+                "url": "https://myanimelist.net/anime/235/Detective_Conan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg?s=614b950ad92b7bf700f693ccb3cd84f9",
+                "name": "Detective Conan"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 779,
+                "url": "https://myanimelist.net/anime/779/Detective_Conan_Movie_01__The_Timed_Skyscraper",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/77131.jpg?s=c12c1e416c6650334b370a71ef2af8d9",
+                "name": "Detective Conan Movie 01: The Timed Skyscraper"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 780,
+                "url": "https://myanimelist.net/anime/780/Detective_Conan_Movie_02__The_Fourteenth_Target",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1900/94316.jpg?s=e8219a50a1bf6b1bd8f7dbde761473c7",
+                "name": "Detective Conan Movie 02: The Fourteenth Target"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 781,
+                "url": "https://myanimelist.net/anime/781/Detective_Conan_Movie_03__The_Last_Wizard_of_the_Century",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg?s=fc2b89bd7753c49c1350a472686b5143",
+                "name": "Detective Conan Movie 03: The Last Wizard of the Century"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1363,
+                "url": "https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg?s=93caf4040d96e8daad7069b728a05156",
+                "name": "Detective Conan Movie 04: Captured in Her Eyes"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1364,
+                "url": "https://myanimelist.net/anime/1364/Detective_Conan_Movie_05__Countdown_to_Heaven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1144/92654.jpg?s=f63c89ecc9936d647380f3d04fd2e899",
+                "name": "Detective Conan Movie 05: Countdown to Heaven"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1365,
+                "url": "https://myanimelist.net/anime/1365/Detective_Conan_Movie_06__The_Phantom_of_Baker_Street",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1400/94320.jpg?s=003e43ea1d564090d4a4f246f7cc25b5",
+                "name": "Detective Conan Movie 06: The Phantom of Baker Street"
+            },
+            "character": {
+                "mal_id": 4162,
+                "url": "https://myanimelist.net/character/4162/Hiroshi_Agasa",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/146131.jpg?s=0ed70c4b6aa2d6ecec39ecf824a5dbe0",
+                "name": "Agasa, Hiroshi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            },
+            "character": {
+                "mal_id": 33458,
+                "url": "https://myanimelist.net/character/33458/Crux",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/90791.jpg?s=e4c4c058906aa8c9c424f0536e740e62",
+                "name": "Crux"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6702,
+                "url": "https://myanimelist.net/anime/6702/Fairy_Tail",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/18179.jpg?s=df96f46f0942261b7b962529b1cae778",
+                "name": "Fairy Tail"
+            },
+            "character": {
+                "mal_id": 40438,
+                "url": "https://myanimelist.net/character/40438/Roubaul",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/110176.jpg?s=24456bec844f14d8b46a9adfb00a4ec1",
+                "name": "Roubaul"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 22043,
+                "url": "https://myanimelist.net/anime/22043/Fairy_Tail_2014",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/60551.jpg?s=1d72673a444be65a8a0744b09bd9c190",
+                "name": "Fairy Tail (2014)"
+            },
+            "character": {
+                "mal_id": 33458,
+                "url": "https://myanimelist.net/character/33458/Crux",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/90791.jpg?s=e4c4c058906aa8c9c424f0536e740e62",
+                "name": "Crux"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 11002,
+                "url": "https://myanimelist.net/character/11002/Mugear",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/70945.jpg?s=76750309e0a3fa97b01a20232f7e514f",
+                "name": "Mugear"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 15531,
+                "url": "https://myanimelist.net/character/15531/Grumman",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/81604.jpg?s=90e7f93237b9c0ce82ad5b16c98f0f44",
+                "name": "Grumman"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1571,
+                "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/73908.jpg?s=5844e51f5b9f3e6097878ff9996176c8",
+                "name": "Ghost Hunt"
+            },
+            "character": {
+                "mal_id": 30149,
+                "url": "https://myanimelist.net/character/30149/Taizou_Yoshimi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/300215.jpg?s=bc7b31e093daaa5ae92970c88d66b343",
+                "name": "Yoshimi, Taizou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31433,
+                "url": "https://myanimelist.net/anime/31433/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Kaikou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1104/91793.jpg?s=49ddf19952a7433349514c21179467e2",
+                "name": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+            },
+            "character": {
+                "mal_id": 124451,
+                "url": "https://myanimelist.net/character/124451/Friedrich_von_Goldenbaum_IV",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/275924.jpg?s=27b9d65fc41585d32eb266c92947417f",
+                "name": "von Goldenbaum IV, Friedrich"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 36028,
+                "url": "https://myanimelist.net/anime/36028/Golden_Kamuy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1145/90880.jpg?s=e95b6affff332da81cdd103d69994532",
+                "name": "Golden Kamuy"
+            },
+            "character": {
+                "mal_id": 161260,
+                "url": "https://myanimelist.net/character/161260/Wada",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/367815.jpg?s=1925c4d5a35279fe84a9b0aa2b64dd90",
+                "name": "Wada"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 134,
+                "url": "https://myanimelist.net/anime/134/Gunslinger_Girl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/3088.jpg?s=4a60872a868877339103777c0dfb72e7",
+                "name": "Gunslinger Girl"
+            },
+            "character": {
+                "mal_id": 2027,
+                "url": "https://myanimelist.net/character/2027/Raballo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/199079.jpg?s=9ba177c298793810791c4ba455ff2ffc",
+                "name": "Raballo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3231,
+                "url": "https://myanimelist.net/anime/3231/Gunslinger_Girl__Il_Teatrino",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/16697.jpg?s=686d17d0765f71b99cfe4f86690f69c2",
+                "name": "Gunslinger Girl: Il Teatrino"
+            },
+            "character": {
+                "mal_id": 2027,
+                "url": "https://myanimelist.net/character/2027/Raballo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/199079.jpg?s=9ba177c298793810791c4ba455ff2ffc",
+                "name": "Raballo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 16528,
+                "url": "https://myanimelist.net/anime/16528/Hal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46549.jpg?s=e2a002bfd7527e431271e6b202ff7278",
+                "name": "Hal"
+            },
+            "character": {
+                "mal_id": 148724,
+                "url": "https://myanimelist.net/character/148724/Aranami",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/323346.jpg?s=e2f24785f77a5bebf2e7dc5657558d17",
+                "name": "Aranami"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 36296,
+                "url": "https://myanimelist.net/anime/36296/Hinamatsuri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg?s=1252937121cf6562c4ad67f8c6e53477",
+                "name": "Hinamatsuri"
+            },
+            "character": {
+                "mal_id": 161951,
+                "url": "https://myanimelist.net/character/161951/Gotou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/368451.jpg?s=9fdf9026f515dff9ac7c6e6e31584b2e",
+                "name": "Gotou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9834,
+                "url": "https://myanimelist.net/anime/9834/Level_E",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/29668.jpg?s=887acdbd091a6f889ded824655d5896b",
+                "name": "Level E"
+            },
+            "character": {
+                "mal_id": 39740,
+                "url": "https://myanimelist.net/character/39740/Jinpachi_Sakamoto",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/108441.jpg?s=d36d81a5617006512e14d02103b7e043",
+                "name": "Sakamoto, Jinpachi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 24455,
+                "url": "https://myanimelist.net/anime/24455/Madan_no_Ou_to_Vanadis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/64911.jpg?s=3de387e32cd948bd5b58c84240a5a73c",
+                "name": "Madan no Ou to Vanadis"
+            },
+            "character": {
+                "mal_id": 113519,
+                "url": "https://myanimelist.net/character/113519/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 23605,
+                "url": "https://myanimelist.net/anime/23605/Ninja_Slayer_From_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/72362.jpg?s=4e5984ac961120e236361d72081af356",
+                "name": "Ninja Slayer From Animation"
+            },
+            "character": {
+                "mal_id": 129351,
+                "url": "https://myanimelist.net/character/129351/Tomihide_Sugarawarano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/283627.jpg?s=2f1c8dd37bcbe2c04199145b48e1cd40",
+                "name": "Sugarawarano, Tomihide"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 4892,
+                "url": "https://myanimelist.net/character/4892/Genzou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/50060.jpg?s=765b91dca2f0d6900331b6a2d5d56d13",
+                "name": "Genzou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 23202,
+                "url": "https://myanimelist.net/character/23202/Tonjit",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/55617.jpg?s=a0bfd0307e1c22a7e316c786dbecad01",
+                "name": "Tonjit"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            },
+            "character": {
+                "mal_id": 23531,
+                "url": "https://myanimelist.net/character/23531/Hou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/56872.jpg?s=7116c5a4e49f043bdeda1dedba5f5eb8",
+                "name": "Hou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 34494,
+                "url": "https://myanimelist.net/anime/34494/Sakura_Quest",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/85222.jpg?s=caa35c5fcb8c128c0c38866325e5a629",
+                "name": "Sakura Quest"
+            },
+            "character": {
+                "mal_id": 154674,
+                "url": "https://myanimelist.net/character/154674/Shige-jii",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/339748.jpg?s=839d0cc6ac97f4e4c2161906a86db7dd",
+                "name": "Shige-jii"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1964,
+                "url": "https://myanimelist.net/anime/1964/Sakura_Taisen__Ecole_de_Paris",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1915/107217.jpg?s=46a2e8edc9cedebf8d812187f8e633d4",
+                "name": "Sakura Taisen: Ecole de Paris"
+            },
+            "character": {
+                "mal_id": 36024,
+                "url": "https://myanimelist.net/character/36024/Norimichi_Sakomizu",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Sakomizu, Norimichi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 35760,
+                "url": "https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg?s=2466154861ca6dd897cedefad18d6eba",
+                "name": "Shingeki no Kyojin Season 3"
+            },
+            "character": {
+                "mal_id": 165309,
+                "url": "https://myanimelist.net/character/165309/Roy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/369104.jpg?s=566b89d3d3846b3f8fb4447c611b97fd",
+                "name": "Roy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5958,
+                "url": "https://myanimelist.net/anime/5958/Sora_no_Otoshimono",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/50307.jpg?s=4c47a9bc068c1aa7021d1e3edccffb4e",
+                "name": "Sora no Otoshimono"
+            },
+            "character": {
+                "mal_id": 37696,
+                "url": "https://myanimelist.net/character/37696/Tomozo_Sakurai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/107081.jpg?s=a6977c1adc96b27dc143c3cd69665845",
+                "name": "Sakurai, Tomozo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8407,
+                "url": "https://myanimelist.net/anime/8407/Sora_no_Otoshimono__Forte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50309.jpg?s=e6bc1a99a5dbd2fa65e88482e78ac919",
+                "name": "Sora no Otoshimono: Forte"
+            },
+            "character": {
+                "mal_id": 37696,
+                "url": "https://myanimelist.net/character/37696/Tomozo_Sakurai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/107081.jpg?s=a6977c1adc96b27dc143c3cd69665845",
+                "name": "Sakurai, Tomozo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 7858,
+                "url": "https://myanimelist.net/anime/7858/Sora_no_Otoshimono__Project_Pink",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/19135.jpg?s=ddf23c74ca1be0007f5427efe94253a7",
+                "name": "Sora no Otoshimono: Project Pink"
+            },
+            "character": {
+                "mal_id": 37696,
+                "url": "https://myanimelist.net/character/37696/Tomozo_Sakurai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/107081.jpg?s=a6977c1adc96b27dc143c3cd69665845",
+                "name": "Sakurai, Tomozo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 198,
+                "url": "https://myanimelist.net/anime/198/Speed_Grapher",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/26128.jpg?s=983531719c8394a0310737197178b718",
+                "name": "Speed Grapher"
+            },
+            "character": {
+                "mal_id": 20438,
+                "url": "https://myanimelist.net/character/20438/Father_Kanda",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/54305.jpg?s=cd92ca5688894687cca5fa67a2ba1dd0",
+                "name": "Kanda, Father"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

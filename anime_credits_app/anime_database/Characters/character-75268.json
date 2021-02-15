@@ -1,0 +1,64 @@
+{
+    "mal_id": 75268,
+    "url": "https://myanimelist.net/character/75268/Fokker",
+    "name": " Fokker",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/222877.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 4658,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/4658/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/202288.jpg?s=d72e851b711a457a0b4170d41c0a5029",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 10668,
+            "name": "Mathis, Brian",
+            "url": "https://myanimelist.net/people/10668/Brian_Mathis",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/12525.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 11869,
+            "name": "Soares, Renato",
+            "url": "https://myanimelist.net/people/11869/Renato_Soares",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/41071.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 26753,
+            "name": "Nagashima, Shinsuke",
+            "url": "https://myanimelist.net/people/26753/Shinsuke_Nagashima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/28819.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 30551,
+            "name": "Brecklinghaus, Tobias",
+            "url": "https://myanimelist.net/people/30551/Tobias_Brecklinghaus",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/31955.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 42389,
+            "name": "Albertini, Stefano",
+            "url": "https://myanimelist.net/people/42389/Stefano_Albertini",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/46016.jpg",
+            "language": "Italian"
+        }
+    ]
+}

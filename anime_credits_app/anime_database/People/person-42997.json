@@ -1,0 +1,359 @@
+{
+    "mal_id": 42997,
+    "url": "https://myanimelist.net/people/42997/Natale_Ciravolo",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Natale Ciravolo",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1950-10-18T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8888,
+                "url": "https://myanimelist.net/anime/8888/Code_Geass__Boukoku_no_Akito_1_-_Yokuryuu_wa_Maiorita",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/41401.jpg?s=cc7ce6c7e94048690fe24e7aad6ccd1d",
+                "name": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
+            },
+            "character": {
+                "mal_id": 66499,
+                "url": "https://myanimelist.net/character/66499/Gene_Smilas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/182855.jpg?s=2bfc639a1f36f32fa5f9efd38030a58e",
+                "name": "Smilas, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15197,
+                "url": "https://myanimelist.net/anime/15197/Code_Geass__Boukoku_no_Akito_2_-_Hikisakareshi_Yokuryuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/56243.jpg?s=fd9a949d099d4a5e4d0c50ce623697ba",
+                "name": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
+            },
+            "character": {
+                "mal_id": 66499,
+                "url": "https://myanimelist.net/character/66499/Gene_Smilas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/182855.jpg?s=2bfc639a1f36f32fa5f9efd38030a58e",
+                "name": "Smilas, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15199,
+                "url": "https://myanimelist.net/anime/15199/Code_Geass__Boukoku_no_Akito_3_-_Kagayaku_Mono_Ten_yori_Otsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/72698.jpg?s=f66effead742c16faa79cabda82ad6c1",
+                "name": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu"
+            },
+            "character": {
+                "mal_id": 66499,
+                "url": "https://myanimelist.net/character/66499/Gene_Smilas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/182855.jpg?s=2bfc639a1f36f32fa5f9efd38030a58e",
+                "name": "Smilas, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15201,
+                "url": "https://myanimelist.net/anime/15201/Code_Geass__Boukoku_no_Akito_4_-_Nikushimi_no_Kioku_kara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/74757.jpg?s=1eba80249a2f288fe8eda4ad327f0ce0",
+                "name": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara"
+            },
+            "character": {
+                "mal_id": 66499,
+                "url": "https://myanimelist.net/character/66499/Gene_Smilas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/182855.jpg?s=2bfc639a1f36f32fa5f9efd38030a58e",
+                "name": "Smilas, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30711,
+                "url": "https://myanimelist.net/anime/30711/Code_Geass__Boukoku_no_Akito_5_-_Itoshiki_Mono-tachi_e",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/77640.jpg?s=da9a546c72a3039f72f91afc06ac13fa",
+                "name": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e"
+            },
+            "character": {
+                "mal_id": 66499,
+                "url": "https://myanimelist.net/character/66499/Gene_Smilas",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/182855.jpg?s=2bfc639a1f36f32fa5f9efd38030a58e",
+                "name": "Smilas, Gene"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 21072,
+                "url": "https://myanimelist.net/character/21072/Hakuro",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/63994.jpg?s=f57f729555bc7e126c9a404f181fcca8",
+                "name": "Hakuro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 2439,
+                "url": "https://myanimelist.net/character/2439/Basque_Grand",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/72500.jpg?s=fca9a5f8d23c74be2700e2bf68285a7f",
+                "name": "Grand, Basque"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 39241,
+                "url": "https://myanimelist.net/character/39241/Raven",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/120053.jpg?s=55ec098852ee6f0b47bc6a5e92ea8a48",
+                "name": "Raven"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8074,
+                "url": "https://myanimelist.net/anime/8074/Highschool_of_the_Dead",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/78311.jpg?s=974a965b024237db8945e58f656c1363",
+                "name": "Highschool of the Dead"
+            },
+            "character": {
+                "mal_id": 36659,
+                "url": "https://myanimelist.net/character/36659/Souichiro_Takagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/101132.jpg?s=d8d4b18bd659804709e611756acb8d2f",
+                "name": "Takagi, Souichiro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6610,
+                "url": "https://myanimelist.net/anime/6610/Ibara_no_Ou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/87056.jpg?s=2287faba8a56f0dd4aa98079d242be45",
+                "name": "Ibara no Ou"
+            },
+            "character": {
+                "mal_id": 76192,
+                "url": "https://myanimelist.net/character/76192/Ivan_Coral_Vega",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/341199.jpg?s=c25ae5083070ea5c7c83c73603c94450",
+                "name": "Vega, Ivan Coral"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 467,
+                "url": "https://myanimelist.net/anime/467/Koukaku_Kidoutai__Stand_Alone_Complex",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50857.jpg?s=94e58d5a1faeb09140da1b6592bdb790",
+                "name": "Koukaku Kidoutai: Stand Alone Complex"
+            },
+            "character": {
+                "mal_id": 33853,
+                "url": "https://myanimelist.net/character/33853/Kubota",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/295962.jpg?s=af7e3f544c8584e54297f86bb6d80d51",
+                "name": "Kubota"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3595,
+                "url": "https://myanimelist.net/anime/3595/Kujakuou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82866.jpg?s=2a6a3ff537f019877c5c73b6e735d505",
+                "name": "Kujakuou"
+            },
+            "character": {
+                "mal_id": 60553,
+                "url": "https://myanimelist.net/character/60553/Nobunaga_Oda",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/161609.jpg?s=4cd22b25d965542b033e3d57cc319e6c",
+                "name": "Oda, Nobunaga"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 851,
+                "url": "https://myanimelist.net/anime/851/Kyou_kara_Ore_wa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/43779.jpg?s=b1a74d7cf1e29f7aa042708d27213ba2",
+                "name": "Kyou kara Ore wa!!"
+            },
+            "character": {
+                "mal_id": 142409,
+                "url": "https://myanimelist.net/character/142409/Tetsuya_Kurosaki",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Kurosaki, Tetsuya"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 44,
+                "url": "https://myanimelist.net/anime/44/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Tsuioku-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1807/102419.jpg?s=d7d9f6c3aa6b4d66f5e0f1f3a93e3846",
+                "name": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen"
+            },
+            "character": {
+                "mal_id": 2406,
+                "url": "https://myanimelist.net/character/2406/Seijuurou_Hiko",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/256287.jpg?s=b7bbb466aee8cf135d283007fa85a452",
+                "name": "Hiko, Seijuurou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 34549,
+                "url": "https://myanimelist.net/anime/34549/Ryuu_no_Haisha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/83336.jpg?s=9c2e52724a74ca37b70b3f99130a3200",
+                "name": "Ryuu no Haisha"
+            },
+            "character": {
+                "mal_id": 149001,
+                "url": "https://myanimelist.net/character/149001/Blanco_Salvador",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/324121.jpg?s=01dc43fd5307cc8d68e4096de6922981",
+                "name": "Salvador, Blanco"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1582,
+                "url": "https://myanimelist.net/anime/1582/Submarine_707R",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/24891.jpg?s=4b3c18c163b8715e2688f25ed406097e",
+                "name": "Submarine 707R"
+            },
+            "character": {
+                "mal_id": 76700,
+                "url": "https://myanimelist.net/character/76700/Red_Silver",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/191664.jpg?s=b059812c4ee05ff17c74135eca50c2dd",
+                "name": "Silver, Red"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 842,
+                "url": "https://myanimelist.net/anime/842/Ushio_to_Tora",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1341/108721.jpg?s=7910c2ad0a28ead45416689c9b1d440e",
+                "name": "Ushio to Tora"
+            },
+            "character": {
+                "mal_id": 25486,
+                "url": "https://myanimelist.net/character/25486/Hyou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/284493.jpg?s=9e1dc0b66adc7e70c8472f151388d2a6",
+                "name": "Hyou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3457,
+                "url": "https://myanimelist.net/anime/3457/Vampire_Knight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/7327.jpg?s=b260af3433ed26ea1d8675a1e7087829",
+                "name": "Vampire Knight"
+            },
+            "character": {
+                "mal_id": 33699,
+                "url": "https://myanimelist.net/character/33699/Asatoo_Ichijou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/278850.jpg?s=d693c8859c922f7965e990a1e0c33b63",
+                "name": "Ichijou, Asatoo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4752,
+                "url": "https://myanimelist.net/anime/4752/Vampire_Knight__Guilty",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/10075.jpg?s=07a23d2831310a7d7b671e6064de4e59",
+                "name": "Vampire Knight: Guilty"
+            },
+            "character": {
+                "mal_id": 33699,
+                "url": "https://myanimelist.net/character/33699/Asatoo_Ichijou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/278850.jpg?s=d693c8859c922f7965e990a1e0c33b63",
+                "name": "Ichijou, Asatoo"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2746,
+                "url": "https://myanimelist.net/anime/2746/Vexille__2077_Nihon_Sakoku",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/79923.jpg?s=2d4e0f58aeb42db89a5bb182a00be602",
+                "name": "Vexille: 2077 Nihon Sakoku"
+            },
+            "character": {
+                "mal_id": 9927,
+                "url": "https://myanimelist.net/character/9927/Saito",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/130795.jpg?s=27942110fd5e58277b83ea8de508f20c",
+                "name": "Saito"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2203,
+                "url": "https://myanimelist.net/anime/2203/Waga_Seishun_no_Arcadia__Mugen_Kidou_SSX",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1541/92869.jpg?s=df851c082f93a51135942d68ce6c3cae",
+                "name": "Waga Seishun no Arcadia: Mugen Kidou SSX"
+            },
+            "character": {
+                "mal_id": 77019,
+                "url": "https://myanimelist.net/character/77019/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2203,
+                "url": "https://myanimelist.net/anime/2203/Waga_Seishun_no_Arcadia__Mugen_Kidou_SSX",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1541/92869.jpg?s=df851c082f93a51135942d68ce6c3cae",
+                "name": "Waga Seishun no Arcadia: Mugen Kidou SSX"
+            },
+            "character": {
+                "mal_id": 7951,
+                "url": "https://myanimelist.net/character/7951/Tochirou_Ooyama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/357787.jpg?s=83d4c975dbdf78b77e2b02464cd30914",
+                "name": "Ooyama, Tochirou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 883,
+                "url": "https://myanimelist.net/anime/883/Yuu☆Yuu☆Hakusho__Meikai_Shitou-hen_-_Honoo_no_Kizuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/14592.jpg?s=a4a4600be079f8df4a9fb5327375935f",
+                "name": "Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna"
+            },
+            "character": {
+                "mal_id": 28464,
+                "url": "https://myanimelist.net/character/28464/Yakumo",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/75993.jpg?s=31a7d06c25d9d8210fda8370e7b4ebb6",
+                "name": "Yakumo"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

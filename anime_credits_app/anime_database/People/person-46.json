@@ -1,0 +1,603 @@
+{
+    "mal_id": 46,
+    "url": "https://myanimelist.net/people/46/Megumi_Takamoto",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/11773.jpg",
+    "name": "Megumi Takamoto",
+    "given_name": "めぐみ",
+    "family_name": "高本",
+    "birthday": "1985-10-03T00:00:00+00:00",
+    "member_favorites": 181,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 11177,
+                "url": "https://myanimelist.net/anime/11177/Cross_Fight_B-Daman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/32803.jpg?s=182a34a803d40b7174760715f0452cba",
+                "name": "Cross Fight B-Daman"
+            },
+            "character": {
+                "mal_id": 51129,
+                "url": "https://myanimelist.net/character/51129/Natsumi_Inaba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/141915.jpg?s=c42ba7248da2495a36e83987f7078b14",
+                "name": "Inaba, Natsumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15547,
+                "url": "https://myanimelist.net/anime/15547/Cross_Fight_B-Daman_eS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/42247.jpg?s=a1f06ed83fd01c914ace92f5cb160d8a",
+                "name": "Cross Fight B-Daman eS"
+            },
+            "character": {
+                "mal_id": 51129,
+                "url": "https://myanimelist.net/character/51129/Natsumi_Inaba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/141915.jpg?s=c42ba7248da2495a36e83987f7078b14",
+                "name": "Inaba, Natsumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6880,
+                "url": "https://myanimelist.net/anime/6880/Deadman_Wonderland",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75299.jpg?s=b02475b9815ee5acd52c6a1a987ebd75",
+                "name": "Deadman Wonderland"
+            },
+            "character": {
+                "mal_id": 45475,
+                "url": "https://myanimelist.net/character/45475/Mimi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/167835.jpg?s=19bf8ba8df8f9b26899fd031546fc33c",
+                "name": "Mimi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 63,
+                "url": "https://myanimelist.net/character/63/Winry_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/84336.jpg?s=138fd07a0d2f971f3ee87cc36b6b0ed9",
+                "name": "Rockbell, Winry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 7902,
+                "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=86d568913e59a571de7232edc24fc923",
+                "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater"
+            },
+            "character": {
+                "mal_id": 63,
+                "url": "https://myanimelist.net/character/63/Winry_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/84336.jpg?s=138fd07a0d2f971f3ee87cc36b6b0ed9",
+                "name": "Rockbell, Winry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6421,
+                "url": "https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1493/91571.jpg?s=cd232118898a5fc55a141c7e67d7730e",
+                "name": "Fullmetal Alchemist: Brotherhood Specials"
+            },
+            "character": {
+                "mal_id": 63,
+                "url": "https://myanimelist.net/character/63/Winry_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/84336.jpg?s=138fd07a0d2f971f3ee87cc36b6b0ed9",
+                "name": "Rockbell, Winry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9135,
+                "url": "https://myanimelist.net/anime/9135/Fullmetal_Alchemist__The_Sacred_Star_of_Milos",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/29550.jpg?s=60b7cdadf0ac1a2cc1b1462d9792005a",
+                "name": "Fullmetal Alchemist: The Sacred Star of Milos"
+            },
+            "character": {
+                "mal_id": 63,
+                "url": "https://myanimelist.net/character/63/Winry_Rockbell",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/84336.jpg?s=138fd07a0d2f971f3ee87cc36b6b0ed9",
+                "name": "Rockbell, Winry"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8479,
+                "url": "https://myanimelist.net/anime/8479/Hetalia_World_Series",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75792.jpg?s=54a5bd6a230cb49fe2f1e773751ce050",
+                "name": "Hetalia World Series"
+            },
+            "character": {
+                "mal_id": 19154,
+                "url": "https://myanimelist.net/character/19154/Seychelles",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/66266.jpg?s=364cf356996099833905d507b15838eb",
+                "name": "Seychelles"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15195,
+                "url": "https://myanimelist.net/anime/15195/Hetalia__The_Beautiful_World",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/46073.jpg?s=a363209837e0d70e0defe000b49f314a",
+                "name": "Hetalia: The Beautiful World"
+            },
+            "character": {
+                "mal_id": 19154,
+                "url": "https://myanimelist.net/character/19154/Seychelles",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/66266.jpg?s=364cf356996099833905d507b15838eb",
+                "name": "Seychelles"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 28607,
+                "url": "https://myanimelist.net/anime/28607/Hetalia__The_World_Twinkle",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/71753.jpg?s=512559942ee37e5927feb9a1dedeffe2",
+                "name": "Hetalia: The World Twinkle"
+            },
+            "character": {
+                "mal_id": 19154,
+                "url": "https://myanimelist.net/character/19154/Seychelles",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/66266.jpg?s=364cf356996099833905d507b15838eb",
+                "name": "Seychelles"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31997,
+                "url": "https://myanimelist.net/anime/31997/Hetalia__The_World_Twinkle_Extra_Disc",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/77986.jpg?s=c7806bd23089fe2f88f8f9d22a2af4a6",
+                "name": "Hetalia: The World Twinkle Extra Disc"
+            },
+            "character": {
+                "mal_id": 19154,
+                "url": "https://myanimelist.net/character/19154/Seychelles",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/66266.jpg?s=364cf356996099833905d507b15838eb",
+                "name": "Seychelles"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 9750,
+                "url": "https://myanimelist.net/anime/9750/Itsuka_Tenma_no_Kuro_Usagi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/75197.jpg?s=00f4033a428d7074ff26c6fb6a66a1c6",
+                "name": "Itsuka Tenma no Kuro Usagi"
+            },
+            "character": {
+                "mal_id": 30287,
+                "url": "https://myanimelist.net/character/30287/Himea_Saito",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/121613.jpg?s=b8ff79b302b010f4dd8bdb571713be79",
+                "name": "Saito, Himea"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 12579,
+                "url": "https://myanimelist.net/anime/12579/Itsuka_Tenma_no_Kuro_Usagi_Picture_Drama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/35285.jpg?s=bc6128c23b4eac8e227fb6bc9c68788f",
+                "name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+            },
+            "character": {
+                "mal_id": 30287,
+                "url": "https://myanimelist.net/character/30287/Himea_Saito",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/121613.jpg?s=b8ff79b302b010f4dd8bdb571713be79",
+                "name": "Saito, Himea"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 10934,
+                "url": "https://myanimelist.net/anime/10934/Itsuka_Tenma_no_Kuro_Usagi__Kokoro_Utsuri_no_Toukoubi_-_School_Attendance_Day",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/79553.jpg?s=034cb1fe607a5bfb98a70ccda97defdb",
+                "name": "Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day"
+            },
+            "character": {
+                "mal_id": 30287,
+                "url": "https://myanimelist.net/character/30287/Himea_Saito",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/121613.jpg?s=b8ff79b302b010f4dd8bdb571713be79",
+                "name": "Saito, Himea"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 8217,
+                "url": "https://myanimelist.net/anime/8217/Jewelpet_Twinkle☆",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/73943.jpg?s=3bcddaa6acc45b1d38db277663aa5325",
+                "name": "Jewelpet Twinkle☆"
+            },
+            "character": {
+                "mal_id": 36816,
+                "url": "https://myanimelist.net/character/36816/Alma_Jinnai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/278886.jpg?s=08c80fb9a90e9d8ce5aae24e0b5ef96e",
+                "name": "Jinnai, Alma"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1070,
+                "url": "https://myanimelist.net/anime/1070/Love_Get_Chu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52613.jpg?s=fc9c9974e14be254c73004cb1b48ae10",
+                "name": "Love Get Chu"
+            },
+            "character": {
+                "mal_id": 3555,
+                "url": "https://myanimelist.net/character/3555/Momoko_Ichihara",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/154807.jpg?s=833fcfeef9c9e4b3aaa37b53630c0ecd",
+                "name": "Ichihara, Momoko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 17247,
+                "url": "https://myanimelist.net/anime/17247/Machine-Doll_wa_Kizutsukanai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/56141.jpg?s=01e25a44b2fd5852f2bb5b368dfac91a",
+                "name": "Machine-Doll wa Kizutsukanai"
+            },
+            "character": {
+                "mal_id": 47589,
+                "url": "https://myanimelist.net/character/47589/Charlotte_Belew",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/383429.jpg?s=3555f39e8667cb97fa2888ee9288ac4e",
+                "name": "Belew, Charlotte"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21415,
+                "url": "https://myanimelist.net/anime/21415/Machine-Doll_wa_Kizutsukanai_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/56525.jpg?s=a070bc8b3cc4b5a3a9a48cffac2a91dd",
+                "name": "Machine-Doll wa Kizutsukanai Specials"
+            },
+            "character": {
+                "mal_id": 47589,
+                "url": "https://myanimelist.net/character/47589/Charlotte_Belew",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/383429.jpg?s=3555f39e8667cb97fa2888ee9288ac4e",
+                "name": "Belew, Charlotte"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 31741,
+                "url": "https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/78783.jpg?s=53d27fe1fcef7d6c87cd748eb1df0c6d",
+                "name": "Magi: Sinbad no Bouken (TV)"
+            },
+            "character": {
+                "mal_id": 42528,
+                "url": "https://myanimelist.net/character/42528/Sinbad",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/181341.jpg?s=61231e5196fc58549d83366cb92571c8",
+                "name": "Sinbad"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 7135,
+                "url": "https://myanimelist.net/anime/7135/Mahou_Sensei_Negima_Movie__Anime_Final",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/29541.jpg?s=0362e6a4794cfc1134bee9ce04d7f206",
+                "name": "Mahou Sensei Negima! Movie: Anime Final"
+            },
+            "character": {
+                "mal_id": 1000,
+                "url": "https://myanimelist.net/character/1000/Chao_Lingshen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/34400.jpg?s=ad079d47bd8adf08bfdf05cd2060a716",
+                "name": "Lingshen, Chao"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4188,
+                "url": "https://myanimelist.net/anime/4188/Mahou_Sensei_Negima__Shiroki_Tsubasa_Ala_Alba",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/9329.jpg?s=39f025c4be2cb52b9059975169468c08",
+                "name": "Mahou Sensei Negima!: Shiroki Tsubasa Ala Alba"
+            },
+            "character": {
+                "mal_id": 1000,
+                "url": "https://myanimelist.net/character/1000/Chao_Lingshen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/34400.jpg?s=ad079d47bd8adf08bfdf05cd2060a716",
+                "name": "Lingshen, Chao"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1546,
+                "url": "https://myanimelist.net/anime/1546/Negima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/73997.jpg?s=8bf7a4e1fe444b04cdbb164a84bded48",
+                "name": "Negima!?"
+            },
+            "character": {
+                "mal_id": 1000,
+                "url": "https://myanimelist.net/character/1000/Chao_Lingshen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/34400.jpg?s=ad079d47bd8adf08bfdf05cd2060a716",
+                "name": "Lingshen, Chao"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 31404,
+                "url": "https://myanimelist.net/anime/31404/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/79414.jpg?s=3686698e81f5b2a7be800b0f17154b77",
+                "name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+            },
+            "character": {
+                "mal_id": 143236,
+                "url": "https://myanimelist.net/character/143236/Ako_039_s_Mother",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/336161.jpg?s=9142a56143e6d90443b792fa6496620d",
+                "name": "Ako's Mother"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 14199,
+                "url": "https://myanimelist.net/anime/14199/Oniichan_dakedo_Ai_sae_Areba_Kankeinai_yo_ne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/42111.jpg?s=601fe84c71692ecb6171272629b8b7c5",
+                "name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!"
+            },
+            "character": {
+                "mal_id": 69347,
+                "url": "https://myanimelist.net/character/69347/Kaoruko_Jinno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/184035.jpg?s=18023f6d84f27ed9443ed7da73dbb440",
+                "name": "Jinno, Kaoruko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15881,
+                "url": "https://myanimelist.net/anime/15881/Oniichan_dakedo_Ai_sae_Areba_Kankeinai_yo_ne_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/46981.jpg?s=abfaf097b30655a782e396f21d8e66d6",
+                "name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+            },
+            "character": {
+                "mal_id": 69347,
+                "url": "https://myanimelist.net/character/69347/Kaoruko_Jinno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/184035.jpg?s=18023f6d84f27ed9443ed7da73dbb440",
+                "name": "Jinno, Kaoruko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9988,
+                "url": "https://myanimelist.net/anime/9988/Otome_wa_Boku_ni_Koishiteru__Futari_no_Elder_The_Animation",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/87914.jpg?s=80455b17016bf600f3238333360d467f",
+                "name": "Otome wa Boku ni Koishiteru: Futari no Elder The Animation"
+            },
+            "character": {
+                "mal_id": 77023,
+                "url": "https://myanimelist.net/character/77023/Kayleigh_Glanzelius",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/193955.jpg?s=0eee6e369ccbb2785f67c9e4e0161976",
+                "name": "Glanzelius, Kayleigh"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 22865,
+                "url": "https://myanimelist.net/anime/22865/Rokujouma_no_Shinryakusha_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/62655.jpg?s=ee29f3dc751d14e545d881c14d0a58d5",
+                "name": "Rokujouma no Shinryakusha!? (TV)"
+            },
+            "character": {
+                "mal_id": 101965,
+                "url": "https://myanimelist.net/character/101965/Harumi_Sakuraba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/256045.jpg?s=0b5a2f6ed1427b2fa8066f3588dae064",
+                "name": "Sakuraba, Harumi"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10884,
+                "url": "https://myanimelist.net/anime/10884/Saki_Achiga-hen__Episode_of_Side-A",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75513.jpg?s=7a1b19fd513a176d142f41cce35523b8",
+                "name": "Saki Achiga-hen: Episode of Side-A"
+            },
+            "character": {
+                "mal_id": 55055,
+                "url": "https://myanimelist.net/character/55055/Keiko_Yagihara",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/192175.jpg?s=80039dae0aec137f3a9d63350ef542db",
+                "name": "Yagihara, Keiko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10884,
+                "url": "https://myanimelist.net/anime/10884/Saki_Achiga-hen__Episode_of_Side-A",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75513.jpg?s=7a1b19fd513a176d142f41cce35523b8",
+                "name": "Saki Achiga-hen: Episode of Side-A"
+            },
+            "character": {
+                "mal_id": 60325,
+                "url": "https://myanimelist.net/character/60325/Hina_Yamatani",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/162391.jpg?s=65b3ae68199e6df3928d832c9f926723",
+                "name": "Yamatani, Hina"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10884,
+                "url": "https://myanimelist.net/anime/10884/Saki_Achiga-hen__Episode_of_Side-A",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/75513.jpg?s=7a1b19fd513a176d142f41cce35523b8",
+                "name": "Saki Achiga-hen: Episode of Side-A"
+            },
+            "character": {
+                "mal_id": 67517,
+                "url": "https://myanimelist.net/character/67517/Yoshiko_Yasukouchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/175677.jpg?s=88c1bc526e73d47bb06cdc0e8efdc16b",
+                "name": "Yasukouchi, Yoshiko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15989,
+                "url": "https://myanimelist.net/anime/15989/Saki_Achiga-hen__Episode_of_Side-A_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45084.jpg?s=bdecbee4bb0a282431640634a29eb87e",
+                "name": "Saki Achiga-hen: Episode of Side-A Specials"
+            },
+            "character": {
+                "mal_id": 60325,
+                "url": "https://myanimelist.net/character/60325/Hina_Yamatani",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/162391.jpg?s=65b3ae68199e6df3928d832c9f926723",
+                "name": "Yamatani, Hina"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15989,
+                "url": "https://myanimelist.net/anime/15989/Saki_Achiga-hen__Episode_of_Side-A_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/45084.jpg?s=bdecbee4bb0a282431640634a29eb87e",
+                "name": "Saki Achiga-hen: Episode of Side-A Specials"
+            },
+            "character": {
+                "mal_id": 67517,
+                "url": "https://myanimelist.net/character/67517/Yoshiko_Yasukouchi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/175677.jpg?s=88c1bc526e73d47bb06cdc0e8efdc16b",
+                "name": "Yasukouchi, Yoshiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 6203,
+                "url": "https://myanimelist.net/anime/6203/Sasameki_Koto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.jpg?s=995757c7900f8e78eb981a8bb8457cd1",
+                "name": "Sasameki Koto"
+            },
+            "character": {
+                "mal_id": 19336,
+                "url": "https://myanimelist.net/character/19336/Ushio_Kazama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/63866.jpg?s=659c8a815a5ebe8045953b0af3221f92",
+                "name": "Kazama, Ushio"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 9863,
+                "url": "https://myanimelist.net/anime/9863/SKET_Dance",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/73974.jpg?s=d4b0365f683c28a803f8d32b657792a2",
+                "name": "SKET Dance"
+            },
+            "character": {
+                "mal_id": 27403,
+                "url": "https://myanimelist.net/character/27403/Mimori_Unyuu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/119403.jpg?s=96c7103e22965c3a5d773c765fdfe561",
+                "name": "Unyuu, Mimori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 16395,
+                "url": "https://myanimelist.net/anime/16395/SKET_Dance__Imouto_no_Nayami_ni_Nayamu_Ani_ni_Nayamu_Imouto_to_Sono_Nakama-tachi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1703/97779.jpg?s=5b368c38e22ff0417e37f5fd22a90c58",
+                "name": "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi"
+            },
+            "character": {
+                "mal_id": 27403,
+                "url": "https://myanimelist.net/character/27403/Mimori_Unyuu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/119403.jpg?s=96c7103e22965c3a5d773c765fdfe561",
+                "name": "Unyuu, Mimori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 33478,
+                "url": "https://myanimelist.net/anime/33478/UQ_Holder__Mahou_Sensei_Negima_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/88354.jpg?s=2e48af5a6679d68b09cfe830aa7d4adc",
+                "name": "UQ Holder!: Mahou Sensei Negima! 2"
+            },
+            "character": {
+                "mal_id": 1000,
+                "url": "https://myanimelist.net/character/1000/Chao_Lingshen",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/34400.jpg?s=ad079d47bd8adf08bfdf05cd2060a716",
+                "name": "Lingshen, Chao"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4720,
+                "url": "https://myanimelist.net/anime/4720/White_Album",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/43537.jpg?s=cb53d44d0e2d7cc903e090f393bb5545",
+                "name": "White Album"
+            },
+            "character": {
+                "mal_id": 18203,
+                "url": "https://myanimelist.net/character/18203/Misaki_Sawakura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/40977.jpg?s=85ae1b1bf7d9451fac4cadd714b8939b",
+                "name": "Sawakura, Misaki"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 6165,
+                "url": "https://myanimelist.net/anime/6165/White_Album_2nd_Season",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/43541.jpg?s=3714505a8be927a9a0f44a25923f11d5",
+                "name": "White Album 2nd Season"
+            },
+            "character": {
+                "mal_id": 18203,
+                "url": "https://myanimelist.net/character/18203/Misaki_Sawakura",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/40977.jpg?s=85ae1b1bf7d9451fac4cadd714b8939b",
+                "name": "Sawakura, Misaki"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1070,
+                "url": "https://myanimelist.net/anime/1070/Love_Get_Chu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52613.jpg?s=fc9c9974e14be254c73004cb1b48ae10",
+                "name": "Love Get Chu"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 16718,
+                "url": "https://myanimelist.net/anime/16718/SKET_Dance__SD_Character_Flash_Anime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/44956.jpg?s=0ac7953635d12b8442dd8577476e4140",
+                "name": "SKET Dance: SD Character Flash Anime"
+            }
+        }
+    ],
+    "published_manga": []
+}

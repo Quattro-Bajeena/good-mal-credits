@@ -1,0 +1,89 @@
+{
+    "mal_id": 9594,
+    "url": "https://myanimelist.net/people/9594/Judit_Wégner",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/7151.jpg",
+    "name": "Judit Wégner",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1977-05-25T00:00:00+00:00",
+    "member_favorites": 2,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 5176,
+                "url": "https://myanimelist.net/character/5176/Kiyone_Kotetsu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/85347.jpg?s=8de56613f4fd329dc72a4773dd4bab88",
+                "name": "Kotetsu, Kiyone"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 8840,
+                "url": "https://myanimelist.net/character/8840/Martel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/56216.jpg?s=ffbe86ddfcafa18dc921797c4910a7ff",
+                "name": "Martel"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 20,
+                "url": "https://myanimelist.net/anime/20/Naruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg?s=614731a5a8dc102e71decd2a174e43a0",
+                "name": "Naruto"
+            },
+            "character": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/character/145/Sakura_Haruno",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=3730fea63d947f0d7e7abe84701de52b",
+                "name": "Haruno, Sakura"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1698,
+                "url": "https://myanimelist.net/anime/1698/Nodame_Cantabile",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/11986.jpg?s=088cee985fab7fb80f17786b41dd6a99",
+                "name": "Nodame Cantabile"
+            },
+            "character": {
+                "mal_id": 4224,
+                "url": "https://myanimelist.net/character/4224/Kiyora_Miki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/54099.jpg?s=0d44ad9862c0de027d2d71575133603e",
+                "name": "Miki, Kiyora"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3588,
+                "url": "https://myanimelist.net/anime/3588/Soul_Eater",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7804.jpg?s=f8c5966d172e6a98b3dfc21bfc921208",
+                "name": "Soul Eater"
+            },
+            "character": {
+                "mal_id": 11924,
+                "url": "https://myanimelist.net/character/11924/Medusa_Gorgon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/56590.jpg?s=1ef337bbdbde8f2a98b8c69081c8b0d4",
+                "name": "Gorgon, Medusa"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

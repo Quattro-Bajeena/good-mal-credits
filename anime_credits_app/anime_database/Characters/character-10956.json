@@ -1,0 +1,127 @@
+{
+    "mal_id": 10956,
+    "url": "https://myanimelist.net/character/10956/Tim_Marcoh",
+    "name": "Tim Marcoh",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 8,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/63841.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 1337,
+            "name": "Armstrong, Brice",
+            "url": "https://myanimelist.net/people/1337/Brice_Armstrong",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/23573.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1523,
+            "name": "Totani, Kouji",
+            "url": "https://myanimelist.net/people/1523/Kouji_Totani",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/54525.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1685,
+            "name": "Löw, Jürg",
+            "url": "https://myanimelist.net/people/1685/Jürg_Löw",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49013.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 6796,
+            "name": "Keen, Jerome",
+            "url": "https://myanimelist.net/people/6796/Jerome_Keen",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "French"
+        },
+        {
+            "mal_id": 7451,
+            "name": "Russell, Jerry",
+            "url": "https://myanimelist.net/people/7451/Jerry_Russell",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/43071.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 9244,
+            "name": "Monsalve, Rafael",
+            "url": "https://myanimelist.net/people/9244/Rafael_Monsalve",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/38071.jpg",
+            "language": "Spanish"
+        },
+        {
+            "mal_id": 9534,
+            "name": "Balzarotti, Marco",
+            "url": "https://myanimelist.net/people/9534/Marco_Balzarotti",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/37131.jpg",
+            "language": "Italian"
+        },
+        {
+            "mal_id": 9562,
+            "name": "Omoro, Masayuki",
+            "url": "https://myanimelist.net/people/9562/Masayuki_Omoro",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/7101.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 14777,
+            "name": "Eom, Sang Hyeon",
+            "url": "https://myanimelist.net/people/14777/Sang_Hyeon_Eom",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15323.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 14861,
+            "name": "Tak, Won Je",
+            "url": "https://myanimelist.net/people/14861/Won_Je_Tak",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/15457.jpg",
+            "language": "Korean"
+        },
+        {
+            "mal_id": 42699,
+            "name": "Lühn, Matthias",
+            "url": "https://myanimelist.net/people/42699/Matthias_Lühn",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46288.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 43721,
+            "name": "Lilla, Sidney",
+            "url": "https://myanimelist.net/people/43721/Sidney_Lilla",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49893.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

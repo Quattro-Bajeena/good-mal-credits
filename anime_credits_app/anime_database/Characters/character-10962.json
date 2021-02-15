@@ -1,0 +1,94 @@
+{
+    "mal_id": 10962,
+    "url": "https://myanimelist.net/character/10962/Slicer_Brothers",
+    "name": "Slicer Brothers",
+    "name_kanji": null,
+    "nicknames": [
+        "Number 48"
+    ],
+    "member_favorites": 4,
+    "image_url": "https://cdn.myanimelist.net/images/characters/9/54388.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 74,
+            "name": "Nojima, Kenji",
+            "url": "https://myanimelist.net/people/74/Kenji_Nojima",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/46155.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 838,
+            "name": "Matsumoto, Dai",
+            "url": "https://myanimelist.net/people/838/Dai_Matsumoto",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33495.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 1145,
+            "name": "Sakaguchi, Kouichi",
+            "url": "https://myanimelist.net/people/1145/Kouichi_Sakaguchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54965.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 6998,
+            "name": "Brannan, Duncan",
+            "url": "https://myanimelist.net/people/6998/Duncan_Brannan",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/23521.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 9613,
+            "name": "Guarnieri, José Otávio",
+            "url": "https://myanimelist.net/people/9613/José_Otávio_Guarnieri",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/7200.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 9867,
+            "name": "Jenkins, Bill",
+            "url": "https://myanimelist.net/people/9867/Bill_Jenkins",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/14253.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 34419,
+            "name": "Costha, Faduli",
+            "url": "https://myanimelist.net/people/34419/Faduli_Costha",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/35241.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}

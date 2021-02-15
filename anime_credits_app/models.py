@@ -33,9 +33,9 @@ class Anime(db.Model):
     favorites = db.Column(db.Integer)
     premiered = db.Column(db.String(200))
 
-    staff = db.relationship('StaffMember', backref='anime', lazy=True)
-    voice_actors = db.relationship('VoiceActor', backref='anime', lazy=True)
-    characters = db.relationship('Character', secondary=characters, lazy='subquery', backref=db.backref('anime', lazy=True))
+    staff = db.relationship('StaffMember', lazy=True, backref=db.backref('anime', lazy=True) )
+    voice_actors = db.relationship('VoiceActor',lazy=True, backref= db.backref('anime', lazy=True) )
+    characters = db.relationship('Character', secondary=characters, lazy=True, backref=db.backref('anime', lazy=True))
     
 
     def __repr__(self):
@@ -71,7 +71,7 @@ class Manga(db.Model):
 
     serialization = db.Column(db.String(100))
 
-    authors = db.relationship('MangaAuthor', backref='manga', lazy=True)
+    authors = db.relationship('MangaAuthor', lazy=True, backref=db.backref('manga', lazy=True) )
 
 
 class Person(db.Model):
@@ -84,9 +84,9 @@ class Person(db.Model):
     birthday = db.Column(db.DateTime)
     member_favorites = db.Column(db.Integer)
 
-    staff_credits = db.relationship('StaffMember', backref='person', lazy=True)
-    voice_acting_roles = db.relationship('VoiceActor', backref='person', lazy=True)
-    published_manga = db.relationship('MangaAuthor', backref='person', lazy=True)
+    staff_credits = db.relationship('StaffMember', lazy=True, backref=db.backref('person', lazy=True) )
+    voice_acting_roles = db.relationship('VoiceActor', lazy=True, backref=db.backref('person', lazy=True) )
+    published_manga = db.relationship('MangaAuthor', lazy=True, backref=db.backref('person', lazy=True) )
 
 
     def __repr__(self):
@@ -100,7 +100,7 @@ class Character(db.Model):
     name = db.Column(db.String(200), nullable=False)
     member_favorites = db.Column(db.Integer)
 
-    voice_actors = db.relationship('VoiceActor', backref='character', lazy=True)
+    voice_actors = db.relationship('VoiceActor', lazy=True, backref=db.backref('character', lazy=True) )
 
     def __repr__(self):
         return f"{self.name} - {self.mal_id}"
@@ -148,7 +148,7 @@ class Studio(db.Model):
     url = db.Column(db.String(200))
 
     
-    anime = db.relationship('Anime', secondary=studios, lazy='subquery', backref=db.backref('studios', lazy=True))
+    anime = db.relationship('Anime', secondary=studios, lazy=True, backref=db.backref('studios', lazy=True))
 
     def __repr__(self):
         return f"Studio {self.name}"

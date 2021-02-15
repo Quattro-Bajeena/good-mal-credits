@@ -1,0 +1,329 @@
+{
+    "mal_id": 7539,
+    "url": "https://myanimelist.net/people/7539/SID",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/4646.jpg",
+    "name": "SID",
+    "given_name": "",
+    "family_name": "シド",
+    "birthday": null,
+    "member_favorites": 1158,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 34662,
+                "url": "https://myanimelist.net/anime/34662/Fate_Apocrypha",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/86573.jpg?s=4e0d50810f2655fc6dcfd6e306e066e6",
+                "name": "Fate/Apocrypha"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 4898,
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27013.jpg?s=ffef1b99cd0edead42aad9f396449171",
+                "name": "Kuroshitsuji"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 4898,
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27013.jpg?s=ffef1b99cd0edead42aad9f396449171",
+                "name": "Kuroshitsuji"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 4898,
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27013.jpg?s=ffef1b99cd0edead42aad9f396449171",
+                "name": "Kuroshitsuji"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 4898,
+                "url": "https://myanimelist.net/anime/4898/Kuroshitsuji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/27013.jpg?s=ffef1b99cd0edead42aad9f396449171",
+                "name": "Kuroshitsuji"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 6163,
+                "url": "https://myanimelist.net/anime/6163/Kuroshitsuji_Recap",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/13586.jpg?s=0c814db0f20d03294297a3a4c22cad43",
+                "name": "Kuroshitsuji Recap"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 6163,
+                "url": "https://myanimelist.net/anime/6163/Kuroshitsuji_Recap",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/13586.jpg?s=0c814db0f20d03294297a3a4c22cad43",
+                "name": "Kuroshitsuji Recap"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 6163,
+                "url": "https://myanimelist.net/anime/6163/Kuroshitsuji_Recap",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/13586.jpg?s=0c814db0f20d03294297a3a4c22cad43",
+                "name": "Kuroshitsuji Recap"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 6163,
+                "url": "https://myanimelist.net/anime/6163/Kuroshitsuji_Recap",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/13586.jpg?s=0c814db0f20d03294297a3a4c22cad43",
+                "name": "Kuroshitsuji Recap"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 22145,
+                "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64811.jpg?s=5b1ddec6fbbd0f37a67d2b76a43920c1",
+                "name": "Kuroshitsuji: Book of Circus"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 22145,
+                "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64811.jpg?s=5b1ddec6fbbd0f37a67d2b76a43920c1",
+                "name": "Kuroshitsuji: Book of Circus"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 22145,
+                "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64811.jpg?s=5b1ddec6fbbd0f37a67d2b76a43920c1",
+                "name": "Kuroshitsuji: Book of Circus"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 22145,
+                "url": "https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/64811.jpg?s=5b1ddec6fbbd0f37a67d2b76a43920c1",
+                "name": "Kuroshitsuji: Book of Circus"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 6793,
+                "url": "https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21336.jpg?s=991e8e211c8a3e06612da2d81585a04d",
+                "name": "Kuroshitsuji: Sono Shitsuji, Kougyou"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 6793,
+                "url": "https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21336.jpg?s=991e8e211c8a3e06612da2d81585a04d",
+                "name": "Kuroshitsuji: Sono Shitsuji, Kougyou"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 6793,
+                "url": "https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21336.jpg?s=991e8e211c8a3e06612da2d81585a04d",
+                "name": "Kuroshitsuji: Sono Shitsuji, Kougyou"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 6793,
+                "url": "https://myanimelist.net/anime/6793/Kuroshitsuji__Sono_Shitsuji_Kougyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21336.jpg?s=991e8e211c8a3e06612da2d81585a04d",
+                "name": "Kuroshitsuji: Sono Shitsuji, Kougyou"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 18115,
+                "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg?s=7d25824d4e04fcf9f2f3d14fa0479b3b",
+                "name": "Magi: The Kingdom of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 18115,
+                "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg?s=7d25824d4e04fcf9f2f3d14fa0479b3b",
+                "name": "Magi: The Kingdom of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 18115,
+                "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg?s=7d25824d4e04fcf9f2f3d14fa0479b3b",
+                "name": "Magi: The Kingdom of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 18115,
+                "url": "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/55039.jpg?s=7d25824d4e04fcf9f2f3d14fa0479b3b",
+                "name": "Magi: The Kingdom of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 14513,
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=e345547c2b7567a434fcbb38036dd01d",
+                "name": "Magi: The Labyrinth of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Arrangement",
+            "anime": {
+                "mal_id": 14513,
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=e345547c2b7567a434fcbb38036dd01d",
+                "name": "Magi: The Labyrinth of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 14513,
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=e345547c2b7567a434fcbb38036dd01d",
+                "name": "Magi: The Labyrinth of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 14513,
+                "url": "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/42773.jpg?s=e345547c2b7567a434fcbb38036dd01d",
+                "name": "Magi: The Labyrinth of Magic"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 39701,
+                "url": "https://myanimelist.net/anime/39701/Nanatsu_no_Taizai__Kamigami_no_Gekirin",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1546/103418.jpg?s=87afd5f49cc4e2ad04a981700f5653b4",
+                "name": "Nanatsu no Taizai: Kamigami no Gekirin"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 34547,
+                "url": "https://myanimelist.net/anime/34547/Shoukoku_no_Altair",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/86751.jpg?s=8fcdd6be8d1cfaaecbdecc145464b67f",
+                "name": "Shoukoku no Altair"
+            }
+        }
+    ],
+    "published_manga": []
+}

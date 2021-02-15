@@ -1,0 +1,59 @@
+{
+    "mal_id": 13697,
+    "url": "https://myanimelist.net/people/13697/Yuuki_Mitsugi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/13877.jpg",
+    "name": "Yuuki Mitsugi",
+    "given_name": "勇気",
+    "family_name": "三ツ木",
+    "birthday": "1984-02-11T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 10085,
+                "url": "https://myanimelist.net/character/10085/Trisha_Elric",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/59741.jpg?s=52dc6c3f7b5e3e3926b454f0fc662cd7",
+                "name": "Elric, Trisha"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1490,
+                "url": "https://myanimelist.net/anime/1490/Ginga_Tetsudou_Monogatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/39821.jpg?s=7960b21e745bb6576f16bada4e2dd16a",
+                "name": "Ginga Tetsudou Monogatari"
+            },
+            "character": {
+                "mal_id": 45085,
+                "url": "https://myanimelist.net/character/45085/Maggie_Redford",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/237123.jpg?s=9fd4aa1b490527ea4750017b32bea3bf",
+                "name": "Redford, Maggie"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2717,
+                "url": "https://myanimelist.net/anime/2717/Ginga_Tetsudou_Monogatari__Eien_e_no_Bunkiten",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/77281.jpg?s=aa576c9df4e6450fe71a483f4d1ef65d",
+                "name": "Ginga Tetsudou Monogatari: Eien e no Bunkiten"
+            },
+            "character": {
+                "mal_id": 45085,
+                "url": "https://myanimelist.net/character/45085/Maggie_Redford",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/237123.jpg?s=9fd4aa1b490527ea4750017b32bea3bf",
+                "name": "Redford, Maggie"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

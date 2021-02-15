@@ -1,0 +1,85 @@
+{
+    "mal_id": 10966,
+    "url": "https://myanimelist.net/character/10966/Roa",
+    "name": "Roa",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/2/56214.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 58,
+            "name": "Ueda, Yuuji",
+            "url": "https://myanimelist.net/people/58/Yuuji_Ueda",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/55457.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 395,
+            "name": "Inada, Tetsu",
+            "url": "https://myanimelist.net/people/395/Tetsu_Inada",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32729.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 473,
+            "name": "Gremillion, John",
+            "url": "https://myanimelist.net/people/473/John_Gremillion",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/23633.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 17553,
+            "name": "Kuschmann, Bernd",
+            "url": "https://myanimelist.net/people/17553/Bernd_Kuschmann",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/20139.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 18867,
+            "name": "Peter, Eric",
+            "url": "https://myanimelist.net/people/18867/Eric_Peter",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/33101.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 36971,
+            "name": "Violette, Vincent",
+            "url": "https://myanimelist.net/people/36971/Vincent_Violette",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/39127.jpg",
+            "language": "French"
+        },
+        {
+            "mal_id": 44001,
+            "name": "Márcio, Renato",
+            "url": "https://myanimelist.net/people/44001/Renato_Márcio",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "language": "Brazilian"
+        }
+    ]
+}

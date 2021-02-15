@@ -1,0 +1,164 @@
+{
+    "mal_id": 7794,
+    "url": "https://myanimelist.net/people/7794/Virág_Kiss",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/5049.jpg",
+    "name": "Virág Kiss",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1972-06-12T00:00:00+00:00",
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 530,
+                "url": "https://myanimelist.net/anime/530/Bishoujo_Senshi_Sailor_Moon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1440/92258.jpg?s=5692fc50c799c12b675c9a000a9a5970",
+                "name": "Bishoujo Senshi Sailor Moon"
+            },
+            "character": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/character/2826/Minako_Aino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/324034.jpg?s=58db080df7cfbe25b4a4351cb325d3da",
+                "name": "Aino, Minako"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 740,
+                "url": "https://myanimelist.net/anime/740/Bishoujo_Senshi_Sailor_Moon_R",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/740.jpg?s=00d64f85fda41191f33f092f8d1854b3",
+                "name": "Bishoujo Senshi Sailor Moon R"
+            },
+            "character": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/character/2826/Minako_Aino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/324034.jpg?s=58db080df7cfbe25b4a4351cb325d3da",
+                "name": "Aino, Minako"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 532,
+                "url": "https://myanimelist.net/anime/532/Bishoujo_Senshi_Sailor_Moon_S",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg?s=19199f1bc070fcbf2eaab8b59083a93b",
+                "name": "Bishoujo Senshi Sailor Moon S"
+            },
+            "character": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/character/2826/Minako_Aino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/324034.jpg?s=58db080df7cfbe25b4a4351cb325d3da",
+                "name": "Aino, Minako"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1239,
+                "url": "https://myanimelist.net/anime/1239/Bishoujo_Senshi_Sailor_Moon_SuperS",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg?s=c847d2cdf5c0856f63cf77b038308e56",
+                "name": "Bishoujo Senshi Sailor Moon SuperS"
+            },
+            "character": {
+                "mal_id": 2826,
+                "url": "https://myanimelist.net/character/2826/Minako_Aino",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/324034.jpg?s=58db080df7cfbe25b4a4351cb325d3da",
+                "name": "Aino, Minako"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 269,
+                "url": "https://myanimelist.net/anime/269/Bleach",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/40451.jpg?s=4e03f8e2d29b94aabfc0514bb579ef3e",
+                "name": "Bleach"
+            },
+            "character": {
+                "mal_id": 9198,
+                "url": "https://myanimelist.net/character/9198/Yoshino_Souma",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/40999.jpg?s=304f9eb3857ec8043312b1fab654e1ec",
+                "name": "Souma, Yoshino"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 150,
+                "url": "https://myanimelist.net/anime/150/Blood_",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/10183.jpg?s=f0a6eb5df371dd4f2840cfa6265964fa",
+                "name": "Blood+"
+            },
+            "character": {
+                "mal_id": 414,
+                "url": "https://myanimelist.net/character/414/Diva",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/106634.jpg?s=9cb0b1af8a67414179c9690b1492c76c",
+                "name": "Diva"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 60,
+                "url": "https://myanimelist.net/anime/60/Chrno_Crusade",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/14141.jpg?s=89fc2c07e96c067d0c6c7163412aaf40",
+                "name": "Chrno Crusade"
+            },
+            "character": {
+                "mal_id": 5237,
+                "url": "https://myanimelist.net/character/5237/Kate_Valentine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/54310.jpg?s=27acfbada304a5e707fcc55c3ee81e6b",
+                "name": "Valentine, Kate"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 17103,
+                "url": "https://myanimelist.net/character/17103/Rebecca_Catalina",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/92192.jpg?s=90a4b4672e2df5fecc90b295c863ad8d",
+                "name": "Catalina, Rebecca"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 617,
+                "url": "https://myanimelist.net/anime/617/Juubee_Ninpuuchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/66727.jpg?s=c32fa8c56194ecbc2dba6d83d556655e",
+                "name": "Juubee Ninpuuchou"
+            },
+            "character": {
+                "mal_id": 25505,
+                "url": "https://myanimelist.net/character/25505/Zakuro",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/187431.jpg?s=aa5a5d89b90d395cb90dfd61fbb0a1db",
+                "name": "Zakuro"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 392,
+                "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
+                "name": "Yuu☆Yuu☆Hakusho"
+            },
+            "character": {
+                "mal_id": 735,
+                "url": "https://myanimelist.net/character/735/Genkai",
+                "image_url": "https://cdn.myanimelist.net/images/characters/6/93626.jpg?s=3272b851cd6f9df48e3590ae8cfb511b",
+                "name": "Genkai"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

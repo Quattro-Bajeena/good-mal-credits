@@ -1,0 +1,573 @@
+{
+    "mal_id": 535,
+    "url": "https://myanimelist.net/people/535/Meredith_McCoy",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/23499.jpg",
+    "name": "Meredith McCoy",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1971-01-12T00:00:00+00:00",
+    "member_favorites": 32,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 109,
+                "url": "https://myanimelist.net/anime/109/Bakuretsu_Tenshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/22647.jpg?s=d5530afe9f9928826a93751d3edde604",
+                "name": "Bakuretsu Tenshi"
+            },
+            "character": {
+                "mal_id": 80799,
+                "url": "https://myanimelist.net/character/80799/Yoko",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/199307.jpg?s=16a1e862c3e3c3c9cbbdb276400523f0",
+                "name": "Yoko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 235,
+                "url": "https://myanimelist.net/anime/235/Detective_Conan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg?s=614b950ad92b7bf700f693ccb3cd84f9",
+                "name": "Detective Conan"
+            },
+            "character": {
+                "mal_id": 151385,
+                "url": "https://myanimelist.net/character/151385/Kaori_Sekiya",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/392972.jpg?s=4df6ea669d3666221129b69b74d22005",
+                "name": "Sekiya, Kaori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 2105,
+                "url": "https://myanimelist.net/character/2105/Lunch",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/126159.jpg?s=1b7b403bb809711edd31f9509a9daa4e",
+                "name": "Lunch"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 223,
+                "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1887/92364.jpg?s=8b35da949dd5782a8e5769ba71126c98",
+                "name": "Dragon Ball"
+            },
+            "character": {
+                "mal_id": 3182,
+                "url": "https://myanimelist.net/character/3182/Arale_Norimaki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/358754.jpg?s=2064956694df4c43f4946d36d1d5f314",
+                "name": "Norimaki, Arale"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 2106,
+                "url": "https://myanimelist.net/character/2106/Marron",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/357959.jpg?s=ad6098d0298ee7e9a829d997d9eeeaed",
+                "name": "Marron"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 225,
+                "url": "https://myanimelist.net/anime/225/Dragon_Ball_GT",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg?s=4206325c727e0c5725754c24212d6f06",
+                "name": "Dragon Ball GT"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 892,
+                "url": "https://myanimelist.net/anime/892/Dragon_Ball_Movie_3__Makafushigi_Daibouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1825/90341.jpg?s=b72ef2b26b0358bf5e6036c96ec5007c",
+                "name": "Dragon Ball Movie 3: Makafushigi Daibouken"
+            },
+            "character": {
+                "mal_id": 2105,
+                "url": "https://myanimelist.net/character/2105/Lunch",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/126159.jpg?s=1b7b403bb809711edd31f9509a9daa4e",
+                "name": "Lunch"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 30694,
+                "url": "https://myanimelist.net/anime/30694/Dragon_Ball_Super",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/74606.jpg?s=a28dfcaca9e4fa03116c1ff2c697dfaa",
+                "name": "Dragon Ball Super"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 2105,
+                "url": "https://myanimelist.net/character/2105/Lunch",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/126159.jpg?s=1b7b403bb809711edd31f9509a9daa4e",
+                "name": "Lunch"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 813,
+                "url": "https://myanimelist.net/anime/813/Dragon_Ball_Z",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/20936.jpg?s=d5968b3fb31d94da4cf9c80e29be6e5e",
+                "name": "Dragon Ball Z"
+            },
+            "character": {
+                "mal_id": 41888,
+                "url": "https://myanimelist.net/character/41888/Blind_Boy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/127715.jpg?s=a1cfeff9456583a76f517572e9e53b76",
+                "name": "Blind Boy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 904,
+                "url": "https://myanimelist.net/anime/904/Dragon_Ball_Z_Movie_11__Super_Senshi_Gekiha_Katsu_no_wa_Ore_da",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg?s=fda138ee128971b0b8f408fb7f8064ad",
+                "name": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
+            },
+            "character": {
+                "mal_id": 2106,
+                "url": "https://myanimelist.net/character/2106/Marron",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/357959.jpg?s=ad6098d0298ee7e9a829d997d9eeeaed",
+                "name": "Marron"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 904,
+                "url": "https://myanimelist.net/anime/904/Dragon_Ball_Z_Movie_11__Super_Senshi_Gekiha_Katsu_no_wa_Ore_da",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1035/93674.jpg?s=fda138ee128971b0b8f408fb7f8064ad",
+                "name": "Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 14837,
+                "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1734/93678.jpg?s=935b453935e3c8bebba964255039dfc2",
+                "name": "Dragon Ball Z Movie 14: Kami to Kami"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 25389,
+                "url": "https://myanimelist.net/anime/25389/Dragon_Ball_Z_Movie_15__Fukkatsu_no_F",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1833/93679.jpg?s=ce2f3d2db532139b56305cf7b1e32429",
+                "name": "Dragon Ball Z Movie 15: Fukkatsu no \"F\""
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 985,
+                "url": "https://myanimelist.net/anime/985/Dragon_Ball_Z_Special_2__Zetsubou_e_no_Hankou_Nokosareta_Chousenshi_-_Gohan_to_Trunks",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/10207.jpg?s=da1f719f331f20afe6db6511a325657a",
+                "name": "Dragon Ball Z Special 2: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks"
+            },
+            "character": {
+                "mal_id": 4318,
+                "url": "https://myanimelist.net/character/4318/Jinzouningen_18-gou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/357828.jpg?s=5793d2b3d76f1504cc5be16640340f79",
+                "name": "Jinzouningen 18-gou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 120,
+                "url": "https://myanimelist.net/anime/120/Fruits_Basket",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.jpg?s=2660f5811a0ab3434f5128fd376473d7",
+                "name": "Fruits Basket"
+            },
+            "character": {
+                "mal_id": 366,
+                "url": "https://myanimelist.net/character/366/Kagura_Souma",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/413950.jpg?s=1d4ee2ec2bb10b9e7f8088692d6a621f",
+                "name": "Souma, Kagura"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 121,
+                "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=c18f9a8b9a6c20f4d628a8dc5c6a7b3a",
+                "name": "Fullmetal Alchemist"
+            },
+            "character": {
+                "mal_id": 9319,
+                "url": "https://myanimelist.net/character/9319/Maria_Ross",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=04d2677ee0d0b3969621a4ba899047f1",
+                "name": "Ross, Maria"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5114,
+                "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=bdd086b090602cae61b15a6999d653ba",
+                "name": "Fullmetal Alchemist: Brotherhood"
+            },
+            "character": {
+                "mal_id": 9319,
+                "url": "https://myanimelist.net/character/9319/Maria_Ross",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=04d2677ee0d0b3969621a4ba899047f1",
+                "name": "Ross, Maria"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 7902,
+                "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=86d568913e59a571de7232edc24fc923",
+                "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater"
+            },
+            "character": {
+                "mal_id": 9319,
+                "url": "https://myanimelist.net/character/9319/Maria_Ross",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=04d2677ee0d0b3969621a4ba899047f1",
+                "name": "Ross, Maria"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 908,
+                "url": "https://myanimelist.net/anime/908/Fullmetal_Alchemist__Premium_Collection",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18689.jpg?s=1c7f38faff1523a64b9dc823db649d32",
+                "name": "Fullmetal Alchemist: Premium Collection"
+            },
+            "character": {
+                "mal_id": 9319,
+                "url": "https://myanimelist.net/character/9319/Maria_Ross",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=04d2677ee0d0b3969621a4ba899047f1",
+                "name": "Ross, Maria"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 430,
+                "url": "https://myanimelist.net/anime/430/Fullmetal_Alchemist__The_Conqueror_of_Shamballa",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg?s=f759bfb8aeb4c222719d13cc37de9a7f",
+                "name": "Fullmetal Alchemist: The Conqueror of Shamballa"
+            },
+            "character": {
+                "mal_id": 9319,
+                "url": "https://myanimelist.net/character/9319/Maria_Ross",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/84105.jpg?s=04d2677ee0d0b3969621a4ba899047f1",
+                "name": "Ross, Maria"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 134,
+                "url": "https://myanimelist.net/anime/134/Gunslinger_Girl",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/3088.jpg?s=4a60872a868877339103777c0dfb72e7",
+                "name": "Gunslinger Girl"
+            },
+            "character": {
+                "mal_id": 20948,
+                "url": "https://myanimelist.net/character/20948/Patricia",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/198995.jpg?s=4c023db262ceb5ec1fbe7dece23c6a4f",
+                "name": "Patricia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3231,
+                "url": "https://myanimelist.net/anime/3231/Gunslinger_Girl__Il_Teatrino",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/16697.jpg?s=686d17d0765f71b99cfe4f86690f69c2",
+                "name": "Gunslinger Girl: Il Teatrino"
+            },
+            "character": {
+                "mal_id": 20948,
+                "url": "https://myanimelist.net/character/20948/Patricia",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/198995.jpg?s=4c023db262ceb5ec1fbe7dece23c6a4f",
+                "name": "Patricia"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1422,
+                "url": "https://myanimelist.net/anime/1422/Lupin_III__1_Money_Wars",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/67119.jpg?s=bef42aba2574986d015a7acf7acc967f",
+                "name": "Lupin III: $1 Money Wars"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1431,
+                "url": "https://myanimelist.net/anime/1431/Lupin_III__Ai_no_Da_Capo_-_Fujikos_Unlucky_Days",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/6858.jpg?s=9f7ac706b8db558ea3a553cdc5a68ff1",
+                "name": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1416,
+                "url": "https://myanimelist.net/anime/1416/Lupin_III__Dead_or_Alive",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1408/94363.jpg?s=620da2a24c8baca36b121768d1d731ad",
+                "name": "Lupin III: Dead or Alive"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1434,
+                "url": "https://myanimelist.net/anime/1434/Lupin_III__Harimao_no_Zaihou_wo_Oe",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1156/96563.jpg?s=09ac001f2ca97c8c40798700887ed0ae",
+                "name": "Lupin III: Harimao no Zaihou wo Oe!!"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1437,
+                "url": "https://myanimelist.net/anime/1437/Lupin_III__Honoo_no_Kioku_-_Tokyo_Crisis",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1880/105808.jpg?s=428cb8ad5d5cdf4f7ff36d8e01324e95",
+                "name": "Lupin III: Honoo no Kioku - Tokyo Crisis"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1419,
+                "url": "https://myanimelist.net/anime/1419/Lupin_III__Kutabare_Nostradamus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/21668.jpg?s=e60fabdcbb97f102e557836ba32439fd",
+                "name": "Lupin III: Kutabare! Nostradamus"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1438,
+                "url": "https://myanimelist.net/anime/1438/Lupin_III__Lupin_Ansatsu_Shirei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/27608.jpg?s=6d0a5595c8ccc5f3e0aa31513b9a723e",
+                "name": "Lupin III: Lupin Ansatsu Shirei"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1417,
+                "url": "https://myanimelist.net/anime/1417/Lupin_III__Moeyo_Zantetsuken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77771.jpg?s=e418e6973f4b19ce1e1caa8b95821f6d",
+                "name": "Lupin III: Moeyo Zantetsuken!"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1436,
+                "url": "https://myanimelist.net/anime/1436/Lupin_III__Twilight_Gemini_no_Himitsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/12941.jpg?s=0d6c77828af78da5a098572cb4e047be",
+                "name": "Lupin III: Twilight Gemini no Himitsu"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1439,
+                "url": "https://myanimelist.net/anime/1439/Lupin_III__Walther_P38",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/72201.jpg?s=166a74825f8eb959404eb55ab0aca2b0",
+                "name": "Lupin III: Walther P38"
+            },
+            "character": {
+                "mal_id": 1047,
+                "url": "https://myanimelist.net/character/1047/Fujiko_Mine",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/329615.jpg?s=6c14337883724b01e35c07983375bc73",
+                "name": "Mine, Fujiko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 392,
+                "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
+                "name": "Yuu☆Yuu☆Hakusho"
+            },
+            "character": {
+                "mal_id": 8635,
+                "url": "https://myanimelist.net/character/8635/Atsuko_Urameshi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/69831.jpg?s=c93beccf2397580b15035d73c2341c02",
+                "name": "Urameshi, Atsuko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 392,
+                "url": "https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg?s=4c9ac9ab1499d0c0c10282ff0d9a4d87",
+                "name": "Yuu☆Yuu☆Hakusho"
+            },
+            "character": {
+                "mal_id": 39253,
+                "url": "https://myanimelist.net/character/39253/Sasuga",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/107345.jpg?s=a7735e29307d179e76d69646168f0b1c",
+                "name": "Sasuga"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 120,
+                "url": "https://myanimelist.net/anime/120/Fruits_Basket",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/75204.jpg?s=2660f5811a0ab3434f5128fd376473d7",
+                "name": "Fruits Basket"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 21,
+                "url": "https://myanimelist.net/anime/21/One_Piece",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg?s=984eb23ce9b05732d759e23e5e3b7fc1",
+                "name": "One Piece"
+            }
+        }
+    ],
+    "published_manga": []
+}

@@ -1,0 +1,66 @@
+{
+    "mal_id": 35144,
+    "url": "https://myanimelist.net/character/35144/Garfiel",
+    "name": "Garfiel",
+    "name_kanji": null,
+    "nicknames": [
+        "Garfield"
+    ],
+    "member_favorites": 3,
+    "image_url": "https://cdn.myanimelist.net/images/characters/14/95776.jpg",
+    "animeography": [
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 7902,
+            "name": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater",
+            "url": "https://myanimelist.net/anime/7902/Fullmetal_Alchemist__Brotherhood_-_4-Koma_Theater",
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/76154.jpg?s=c8f692960abdc89fb76e0595c0c49041",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 662,
+            "name": "Robinson, Antimere",
+            "url": "https://myanimelist.net/people/662/Antimere_Robinson",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/1558.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 720,
+            "name": "Miyake, Kenta",
+            "url": "https://myanimelist.net/people/720/Kenta_Miyake",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42617.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 5139,
+            "name": "Sawaya, Ricardo",
+            "url": "https://myanimelist.net/people/5139/Ricardo_Sawaya",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/42703.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 22899,
+            "name": "Haase, Markus",
+            "url": "https://myanimelist.net/people/22899/Markus_Haase",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/26281.jpg",
+            "language": "German"
+        }
+    ]
+}

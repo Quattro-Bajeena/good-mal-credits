@@ -1,0 +1,71 @@
+{
+    "mal_id": 55287,
+    "url": "https://myanimelist.net/character/55287/Philip_Gargantos_Armstrong",
+    "name": "Philip Gargantos Armstrong",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 9,
+    "image_url": "https://cdn.myanimelist.net/images/characters/11/177627.jpg",
+    "animeography": [
+        {
+            "mal_id": 121,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/anime/121/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/75815.jpg?s=fab33023f983c5d5f2902ce86de0d941",
+            "role": "Supporting"
+        },
+        {
+            "mal_id": 5114,
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "url": "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood",
+            "image_url": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg?s=d23116b4bb6e0c2b45484fc9a43bc525",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 25,
+            "name": "Fullmetal Alchemist",
+            "url": "https://myanimelist.net/manga/25/Fullmetal_Alchemist",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/27600.jpg?s=1a724281d6af7eedd909e06f370ae06a",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 138,
+            "name": "Utsumi, Kenji",
+            "url": "https://myanimelist.net/people/138/Kenji_Utsumi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/49809.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 253,
+            "name": "Sabat, Christopher",
+            "url": "https://myanimelist.net/people/253/Christopher_Sabat",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/42874.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 7320,
+            "name": "Bayer, Hans",
+            "url": "https://myanimelist.net/people/7320/Hans_Bayer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47321.jpg",
+            "language": "German"
+        },
+        {
+            "mal_id": 39471,
+            "name": "de Moraes, Luiz Carlos",
+            "url": "https://myanimelist.net/people/39471/Luiz_Carlos_de_Moraes",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/42327.jpg",
+            "language": "Brazilian"
+        },
+        {
+            "mal_id": 43822,
+            "name": "Cruz, Walter",
+            "url": "https://myanimelist.net/people/43822/Walter_Cruz",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/59502.jpg",
+            "language": "Brazilian"
+        }
+    ]
+}
