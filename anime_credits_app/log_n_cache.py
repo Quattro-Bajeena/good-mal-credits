@@ -77,7 +77,7 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
     page_id = page_id_maker(category, mal_id)
     log = PageStatus.query.get(page_id)
-    print(f"check_page_update - log: {log} ")
+    # print(f"check_page_update - log: {log} ")
     in_db = bool(log)
     exists = in_db and log.exists
 

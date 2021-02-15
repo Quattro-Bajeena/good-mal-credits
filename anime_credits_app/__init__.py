@@ -18,7 +18,7 @@ celery = make_celery(app)
 app_root = Path(__file__).parent
 adc.config.config_database(app_root)
 
-from anime_credits_app import routes, models, config, mal_db, log_n_cache
+from anime_credits_app import routes, models, flask_utils, mal_db, log_n_cache
 
 
 

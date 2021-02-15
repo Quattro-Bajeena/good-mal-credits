@@ -18,10 +18,14 @@ const comparer = function(idx, asc){
     function compare_col_idx_function (a, b) {
 
         function comparison_value( v1, v2) {
-            v1 = v1.replaceAll(' ', '');
-            v2 = v2.replaceAll(' ', '');
+
+            const delimiters = [',', '-', ' '];
+            for(delimiter of delimiters){
+                v1 = v1.replaceAll(delimiter, '');
+                v2 = v2.replaceAll(delimiter, '');
+            }
+
             if(v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2)){
-                
                 return v1- v2;
             }
             else{

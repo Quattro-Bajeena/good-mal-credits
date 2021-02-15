@@ -61,7 +61,7 @@
             <td class="imageCell"><img class="tableImage" src={{member.person.image_url}}> </td>
             <td><a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
             <td> {{ member.position }} </td>
-            <td>{{member.person.member_favorites}}</td>
+            <td>{{member.person.member_favorites | format_big_number}}</td>
             <td>{{ member.person.birthday | format_date}}</td>
             <td>{{ staff_age( resource.aired_from, member.person.birthday) }}</td>
             <td>{{ len(member.person.staff_credits) }}</td>
@@ -113,13 +113,13 @@
         <tr>
             <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
             <td>{{role.character.name}}</td>
-            <td>{{role.character.member_favorites}}</td>
+            <td>{{role.character.member_favorites | format_big_number}}</td>
             <td>{{role.role}}</td>
 
             <td class="imageCell"><img class="tableImage" src={{role.person.image_url}} ></td>
             <td><a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
             
-            <td>{{role.person.member_favorites}}</td>
+            <td>{{role.person.member_favorites | format_big_number}}</td>
             <td>{{role.person.birthday | format_date}}</td>
             <td>{{ staff_age( resource.aired_from, role.person.birthday) }}</td>
             <td>{{role.language}}</td>
