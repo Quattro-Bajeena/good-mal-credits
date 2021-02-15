@@ -2,7 +2,7 @@
 - ~~hiding columns~~
 - ~~squashing staffposition with the same person into one~~
 - ~~figure out rate limiting when this will be on more than one threads on a server~~
-- hadnling exceptions and 404 erros
+
 - long term: pull data from other sites
 - drop down dynamic search options are below progrss bar
 - database is locked can't visit other page while it's updating, becasue visitngf other page writes to it to register new page
@@ -30,4 +30,5 @@
 - footer with contact info
 - rate limitng that is long, but doesnt limit single requsts like when searching
 - dynamic searching
+- hadnling exceptions and 404 erros
 
