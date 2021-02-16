@@ -9,3 +9,5 @@ venv/
 .env
 uwsgi.ini
 gms.sock
+start_celery.ps1
+activate_venv.ps1
