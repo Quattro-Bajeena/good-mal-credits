@@ -156,6 +156,7 @@ def add_studio(studio : dict) -> Studio:
     )
 
     db.session.add(studio_db)
+    print("NEW STUDIO ADDED", studio_db.name)
     #print(f"added new studio - {studio['name']}")
     return studio_db
 
@@ -396,7 +397,7 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
     
 
     anime_db = get_anime_db(anime, use_cached)
-    print("updated anime")
+    print(f"UPDATING ANIME -------- {anime_db.title} -----------")
 
    
 
@@ -475,7 +476,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
 
     person_db = get_person_db(person, use_cached)
 
-    print("updated person")
+    print(f"UPDATING PERSON -------- {person_db.name} -----------")
     total_progress = 1 + 2 * len(person['voice_acting_roles']) + len(person['anime_staff_positions']) + len(person['published_manga'])
     status = StatusUpdater(total_progress, celery_task)
     status.update_status("updating voice acting roles")
@@ -513,7 +514,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
 
         for studio in anime['studios']:
             studio_db = get_studio_db(studio, anime_db, use_cached)
-            print("NEW STUDIO ADDED", anime_db.title ,studio_db.name)
+            
 
         position = staff_position['position']
         staff_member_db = get_staff_member_db(anime,person, position, person_db, anime_db, use_cached)
@@ -546,8 +547,9 @@ def update_studio_page(mal_id:int, use_cached:bool, celery_task:Task):
     update_function_status("updating studio information", 0, 1, celery_task)
 
     studio = mal.get_resource('studios', mal_id, use_cached=use_cached)
-
     studio_db = Studio.query.get(mal_id)
+    print(f"UPDATING STUDIO -------- {studio_db.name} -----------")
+
     if not studio_db:
         studio_db = add_studio(studio)
     elif not use_cached:
