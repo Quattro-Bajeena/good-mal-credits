@@ -7,3 +7,5 @@ venv/
 .flaskenv
 .vscode/
 .env
+start_celery.ps1
+activate_venv.ps1
