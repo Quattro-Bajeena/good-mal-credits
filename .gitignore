@@ -13,3 +13,4 @@ start_celery.ps1
 activate_venv.ps1
 app.db
 migrations/
+anime_database/
