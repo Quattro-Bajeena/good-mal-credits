@@ -65,7 +65,7 @@
         {% for anime in resource.anime %}
         <tr>
             <td class="imageCell"><img class="tableImage" src={{anime.image_url}}></td>
-            <td><a href="{{url_for('content',category='people', mal_id=anime.mal_id)}}" >{{anime.title}}</a></td>
+            <td><a href="{{url_for('content',category='anime', mal_id=anime.mal_id)}}" >{{anime.title}}</a></td>
 
             <td>{{anime.members | format_big_number}}</td>
             <td>{{anime.popularity | format_big_number}}</td>

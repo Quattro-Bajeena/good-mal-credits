@@ -73,7 +73,7 @@ def add_anime(anime : dict) -> Anime:
             favorites = anime['favorites'],
             premiered = anime['premiered']
         )
-    #print(f"new anime db created = {anime['title']}")
+    #print(f"new anime db created - {anime['title']}")
     db.session.add(anime_db)
     return anime_db
 
@@ -121,6 +121,7 @@ def add_manga(manga : dict) -> Manga:
         favorites = manga['favorites'],
         serialization = manga['serializations'][0]['name'] if len(manga['serializations'])>0 else None
     )
+    #print(f"new manga created - {manga_db.title}")
     db.session.add(manga_db)
     return manga_db
 
@@ -156,8 +157,7 @@ def add_studio(studio : dict) -> Studio:
     )
 
     db.session.add(studio_db)
-    print("NEW STUDIO ADDED", studio_db.name)
-    #print(f"added new studio - {studio['name']}")
+    #print(f"NEW STUDIO ADDED - {studio_db.name}", )
     return studio_db
 
 def update_studio(studio_db : Studio, studio : dict):
