@@ -1,0 +1,44 @@
+{
+    "mal_id": 1142,
+    "url": "https://myanimelist.net/anime/1142/Hachimitsu_to_Clover_II",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/11040.jpg",
+    "title": "Hachimitsu to Clover II",
+    "title_english": "Honey and Clover II",
+    "title_japanese": "ハチミツとクローバー II",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-06-30T00:00:00+00:00",
+        "to": "2006-09-15T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 6,
+                "year": 2006
+            },
+            "to": {
+                "day": 15,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Jun 30, 2006 to Sep 15, 2006"
+    },
+    "score": 8.26,
+    "scored_by": 46844,
+    "rank": 256,
+    "popularity": 1526,
+    "members": 90347,
+    "favorites": 976,
+    "premiered": "Summer 2006",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

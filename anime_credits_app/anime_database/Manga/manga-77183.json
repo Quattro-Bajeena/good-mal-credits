@@ -1,0 +1,57 @@
+{
+    "mal_id": 77183,
+    "url": "https://myanimelist.net/manga/77183/Ojousama_x_Sensha",
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/178738.jpg",
+    "title": "Ojousama x Sensha",
+    "title_english": null,
+    "title_japanese": "お嬢様×戦車",
+    "type": "Light Novel",
+    "volumes": 1,
+    "chapters": 5,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2009-04-20T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 20,
+                "month": 4,
+                "year": 2009
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Apr  20, 2009"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 43030,
+    "members": 38,
+    "favorites": 0,
+    "authors": [
+        {
+            "mal_id": 3177,
+            "type": "people",
+            "name": "Urushihara, Satoshi",
+            "url": "https://myanimelist.net/people/3177/Satoshi_Urushihara"
+        },
+        {
+            "mal_id": 28213,
+            "type": "people",
+            "name": "Morino, Izumi",
+            "url": "https://myanimelist.net/people/28213/Izumi_Morino"
+        },
+        {
+            "mal_id": 33107,
+            "type": "people",
+            "name": "Satomi",
+            "url": "https://myanimelist.net/people/33107/Satomi"
+        }
+    ],
+    "serializations": []
+}

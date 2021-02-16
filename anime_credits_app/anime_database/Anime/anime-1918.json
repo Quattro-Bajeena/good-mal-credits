@@ -1,0 +1,44 @@
+{
+    "mal_id": 1918,
+    "url": "https://myanimelist.net/anime/1918/Mahou_Shoujo_Pretty_Sammy",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/58561.jpg",
+    "title": "Mahou Shoujo Pretty Sammy",
+    "title_english": "Magical Girl Pretty Sammy",
+    "title_japanese": "魔法少女プリティサミー",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 3,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1995-08-25T00:00:00+00:00",
+        "to": "1997-08-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 8,
+                "year": 1995
+            },
+            "to": {
+                "day": 24,
+                "month": 8,
+                "year": 1997
+            }
+        },
+        "string": "Aug 25, 1995 to Aug 24, 1997"
+    },
+    "score": 6.4,
+    "scored_by": 2466,
+    "rank": 6409,
+    "popularity": 5926,
+    "members": 6213,
+    "favorites": 12,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

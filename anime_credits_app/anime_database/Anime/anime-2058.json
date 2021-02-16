@@ -1,0 +1,44 @@
+{
+    "mal_id": 2058,
+    "url": "https://myanimelist.net/anime/2058/Delpower_X_Bakuhatsu_Miracle_Genki",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1447/94000.jpg",
+    "title": "Delpower X Bakuhatsu Miracle Genki!",
+    "title_english": null,
+    "title_japanese": "デルパワーＸ爆発みらくる元気！",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1986-12-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 12,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Dec 21, 1986"
+    },
+    "score": 5.48,
+    "scored_by": 485,
+    "rank": 9722,
+    "popularity": 10200,
+    "members": 1117,
+    "favorites": 1,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 1157,
+            "type": "anime",
+            "name": "Big Bang",
+            "url": "https://myanimelist.net/anime/producer/1157/Big_Bang"
+        }
+    ]
+}

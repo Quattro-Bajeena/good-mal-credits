@@ -1,0 +1,50 @@
+{
+    "mal_id": 13921,
+    "url": "https://myanimelist.net/character/13921/Nichol_Hawking",
+    "name": "Nichol Hawking",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 0,
+    "image_url": "https://cdn.myanimelist.net/images/characters/3/107713.jpg",
+    "animeography": [
+        {
+            "mal_id": 2332,
+            "name": "Plastic Little",
+            "url": "https://myanimelist.net/anime/2332/Plastic_Little",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/2599.jpg?s=7a6f71db77895b713f46e2c6ab2736df",
+            "role": "Supporting"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 2912,
+            "name": "Plastic Little",
+            "url": "https://myanimelist.net/manga/2912/Plastic_Little",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/3126.jpg?s=b5fddfa3921fed7545dc88ae04c45635",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 67,
+            "name": "Yamaguchi, Kappei",
+            "url": "https://myanimelist.net/people/67/Kappei_Yamaguchi",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54676.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 150,
+            "name": "Spencer, Spike",
+            "url": "https://myanimelist.net/people/150/Spike_Spencer",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/36487.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 44051,
+            "name": "Scola, Gualtiero",
+            "url": "https://myanimelist.net/people/44051/Gualtiero_Scola",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/47500.jpg",
+            "language": "Italian"
+        }
+    ]
+}

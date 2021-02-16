@@ -1,0 +1,44 @@
+{
+    "mal_id": 36620,
+    "url": "https://myanimelist.net/anime/36620/Nintama_Rantarou__Saraba_Ninjutsu_Gakuen_no_Dan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/88492.jpg",
+    "title": "Nintama Rantarou: Saraba Ninjutsu Gakuen no Dan",
+    "title_english": null,
+    "title_japanese": "忍たま乱太郎 さらば 忍術学園 の段",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2017-10-30T00:00:00+00:00",
+        "to": "2017-10-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 30,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": 31,
+                "month": 10,
+                "year": 2017
+            }
+        },
+        "string": "Oct 30, 2017 to Oct 31, 2017"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11182,
+    "popularity": 14607,
+    "members": 217,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

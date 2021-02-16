@@ -1,0 +1,44 @@
+{
+    "mal_id": 582,
+    "url": "https://myanimelist.net/anime/582/Sexy_Commando_Gaiden__Sugoi_yo_Masaru-san",
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/39595.jpg",
+    "title": "Sexy Commando Gaiden: Sugoi yo!! Masaru-san",
+    "title_english": null,
+    "title_japanese": "セクシーコマンドー外伝 すごいよ!! マサルさん",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 48,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-01-05T00:00:00+00:00",
+        "to": "1998-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 1,
+                "year": 1998
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 1998
+            }
+        },
+        "string": "Jan 5, 1998 to Mar 31, 1998"
+    },
+    "score": 7.71,
+    "scored_by": 2628,
+    "rank": 991,
+    "popularity": 4809,
+    "members": 10546,
+    "favorites": 129,
+    "premiered": "Winter 1998",
+    "studios": [
+        {
+            "mal_id": 207,
+            "type": "anime",
+            "name": "Magic Bus",
+            "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+        }
+    ]
+}

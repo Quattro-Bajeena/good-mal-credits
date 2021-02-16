@@ -1,0 +1,44 @@
+{
+    "mal_id": 596,
+    "url": "https://myanimelist.net/anime/596/Chobits__Chibits",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/34375.jpg",
+    "title": "Chobits: Chibits",
+    "title_english": "Chobits: Chibits - Sumomo and Kotoko Deliver",
+    "title_japanese": "ちょびっツ ちびっツ すもも・琴子　届ける",
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-06-27T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jun 27, 2003"
+    },
+    "score": 7,
+    "scored_by": 24776,
+    "rank": 3626,
+    "popularity": 2455,
+    "members": 42869,
+    "favorites": 91,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

@@ -7,3 +7,5 @@ venv/
 .flaskenv
 .vscode/
 .env
+uwsgi.ini
+gms.sock

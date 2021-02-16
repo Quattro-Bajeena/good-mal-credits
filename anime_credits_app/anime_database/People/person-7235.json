@@ -1,0 +1,329 @@
+{
+    "mal_id": 7235,
+    "url": "https://myanimelist.net/people/7235/Ryouko_Kinomiya",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29391.jpg",
+    "name": "Ryouko Kinomiya",
+    "given_name": "良子",
+    "family_name": "来宮",
+    "birthday": "1931-07-10T00:00:00+00:00",
+    "member_favorites": 5,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 791,
+                "url": "https://myanimelist.net/anime/791/Arion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/37901.jpg?s=bbacf17c149b2abbf48ffe18d36fbd17",
+                "name": "Arion"
+            },
+            "character": {
+                "mal_id": 139510,
+                "url": "https://myanimelist.net/character/139510/Gaia",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/301898.jpg?s=404093813bfa6ab9fa6c5045912ff9e3",
+                "name": "Gaia"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1472,
+                "url": "https://myanimelist.net/anime/1472/City_Hunter_3",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1147/94393.jpg?s=e70cf8d78972298da514844f59c9e720",
+                "name": "City Hunter 3"
+            },
+            "character": {
+                "mal_id": 63593,
+                "url": "https://myanimelist.net/character/63593/Haruko_Samonji",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/168291.jpg?s=fe402f70fbaeef0013fe7b9e9c1e1427",
+                "name": "Samonji, Haruko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5862,
+                "url": "https://myanimelist.net/anime/5862/Fumoon",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/63339.jpg?s=b774dcccb542bbf7deff9acb1f083dc5",
+                "name": "Fumoon"
+            },
+            "character": {
+                "mal_id": 108021,
+                "url": "https://myanimelist.net/character/108021/Mozu",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/249199.jpg?s=b8c9201095b71773222ed0c2a3a7666a",
+                "name": "Mozu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1611,
+                "url": "https://myanimelist.net/anime/1611/Galerians__Rion",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/38577.jpg?s=bfb4645a82177854242efb4781e1dcc4",
+                "name": "Galerians: Rion"
+            },
+            "character": {
+                "mal_id": 69243,
+                "url": "https://myanimelist.net/character/69243/Dorothy",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/179271.jpg?s=6277753eb4244c84a1e3e7f825744602",
+                "name": "Dorothy"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1491,
+                "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/27801.jpg?s=a6de983f63be9f235fa7fa31bf973d3a",
+                "name": "Ginga Tetsudou 999"
+            },
+            "character": {
+                "mal_id": 8999,
+                "url": "https://myanimelist.net/character/8999/La_Andromeda_Promethium_II",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/336809.jpg?s=ec89f50d30d64cbdc5da7d06b4180650",
+                "name": "Promethium II, La Andromeda"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1301,
+                "url": "https://myanimelist.net/anime/1301/Ginga_Tetsudou_999_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/50505.jpg?s=f19c143e2f70541d8c68a98be8ac428e",
+                "name": "Ginga Tetsudou 999 (Movie)"
+            },
+            "character": {
+                "mal_id": 8999,
+                "url": "https://myanimelist.net/character/8999/La_Andromeda_Promethium_II",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/336809.jpg?s=ec89f50d30d64cbdc5da7d06b4180650",
+                "name": "Promethium II, La Andromeda"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 918,
+                "url": "https://myanimelist.net/anime/918/Gintama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg?s=9f6be74bce91c5bf28b77d27bc0acf48",
+                "name": "Gintama"
+            },
+            "character": {
+                "mal_id": 4656,
+                "url": "https://myanimelist.net/character/4656/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2317,
+                "url": "https://myanimelist.net/anime/2317/Hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4818.jpg?s=6b384feef5f1d78fefb8100c3b0270e9",
+                "name": "Hen"
+            },
+            "character": {
+                "mal_id": 70923,
+                "url": "https://myanimelist.net/character/70923/Kiriko_Yamada",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Yamada, Kiriko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2012,
+                "url": "https://myanimelist.net/anime/2012/Jigoku_Sensei_Nube",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1938/106446.jpg?s=e49321520d8376d5ff8f8533ae12eed4",
+                "name": "Jigoku Sensei Nube"
+            },
+            "character": {
+                "mal_id": 64425,
+                "url": "https://myanimelist.net/character/64425/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 666,
+                "url": "https://myanimelist.net/anime/666/JoJo_no_Kimyou_na_Bouken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1171/106036.jpg?s=127ba82e99bafd007a464b470239f535",
+                "name": "JoJo no Kimyou na Bouken"
+            },
+            "character": {
+                "mal_id": 21962,
+                "url": "https://myanimelist.net/character/21962/Suzie_Q",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/211527.jpg?s=1214b19b37f6a8f1592b2fea6f2ca617",
+                "name": "Q, Suzie"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3595,
+                "url": "https://myanimelist.net/anime/3595/Kujakuou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/82866.jpg?s=2a6a3ff537f019877c5c73b6e735d505",
+                "name": "Kujakuou"
+            },
+            "character": {
+                "mal_id": 60527,
+                "url": "https://myanimelist.net/character/60527/Ayano",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/161583.jpg?s=f585e274545052fba222f76694b52203",
+                "name": "Ayano"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1445,
+                "url": "https://myanimelist.net/anime/1445/Mach_GoGoGo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/40191.jpg?s=09a40957924283328daf3fcff0fcf575",
+                "name": "Mach GoGoGo"
+            },
+            "character": {
+                "mal_id": 127420,
+                "url": "https://myanimelist.net/character/127420/Aya_Mifune",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/336000.jpg?s=8c3af2e5f2f9b88d856202d473b93612",
+                "name": "Mifune, Aya"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 872,
+                "url": "https://myanimelist.net/anime/872/Mahou_Shoujo-tai_Arusu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/57287.jpg?s=85df0479075990997412647aa201a545",
+                "name": "Mahou Shoujo-tai Arusu"
+            },
+            "character": {
+                "mal_id": 19458,
+                "url": "https://myanimelist.net/character/19458/Grand_Master",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/43832.jpg?s=e2d79484cd8242c3a07e5f3b81dfc39b",
+                "name": "Grand Master"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3991,
+                "url": "https://myanimelist.net/anime/3991/Mahou_Shoujo-tai_Arusu_the_Adventure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/57289.jpg?s=63720a0e0dc00414b2150f79848db1c4",
+                "name": "Mahou Shoujo-tai Arusu the Adventure"
+            },
+            "character": {
+                "mal_id": 19458,
+                "url": "https://myanimelist.net/character/19458/Grand_Master",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/43832.jpg?s=e2d79484cd8242c3a07e5f3b81dfc39b",
+                "name": "Grand Master"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15775,
+                "url": "https://myanimelist.net/anime/15775/Saint☆Oniisan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/53249.jpg?s=67487ec92e236f906ef4f2a1dd365c8f",
+                "name": "Saint☆Oniisan"
+            },
+            "character": {
+                "mal_id": 76042,
+                "url": "https://myanimelist.net/character/76042/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 15771,
+                "url": "https://myanimelist.net/anime/15771/Saint☆Oniisan_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/48723.jpg?s=6bd85de6523e5529f981ec320519d188",
+                "name": "Saint☆Oniisan (Movie)"
+            },
+            "character": {
+                "mal_id": 76042,
+                "url": "https://myanimelist.net/character/76042/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 3819,
+                "url": "https://myanimelist.net/anime/3819/Sasurai_no_Taiyou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1068/101174.jpg?s=72dd0c4a4736a3891bfeed05fb1b4f93",
+                "name": "Sasurai no Taiyou"
+            },
+            "character": {
+                "mal_id": 120619,
+                "url": "https://myanimelist.net/character/120619/Michiko_Nohara",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Nohara, Michiko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1302,
+                "url": "https://myanimelist.net/anime/1302/Sayonara_Ginga_Tetsudou_999__Andromeda_Shuuchakueki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1774/93957.jpg?s=61f01215cf64cb7fe0778fb1b8b7547a",
+                "name": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki"
+            },
+            "character": {
+                "mal_id": 8999,
+                "url": "https://myanimelist.net/character/8999/La_Andromeda_Promethium_II",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/336809.jpg?s=ec89f50d30d64cbdc5da7d06b4180650",
+                "name": "Promethium II, La Andromeda"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1548,
+                "url": "https://myanimelist.net/anime/1548/Shin_Taketori_Monogatari__1000-nen_Joou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/66489.jpg?s=732389494b596bd97a20839f89fc8e1c",
+                "name": "Shin Taketori Monogatari: 1000-nen Joou"
+            },
+            "character": {
+                "mal_id": 125895,
+                "url": "https://myanimelist.net/character/125895/Narrator",
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+                "name": "Narrator"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 338,
+                "url": "https://myanimelist.net/anime/338/Versailles_no_Bara",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57043.jpg?s=42bcc829cef485218a1d0ecbe981e19b",
+                "name": "Versailles no Bara"
+            },
+            "character": {
+                "mal_id": 12579,
+                "url": "https://myanimelist.net/character/12579/Jeanne_Becu_du_Barry",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/114266.jpg?s=faee2da476e3752e958cd7ad03c640ae",
+                "name": "du Barry, Jeanne Becu"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 202,
+                "url": "https://myanimelist.net/anime/202/Wolfs_Rain",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/59403.jpg?s=1afa5b08d12c069b360133834d9f6e89",
+                "name": "Wolf's Rain"
+            },
+            "character": {
+                "mal_id": 150330,
+                "url": "https://myanimelist.net/character/150330/Hanabito",
+                "image_url": "https://cdn.myanimelist.net/images/characters/5/347524.jpg?s=b5b6b6247c78b593127d4cdf53413771",
+                "name": "Hanabito"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

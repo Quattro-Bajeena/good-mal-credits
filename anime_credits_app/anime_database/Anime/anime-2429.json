@@ -1,0 +1,44 @@
+{
+    "mal_id": 2429,
+    "url": "https://myanimelist.net/anime/2429/Unico__Mahou_no_Shima_e",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/5544.jpg",
+    "title": "Unico: Mahou no Shima e",
+    "title_english": "Unico in the Island of Magic",
+    "title_japanese": "ユニコ 魔法の島へ",
+    "type": "Movie",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1983-07-16T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 7,
+                "year": 1983
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 16, 1983"
+    },
+    "score": 7,
+    "scored_by": 1036,
+    "rank": 3653,
+    "popularity": 8507,
+    "members": 2283,
+    "favorites": 15,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+        }
+    ]
+}

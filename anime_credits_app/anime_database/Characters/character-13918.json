@@ -1,0 +1,50 @@
+{
+    "mal_id": 13918,
+    "url": "https://myanimelist.net/character/13918/Ellyse_Aldomordish",
+    "name": "Ellyse Aldomordish",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 2,
+    "image_url": "https://cdn.myanimelist.net/images/characters/8/107712.jpg",
+    "animeography": [
+        {
+            "mal_id": 2332,
+            "name": "Plastic Little",
+            "url": "https://myanimelist.net/anime/2332/Plastic_Little",
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/2599.jpg?s=7a6f71db77895b713f46e2c6ab2736df",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 2912,
+            "name": "Plastic Little",
+            "url": "https://myanimelist.net/manga/2912/Plastic_Little",
+            "image_url": "https://cdn.myanimelist.net/images/manga/2/3126.jpg?s=b5fddfa3921fed7545dc88ae04c45635",
+            "role": "Supporting"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 145,
+            "name": "Grant, Tiffany",
+            "url": "https://myanimelist.net/people/145/Tiffany_Grant",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/19267.jpg",
+            "language": "English"
+        },
+        {
+            "mal_id": 1482,
+            "name": "Shiina, Hekiru",
+            "url": "https://myanimelist.net/people/1482/Hekiru_Shiina",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/48888.jpg",
+            "language": "Japanese"
+        },
+        {
+            "mal_id": 28313,
+            "name": "Leurquin, Sabrina",
+            "url": "https://myanimelist.net/people/28313/Sabrina_Leurquin",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/29913.jpg",
+            "language": "French"
+        }
+    ]
+}

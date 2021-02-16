@@ -1,0 +1,44 @@
+{
+    "mal_id": 3615,
+    "url": "https://myanimelist.net/anime/3615/Neo_Angelique_Abyss",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/20960.jpg",
+    "title": "Neo Angelique Abyss",
+    "title_english": null,
+    "title_japanese": "ネオアンジェリーク Abyss",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2008-04-07T00:00:00+00:00",
+        "to": "2008-06-30T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 2008
+            },
+            "to": {
+                "day": 30,
+                "month": 6,
+                "year": 2008
+            }
+        },
+        "string": "Apr 7, 2008 to Jun 30, 2008"
+    },
+    "score": 6.85,
+    "scored_by": 12754,
+    "rank": 4212,
+    "popularity": 2815,
+    "members": 33116,
+    "favorites": 132,
+    "premiered": "Spring 2008",
+    "studios": [
+        {
+            "mal_id": 96,
+            "type": "anime",
+            "name": "Yumeta Company",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ]
+}

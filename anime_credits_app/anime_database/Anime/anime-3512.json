@@ -1,0 +1,44 @@
+{
+    "mal_id": 3512,
+    "url": "https://myanimelist.net/anime/3512/Tenshi_Nanka_ja_Nai",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/5868.jpg",
+    "title": "Tenshi Nanka ja Nai",
+    "title_english": null,
+    "title_japanese": "天使なんかじゃない",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-09-21T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 21,
+                "month": 9,
+                "year": 1994
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep 21, 1994"
+    },
+    "score": 6.16,
+    "scored_by": 1240,
+    "rank": 7542,
+    "popularity": 7671,
+    "members": 3175,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+        }
+    ]
+}

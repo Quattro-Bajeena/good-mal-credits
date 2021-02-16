@@ -1,0 +1,51 @@
+{
+    "mal_id": 109854,
+    "url": "https://myanimelist.net/manga/109854/Shokei-hime_Liselotte",
+    "image_url": "https://cdn.myanimelist.net/images/manga/3/201153.jpg",
+    "title": "Shokei-hime Liselotte",
+    "title_english": null,
+    "title_japanese": "処刑姫リーゼロッテ",
+    "type": "Light Novel",
+    "volumes": 1,
+    "chapters": null,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2017-10-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 10,
+                "year": 2017
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Oct  18, 2017"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 44763,
+    "members": 33,
+    "favorites": 0,
+    "authors": [
+        {
+            "mal_id": 3177,
+            "type": "people",
+            "name": "Urushihara, Satoshi",
+            "url": "https://myanimelist.net/people/3177/Satoshi_Urushihara"
+        },
+        {
+            "mal_id": 12959,
+            "type": "people",
+            "name": "Wakatsuki, Hikaru",
+            "url": "https://myanimelist.net/people/12959/Hikaru_Wakatsuki"
+        }
+    ],
+    "serializations": []
+}

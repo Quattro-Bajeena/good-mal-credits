@@ -1,0 +1,44 @@
+{
+    "mal_id": 31033,
+    "url": "https://myanimelist.net/anime/31033/Nintama_Rantarou__Dokutake_Onsen_no_Dan",
+    "image_url": "https://cdn.myanimelist.net/images/anime/10/74596.jpg",
+    "title": "Nintama Rantarou: Dokutake Onsen no Dan",
+    "title_english": null,
+    "title_japanese": "忍たま乱太郎 ドクタケ温泉の段",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2007-05-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 5,
+                "year": 2007
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "May 4, 2007"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11180,
+    "popularity": 13799,
+    "members": 274,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

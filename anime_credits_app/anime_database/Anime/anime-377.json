@@ -1,0 +1,50 @@
+{
+    "mal_id": 377,
+    "url": "https://myanimelist.net/anime/377/eX-Driver",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/26197.jpg",
+    "title": "eX-Driver",
+    "title_english": null,
+    "title_japanese": "エクスドライバー",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2000-07-25T00:00:00+00:00",
+        "to": "2001-09-25T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 7,
+                "year": 2000
+            },
+            "to": {
+                "day": 25,
+                "month": 9,
+                "year": 2001
+            }
+        },
+        "string": "Jul 25, 2000 to Sep 25, 2001"
+    },
+    "score": 6.73,
+    "scored_by": 3729,
+    "rank": 4759,
+    "popularity": 5169,
+    "members": 8719,
+    "favorites": 33,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 60,
+            "type": "anime",
+            "name": "Actas",
+            "url": "https://myanimelist.net/anime/producer/60/Actas"
+        },
+        {
+            "mal_id": 196,
+            "type": "anime",
+            "name": "Production Reed",
+            "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+        }
+    ]
+}

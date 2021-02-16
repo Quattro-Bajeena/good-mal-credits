@@ -1,0 +1,44 @@
+{
+    "mal_id": 3182,
+    "url": "https://myanimelist.net/anime/3182/Massugu_ni_Ikou_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/76160.jpg",
+    "title": "Massugu ni Ikou. 2nd Season",
+    "title_english": null,
+    "title_japanese": "まっすぐにいこう。第2期",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-03-27T00:00:00+00:00",
+        "to": "2004-04-01T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 27,
+                "month": 3,
+                "year": 2004
+            },
+            "to": {
+                "day": 1,
+                "month": 4,
+                "year": 2004
+            }
+        },
+        "string": "Mar 27, 2004 to Apr 1, 2004"
+    },
+    "score": 6.62,
+    "scored_by": 530,
+    "rank": 5289,
+    "popularity": 9197,
+    "members": 1737,
+    "favorites": 3,
+    "premiered": "Spring 2004",
+    "studios": [
+        {
+            "mal_id": 96,
+            "type": "anime",
+            "name": "Yumeta Company",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ]
+}

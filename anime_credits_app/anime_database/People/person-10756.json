@@ -1,0 +1,89 @@
+{
+    "mal_id": 10756,
+    "url": "https://myanimelist.net/people/10756/Chris_Orbach",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/35475.jpg",
+    "name": "Chris Orbach",
+    "given_name": null,
+    "family_name": null,
+    "birthday": "1968-11-11T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2249,
+                "url": "https://myanimelist.net/anime/2249/Amon_Saga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/2475.jpg?s=0ad9e54ab4fa3087bbb626641d14d7cd",
+                "name": "Amon Saga"
+            },
+            "character": {
+                "mal_id": 10033,
+                "url": "https://myanimelist.net/character/10033/Amon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/114785.jpg?s=35bf20cfb43b4783ab933caf4f4964c7",
+                "name": "Amon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2317,
+                "url": "https://myanimelist.net/anime/2317/Hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4818.jpg?s=6b384feef5f1d78fefb8100c3b0270e9",
+                "name": "Hen"
+            },
+            "character": {
+                "mal_id": 70247,
+                "url": "https://myanimelist.net/character/70247/Hiroyuki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/221141.jpg?s=c5624f19e36485c4e6fd0d581d1ecc9d",
+                "name": "Hiroyuki"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1378,
+                "url": "https://myanimelist.net/anime/1378/Sengoku_Kitan_Youtouden_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/1378.jpg?s=5c4776fca84882c02148e99a22e4b011",
+                "name": "Sengoku Kitan Youtouden Movie"
+            },
+            "character": {
+                "mal_id": 15056,
+                "url": "https://myanimelist.net/character/15056/Hayate_Sakon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/95918.jpg?s=4e9c7e92703c92fd5e8a25c68192f9c5",
+                "name": "Sakon, Hayate"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2462,
+                "url": "https://myanimelist.net/anime/2462/Toushinden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1870/97434.jpg?s=207a788ab77242ad99d89b5d82bad740",
+                "name": "Toushinden"
+            },
+            "character": {
+                "mal_id": 11030,
+                "url": "https://myanimelist.net/character/11030/Kayin_Amoh",
+                "image_url": "https://cdn.myanimelist.net/images/characters/15/123987.jpg?s=d9bba8e847000c6842104056bf04e7e8",
+                "name": "Amoh, Kayin"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 883,
+                "url": "https://myanimelist.net/anime/883/Yuu☆Yuu☆Hakusho__Meikai_Shitou-hen_-_Honoo_no_Kizuna",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/14592.jpg?s=a4a4600be079f8df4a9fb5327375935f",
+                "name": "Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna"
+            },
+            "character": {
+                "mal_id": 731,
+                "url": "https://myanimelist.net/character/731/Kurama",
+                "image_url": "https://cdn.myanimelist.net/images/characters/4/58629.jpg?s=709b5ac72bdd4367109aded5eb25e8ac",
+                "name": "Kurama"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

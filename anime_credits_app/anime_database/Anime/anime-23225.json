@@ -1,0 +1,44 @@
+{
+    "mal_id": 23225,
+    "url": "https://myanimelist.net/anime/23225/Yuru_Yuri_Nachuyachumi",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/73281.jpg",
+    "title": "Yuru Yuri Nachuyachumi!",
+    "title_english": null,
+    "title_japanese": "ゆるゆり なちゅやちゅみ！",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2015-02-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 2,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 18, 2015"
+    },
+    "score": 7.88,
+    "scored_by": 31733,
+    "rank": 703,
+    "popularity": 2009,
+    "members": 59674,
+    "favorites": 156,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 333,
+            "type": "anime",
+            "name": "TYO Animations",
+            "url": "https://myanimelist.net/anime/producer/333/TYO_Animations"
+        }
+    ]
+}

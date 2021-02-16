@@ -1,0 +1,44 @@
+{
+    "mal_id": 2922,
+    "url": "https://myanimelist.net/anime/2922/Ashita_no_Joe_2_Movie",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/53557.jpg",
+    "title": "Ashita no Joe 2 (Movie)",
+    "title_english": null,
+    "title_japanese": "あしたのジョー２",
+    "type": "Movie",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1981-07-04T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 4,
+                "month": 7,
+                "year": 1981
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jul 4, 1981"
+    },
+    "score": 7.27,
+    "scored_by": 1050,
+    "rank": 2487,
+    "popularity": 7557,
+    "members": 3327,
+    "favorites": 4,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+        }
+    ]
+}

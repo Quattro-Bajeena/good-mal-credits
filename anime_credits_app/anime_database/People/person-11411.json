@@ -1,0 +1,29 @@
+{
+    "mal_id": 11411,
+    "url": "https://myanimelist.net/people/11411/Atsuko_Kichiya",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Atsuko Kichiya",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 0,
+    "voice_acting_roles": [
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2317,
+                "url": "https://myanimelist.net/anime/2317/Hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4818.jpg?s=6b384feef5f1d78fefb8100c3b0270e9",
+                "name": "Hen"
+            },
+            "character": {
+                "mal_id": 16190,
+                "url": "https://myanimelist.net/character/16190/Chizuru_Yoshida",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/33541.jpg?s=a53d07834db67fb3e9d7c578b16a1c73",
+                "name": "Yoshida, Chizuru"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

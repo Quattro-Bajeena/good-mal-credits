@@ -1,0 +1,44 @@
+{
+    "mal_id": 32773,
+    "url": "https://myanimelist.net/anime/32773/Nintama_Rantarou_no_Uchuu_Daibouken_with_Cosmic_Front☆Next",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/78607.jpg",
+    "title": "Nintama Rantarou no Uchuu Daibouken with Cosmic Front☆Next",
+    "title_english": null,
+    "title_japanese": "忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT",
+    "type": "Special",
+    "source": "Unknown",
+    "episodes": null,
+    "status": "Currently Airing",
+    "aired": {
+        "from": "2016-02-11T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 11,
+                "month": 2,
+                "year": 2016
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Feb 11, 2016 to ?"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 11179,
+    "popularity": 14040,
+    "members": 256,
+    "favorites": 0,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Ajia-Do",
+            "url": "https://myanimelist.net/anime/producer/30/Ajia-Do"
+        }
+    ]
+}

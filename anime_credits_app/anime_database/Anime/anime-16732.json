@@ -1,0 +1,44 @@
+{
+    "mal_id": 16732,
+    "url": "https://myanimelist.net/anime/16732/Kiniro_Mosaic",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/51379.jpg",
+    "title": "Kiniro Mosaic",
+    "title_english": "KINMOZA!",
+    "title_japanese": "きんいろモザイク",
+    "type": "TV",
+    "source": "4-koma manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2013-07-06T00:00:00+00:00",
+        "to": "2013-09-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 6,
+                "month": 7,
+                "year": 2013
+            },
+            "to": {
+                "day": 21,
+                "month": 9,
+                "year": 2013
+            }
+        },
+        "string": "Jul 6, 2013 to Sep 21, 2013"
+    },
+    "score": 7.26,
+    "scored_by": 56416,
+    "rank": 2532,
+    "popularity": 962,
+    "members": 153775,
+    "favorites": 891,
+    "premiered": "Summer 2013",
+    "studios": [
+        {
+            "mal_id": 418,
+            "type": "anime",
+            "name": "Studio Gokumi",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        }
+    ]
+}

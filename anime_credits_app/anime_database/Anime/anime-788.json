@@ -1,0 +1,44 @@
+{
+    "mal_id": 788,
+    "url": "https://myanimelist.net/anime/788/Eiken__Eikenbu_yori_Ai_wo_Komete",
+    "image_url": "https://cdn.myanimelist.net/images/anime/8/42861.jpg",
+    "title": "Eiken: Eikenbu yori Ai wo Komete",
+    "title_english": "Eiken",
+    "title_japanese": "エイケン エイケンヴより愛をこめて",
+    "type": "OVA",
+    "source": "Manga",
+    "episodes": 2,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2003-06-25T00:00:00+00:00",
+        "to": "2004-06-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 6,
+                "year": 2003
+            },
+            "to": {
+                "day": 23,
+                "month": 6,
+                "year": 2004
+            }
+        },
+        "string": "Jun 25, 2003 to Jun 23, 2004"
+    },
+    "score": 4.39,
+    "scored_by": 13120,
+    "rank": 10945,
+    "popularity": 3269,
+    "members": 25072,
+    "favorites": 46,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

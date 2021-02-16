@@ -1,0 +1,52 @@
+{
+    "mal_id": 11127,
+    "url": "https://myanimelist.net/manga/11127/Rakudai_Ninja_Rantarou",
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/46903.jpg",
+    "title": "Rakudai Ninja Rantarou",
+    "title_english": "Rakudai Ninja Rantaro",
+    "title_japanese": "落第忍者乱太郎",
+    "type": "Manga",
+    "volumes": null,
+    "chapters": null,
+    "status": "Publishing",
+    "publishing": true,
+    "published": {
+        "from": "1986-02-16T14:19:46+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 16,
+                "month": 2,
+                "year": 1986
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": ", 1986 to ?"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": 15438,
+    "popularity": 20932,
+    "members": 274,
+    "favorites": 12,
+    "authors": [
+        {
+            "mal_id": 6588,
+            "type": "people",
+            "name": "Amako, Soubee",
+            "url": "https://myanimelist.net/people/6588/Soubee_Amako"
+        }
+    ],
+    "serializations": [
+        {
+            "mal_id": 501,
+            "type": "manga",
+            "name": "Asahi Shougakusei Shinbun",
+            "url": "https://myanimelist.net/manga/magazine/501/Asahi_Shougakusei_Shinbun"
+        }
+    ]
+}

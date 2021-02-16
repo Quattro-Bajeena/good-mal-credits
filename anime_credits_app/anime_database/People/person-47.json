@@ -1,0 +1,654 @@
+{
+    "mal_id": 47,
+    "url": "https://myanimelist.net/people/47/Naozumi_Takahashi",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/21623.jpg",
+    "name": "Naozumi Takahashi",
+    "given_name": "直純",
+    "family_name": "高橋",
+    "birthday": "1971-12-06T00:00:00+00:00",
+    "member_favorites": 53,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1946,
+                "url": "https://myanimelist.net/anime/1946/Ashita_no_Nadja",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75381.jpg?s=9766ad44b36b84ef593cf606480c2a66",
+                "name": "Ashita no Nadja"
+            },
+            "character": {
+                "mal_id": 6679,
+                "url": "https://myanimelist.net/character/6679/Fernando_González",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/23155.jpg?s=6af756e28f586ae181057c423924c099",
+                "name": "González, Fernando"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10163,
+                "url": "https://myanimelist.net/anime/10163/C__The_Money_of_Soul_and_Possibility_Control",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/50551.jpg?s=599ef08142b88d22ad88d97323e4b89c",
+                "name": "C: The Money of Soul and Possibility Control"
+            },
+            "character": {
+                "mal_id": 42615,
+                "url": "https://myanimelist.net/character/42615/Horii_Ichirou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/11/116105.jpg?s=e413c27d6155ced5077f66f17cd31648",
+                "name": "Ichirou, Horii"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1313,
+                "url": "https://myanimelist.net/anime/1313/Digimon_Adventure_02",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20360.jpg?s=d632e24439d9c7b0f05e4948a617612c",
+                "name": "Digimon Adventure 02"
+            },
+            "character": {
+                "mal_id": 6680,
+                "url": "https://myanimelist.net/character/6680/Wormmon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/295257.jpg?s=d27f44accc02f9e9505289d526dcd208",
+                "name": "Wormmon"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2398,
+                "url": "https://myanimelist.net/anime/2398/Digimon_Adventure_02__Diablomon_no_Gyakushuu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82620.jpg?s=6d52bed4db3ca16ddc07bd6b4b4368b5",
+                "name": "Digimon Adventure 02: Diablomon no Gyakushuu"
+            },
+            "character": {
+                "mal_id": 6680,
+                "url": "https://myanimelist.net/character/6680/Wormmon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/295257.jpg?s=d27f44accc02f9e9505289d526dcd208",
+                "name": "Wormmon"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 603,
+                "url": "https://myanimelist.net/anime/603/Futari_wa_Precure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7533.jpg?s=60baface765d06277ba4f2aa3ac43b3c",
+                "name": "Futari wa Precure"
+            },
+            "character": {
+                "mal_id": 48585,
+                "url": "https://myanimelist.net/character/48585/Ryouta_Misumi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/133387.jpg?s=6cadc940156d43595e6c1b5f430889d2",
+                "name": "Misumi, Ryouta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1929,
+                "url": "https://myanimelist.net/anime/1929/Futari_wa_Precure__Max_Heart",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/7536.jpg?s=da898972b862a1d0d655c8729416e549",
+                "name": "Futari wa Precure: Max Heart"
+            },
+            "character": {
+                "mal_id": 48585,
+                "url": "https://myanimelist.net/character/48585/Ryouta_Misumi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/133387.jpg?s=6cadc940156d43595e6c1b5f430889d2",
+                "name": "Misumi, Ryouta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1933,
+                "url": "https://myanimelist.net/anime/1933/Growlanser_IV__Wayfarer_of_the_Time",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1135/106141.jpg?s=2fa073d5ca2f409f1b81cb1fe1620d25",
+                "name": "Growlanser IV: Wayfarer of the Time"
+            },
+            "character": {
+                "mal_id": 6681,
+                "url": "https://myanimelist.net/character/6681/Crevaniel",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/64850.jpg?s=6d4cb3328d11750f9de36ab365115588",
+                "name": "Crevaniel"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1904,
+                "url": "https://myanimelist.net/anime/1904/Harukanaru_Toki_no_Naka_de_2__Shiroki_Ryuu_no_Miko",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/72172.jpg?s=447dab564e2a61cd4b881ed80f83286c",
+                "name": "Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko"
+            },
+            "character": {
+                "mal_id": 4029,
+                "url": "https://myanimelist.net/character/4029/Isato",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/102973.jpg?s=c500749f1ad637da72c176e8a19987ec",
+                "name": "Isato"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 3227,
+                "url": "https://myanimelist.net/anime/3227/Harukanaru_Toki_no_Naka_de_3__Kurenai_no_Tsuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/5110.jpg?s=90b028b882ee24b12d391a1c891070d8",
+                "name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki"
+            },
+            "character": {
+                "mal_id": 6682,
+                "url": "https://myanimelist.net/character/6682/Hinoe",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/54024.jpg?s=d3015936b58c6d8e09a7287836388e92",
+                "name": "Hinoe"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 4190,
+                "url": "https://myanimelist.net/anime/4190/Harukanaru_Toki_no_Naka_de_3__Kurenai_no_Tsuki_Special",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/7731.jpg?s=ceefd140cf62ebce59f137a47b28fc5b",
+                "name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special"
+            },
+            "character": {
+                "mal_id": 6682,
+                "url": "https://myanimelist.net/character/6682/Hinoe",
+                "image_url": "https://cdn.myanimelist.net/images/characters/16/54024.jpg?s=d3015936b58c6d8e09a7287836388e92",
+                "name": "Hinoe"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 647,
+                "url": "https://myanimelist.net/anime/647/Harukanaru_Toki_no_Naka_de__Ajisai_Yumegatari",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/72171.jpg?s=cac80f09f326eeeeead4fb605bc0b15d",
+                "name": "Harukanaru Toki no Naka de: Ajisai Yumegatari"
+            },
+            "character": {
+                "mal_id": 1469,
+                "url": "https://myanimelist.net/character/1469/Inori",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/99300.jpg?s=060b9ac132ae66a59b7577aedc9285bc",
+                "name": "Inori"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 247,
+                "url": "https://myanimelist.net/anime/247/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/7227.jpg?s=e693568acffe8adb0604136555e22ac6",
+                "name": "Harukanaru Toki no Naka de: Hachiyou Shou"
+            },
+            "character": {
+                "mal_id": 1469,
+                "url": "https://myanimelist.net/character/1469/Inori",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/99300.jpg?s=060b9ac132ae66a59b7577aedc9285bc",
+                "name": "Inori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 1906,
+                "url": "https://myanimelist.net/anime/1906/Harukanaru_Toki_no_Naka_de__Maihitoyo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/72170.jpg?s=9f24dce0b7734dc061bcca6d62da5892",
+                "name": "Harukanaru Toki no Naka de: Maihitoyo"
+            },
+            "character": {
+                "mal_id": 1469,
+                "url": "https://myanimelist.net/character/1469/Inori",
+                "image_url": "https://cdn.myanimelist.net/images/characters/14/99300.jpg?s=060b9ac132ae66a59b7577aedc9285bc",
+                "name": "Inori"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 24457,
+                "url": "https://myanimelist.net/anime/24457/Houkago_no_Ouji-sama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/63211.jpg?s=5f1c6e18eb64f221cb4d422cd52ad78f",
+                "name": "Houkago no Ouji-sama"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 142,
+                "url": "https://myanimelist.net/anime/142/Kamikaze_Kaitou_Jeanne",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/20389.jpg?s=113fb252b27c733c422890eef78ba9ad",
+                "name": "Kamikaze Kaitou Jeanne"
+            },
+            "character": {
+                "mal_id": 6684,
+                "url": "https://myanimelist.net/character/6684/Yamato_Minazuki",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/81624.jpg?s=dd58c9afb2af7ffb0bf6de0f9bfe77ad",
+                "name": "Minazuki, Yamato"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2076,
+                "url": "https://myanimelist.net/anime/2076/Kindaichi_Shounen_no_Jikenbo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3741.jpg?s=52d7b507c3050f0c27591bcde096640b",
+                "name": "Kindaichi Shounen no Jikenbo"
+            },
+            "character": {
+                "mal_id": 163125,
+                "url": "https://myanimelist.net/character/163125/Teppei_Yao",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/360567.jpg?s=01c1272b0a3eb3c36156d3d723ed6867",
+                "name": "Yao, Teppei"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2076,
+                "url": "https://myanimelist.net/anime/2076/Kindaichi_Shounen_no_Jikenbo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3741.jpg?s=52d7b507c3050f0c27591bcde096640b",
+                "name": "Kindaichi Shounen no Jikenbo"
+            },
+            "character": {
+                "mal_id": 163227,
+                "url": "https://myanimelist.net/character/163227/Takuya_Aoyagi",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/360750.jpg?s=81b884a8afff3539daa750c6bd305916",
+                "name": "Aoyagi, Takuya"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2076,
+                "url": "https://myanimelist.net/anime/2076/Kindaichi_Shounen_no_Jikenbo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3741.jpg?s=52d7b507c3050f0c27591bcde096640b",
+                "name": "Kindaichi Shounen no Jikenbo"
+            },
+            "character": {
+                "mal_id": 163709,
+                "url": "https://myanimelist.net/character/163709/Masahiko_Kyoutani",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/361658.jpg?s=40e1671fed3db5ab89d7dfd1c6c7db40",
+                "name": "Kyoutani, Masahiko"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 250,
+                "url": "https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/14983.jpg?s=42ac5f93b29558f6386a7d442c9183fc",
+                "name": "Konjiki no Gash Bell!!"
+            },
+            "character": {
+                "mal_id": 6685,
+                "url": "https://myanimelist.net/character/6685/Momon",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/278208.jpg?s=e299a00c8fb92a8a23b772a57c1f77d2",
+                "name": "Momon"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 1070,
+                "url": "https://myanimelist.net/anime/1070/Love_Get_Chu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52613.jpg?s=fc9c9974e14be254c73004cb1b48ae10",
+                "name": "Love Get Chu"
+            },
+            "character": {
+                "mal_id": 3560,
+                "url": "https://myanimelist.net/character/3560/Atari_Maeda",
+                "image_url": "https://cdn.myanimelist.net/images/characters/12/154811.jpg?s=bf07c81f27efae0528970006e74983be",
+                "name": "Maeda, Atari"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 33788,
+                "url": "https://myanimelist.net/anime/33788/Marginal4__Kiss_kara_Tsukuru_Big_Bang",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/83799.jpg?s=cd1cbc95da6f69c82f67abefd301eb70",
+                "name": "Marginal#4: Kiss kara Tsukuru Big Bang"
+            },
+            "character": {
+                "mal_id": 144009,
+                "url": "https://myanimelist.net/character/144009/Rui_Aiba",
+                "image_url": "https://cdn.myanimelist.net/images/characters/2/314150.jpg?s=ec2a4256d8495d1f88de95923a4d87d8",
+                "name": "Aiba, Rui"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 34414,
+                "url": "https://myanimelist.net/anime/34414/Nanbaka_2",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/83263.jpg?s=a68236407f85780e26d73eb47cdd52bc",
+                "name": "Nanbaka 2"
+            },
+            "character": {
+                "mal_id": 136871,
+                "url": "https://myanimelist.net/character/136871/Ruka_Gojou",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/322041.jpg?s=db286cae5f12e5251343c57572ec08f1",
+                "name": "Gojou, Ruka"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 33113,
+                "url": "https://myanimelist.net/anime/33113/Scared_Rider_Xechs",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/79983.jpg?s=461579a7dc9e68a1e7679984d171e876",
+                "name": "Scared Rider Xechs"
+            },
+            "character": {
+                "mal_id": 140534,
+                "url": "https://myanimelist.net/character/140534/Duesenberg",
+                "image_url": "https://cdn.myanimelist.net/images/characters/7/307979.jpg?s=0839abd6e082d4996e7114c5ea7751ca",
+                "name": "Duesenberg"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 11371,
+                "url": "https://myanimelist.net/anime/11371/Shin_Tennis_no_Ouji-sama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/33591.jpg?s=2258d51803afee9c0e9385258c854f51",
+                "name": "Shin Tennis no Ouji-sama"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 21755,
+                "url": "https://myanimelist.net/anime/21755/Shin_Tennis_no_Ouji-sama_OVA_vs_Genius_10",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/65403.jpg?s=dbca5970aed935ca2394863d8e102137",
+                "name": "Shin Tennis no Ouji-sama OVA vs. Genius 10"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 13245,
+                "url": "https://myanimelist.net/anime/13245/Shin_Tennis_no_Ouji-sama_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/39891.jpg?s=feec514eebd15541e549e22212e2c215",
+                "name": "Shin Tennis no Ouji-sama Specials"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 22,
+                "url": "https://myanimelist.net/anime/22/Tennis_no_Ouji-sama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.jpg?s=beee4c48fd830c8a4294e4ebea75eea9",
+                "name": "Tennis no Ouji-sama"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10731,
+                "url": "https://myanimelist.net/anime/10731/Tennis_no_Ouji-sama_Movie_2__Eikokushiki_Teikyuu_Shiro_Kessen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/32079.jpg?s=8af7a86a65b59478915213c8412b8b6b",
+                "name": "Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 5751,
+                "url": "https://myanimelist.net/anime/5751/Tennis_no_Ouji-sama__Another_Story_-_Kako_to_Mirai_no_Message",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/13553.jpg?s=02af8fe8cae9a3fcb19698654c5d9365",
+                "name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 10573,
+                "url": "https://myanimelist.net/anime/10573/Tennis_no_Ouji-sama__Another_Story_II_-_Ano_Toki_no_Bokura",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/29026.jpg?s=f180bf35e8b268828a7ac46fa4905700",
+                "name": "Tennis no Ouji-sama: Another Story II - Ano Toki no Bokura"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 13073,
+                "url": "https://myanimelist.net/anime/13073/Tennis_no_Ouji-sama__Another_Story_II_-_Ano_Toki_no_Bokura_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/36739.jpg?s=20f7548474aa3bb0474d0e1094fa393c",
+                "name": "Tennis no Ouji-sama: Another Story II - Ano Toki no Bokura Specials"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 814,
+                "url": "https://myanimelist.net/anime/814/Tennis_no_Ouji-sama__Atobe_kara_no_Okurimono_-_Kimi_ni_Sasageru_Tennis_Prince_Matsuri",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/6381.jpg?s=6526909de1c07fbb6822ff47de2ae097",
+                "name": "Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 10862,
+                "url": "https://myanimelist.net/anime/10862/Tennis_no_Ouji-sama__Pair_Prince",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/30020.jpg?s=d0351dfc726126efe54a2493fc9e9039",
+                "name": "Tennis no Ouji-sama: Pair Prince"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 995,
+                "url": "https://myanimelist.net/anime/995/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/10572.jpg?s=68e5b430bdd5cb65a297274825112081",
+                "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 4053,
+                "url": "https://myanimelist.net/anime/4053/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen_-_Final",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/7525.jpg?s=fc508bd4b19c371e8f4f7a9eb52c3784",
+                "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2752,
+                "url": "https://myanimelist.net/anime/2752/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen_-_Semifinal",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/3713.jpg?s=774a4516851aff37b66b8af80884bbe4",
+                "name": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Semifinal"
+            },
+            "character": {
+                "mal_id": 3659,
+                "url": "https://myanimelist.net/character/3659/Bunta_Marui",
+                "image_url": "https://cdn.myanimelist.net/images/characters/9/39792.jpg?s=6dd9006bf7502f97105267e5c6a114d5",
+                "name": "Marui, Bunta"
+            }
+        }
+    ],
+    "anime_staff_positions": [
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1498,
+                "url": "https://myanimelist.net/anime/1498/Black_Blood_Brothers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/13804.jpg?s=63309cabcd55b2da754ab0da1db532b6",
+                "name": "Black Blood Brothers"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 1498,
+                "url": "https://myanimelist.net/anime/1498/Black_Blood_Brothers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/13804.jpg?s=63309cabcd55b2da754ab0da1db532b6",
+                "name": "Black Blood Brothers"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 3227,
+                "url": "https://myanimelist.net/anime/3227/Harukanaru_Toki_no_Naka_de_3__Kurenai_no_Tsuki",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/5110.jpg?s=90b028b882ee24b12d391a1c891070d8",
+                "name": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 247,
+                "url": "https://myanimelist.net/anime/247/Harukanaru_Toki_no_Naka_de__Hachiyou_Shou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/7227.jpg?s=e693568acffe8adb0604136555e22ac6",
+                "name": "Harukanaru Toki no Naka de: Hachiyou Shou"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 33788,
+                "url": "https://myanimelist.net/anime/33788/Marginal4__Kiss_kara_Tsukuru_Big_Bang",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/83799.jpg?s=cd1cbc95da6f69c82f67abefd301eb70",
+                "name": "Marginal#4: Kiss kara Tsukuru Big Bang"
+            }
+        },
+        {
+            "position": "Theme Song Composition",
+            "anime": {
+                "mal_id": 1738,
+                "url": "https://myanimelist.net/anime/1738/Muteki_Kanban_Musume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/26444.jpg?s=fac553b43ba530ef06aa0abc475cff82",
+                "name": "Muteki Kanban Musume"
+            }
+        },
+        {
+            "position": "Theme Song Lyrics",
+            "anime": {
+                "mal_id": 1738,
+                "url": "https://myanimelist.net/anime/1738/Muteki_Kanban_Musume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/26444.jpg?s=fac553b43ba530ef06aa0abc475cff82",
+                "name": "Muteki Kanban Musume"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 1738,
+                "url": "https://myanimelist.net/anime/1738/Muteki_Kanban_Musume",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/26444.jpg?s=fac553b43ba530ef06aa0abc475cff82",
+                "name": "Muteki Kanban Musume"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 11371,
+                "url": "https://myanimelist.net/anime/11371/Shin_Tennis_no_Ouji-sama",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/33591.jpg?s=2258d51803afee9c0e9385258c854f51",
+                "name": "Shin Tennis no Ouji-sama"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 13245,
+                "url": "https://myanimelist.net/anime/13245/Shin_Tennis_no_Ouji-sama_Specials",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/39891.jpg?s=feec514eebd15541e549e22212e2c215",
+                "name": "Shin Tennis no Ouji-sama Specials"
+            }
+        },
+        {
+            "position": "Theme Song Performance",
+            "anime": {
+                "mal_id": 5751,
+                "url": "https://myanimelist.net/anime/5751/Tennis_no_Ouji-sama__Another_Story_-_Kako_to_Mirai_no_Message",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/13553.jpg?s=02af8fe8cae9a3fcb19698654c5d9365",
+                "name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+            }
+        }
+    ],
+    "published_manga": []
+}

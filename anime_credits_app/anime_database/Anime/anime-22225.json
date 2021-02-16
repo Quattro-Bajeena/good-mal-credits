@@ -1,0 +1,50 @@
+{
+    "mal_id": 22225,
+    "url": "https://myanimelist.net/anime/22225/Momo_Kyun_Sword",
+    "image_url": "https://cdn.myanimelist.net/images/anime/2/64445.jpg",
+    "title": "Momo Kyun Sword",
+    "title_english": "Momokyun Sword",
+    "title_japanese": "モモキュンソード",
+    "type": "TV",
+    "source": "Light novel",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-07-09T00:00:00+00:00",
+        "to": "2014-09-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 9,
+                "month": 7,
+                "year": 2014
+            },
+            "to": {
+                "day": 24,
+                "month": 9,
+                "year": 2014
+            }
+        },
+        "string": "Jul 9, 2014 to Sep 24, 2014"
+    },
+    "score": 5.59,
+    "scored_by": 7713,
+    "rank": 9446,
+    "popularity": 3035,
+    "members": 28897,
+    "favorites": 25,
+    "premiered": "Summer 2014",
+    "studios": [
+        {
+            "mal_id": 439,
+            "type": "anime",
+            "name": "Project No.9",
+            "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        },
+        {
+            "mal_id": 1165,
+            "type": "anime",
+            "name": "Tri-Slash",
+            "url": "https://myanimelist.net/anime/producer/1165/Tri-Slash"
+        }
+    ]
+}

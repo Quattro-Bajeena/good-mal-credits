@@ -1,0 +1,44 @@
+{
+    "mal_id": 31771,
+    "url": "https://myanimelist.net/anime/31771/Amanchu",
+    "image_url": "https://cdn.myanimelist.net/images/anime/6/80810.jpg",
+    "title": "Amanchu!",
+    "title_english": null,
+    "title_japanese": "あまんちゅ！",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2016-07-08T00:00:00+00:00",
+        "to": "2016-09-23T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 8,
+                "month": 7,
+                "year": 2016
+            },
+            "to": {
+                "day": 23,
+                "month": 9,
+                "year": 2016
+            }
+        },
+        "string": "Jul 8, 2016 to Sep 23, 2016"
+    },
+    "score": 7.27,
+    "scored_by": 27670,
+    "rank": 2484,
+    "popularity": 1656,
+    "members": 80480,
+    "favorites": 272,
+    "premiered": "Summer 2016",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

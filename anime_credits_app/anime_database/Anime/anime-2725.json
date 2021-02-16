@@ -1,0 +1,44 @@
+{
+    "mal_id": 2725,
+    "url": "https://myanimelist.net/anime/2725/Tenchi_Muyou__Galaxy_Police_Mihoshi_Space_Adventure",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1274/94457.jpg",
+    "title": "Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure",
+    "title_english": null,
+    "title_japanese": "天地無用! 番外篇 宇宙刑事[ギャラクシーポリス]美星 銀河大冒険[スペースアドベンチャー]",
+    "type": "OVA",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1994-03-25T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 3,
+                "year": 1994
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Mar 25, 1994"
+    },
+    "score": 6.82,
+    "scored_by": 3820,
+    "rank": 4374,
+    "popularity": 5305,
+    "members": 8211,
+    "favorites": 6,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 48,
+            "type": "anime",
+            "name": "AIC",
+            "url": "https://myanimelist.net/anime/producer/48/AIC"
+        }
+    ]
+}

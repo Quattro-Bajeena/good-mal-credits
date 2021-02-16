@@ -1,0 +1,44 @@
+{
+    "mal_id": 10030,
+    "url": "https://myanimelist.net/anime/10030/Bakuman_2nd_Season",
+    "image_url": "https://cdn.myanimelist.net/images/anime/3/34923.jpg",
+    "title": "Bakuman. 2nd Season",
+    "title_english": "Bakuman.",
+    "title_japanese": "バクマン。2ndシーズン",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2011-10-01T00:00:00+00:00",
+        "to": "2012-03-24T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 1,
+                "month": 10,
+                "year": 2011
+            },
+            "to": {
+                "day": 24,
+                "month": 3,
+                "year": 2012
+            }
+        },
+        "string": "Oct 1, 2011 to Mar 24, 2012"
+    },
+    "score": 8.4,
+    "scored_by": 172318,
+    "rank": 153,
+    "popularity": 487,
+    "members": 288739,
+    "favorites": 1379,
+    "premiered": "Fall 2011",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 1660,
+    "url": "https://myanimelist.net/anime/1660/Kurogane_Communication",
+    "image_url": "https://cdn.myanimelist.net/images/anime/5/25228.jpg",
+    "title": "Kurogane Communication",
+    "title_english": "Kurogane Communication",
+    "title_japanese": "鉄コミュニケイション",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 24,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1998-10-05T00:00:00+00:00",
+        "to": "1999-03-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 1998
+            },
+            "to": {
+                "day": 29,
+                "month": 3,
+                "year": 1999
+            }
+        },
+        "string": "Oct 5, 1998 to Mar 29, 1999"
+    },
+    "score": 6.66,
+    "scored_by": 1122,
+    "rank": 5081,
+    "popularity": 6680,
+    "members": 4635,
+    "favorites": 3,
+    "premiered": "Fall 1998",
+    "studios": [
+        {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "APPP",
+            "url": "https://myanimelist.net/anime/producer/77/APPP"
+        }
+    ]
+}

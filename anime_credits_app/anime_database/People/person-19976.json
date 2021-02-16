@@ -1,0 +1,653 @@
+{
+    "mal_id": 19976,
+    "url": "https://myanimelist.net/people/19976/Yukihiro_Shibutani",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/43826.jpg",
+    "name": "Yukihiro Shibutani",
+    "given_name": "幸弘",
+    "family_name": "渋谷",
+    "birthday": "1960-11-26T00:00:00+00:00",
+    "member_favorites": 1,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 47,
+                "url": "https://myanimelist.net/anime/47/Akira",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/82596.jpg?s=948835589d4ffaae7a4a975a6c1d61b4",
+                "name": "Akira"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 7193,
+                "url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/17471.jpg?s=349b126e98245c095c10d7107eba5441",
+                "name": "Aoi Bungaku Series"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 38199,
+                "url": "https://myanimelist.net/anime/38199/Bermuda_Triangle__Colorful_Pastrale",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1449/93947.jpg?s=e1df3ec2fa5fe4f5088d6f2870f890d8",
+                "name": "Bermuda Triangle: Colorful Pastrale"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 13535,
+                "url": "https://myanimelist.net/anime/13535/Binbougami_ga",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/39333.jpg?s=711eaf45869ed6564e24ed4740710a04",
+                "name": "Binbougami ga!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 235,
+                "url": "https://myanimelist.net/anime/235/Detective_Conan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/75199.jpg?s=614b950ad92b7bf700f693ccb3cd84f9",
+                "name": "Detective Conan"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 779,
+                "url": "https://myanimelist.net/anime/779/Detective_Conan_Movie_01__The_Timed_Skyscraper",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/77131.jpg?s=c12c1e416c6650334b370a71ef2af8d9",
+                "name": "Detective Conan Movie 01: The Timed Skyscraper"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 780,
+                "url": "https://myanimelist.net/anime/780/Detective_Conan_Movie_02__The_Fourteenth_Target",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1900/94316.jpg?s=e8219a50a1bf6b1bd8f7dbde761473c7",
+                "name": "Detective Conan Movie 02: The Fourteenth Target"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 781,
+                "url": "https://myanimelist.net/anime/781/Detective_Conan_Movie_03__The_Last_Wizard_of_the_Century",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1831/94317.jpg?s=fc2b89bd7753c49c1350a472686b5143",
+                "name": "Detective Conan Movie 03: The Last Wizard of the Century"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1363,
+                "url": "https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1196/94319.jpg?s=93caf4040d96e8daad7069b728a05156",
+                "name": "Detective Conan Movie 04: Captured in Her Eyes"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1364,
+                "url": "https://myanimelist.net/anime/1364/Detective_Conan_Movie_05__Countdown_to_Heaven",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1144/92654.jpg?s=f63c89ecc9936d647380f3d04fd2e899",
+                "name": "Detective Conan Movie 05: Countdown to Heaven"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1365,
+                "url": "https://myanimelist.net/anime/1365/Detective_Conan_Movie_06__The_Phantom_of_Baker_Street",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1400/94320.jpg?s=003e43ea1d564090d4a4f246f7cc25b5",
+                "name": "Detective Conan Movie 06: The Phantom of Baker Street"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1366,
+                "url": "https://myanimelist.net/anime/1366/Detective_Conan_Movie_07__Crossroad_in_the_Ancient_Capital",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/20984.jpg?s=12b08c7ee2cb8be0b5c0b31b2b9b7936",
+                "name": "Detective Conan Movie 07: Crossroad in the Ancient Capital"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1367,
+                "url": "https://myanimelist.net/anime/1367/Detective_Conan_Movie_08__Magician_of_the_Silver_Sky",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/20982.jpg?s=84391b0d21756759f8b63df339ab6eb1",
+                "name": "Detective Conan Movie 08: Magician of the Silver Sky"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1505,
+                "url": "https://myanimelist.net/anime/1505/Detective_Conan_Movie_09__Strategy_Above_the_Depths",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/20983.jpg?s=663a2bbe055435368689d692d81cd3ea",
+                "name": "Detective Conan Movie 09: Strategy Above the Depths"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1506,
+                "url": "https://myanimelist.net/anime/1506/Detective_Conan_Movie_10__Requiem_of_the_Detectives",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg?s=093678ff37331768b5083ce8069c738a",
+                "name": "Detective Conan Movie 10: Requiem of the Detectives"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 2171,
+                "url": "https://myanimelist.net/anime/2171/Detective_Conan_Movie_11__Jolly_Roger_in_the_Deep_Azure",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1765/94323.jpg?s=c00916598e26a2c1a0a707e18136647f",
+                "name": "Detective Conan Movie 11: Jolly Roger in the Deep Azure"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 4447,
+                "url": "https://myanimelist.net/anime/4447/Detective_Conan_Movie_12__Full_Score_of_Fear",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/22766.jpg?s=6d7ac72d6714f13517ea691cb53a87bd",
+                "name": "Detective Conan Movie 12: Full Score of Fear"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 5460,
+                "url": "https://myanimelist.net/anime/5460/Detective_Conan_Movie_13__The_Raven_Chaser",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/22558.jpg?s=c8aacb52aa36925f297f32a7acb7d6cf",
+                "name": "Detective Conan Movie 13: The Raven Chaser"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 6467,
+                "url": "https://myanimelist.net/anime/6467/Detective_Conan_Movie_14__The_Lost_Ship_in_the_Sky",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/22312.jpg?s=002d3c899d9fb960963db293f046e5d9",
+                "name": "Detective Conan Movie 14: The Lost Ship in the Sky"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 9963,
+                "url": "https://myanimelist.net/anime/9963/Detective_Conan_Movie_15__Quarter_of_Silence",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/32035.jpg?s=c3e740ca4afe3244776ce0c846cd2f82",
+                "name": "Detective Conan Movie 15: Quarter of Silence"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 12117,
+                "url": "https://myanimelist.net/anime/12117/Detective_Conan_Movie_16__The_Eleventh_Striker",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/37511.jpg?s=d37f15e8167bfa8f04906e138a4d0f9b",
+                "name": "Detective Conan Movie 16: The Eleventh Striker"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 14735,
+                "url": "https://myanimelist.net/anime/14735/Detective_Conan_Movie_17__Private_Eye_in_the_Distant_Sea",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/47419.jpg?s=4f7f3703dc66d32c4506fd178f987108",
+                "name": "Detective Conan Movie 17: Private Eye in the Distant Sea"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 28479,
+                "url": "https://myanimelist.net/anime/28479/Detective_Conan_Movie_19__The_Hellfire_Sunflowers",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/73618.jpg?s=32d8bfc54bbc2012d40d20c296fa6d7d",
+                "name": "Detective Conan Movie 19: The Hellfire Sunflowers"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 3371,
+                "url": "https://myanimelist.net/anime/3371/Ginga_Eiyuu_Densetsu_Gaiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/28463.jpg?s=0b18b44e66e93d64ce1a3c99b9ee6722",
+                "name": "Ginga Eiyuu Densetsu Gaiden"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 33783,
+                "url": "https://myanimelist.net/anime/33783/Godzilla_1__Kaijuu_Wakusei",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1847/93081.jpg?s=7f71b4b21b1dd298775d35ff8720b220",
+                "name": "Godzilla 1: Kaijuu Wakusei"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 36816,
+                "url": "https://myanimelist.net/anime/36816/Godzilla_2__Kessen_Kidou_Zoushoku_Toshi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1748/98537.jpg?s=bc72cb81ea3200a13f7fd97b030731e5",
+                "name": "Godzilla 2: Kessen Kidou Zoushoku Toshi"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 37897,
+                "url": "https://myanimelist.net/anime/37897/Godzilla_3__Hoshi_wo_Kuu_Mono",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1556/93690.jpg?s=206ff864726ce4d1e5a357191330c550",
+                "name": "Godzilla 3: Hoshi wo Kuu Mono"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 8967,
+                "url": "https://myanimelist.net/anime/8967/Hidari_no_OClock",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/24830.jpg?s=680c4e48000e00a92d4c8e2e9d5e75be",
+                "name": "Hidari no O'Clock!!"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 10408,
+                "url": "https://myanimelist.net/anime/10408/Hotarubi_no_Mori_e",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/38229.jpg?s=aff78e2f3e9e8a42dcc82e98cb6df437",
+                "name": "Hotarubi no Mori e"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1230,
+                "url": "https://myanimelist.net/anime/1230/Innocent_Venus",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/8629.jpg?s=ddba109c8047d29fcb5d2eba9115f646",
+                "name": "Innocent Venus"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 450,
+                "url": "https://myanimelist.net/anime/450/InuYasha_Movie_2__Kagami_no_Naka_no_Mugenjo",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg?s=e5b110509a253e251b87adf0afae846e",
+                "name": "InuYasha Movie 2: Kagami no Naka no Mugenjo"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 451,
+                "url": "https://myanimelist.net/anime/451/InuYasha_Movie_3__Tenka_Hadou_no_Ken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg?s=c00c6f6e0695809d6991ad78c9f45d26",
+                "name": "InuYasha Movie 3: Tenka Hadou no Ken"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 449,
+                "url": "https://myanimelist.net/anime/449/InuYasha_Movie_4__Guren_no_Houraijima",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1216/94369.jpg?s=015968e03b7c5b4adc511cefd9891eb3",
+                "name": "InuYasha Movie 4: Guren no Houraijima"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 489,
+                "url": "https://myanimelist.net/anime/489/Kamichu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24641.jpg?s=059db56e2f89b565e185ad931bbfd636",
+                "name": "Kamichu!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 489,
+                "url": "https://myanimelist.net/anime/489/Kamichu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24641.jpg?s=059db56e2f89b565e185ad931bbfd636",
+                "name": "Kamichu!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1457,
+                "url": "https://myanimelist.net/anime/1457/Key_the_Metal_Idol",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/11220.jpg?s=ca324071f479caf85f26c968a8d4162e",
+                "name": "Key the Metal Idol"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 1095,
+                "url": "https://myanimelist.net/anime/1095/Kidou_Keisatsu_Patlabor_the_Movie",
+                "image_url": "https://cdn.myanimelist.net/images/anime/5/74786.jpg?s=a1c2cd4d4c91676b72f47602c6197bbc",
+                "name": "Kidou Keisatsu Patlabor the Movie"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 324,
+                "url": "https://myanimelist.net/anime/324/Kidou_Keisatsu_Patlabor__On_Television",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/59293.jpg?s=067b4e8f413de404896f770ba4df895d",
+                "name": "Kidou Keisatsu Patlabor: On Television"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8129,
+                "url": "https://myanimelist.net/anime/8129/Kuragehime",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/24865.jpg?s=f97cdebd237370d5dac2d26e975c5d1a",
+                "name": "Kuragehime"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 28423,
+                "url": "https://myanimelist.net/anime/28423/Kyoukai_no_Rinne_TV",
+                "image_url": "https://cdn.myanimelist.net/images/anime/13/73436.jpg?s=43dfb7f76c2fff9ad08decc1e6cfb014",
+                "name": "Kyoukai no Rinne (TV)"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 6796,
+                "url": "https://myanimelist.net/anime/6796/Kyuukyoku_Choujin_R",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1073/94286.jpg?s=e5fd159c45bd6756491916b4bf629e7c",
+                "name": "Kyuukyoku Choujin R"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1434,
+                "url": "https://myanimelist.net/anime/1434/Lupin_III__Harimao_no_Zaihou_wo_Oe",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1156/96563.jpg?s=09ac001f2ca97c8c40798700887ed0ae",
+                "name": "Lupin III: Harimao no Zaihou wo Oe!!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1417,
+                "url": "https://myanimelist.net/anime/1417/Lupin_III__Moeyo_Zantetsuken",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/77771.jpg?s=e418e6973f4b19ce1e1caa8b95821f6d",
+                "name": "Lupin III: Moeyo Zantetsuken!"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 952,
+                "url": "https://myanimelist.net/anime/952/Magical_Nyan_Nyan_Taruto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1/952.jpg?s=415116cf579b3e5d8c33096357ded10b",
+                "name": "Magical Nyan Nyan Taruto"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1620,
+                "url": "https://myanimelist.net/anime/1620/Maps",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/22262.jpg?s=8cd9f5b6369c483fc8380b7f2eaf726c",
+                "name": "Maps"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1286,
+                "url": "https://myanimelist.net/anime/1286/MD_Geist_II__Death_Force",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1351/96371.jpg?s=c838ff8a5a4f24286078891b8287fb3c",
+                "name": "MD Geist II: Death Force"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8130,
+                "url": "https://myanimelist.net/anime/8130/Mighty_Orbots",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1415/92895.jpg?s=5e64c903a3d4830f90f646d6ed16b71c",
+                "name": "Mighty Orbots"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 4081,
+                "url": "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1681/108439.jpg?s=40e8f630a7657b85aeb706a6797c58a4",
+                "name": "Natsume Yuujinchou"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 32983,
+                "url": "https://myanimelist.net/anime/32983/Natsume_Yuujinchou_Go",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/81755.jpg?s=1a2c064dd7d995dd5d7802e2e2915c4e",
+                "name": "Natsume Yuujinchou Go"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 36538,
+                "url": "https://myanimelist.net/anime/36538/Natsume_Yuujinchou_Movie__Utsusemi_ni_Musubu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1250/94846.jpg?s=34bdeb4c85977d3e74d72302e9368505",
+                "name": "Natsume Yuujinchou Movie: Utsusemi ni Musubu"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 10379,
+                "url": "https://myanimelist.net/anime/10379/Natsume_Yuujinchou_San",
+                "image_url": "https://cdn.myanimelist.net/images/anime/8/82394.jpg?s=9da99576d33644d09a61579bff3d79a5",
+                "name": "Natsume Yuujinchou San"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 11665,
+                "url": "https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/37449.jpg?s=1cd457090bd90de2f4e58c9ff2d692a6",
+                "name": "Natsume Yuujinchou Shi"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 20651,
+                "url": "https://myanimelist.net/anime/20651/Natsume_Yuujinchou__Itsuka_Yuki_no_Hi_ni",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/79742.jpg?s=98f1924ee2610326a8bf61f0be68b2b9",
+                "name": "Natsume Yuujinchou: Itsuka Yuki no Hi ni"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8487,
+                "url": "https://myanimelist.net/anime/8487/Onigamiden",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/28871.jpg?s=57721cb8ed7d923401daade6e0c601f2",
+                "name": "Onigamiden"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 2159,
+                "url": "https://myanimelist.net/anime/2159/Ookiku_Furikabutte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/20751.jpg?s=1ead9004d4165c3d0cce86dec4532cc5",
+                "name": "Ookiku Furikabutte"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 7720,
+                "url": "https://myanimelist.net/anime/7720/Ookiku_Furikabutte__Natsu_no_Taikai-hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/18671.jpg?s=59c257df2cccd5c0df5d9eb3df8b416f",
+                "name": "Ookiku Furikabutte: Natsu no Taikai-hen"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2332,
+                "url": "https://myanimelist.net/anime/2332/Plastic_Little",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2599.jpg?s=65274ed9912812d916d0bb9190ecf2dc",
+                "name": "Plastic Little"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2906,
+                "url": "https://myanimelist.net/anime/2906/Rokushin_Gattai_GodMars__Juunana-sai_no_Densetsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/58745.jpg?s=b131375fea24791f12551daff9380f44",
+                "name": "Rokushin Gattai GodMars: Juunana-sai no Densetsu"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1166,
+                "url": "https://myanimelist.net/anime/1166/Sakura_Taisen__Gouka_Kenran",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/25433.jpg?s=e798bd391ccd51f151ca0fa72398b197",
+                "name": "Sakura Taisen: Gouka Kenran"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 1165,
+                "url": "https://myanimelist.net/anime/1165/Sakura_Taisen__Ouka_Kenran",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/15969.jpg?s=335f4599882f627186d6a7368ce131c7",
+                "name": "Sakura Taisen: Ouka Kenran"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 6203,
+                "url": "https://myanimelist.net/anime/6203/Sasameki_Koto",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/75225.jpg?s=995757c7900f8e78eb981a8bb8457cd1",
+                "name": "Sasameki Koto"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 37450,
+                "url": "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1301/93586.jpg?s=3698ad2f2ca9b4a26edd3090ad2f4bd2",
+                "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2770,
+                "url": "https://myanimelist.net/anime/2770/SF_Shinseiki_Lensman",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/35347.jpg?s=03733ae45fbd5272bb9525c9c49e33a9",
+                "name": "SF Shinseiki Lensman"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 9749,
+                "url": "https://myanimelist.net/anime/9749/Shin_Otokogi",
+                "image_url": "https://cdn.myanimelist.net/images/anime/2/26995.jpg?s=34c67fa51f3fa532bc16576fb362f811",
+                "name": "Shin Otokogi"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 8407,
+                "url": "https://myanimelist.net/anime/8407/Sora_no_Otoshimono__Forte",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/50309.jpg?s=e6bc1a99a5dbd2fa65e88482e78ac919",
+                "name": "Sora no Otoshimono: Forte"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 2419,
+                "url": "https://myanimelist.net/anime/2419/Spirit_of_Wonder__China-san_no_Yuuutsu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/9/57935.jpg?s=3f978b290ed77bac8777200107ae3ce5",
+                "name": "Spirit of Wonder: China-san no Yuuutsu"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 41389,
+                "url": "https://myanimelist.net/anime/41389/Tonikaku_Kawaii",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg?s=4f71a9415493724797345a8c6800c852",
+                "name": "Tonikaku Kawaii"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 176,
+                "url": "https://myanimelist.net/anime/176/Triangle_Heart__Sweet_Songs_Forever",
+                "image_url": "https://cdn.myanimelist.net/images/anime/7/17439.jpg?s=4d05f6e15ff734493c72b17aee5be387",
+                "name": "Triangle Heart: Sweet Songs Forever"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 28,
+                "url": "https://myanimelist.net/anime/28/Yakitate_Japan",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/76432.jpg?s=d1421ec8b051a9c006ad122f64a72059",
+                "name": "Yakitate!! Japan"
+            }
+        },
+        {
+            "position": "Background Art",
+            "anime": {
+                "mal_id": 5300,
+                "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/79738.jpg?s=e3cf8d1225948288a10e1f9684d0989b",
+                "name": "Zoku Natsume Yuujinchou"
+            }
+        },
+        {
+            "position": "Art Director",
+            "anime": {
+                "mal_id": 5300,
+                "url": "https://myanimelist.net/anime/5300/Zoku_Natsume_Yuujinchou",
+                "image_url": "https://cdn.myanimelist.net/images/anime/4/79738.jpg?s=e3cf8d1225948288a10e1f9684d0989b",
+                "name": "Zoku Natsume Yuujinchou"
+            }
+        }
+    ],
+    "published_manga": []
+}

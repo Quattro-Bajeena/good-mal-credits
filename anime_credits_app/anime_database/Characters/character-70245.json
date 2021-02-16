@@ -1,0 +1,36 @@
+{
+    "mal_id": 70245,
+    "url": "https://myanimelist.net/character/70245/Azumi_Yamada",
+    "name": "Azumi Yamada",
+    "name_kanji": null,
+    "nicknames": [],
+    "member_favorites": 1,
+    "image_url": "https://cdn.myanimelist.net/images/characters/7/298925.jpg",
+    "animeography": [
+        {
+            "mal_id": 2317,
+            "name": "Hen",
+            "url": "https://myanimelist.net/anime/2317/Hen",
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/4818.jpg?s=fe22fd693ea767064a3a21a102f9082d",
+            "role": "Main"
+        }
+    ],
+    "mangaography": [
+        {
+            "mal_id": 2950,
+            "name": "Hen",
+            "url": "https://myanimelist.net/manga/2950/Hen",
+            "image_url": "https://cdn.myanimelist.net/images/manga/1/76303.jpg?s=da1001d786471093479a4694584bc445",
+            "role": "Main"
+        }
+    ],
+    "voice_actors": [
+        {
+            "mal_id": 194,
+            "name": "Keith, Allison",
+            "url": "https://myanimelist.net/people/194/Allison_Keith",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/153.jpg",
+            "language": "English"
+        }
+    ]
+}

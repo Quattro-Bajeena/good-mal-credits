@@ -1,0 +1,74 @@
+{
+    "mal_id": 35,
+    "url": "https://myanimelist.net/people/35/Doug_Smith",
+    "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/52.jpg",
+    "name": "Doug Smith",
+    "given_name": null,
+    "family_name": null,
+    "birthday": null,
+    "member_favorites": 192,
+    "voice_acting_roles": [
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 495,
+                "url": "https://myanimelist.net/anime/495/Bakuretsu_Hunters",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1607/96463.jpg?s=a2decac400fb0a7d19f19173c75211f3",
+                "name": "Bakuretsu Hunters"
+            },
+            "character": {
+                "mal_id": 38591,
+                "url": "https://myanimelist.net/character/38591/Ox",
+                "image_url": "https://cdn.myanimelist.net/images/characters/10/105878.jpg?s=7a14a93bfb43081bb0408839f63509a2",
+                "name": "Ox"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 2479,
+                "url": "https://myanimelist.net/anime/2479/Dragon_Knight",
+                "image_url": "https://cdn.myanimelist.net/images/anime/1480/101377.jpg?s=cb1656b32c9730b490ed4c656f5c8b42",
+                "name": "Dragon Knight"
+            },
+            "character": {
+                "mal_id": 34481,
+                "url": "https://myanimelist.net/character/34481/Takeru_Yamato",
+                "image_url": "https://cdn.myanimelist.net/images/characters/13/219901.jpg?s=8a3467f2446032a9650188df80462754",
+                "name": "Yamato, Takeru"
+            }
+        },
+        {
+            "role": "Main",
+            "anime": {
+                "mal_id": 268,
+                "url": "https://myanimelist.net/anime/268/Golden_Boy",
+                "image_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg?s=8aae6be2e68e281a8bfe363a42d2169a",
+                "name": "Golden Boy"
+            },
+            "character": {
+                "mal_id": 2738,
+                "url": "https://myanimelist.net/character/2738/Kintarou_Ooe",
+                "image_url": "https://cdn.myanimelist.net/images/characters/3/79510.jpg?s=751d1b68da72e88d315ac01a618bf7be",
+                "name": "Ooe, Kintarou"
+            }
+        },
+        {
+            "role": "Supporting",
+            "anime": {
+                "mal_id": 2332,
+                "url": "https://myanimelist.net/anime/2332/Plastic_Little",
+                "image_url": "https://cdn.myanimelist.net/images/anime/10/2599.jpg?s=65274ed9912812d916d0bb9190ecf2dc",
+                "name": "Plastic Little"
+            },
+            "character": {
+                "mal_id": 27825,
+                "url": "https://myanimelist.net/character/27825/Roger",
+                "image_url": "https://cdn.myanimelist.net/images/characters/8/70706.jpg?s=759ab51c95a4afa2d5689cfe881d4f2a",
+                "name": "Roger"
+            }
+        }
+    ],
+    "anime_staff_positions": [],
+    "published_manga": []
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 38062,
+    "url": "https://myanimelist.net/anime/38062/Endro",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1300/111361.jpg",
+    "title": "Endro~!",
+    "title_english": "ENDRO!",
+    "title_japanese": "えんどろ～！",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2019-01-13T00:00:00+00:00",
+        "to": "2019-03-31T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 13,
+                "month": 1,
+                "year": 2019
+            },
+            "to": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            }
+        },
+        "string": "Jan 13, 2019 to Mar 31, 2019"
+    },
+    "score": 6.94,
+    "scored_by": 18136,
+    "rank": 3833,
+    "popularity": 2110,
+    "members": 55689,
+    "favorites": 142,
+    "premiered": "Winter 2019",
+    "studios": [
+        {
+            "mal_id": 418,
+            "type": "anime",
+            "name": "Studio Gokumi",
+            "url": "https://myanimelist.net/anime/producer/418/Studio_Gokumi"
+        }
+    ]
+}

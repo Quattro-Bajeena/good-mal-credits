@@ -1,0 +1,50 @@
+{
+    "mal_id": 21821,
+    "url": "https://myanimelist.net/anime/21821/Fuuun_Ishin_Dai☆Shogun",
+    "image_url": "https://cdn.myanimelist.net/images/anime/7/60333.jpg",
+    "title": "Fuuun Ishin Dai☆Shogun",
+    "title_english": "Dai-Shogun: Great Revolution",
+    "title_japanese": "風雲維新ダイ☆ショーグン",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2014-04-10T00:00:00+00:00",
+        "to": "2014-06-26T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 10,
+                "month": 4,
+                "year": 2014
+            },
+            "to": {
+                "day": 26,
+                "month": 6,
+                "year": 2014
+            }
+        },
+        "string": "Apr 10, 2014 to Jun 26, 2014"
+    },
+    "score": 5.73,
+    "scored_by": 7308,
+    "rank": 9063,
+    "popularity": 3407,
+    "members": 22996,
+    "favorites": 21,
+    "premiered": "Spring 2014",
+    "studios": [
+        {
+            "mal_id": 7,
+            "type": "anime",
+            "name": "J.C.Staff",
+            "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+        },
+        {
+            "mal_id": 179,
+            "type": "anime",
+            "name": "A.C.G.T.",
+            "url": "https://myanimelist.net/anime/producer/179/ACGT"
+        }
+    ]
+}

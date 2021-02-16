@@ -1,0 +1,44 @@
+{
+    "mal_id": 1798,
+    "url": "https://myanimelist.net/anime/1798/Animation_Seisaku_Shinkou_Kuromi-chan_2",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1/1798.jpg",
+    "title": "Animation Seisaku Shinkou Kuromi-chan 2",
+    "title_english": "Animation Runner Kuromi 2",
+    "title_japanese": "アニメーション制作進行くろみちゃん 2",
+    "type": "OVA",
+    "source": "Unknown",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2004-01-28T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 28,
+                "month": 1,
+                "year": 2004
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 28, 2004"
+    },
+    "score": 6.94,
+    "scored_by": 3003,
+    "rank": 3827,
+    "popularity": 6383,
+    "members": 5170,
+    "favorites": 3,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 96,
+            "type": "anime",
+            "name": "Yumeta Company",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ]
+}

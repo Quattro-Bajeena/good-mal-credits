@@ -1,0 +1,44 @@
+{
+    "mal_id": 7103,
+    "url": "https://myanimelist.net/anime/7103/Miracle☆Train__Oedo-sen_e_Youkoso",
+    "image_url": "https://cdn.myanimelist.net/images/anime/9/75568.jpg",
+    "title": "Miracle☆Train: Oedo-sen e Youkoso",
+    "title_english": "Miracle Train: Welcome to the Oedo Line",
+    "title_japanese": "ミラクル☆トレイン〜大江戸線へようこそ〜",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-10-05T00:00:00+00:00",
+        "to": "2009-12-28T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 10,
+                "year": 2009
+            },
+            "to": {
+                "day": 28,
+                "month": 12,
+                "year": 2009
+            }
+        },
+        "string": "Oct 5, 2009 to Dec 28, 2009"
+    },
+    "score": 6.52,
+    "scored_by": 5948,
+    "rank": 5786,
+    "popularity": 3869,
+    "members": 17627,
+    "favorites": 41,
+    "premiered": "Fall 2009",
+    "studios": [
+        {
+            "mal_id": 96,
+            "type": "anime",
+            "name": "Yumeta Company",
+            "url": "https://myanimelist.net/anime/producer/96/Yumeta_Company"
+        }
+    ]
+}

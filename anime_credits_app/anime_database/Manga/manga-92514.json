@@ -1,0 +1,51 @@
+{
+    "mal_id": 92514,
+    "url": "https://myanimelist.net/manga/92514/Christina_Senki__Houshi_no_Himekishi_to_Kokkyou_no_Shounin",
+    "image_url": "https://cdn.myanimelist.net/images/manga/2/163358.jpg",
+    "title": "Christina Senki: Houshi no Himekishi to Kokkyou no Shounin",
+    "title_english": null,
+    "title_japanese": "クリスティナ戦記　奉仕の姫騎士と国境の商人",
+    "type": "Light Novel",
+    "volumes": 1,
+    "chapters": 8,
+    "status": "Finished",
+    "publishing": false,
+    "published": {
+        "from": "2015-09-18T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 18,
+                "month": 9,
+                "year": 2015
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Sep  18, 2015"
+    },
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 39903,
+    "members": 48,
+    "favorites": 0,
+    "authors": [
+        {
+            "mal_id": 3177,
+            "type": "people",
+            "name": "Urushihara, Satoshi",
+            "url": "https://myanimelist.net/people/3177/Satoshi_Urushihara"
+        },
+        {
+            "mal_id": 12959,
+            "type": "people",
+            "name": "Wakatsuki, Hikaru",
+            "url": "https://myanimelist.net/people/12959/Hikaru_Wakatsuki"
+        }
+    ],
+    "serializations": []
+}

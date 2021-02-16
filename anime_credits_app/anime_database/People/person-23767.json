@@ -1,0 +1,59 @@
+{
+    "mal_id": 23767,
+    "url": "https://myanimelist.net/people/23767/Chuji_Nakajima",
+    "image_url": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+    "name": "Chuji Nakajima",
+    "given_name": "忠二",
+    "family_name": "中嶋",
+    "birthday": null,
+    "member_favorites": 1,
+    "voice_acting_roles": [],
+    "anime_staff_positions": [
+        {
+            "position": "Character Design",
+            "anime": {
+                "mal_id": 19463,
+                "url": "https://myanimelist.net/anime/19463/Hamuko_Mairu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52261.jpg?s=1b01e30cba86a7e0f5838872322158f1",
+                "name": "Hamuko Mairu!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 19463,
+                "url": "https://myanimelist.net/anime/19463/Hamuko_Mairu",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/52261.jpg?s=1b01e30cba86a7e0f5838872322158f1",
+                "name": "Hamuko Mairu!"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 2317,
+                "url": "https://myanimelist.net/anime/2317/Hen",
+                "image_url": "https://cdn.myanimelist.net/images/anime/11/4818.jpg?s=6b384feef5f1d78fefb8100c3b0270e9",
+                "name": "Hen"
+            }
+        },
+        {
+            "position": "Animation Director",
+            "anime": {
+                "mal_id": 20499,
+                "url": "https://myanimelist.net/anime/20499/Maji",
+                "image_url": "https://cdn.myanimelist.net/images/anime/12/54431.jpg?s=6571ade5bbfe7e397d3103832fdd0410",
+                "name": "Maji"
+            }
+        },
+        {
+            "position": "Key Animation",
+            "anime": {
+                "mal_id": 34540,
+                "url": "https://myanimelist.net/anime/34540/Pokemon_Movie_20__Kimi_ni_Kimeta",
+                "image_url": "https://cdn.myanimelist.net/images/anime/6/85787.jpg?s=538b07c8061dbcec62caf2a973edbc00",
+                "name": "Pokemon Movie 20: Kimi ni Kimeta!"
+            }
+        }
+    ],
+    "published_manga": []
+}

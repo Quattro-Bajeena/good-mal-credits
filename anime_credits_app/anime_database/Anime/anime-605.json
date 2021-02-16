@@ -1,0 +1,44 @@
+{
+    "mal_id": 605,
+    "url": "https://myanimelist.net/anime/605/Tenshi_ni_Narumon",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1671/94180.jpg",
+    "title": "Tenshi ni Narumon!",
+    "title_english": "I'm Gonna Be an Angel!",
+    "title_japanese": "天使になるもんっ！",
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "1999-04-07T00:00:00+00:00",
+        "to": "1999-09-29T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 7,
+                "month": 4,
+                "year": 1999
+            },
+            "to": {
+                "day": 29,
+                "month": 9,
+                "year": 1999
+            }
+        },
+        "string": "Apr 7, 1999 to Sep 29, 1999"
+    },
+    "score": 6.71,
+    "scored_by": 1610,
+    "rank": 4829,
+    "popularity": 6027,
+    "members": 5970,
+    "favorites": 44,
+    "premiered": "Spring 1999",
+    "studios": [
+        {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Studio Pierrot",
+            "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "mal_id": 3652,
+    "url": "https://myanimelist.net/anime/3652/Higurashi_no_Naku_Koro_ni_Rei",
+    "image_url": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
+    "title": "Higurashi no Naku Koro ni Rei",
+    "title_english": "When They Cry: Rei",
+    "title_japanese": "ひぐらしのなく頃に礼",
+    "type": "OVA",
+    "source": "Visual novel",
+    "episodes": 5,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2009-02-25T00:00:00+00:00",
+        "to": "2009-08-21T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 25,
+                "month": 2,
+                "year": 2009
+            },
+            "to": {
+                "day": 21,
+                "month": 8,
+                "year": 2009
+            }
+        },
+        "string": "Feb 25, 2009 to Aug 21, 2009"
+    },
+    "score": 7.44,
+    "scored_by": 83248,
+    "rank": 1764,
+    "popularity": 951,
+    "members": 155610,
+    "favorites": 491,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}

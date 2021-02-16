@@ -1,0 +1,111 @@
+{
+    "mal_id": 19463,
+    "characters": [
+        {
+            "mal_id": 171760,
+            "url": "https://myanimelist.net/character/171760/Seiji_Sou",
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/390080.jpg?s=a4657cb4603484893b741ba0831f37c7",
+            "name": "Sou, Seiji",
+            "role": "Main",
+            "voice_actors": [
+                {
+                    "mal_id": 678,
+                    "name": "Matsumoto, Rica",
+                    "url": "https://myanimelist.net/people/678/Rica_Matsumoto",
+                    "image_url": "https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/11135.jpg?s=aee5274ac744029518d76827c98dd90f",
+                    "language": "Japanese"
+                }
+            ]
+        },
+        {
+            "mal_id": 87879,
+            "url": "https://myanimelist.net/character/87879/Kimiko_Uinna",
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/390079.jpg?s=8aad83daf355da3a7ed92585a7101df6",
+            "name": "Uinna, Kimiko",
+            "role": "Main",
+            "voice_actors": [
+                {
+                    "mal_id": 1518,
+                    "name": "Koujiro, Chie",
+                    "url": "https://myanimelist.net/people/1518/Chie_Koujiro",
+                    "image_url": "https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/13145.jpg?s=06ea29b9ecf09c846b740d150eb0e130",
+                    "language": "Japanese"
+                }
+            ]
+        },
+        {
+            "mal_id": 171761,
+            "url": "https://myanimelist.net/character/171761/Oshizou_Yokoguruma",
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/390081.jpg?s=94844ed9049361cd5fb154baa42bb3bc",
+            "name": "Yokoguruma, Oshizou",
+            "role": "Main",
+            "voice_actors": [
+                {
+                    "mal_id": 916,
+                    "name": "Yamada, Keaton",
+                    "url": "https://myanimelist.net/people/916/Keaton_Yamada",
+                    "image_url": "https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/49814.jpg?s=8e2f5a4a9a4824dbc3e1f9aa3c3c8635",
+                    "language": "Japanese"
+                }
+            ]
+        }
+    ],
+    "staff": [
+        {
+            "mal_id": 16207,
+            "url": "https://myanimelist.net/people/16207/Tetsuo_Yasumi",
+            "name": "Yasumi, Tetsuo",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/18547.jpg?s=441c97f471ce6876278567ddb2944194",
+            "positions": [
+                "Director",
+                "Screenplay"
+            ]
+        },
+        {
+            "mal_id": 21191,
+            "url": "https://myanimelist.net/people/21191/Yukio_Abe",
+            "name": "Abe, Yukio",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Recording"
+            ]
+        },
+        {
+            "mal_id": 6588,
+            "url": "https://myanimelist.net/people/6588/Soubee_Amako",
+            "name": "Amako, Soubee",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/45493.jpg?s=7c47114106ac89173b3d518f8fffcbc7",
+            "positions": [
+                "Original Creator"
+            ]
+        },
+        {
+            "mal_id": 7401,
+            "url": "https://myanimelist.net/people/7401/Kouji_Makaino",
+            "name": "Makaino, Kouji",
+            "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/4347.jpg?s=71a07f9f4f862770c9c93cbcd5eb7872",
+            "positions": [
+                "Music"
+            ]
+        },
+        {
+            "mal_id": 23767,
+            "url": "https://myanimelist.net/people/23767/Chuji_Nakajima",
+            "name": "Nakajima, Chuji",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Animation Director",
+                "Character Design"
+            ]
+        },
+        {
+            "mal_id": 23769,
+            "url": "https://myanimelist.net/people/23769/Chikako_Shibata",
+            "name": "Shibata, Chikako",
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+            "positions": [
+                "Art Director"
+            ]
+        }
+    ]
+}

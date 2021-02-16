@@ -1,0 +1,44 @@
+{
+    "mal_id": 934,
+    "url": "https://myanimelist.net/anime/934/Higurashi_no_Naku_Koro_ni",
+    "image_url": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+    "title": "Higurashi no Naku Koro ni",
+    "title_english": "When They Cry",
+    "title_japanese": "ひぐらしのなく頃に",
+    "type": "TV",
+    "source": "Visual novel",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2006-04-05T00:00:00+00:00",
+        "to": "2006-09-27T00:00:00+00:00",
+        "prop": {
+            "from": {
+                "day": 5,
+                "month": 4,
+                "year": 2006
+            },
+            "to": {
+                "day": 27,
+                "month": 9,
+                "year": 2006
+            }
+        },
+        "string": "Apr 5, 2006 to Sep 27, 2006"
+    },
+    "score": 7.95,
+    "scored_by": 305873,
+    "rank": 607,
+    "popularity": 156,
+    "members": 640097,
+    "favorites": 19434,
+    "premiered": "Spring 2006",
+    "studios": [
+        {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Studio Deen",
+            "url": "https://myanimelist.net/anime/producer/37/Studio_Deen"
+        }
+    ]
+}
