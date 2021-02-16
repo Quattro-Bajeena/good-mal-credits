@@ -1,9 +1,14 @@
+from time import sleep
 from anime_credits_app import celery, mal_db, log_n_cache
 
 
 @celery.task(bind=True)
 def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
-
+    # it looks like when page is created in main flask app 
+    # even after its commited to databse
+    # the log and cache check page update tries to get it but its not there
+    # so maybe waiting a little will help, but its a hack
+    sleep(1)
     #task_id = str(self.request.id)
     try:
         page_status = log_n_cache.check_page_update(resource_type, mal_id)

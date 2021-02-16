@@ -62,6 +62,7 @@ def failed_page_update_cleanup(category, mal_id):
 
     log = PageStatus.query.get(page_id)
     log.updating = False
+    log.scheduled_to_update = False
     log.task_id = ''
     db.session.commit()
     print("failed_page_update_cleanup")
