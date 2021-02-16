@@ -56,7 +56,7 @@ def rate_limiter(func_with_api_call):
         
 
         if time.time() - last_request <= 4:
-            time.sleep(4)
+            time.sleep(6)
 
         last_request = time.time()
         return func_with_api_call(*args, **kwargs)
@@ -277,11 +277,18 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
         try:
             resource = get_functions[resource_type](mal_id)
         except APIException as e:
-            print("RESOURCE COULDN'T BE OPTAINED FROM MAL")
             print(e)
-            return None
-        save_functions[resource_type](resource)
+            if e.status_code == 429:
+                print("WE ARE BEING RATE LIMITED!")
+                time.sleep(30)
+                return get_resource(resource_type, mal_id, use_cached)
+            elif e.status_code == 404:
+                print("RESOURCE COULDN'T BE FOUND FROM MAL")
+                return None
+            else:
+                raise
 
+        save_functions[resource_type](resource)
     return resource
 
 

@@ -4,11 +4,12 @@
 - ~~figure out rate limiting when this will be on more than one threads on a server~~
 
 - long term: pull data from other sites
-- drop down dynamic search options are below progrss bar
 - configuring logging to work well on server on flask itself
 - making sure logs from celery nginx and others are allright, logrotate is working corecntly
 - clean up git more
 - writing more unit tests, for database, celery and stuff
+
+- inforamtion what anime is downalding right now
 
 
 # DONE:
@@ -39,4 +40,7 @@
 - celery on server
 - well, stuff just works on server, so nginx and uwsgi and redis
 - connecting to databse through unix socket, quick
+- when other error diferent than API error occurs task doesnt do cleanup? now everytig inside task in it try catch block
+- duplicate quick search results, if there are less than max number of matches
+- drop down dynamic search options are below progrss bar
 

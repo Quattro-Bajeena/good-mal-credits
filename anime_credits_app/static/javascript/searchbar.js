@@ -89,8 +89,8 @@ const dynamicSearch = function(event){
                 //Next to do cloneNode apparentyl doesnt exists
                 const newEntry = autocompleteEntry.cloneNode(true);
                 newEntry.removeAttribute('id');
-                newEntry.firstChild.href = `/${category}/${result['mal_id']}`;
-                newEntry.firstChild.innerText = result['identifier'];
+                newEntry.href = `/${category}/${result['mal_id']}`;
+                newEntry.innerText = result['identifier'];
                 newEntry.style['display'] = "block";
                 searchAutocomplete.appendChild(newEntry);
             }

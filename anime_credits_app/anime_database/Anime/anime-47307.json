@@ -1,0 +1,44 @@
+{
+    "mal_id": 47307,
+    "url": "https://myanimelist.net/anime/47307/Shin_Gengou_Nyankogelion",
+    "image_url": "https://cdn.myanimelist.net/images/anime/1695/111498.jpg",
+    "title": "Shin Gengou Nyankogelion",
+    "title_english": null,
+    "title_japanese": "新元号にゃんこゲリオン",
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "aired": {
+        "from": "2021-01-22T00:00:00+00:00",
+        "to": null,
+        "prop": {
+            "from": {
+                "day": 22,
+                "month": 1,
+                "year": 2021
+            },
+            "to": {
+                "day": null,
+                "month": null,
+                "year": null
+            }
+        },
+        "string": "Jan 22, 2021"
+    },
+    "score": 6.43,
+    "scored_by": 221,
+    "rank": 6259,
+    "popularity": 12814,
+    "members": 376,
+    "favorites": 17,
+    "premiered": null,
+    "studios": [
+        {
+            "mal_id": 2195,
+            "type": "anime",
+            "name": "PONOS Corporation",
+            "url": "https://myanimelist.net/anime/producer/2195/PONOS_Corporation"
+        }
+    ]
+}

@@ -77,8 +77,12 @@ def quick_search(category, query):
     else:
         response = []
 
-    
-    response['results'] = response['results'][:6]
+    results = []
+    for result in response['results']:
+        if result not in results:
+            results.append(result)
+
+    response['results'] = results[:6]
     return response
 
     
@@ -102,7 +106,6 @@ def page_downloading(task_id):
 
 @app.route('/<category>/<int:mal_id>')
 def content(category, mal_id : int):
-    t1 = time.time()
 
     if not adc.util.check_resource_exists(category, mal_id):
         abort(404)
@@ -120,26 +123,22 @@ def content(category, mal_id : int):
     }
 
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
-    # print(page_status)
+
 
     if page_status['being_created'] or page_status['scheduled_to_update']:
-        # print(111111111111)
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
-        # print(22222222222)
         task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
         lnc.register_page_update_scheduled(category, mal_id, task.id)
         return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
-        # print(3333333333333)
         resource = resource_models[category].query.get_or_404(mal_id)
         task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
 
         return render_template(templates[category], resource = resource)
     else:
-        # print(444444444444444)
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource)
 

@@ -23,6 +23,8 @@ body {
 }
 
 #mainBlock{
+    position: relative;
+    z-index: 0;
     flex: 1 1 auto;
 }
 
@@ -131,6 +133,7 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
+    z-index: 2;
     top: 65px;
     left: 0px;
     background-color: rgb(255, 200, 200);
@@ -144,18 +147,16 @@ body {
     display: none;
     font-size: 1.3em;
     padding: 10px 20px;
+
     cursor: pointer;
+    color: inherit;
+    text-decoration: none;
 
 }
 
 .autocompleteEntry:hover{
     background-color: red;
     color: white;
-}
-
-.autocompleteEntry a{
-    color: inherit;
-    text-decoration: none;
 }
 
 
