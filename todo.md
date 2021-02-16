@@ -5,7 +5,10 @@
 
 - long term: pull data from other sites
 - drop down dynamic search options are below progrss bar
-- database is locked can't visit other page while it's updating, becasue visitngf other page writes to it to register new page
+- configuring logging to work well on server on flask itself
+- making sure logs from celery nginx and others are allright, logrotate is working corecntly
+- clean up git more
+- writing more unit tests, for database, celery and stuff
 
 
 # DONE:
@@ -31,4 +34,9 @@
 - rate limitng that is long, but doesnt limit single requsts like when searching
 - dynamic searching
 - hadnling exceptions and 404 erros
+- database is locked can't visit other page while it's updating, becasue visitngf other page writes to it to register new page
+- mysql database on server
+- celery on server
+- well, stuff just works on server, so nginx and uwsgi and redis
+- connecting to databse through unix socket, quick
 
