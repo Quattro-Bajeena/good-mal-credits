@@ -14,3 +14,6 @@ activate_venv.ps1
 app.db
 migrations/
 anime_database/
+logs/
+celery_log.sh
+celery_que_lenght.sh
