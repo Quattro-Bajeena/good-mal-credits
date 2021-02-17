@@ -16,9 +16,15 @@ class Config(object):
 
     #print(SQLALCHEMY_DATABASE_URI)
     SQLALCHEMY_TRACK_MODIFICATIONS = False
-
-    CELERY_BROKER_URL = os.environ.get('CELERY_BROKER_URL')
-    CELERY_RESULT_BACKEND = os.environ.get('CELERY_RESULT_BACKEND')
     DATA_EXPIRY_DAYS = timedelta(days=int(os.environ.get('DATA_EXPIRY_DAYS'))) 
+
+class CeleryConfig(object):
+    broker_url = os.environ.get('CELERY_BROKER_URL')
+    result_backend = os.environ.get('CELERY_RESULT_BACKEND')
+
+    worker_prefetch_multiplier = os.environ.get('CELERY_WORKER_PREFETCH_MULTIPLIER', 1)
+    worker_concurrency = os.environ.get('CELERY_WORKER_CONCURRENCY', 1)
+    worker_redirect_stdouts_level = os.environ.get('CELERY_LOG_LEVEL', 'INFO')
+
 
     
