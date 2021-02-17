@@ -1,7 +1,8 @@
-import time
+import time, sys
 
 from flask import render_template, request, redirect, url_for, flash, session, abort
 import celery.states
+from celery.app.control import Inspect
 
 from anime_credits_app import app, adc, tasks, models
 import anime_credits_app.log_n_cache as lnc
@@ -13,6 +14,11 @@ from pathlib import Path
 
 @app.route('/')
 def index():
+    app.logger.debug("Hemlo world from logger")
+    app.logger.info("Hemlo world from logger")
+    app.logger.warning("Hemlo world from logger")
+    app.logger.error("Hemlo world from logger")
+    app.logger.critical("Hemlo world from logger")
     return render_template('index.html')
 
 @app.errorhandler(404)
@@ -141,6 +147,13 @@ def content(category, mal_id : int):
     else:
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource)
+
+
+@app.route('/tasksstatus')
+def tasks_status():
+
+
+    return render_template('tasks_status.html')
 
 
 

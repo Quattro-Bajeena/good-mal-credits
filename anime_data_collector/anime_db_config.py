@@ -25,7 +25,7 @@ resource_types = {
 
 
 def config_database(main_folder : Path):
-    global database_folder, anime_folder, people_folder, staff_folder, characters_folder, resource_types,characters_staff_folder, manga_folder, studios_folder
+    global database_folder, anime_folder, people_folder, characters_folder, resource_types,characters_staff_folder, manga_folder, studios_folder
 
 
     database_folder = main_folder / Path("anime_database")

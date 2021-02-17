@@ -2,14 +2,11 @@ from celery import Celery
 
 #tbh I have no idea where to put this function so it may as well be here
 
-def make_celery(app):
-    celery = Celery(
-        app.import_name,
-        backend=app.config['CELERY_RESULT_BACKEND'],
-        broker=app.config['CELERY_BROKER_URL']
-    )
-    celery.conf.update(app.config)
-
+def make_celery(app, config_object):
+    
+    celery = Celery(app.import_name)
+    celery.config_from_object(config_object)
+    
     class ContextTask(celery.Task):
         def __call__(self, *args, **kwargs):
             with app.app_context():
