@@ -5,6 +5,23 @@ from celery.app.task import Task
 from anime_credits_app import db, logger, adc
 from anime_credits_app.models import Anime, Person, Character, StaffMember, VoiceActor, Studio, Manga, MangaAuthor
 
+def update_function_status(status, current_progess:int, total_progress:int, celery_task : Task):
+
+    status_log = status
+    if type(status) == tuple or type(status) == list:
+        status = '\n'.join(status)
+        status_log = ' '.join(status_log)
+
+    message = {
+        'current': current_progess,
+        'total' : total_progress,
+        'status' : status
+    }
+
+    if celery_task:
+        celery_task.update_state(state='PROGRESS', meta=message)
+    logger.info(f'{current_progess}/{total_progress} - {status_log}')
+
 
 class StatusUpdater():
     def __init__(self, total_progress:int, celery_task : Task):
@@ -13,39 +30,12 @@ class StatusUpdater():
         self.celery_task = celery_task
 
     def update_status(self, status:tuple, add_progress = True):
-
         if add_progress:
             self.current_progess += 1
 
-        status_log = status
-        if type(status) == tuple or type(status) == list:
-            status = '\n'.join(status)
-            status_log = ' '.join(status)
-        
-
-        message = {
-            'current': self.current_progess,
-            'total' : self.total_progress,
-            'status' : status
-        }
-        
-        self.celery_task.update_state(state='PROGRESS', meta=message)
-        logger.info(f'{self.current_progess}/{self.total_progress} - {status_log}')
+        update_function_status(status, self.current_progess, self.total_progress, self.celery_task)
 
 
-
-def update_function_status(status, current_progess:int, total_progress:int, celery_task : Task):
-
-    if type(status) == tuple:
-        status = '\n'.join(status)
-
-    message = {
-        'current': current_progess,
-        'total' : total_progress,
-        'status' : status
-    }
-    celery_task.update_state(state='PROGRESS', meta=message)
-    logger.info(message)
 
 
 def add_anime(anime : dict) -> Anime:
@@ -73,7 +63,7 @@ def add_anime(anime : dict) -> Anime:
             favorites = anime['favorites'],
             premiered = anime['premiered']
         )
-    #logger.info(f"new anime db created - {anime['title']}")
+    logger.debug(f"new anime db created - {anime['title']}")
     db.session.add(anime_db)
     return anime_db
 
@@ -121,7 +111,7 @@ def add_manga(manga : dict) -> Manga:
         favorites = manga['favorites'],
         serialization = manga['serializations'][0]['name'] if len(manga['serializations'])>0 else None
     )
-    #logger.info(f"new manga created - {manga_db.title}")
+    logger.debug(f"new manga created - {manga_db.title}")
     db.session.add(manga_db)
     return manga_db
 
@@ -157,7 +147,7 @@ def add_studio(studio : dict) -> Studio:
     )
 
     db.session.add(studio_db)
-    #logger.info(f"NEW STUDIO ADDED - {studio_db.name}", )
+    logger.debug(f"NEW STUDIO ADDED - {studio_db.name}", )
     return studio_db
 
 def update_studio(studio_db : Studio, studio : dict):
@@ -178,7 +168,7 @@ def add_person(person : dict) -> Person:
     )
 
     db.session.add(person_db)
-    #logger.info(f"added new person - {person['name']}")
+    logger.debug(f"added new person - {person['name']}")
     return person_db
 
 def update_person(person_db : Person, person : dict):
@@ -199,7 +189,7 @@ def add_staff_member(staff_id, anime:dict, person:dict, position) -> StaffMember
         anime_id = anime['mal_id']
     )
     db.session.add(new_credit)
-    #logger.info(f"added new staff member: {staff_id}")
+    logger.debug(f"added new staff member: {staff_id}")
     return new_credit
 
 def update_staff_member(staff_member_db : StaffMember, anime:dict, person:dict, position):
@@ -225,7 +215,7 @@ def add_voice_actor(voice_actor_id, anime : dict, person : dict, character : dic
     )
 
     db.session.add(voice_actor_db)
-    #logger.info(f"added new voice actor {voice_actor_id}")
+    logger.debug(f"added new voice actor {voice_actor_id}")
     return voice_actor_db
 
 def update_voice_actor(voice_actor_db:VoiceActor, anime : dict, person : dict, character : dict, role : dict):
@@ -252,7 +242,7 @@ def add_character(character : dict) -> Character:
     )
 
     db.session.add(character_db)
-    #logger.info(f"added new character: {character['name']}")
+    logger.debug(f"added new character: {character['name']}")
     return character_db
 
 def update_character(character_db : Character, character : dict):
@@ -309,12 +299,14 @@ def get_manga_db(manga:dict, use_cached:bool):
     return manga_db
 
 def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
+    logger.debug(f"get studio db - {studio['name']} - {anime_db}")
     mal_id = studio['mal_id']
     studio_db = Studio.query.get(mal_id)
     if not studio_db:
         studio_db = add_studio(studio)
     elif not use_cached:
         update_studio(studio_db, studio)
+
 
     studio_db.anime.append(anime_db)
     return studio_db
@@ -406,7 +398,7 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
         total_progress += len(character_basic_info['voice_actors'])
 
     status = StatusUpdater(total_progress, celery_task)
-    status.update_status(("updating studios"))
+    status.update_status("updating studios")
     
 
     # STUDIOS
@@ -497,6 +489,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
          # cos it happend that the character was removed(?) from MAL, so even on MAL on person credits it 
          # appeard it didnt have its own page weird, idn if it can happen to other resources
         if not character:
+            logger.warning(f"skipped role because couldnt find character - {role['character']['mal_id']}")
             continue
 
         character_db = get_character_db(character, anime_db, use_cached)

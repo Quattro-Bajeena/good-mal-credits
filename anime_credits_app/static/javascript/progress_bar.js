@@ -44,12 +44,12 @@ function update_bar(){
     .then(response => {
         //console.log(response);
         
-
-        if(pending == true && response['info'] != null){
-            //State pending
-            pending = false;
-            window.location.reload();
-        }
+        //is this the cause of this weird hiccup at the beggin? is it still nececarry?
+        // if(pending == true && response['info'] != null){
+        //     //State pending
+        //     pending = false;
+        //     window.location.reload();
+        // }
 
         if(response['state'] == 'SUCCESS') {
             change_bar_description("Download completed");
