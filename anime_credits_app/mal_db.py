@@ -299,7 +299,7 @@ def get_manga_db(manga:dict, use_cached:bool):
     return manga_db
 
 def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
-    logger.debug(f"get studio db - {studio['name']} - {anime_db}")
+    logger.debug(f"get studio db - {studio['name']} - {studio['mal_id']} - {anime_db}")
     mal_id = studio['mal_id']
     studio_db = Studio.query.get(mal_id)
     if not studio_db:
@@ -307,8 +307,11 @@ def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
     elif not use_cached:
         update_studio(studio_db, studio)
 
-
+    logger.debug("next is flush before the append")
+    db.session.flush()
     studio_db.anime.append(anime_db)
+    logger.debug("apended this anime to studio, next is flush")
+    db.session.flush()
     return studio_db
 
 
