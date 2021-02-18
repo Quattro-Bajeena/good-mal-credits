@@ -1,32 +1,30 @@
 from pathlib import Path
-import logging.config, yaml
 
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
-from yaml.loader import SafeLoader
-
 
 from anime_credits_app.celery_config import make_celery
 import anime_data_collector as adc
-from app_config import Config, CeleryConfig
+from app_config import config_loggers, get_flask_config, get_celery_config
 
 app_root = Path(__file__).parent
 adc.config.config_database(app_root)
 
-with open('logging_config.yaml') as f:
-    config_dict = yaml.load(f, Loader=SafeLoader)
-    logging.config.dictConfig(config_dict)
+logger = config_loggers()
 
 app = Flask(__name__)
-app.config.from_object(Config)
+app.config.from_object(get_flask_config())
 db = SQLAlchemy(app)
 migrate = Migrate(app, db)
-celery = make_celery(app, CeleryConfig)
+celery = make_celery(app, get_celery_config())
+
 
 
 from anime_credits_app import routes, models, flask_utils, mal_db, log_n_cache
 
+
+print(app.config['SQLALCHEMY_DATABASE_URI'])
 
 
 

@@ -14,6 +14,12 @@ gms.sock
 start_celery.ps1
 activate_venv.ps1
 app.db
+app.db-journal
 celery_log.sh
 celery_que_lenght.sh
+
+config.yaml
+celery_config.yaml
 logging_config.yaml
+
+

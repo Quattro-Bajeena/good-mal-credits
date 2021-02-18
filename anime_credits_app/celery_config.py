@@ -7,6 +7,10 @@ def make_celery(app, config_object):
     celery = Celery(app.import_name)
     celery.config_from_object(config_object)
     
+    
+    # for key in celery.conf:
+    #     print(key, celery.conf[key])
+
     class ContextTask(celery.Task):
         def __call__(self, *args, **kwargs):
             with app.app_context():

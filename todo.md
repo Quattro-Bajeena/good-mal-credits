@@ -12,6 +12,7 @@
 - inforamtion what anime is downalding right now
 
 
+
 # DONE:
 - creator page
 - loading page bar -> callbacks from update function
@@ -43,4 +44,5 @@
 - when other error diferent than API error occurs task doesnt do cleanup? now everytig inside task in it try catch block
 - duplicate quick search results, if there are less than max number of matches
 - drop down dynamic search options are below progrss bar
-
+- celery config (and app too) through JSON/YAML file, not .env
+- set up your own logging system (not using app.logger, or celery loggers)

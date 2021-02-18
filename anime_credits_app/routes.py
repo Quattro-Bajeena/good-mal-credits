@@ -1,40 +1,34 @@
-import time, sys
+import time, sys, logging
 
 from flask import render_template, request, redirect, url_for, flash, session, abort
 import celery.states
 from celery.app.control import Inspect
 
-from anime_credits_app import app, adc, tasks, models
+from anime_credits_app import app, adc, tasks, models, logger
 import anime_credits_app.log_n_cache as lnc
 
 
 
 from pathlib import Path
-#print("routes", Path(__name__).resolve())
+
 
 @app.route('/')
 def index():
-    app.logger.debug("Hemlo world from logger")
-    app.logger.info("Hemlo world from logger")
-    app.logger.warning("Hemlo world from logger")
-    app.logger.error("Hemlo world from logger")
-    app.logger.critical("Hemlo world from logger")
     return render_template('index.html')
 
 @app.errorhandler(404)
 def page_not_found(e):
-    print(e)
+    logger.info(e)
     return render_template('404.html'), 404
 
 @app.errorhandler(500)
 def page_not_found(e):
-    print(e)
+    logger.warning(e)
     return render_template('500.html'), 500
 
 
 @app.route('/search', methods=['POST'])
 def search():
-    #print(request.form['search_form'])
 
     if 'query' in request.form:
 
@@ -151,8 +145,6 @@ def content(category, mal_id : int):
 
 @app.route('/tasksstatus')
 def tasks_status():
-
-
     return render_template('tasks_status.html')
 
 

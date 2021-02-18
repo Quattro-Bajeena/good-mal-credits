@@ -1,9 +1,6 @@
 from datetime import datetime, timedelta
-from dateutil.relativedelta import relativedelta
-from pathlib import Path
-import json
 
-from anime_credits_app import app_root, db
+from anime_credits_app import db, logger
 from anime_credits_app.models import PageStatus
 
 
@@ -24,14 +21,14 @@ def register_page_update_scheduled(category, mal_id, task_id):
             task_id = task_id
         )
         db.session.add(log)
-        print("scheduled to update - created new page log")
+        logger.info("scheduled to update - created new page log")
     else:
         log.scheduled_to_update = True
         log.updating = False
         log.task_id = task_id
 
 
-    print("register_page_update (database commit)")
+    logger.info("register_page_update (database commit)")
     db.session.commit()
     
 
@@ -42,7 +39,7 @@ def register_page_update_start(category, mal_id):
     log = PageStatus.query.get(page_id)
     log.updating = True
     log.scheduled_to_update = False
-    print("register_page_update_start")
+    logger.info("register_page_update_start")
     db.session.commit()
 
 
@@ -54,7 +51,7 @@ def register_page_update_complete(category, mal_id):
     log.task_id = ''
     log.last_modified = datetime.now()
     db.session.commit()
-    print("register_page_update_complete")
+    logger.info("register_page_update_complete")
 
 def failed_page_update_cleanup(category, mal_id):
     page_id = page_id_maker(category, mal_id)
@@ -65,7 +62,7 @@ def failed_page_update_cleanup(category, mal_id):
     log.scheduled_to_update = False
     log.task_id = ''
     db.session.commit()
-    print("failed_page_update_cleanup")
+    logger.info("failed_page_update_cleanup")
     
 
 def check_page_update(category, mal_id, time_limit : timedelta = None):
@@ -78,7 +75,7 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
     page_id = page_id_maker(category, mal_id)
     log = PageStatus.query.get(page_id)
-    # print(f"check_page_update - log: {log} ")
+    # logger.info(f"check_page_update - log: {log} ")
     in_db = bool(log)
     exists = in_db and log.exists
 

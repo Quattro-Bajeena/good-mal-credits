@@ -1,5 +1,15 @@
 from time import sleep
-from anime_credits_app import celery, mal_db, log_n_cache
+import logging
+from celery.signals import after_setup_logger
+
+from anime_credits_app import celery,logger,  mal_db, log_n_cache
+
+
+
+@after_setup_logger.connect
+def on_celery_setup_logging(**kwargs):
+    logging.getLogger('flask_logger').handlers = logging.getLogger('celery_logger').handlers
+    
 
 
 @celery.task(bind=True)
