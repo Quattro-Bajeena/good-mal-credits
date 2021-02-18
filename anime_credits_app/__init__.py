@@ -24,8 +24,6 @@ celery = make_celery(app, get_celery_config())
 from anime_credits_app import routes, models, flask_utils, mal_db, log_n_cache
 
 
-print(app.config['SQLALCHEMY_DATABASE_URI'])
-
 
 
 

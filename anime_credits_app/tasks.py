@@ -9,6 +9,7 @@ from anime_credits_app import celery,logger,  mal_db, log_n_cache
 @after_setup_logger.connect
 def on_celery_setup_logging(**kwargs):
     logging.getLogger('flask_logger').handlers = logging.getLogger('celery_logger').handlers
+    logging.getLogger('celery').handlers = logging.getLogger('celery_logger').handlers
     
 
 
@@ -36,6 +37,7 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
         }
         resource_functions[resource_type](mal_id, use_cached=first_time, celery_task=self)
         log_n_cache.register_page_update_complete(resource_type,mal_id)
+        
         return 'Page Updated'
 
     except Exception as e:
