@@ -4,14 +4,11 @@
 - ~~figure out rate limiting when this will be on more than one threads on a server~~
 
 - long term: pull data from other sites
-- configuring logging to work well on server on flask itself
+
 - making sure logs from celery nginx and others are allright, logrotate is working corecntly
 - clean up git more
 - writing more unit tests, for database, celery and stuff
-
 - inforamtion what anime is downalding right now
-- weird stuttering of download progress bar at the beggining
-
 
 
 # DONE:
@@ -47,3 +44,5 @@
 - drop down dynamic search options are below progrss bar
 - celery config (and app too) through JSON/YAML file, not .env
 - set up your own logging system (not using app.logger, or celery loggers)
+- weird stuttering of download progress bar at the beggining
+- configuring logging to work well on server on flask itself
