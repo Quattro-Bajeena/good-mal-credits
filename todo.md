@@ -10,6 +10,7 @@
 - writing more unit tests, for database, celery and stuff
 
 - inforamtion what anime is downalding right now
+- weird stuttering of download progress bar at the beggining
 
 
 

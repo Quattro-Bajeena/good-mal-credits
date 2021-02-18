@@ -13,11 +13,14 @@ class StatusUpdater():
         self.celery_task = celery_task
 
     def update_status(self, status:tuple, add_progress = True):
+
         if add_progress:
             self.current_progess += 1
 
+        status_log = status
         if type(status) == tuple or type(status) == list:
             status = '\n'.join(status)
+            status_log = ' '.join(status)
         
 
         message = {
@@ -25,8 +28,9 @@ class StatusUpdater():
             'total' : self.total_progress,
             'status' : status
         }
+        
         self.celery_task.update_state(state='PROGRESS', meta=message)
-        logger.info(message)
+        logger.info(f'{self.current_progess}/{self.total_progress} - {status_log}')
 
 
 
