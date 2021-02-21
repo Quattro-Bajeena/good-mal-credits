@@ -3,12 +3,92 @@
 #mainBlock{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     height: 100%;
+
 }
 
-#mainBlock span{
+#mainBlock > p{
+    margin-top: auto;
+    font-size: large;
+    font-weight: bold;
     text-align: center;
-    font-size: 7em;
+    font-size: 5em;
+    margin-top: auto;
+    margin-bottom: 10px;
+
+}
+
+
+#searchForm{
+    margin-bottom: auto;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content:space-between;
+
+
+    background-color: rgb(156, 27, 53);
+    
+
+    border-radius: 50px;
+    height: 200px;
+    width: 1000px;
+    padding: 30px 70px;
+
     
 }
+
+#categories{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.categoryButton span{
+
+    font-size: 2.5em;
+    padding: 15px;
+    margin: 0px 5px;
+
+    border-radius: 15px;
+
+}
+
+#searchBar{
+    width: 1000px;
+}
+
+#searchBar input{
+  
+    height: 100px;
+    font-size: 2em;
+     
+}
+
+#searchBar button{
+
+    background-size: 80px;
+
+    width: 100px;
+    height: 100px;
+    
+}
+
+
+#searchAutocomplete{
+
+    top: 100px;
+    
+}
+
+.autocompleteEntry{
+
+    font-size: 1.5em;
+
+
+}
+
+
+

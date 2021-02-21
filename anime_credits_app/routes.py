@@ -143,9 +143,46 @@ def content(category, mal_id : int):
         return render_template(templates[category], resource = resource)
 
 
-@app.route('/tasksstatus')
-def tasks_status():
-    return render_template('tasks_status.html')
+@app.route('/download-statistics')
+def download_statistics():
+    currently_updating = models.PageStatus.query.filter_by(updating=True).first()
+    update_queue = models.PageStatus.query.filter_by(scheduled_to_update=True).order_by(models.PageStatus.scheduled_time).all()
 
+    pages_not_existing = models.PageStatus.query.\
+        filter_by(exists=False).\
+        filter_by(task_id='').all()
+
+    pages_update_failed = models.PageStatus.query.filter_by(update_failed=True).all()
+
+    anime_count = models.Anime.query.count()
+    people_count = models.Person.query.count()
+    studios_count = models.Studio.query.count()
+
+    mal_anime_count = 17000
+    mal_people_count = 16000
+    mal_studios_count = 1700
+    
+    anime_percentage = (anime_count / mal_anime_count) * 100
+    people_percentage = (people_count / mal_people_count) * 100
+    studios_percentage = (studios_count / mal_studios_count) * 100
+
+    percentages = {
+        'anime' : anime_percentage,
+        'people' : people_percentage,
+        'studios': studios_percentage
+    }
+    # print('-------------------')
+    # print("curently updating", currently_updating)
+    # print("update que", update_queue)
+    # print("pages not exisit", pages_not_existing)
+    # print("pages update failed",pages_update_failed)
+    # print(percentages)
+
+    return render_template('statistics_panel.html', percentages=percentages, update_queue=update_queue, currently_updating = currently_updating, pages_update_failed=pages_update_failed)
+
+
+@app.route('/layout-test')
+def layout_test():
+    return render_template('characters_staff.html', resource = None)
 
 

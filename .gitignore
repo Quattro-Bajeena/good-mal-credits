@@ -3,7 +3,7 @@
 __pycache__/
 venv/
 
-migrations/
+# migrations/
 anime_database/
 logs/
 

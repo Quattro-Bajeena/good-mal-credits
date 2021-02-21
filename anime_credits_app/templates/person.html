@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<title>gMs - {{resource.name}}</title>
+<title>{{resource.name}}</title>
 {% endblock %}
 
 {% block css %}
@@ -219,7 +219,7 @@
             <td>{{credit.manga.score}}</td>
             <td>{{credit.manga.rank | format_big_number}}</td>
             
-            <td>{{credit.manga.published_from | format_year}}</td>
+            <td>{{credit.manga.published_from| format_year}}</td>
             <td>{{credit.manga.published_to | format_year}}</td>
 
             <td>{{ staff_age( credit.manga.published_from, resource.birthday) }}</td>

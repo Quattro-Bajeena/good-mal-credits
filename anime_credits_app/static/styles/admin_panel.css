@@ -1,0 +1,157 @@
+#mainBlock{
+    margin: 10px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 2fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+    "current completion"
+    "queue     completion"
+    "queue     failed";
+
+    gap: 10px;
+    /* height: 0; */
+    /* justify-items: center; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    min-height: 0;
+    overflow: hidden;
+}
+
+#mainBlock > div{
+    display: flex;
+    flex-direction: column;
+
+    border: 3px darkred solid;
+    border-radius: 20px;
+
+}
+
+#mainBlock h1{
+    align-self: baseline;
+    margin: 15px;
+    font-size: 1.7em;
+}
+
+#mainBlock h2{
+    margin: 10px;
+}
+
+
+#currentDownload{
+    grid-area: current;
+    background-color: lightcoral;
+
+}
+
+#downloadQue{
+    grid-area: queue;
+    background-color: blanchedalmond;
+
+}
+
+#downloadQue h1, h2{
+    flex-grow: 0;
+}
+
+
+#failedDownloads{
+    grid-area: failed;
+    background-color: lightgray;
+
+}
+
+#mainBlock .downloadInfo{
+    align-self: flex-start;
+    margin-left: 20px;
+}
+
+.scrollTable{
+    align-self: center;
+    overflow-y: auto;
+    
+    
+    flex-grow: 1;
+    position: relative;
+
+    width: 90%;
+    margin: 10px;
+    
+}
+
+.downloadsTable{
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.downloadsTable th, td{
+    border: 1px black solid;
+    padding: 5px;
+}
+
+
+
+
+#databaseCompletion{
+    grid-area: completion;
+    background-color:rgb(255, 240, 232);
+    
+    
+}
+
+#databaseCompletion > .category{
+    width: 100%;
+
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+#databaseCompletion > .category > p{
+    margin: 15px;
+}
+
+#databaseCompletion > .category .categoryName{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#databaseCompletion .completionPercent{
+    font-size: 1.3em;
+}
+
+#databaseCompletion .completionProgress{
+    width: 90%;
+    margin: 10px;
+}
+
+
+
+#pageDownloadProgress{
+    /* width: 500px; */
+    width: 80%;
+}
+
+.progressBarBack {
+    background-color: white;
+    margin: 15px;
+    
+}
+
+.progressBarTop {
+    /* width: 25%; */
+    
+}
+
+.downloadStatus{
+    min-height: 80px;
+}
+
+

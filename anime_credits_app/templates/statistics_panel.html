@@ -1,0 +1,128 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Admin panel</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/page_downloading.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/admin_panel.css')}}">
+{% endblock %}
+
+
+{% block main %}
+
+
+<div id="currentDownload">
+    <h1>Current Download</h1>
+    <h2 id="name">Name: 
+    {% if currently_updating %}
+        <a href="{{url_for('content', category=currently_updating.category, mal_id=currently_updating.mal_id)}}" target="_blank">
+        {{resource_name(currently_updating.category, currently_updating.mal_id)}}
+    </a>
+    {%endif%}
+    </h2>
+    <div class="downloadProgress" id="pageDownloadProgress">
+        <div class="progressBarBack">
+            <div class="progressBarTop" id="pageDownloadBar"></div>
+        </div>
+        <div class="downloadStatus" id="pageDownloadStatus">
+
+        </div>
+    </div>
+</div>
+
+<div id="downloadQue" class="downloadTableSection">
+    <h1>Download Que</h1>
+    <h2 class="downloadInfo">length: {{len(update_queue)}}</h2>
+    <div class="scrollTable">
+        <table class="downloadsTable">
+            <thead>
+                <th>id</th>
+                <th>Title/Name</th>
+                <th>scheduled time</th>
+                <th>task id</th>
+            </thead>
+            <tbody>
+                {% for status in update_queue %}
+                <tr>
+                    <td>{{status.id}}</td>
+                    <td>{{resource_name(status.category, status.mal_id)}}</td>
+                    <td>{{status.scheduled_time}}</td>
+                    <td>{{status.task_id}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="failedDownloads">
+    <h1>Failed Downloads</h1>
+    <h2  class="downloadInfo">length: {{len(pages_update_failed)}}</h2>
+    <div class="scrollTable">
+        <table class="downloadsTable">
+            <thead>
+                <th>id</th>
+                <th>Title/Name</th>
+            </thead>
+            <tbody>
+                {% for status in pages_update_failed %}
+                <tr>
+                    <td>{{status.mal_id}}</td>
+                    <td>{{resource_name(status.category, status.mal_id)}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>  
+</div>
+
+<div id="databaseCompletion">
+    <h1>Database Completion</h1>
+    <div class="category">
+        <p>
+            <span class="categoryName">Anime: </span>
+            <span class="completionPercent">{{percentages['anime'] | format_percentage}}</span>
+        </p>
+        <div class="downloadProgress completionProgress">
+            <div class="progressBarBack">
+                <div class="progressBarTop" style="width: {{percentages['anime']}}%;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <p>
+            <span class="categoryName">People: </span>
+            <span class="completionPercent">{{percentages['people'] | format_percentage}}</span>
+        </p>
+        <div class="downloadProgress completionProgress" >
+            <div class="progressBarBack">
+                <div class="progressBarTop" style="width: {{percentages['people']}}%;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <p>
+            <span class="categoryName">Studios: </span>
+            <span class="completionPercent">{{percentages['studios'] | format_percentage}}</span>
+        </p>
+        <div class="downloadProgress completionProgress">
+            <div class="progressBarBack">
+                <div class="progressBarTop" style="width: {{percentages['studios']}}%;"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+{%endblock%}
+
+{% block javascript %}
+<script type="text/javascript">
+    const progress_url = "{{url_for('page_downloading', task_id=currently_updating.task_id)}}"
+</script>
+<script type="text/javascript" src="{{url_for('static', filename='javascript/progress_bar.js')}}"></script>
+{% endblock %}

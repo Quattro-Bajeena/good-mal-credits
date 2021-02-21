@@ -81,7 +81,9 @@ function update_bar(){
     })
     .catch(error => {
         change_bar_description("Error: Couldn't retrieve progress data");
+        
         console.log("Error: Couldn't retrieve progress data");
+        console.log(response);
         console.log(error);
     });
 

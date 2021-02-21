@@ -4,9 +4,10 @@
 
     <meta charset="UTF-8">
     {% block head %}
-    <title>GMS</title>
+    <title>BMC</title>
     {% endblock %}
-    
+
+    <link rel="icon" type="image/png" href="{{url_for('static', filename='icons/favicon.png')}}"sizes="32x32">
     <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
     {% block css %}
     {% endblock %}
@@ -19,26 +20,27 @@
     search has to be longer than 3 letters
 </div>
 
-<form id="searchForm" name="search_form" action="{{url_for('search')}}" method="POST">
-    <div id="searchBox">   
+{% block header %}
+<form id="searchForm" name="search_form" action="{{url_for('search')}}" method="POST"></form>
+    <header>   
         
         <div id="linkToMain">
             <a href="{{url_for('index')}}">MAIN PAGE</a>
         </div>
         
         
-        <label>
+        <label class="categoryButton">
             <input type="radio" id="inputAnime" name="category" value="anime" checked>
             <span>ANIME</span>
         </label>
 
         
-        <label>
+        <label class="categoryButton">
             <input type="radio" id="inputPeople" name="category" value="people">
             <span>PEOPLE</span>
         </label>
 
-        <label>
+        <label class="categoryButton">
             <input type="radio" id="inputStudios" name="category" value="studios">
             <span>STUDIOS</span>
         </label>
@@ -56,15 +58,16 @@
             </div>
 
         </div>
-    </div>     
+    </header>     
 </form>
-
+{% endblock %}
 
 <div id="mainBlock">
     {% block main %}
     {%endblock%}
 </div>
 
+{% block footer %}
 <footer>
     <div>
         Made by: 
@@ -73,7 +76,9 @@
         <a href="https://github.com/Quattro-Bajeena" target="_blank">Quattro-Bajeena</a>
     </div>
     <div>Powered by: <a href="https://jikan.moe/" target="_blank">Jikan, unoficiall MAL API</a></div>
+    <div><a href="{{url_for('download_statistics')}}">downloads panel</a></div>
 </footer>
+{%endblock%}
 
 
 

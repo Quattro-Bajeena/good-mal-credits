@@ -164,13 +164,16 @@ class PageStatus(db.Model):
     exists = db.Column(db.Boolean, default=False, nullable=False)
 
     last_modified = db.Column(db.DateTime)
+
     updating = db.Column(db.Boolean, default=False)
     scheduled_to_update = db.Column(db.Boolean, default=False)
-    
+    scheduled_time = db.Column(db.DateTime)
     task_id = db.Column(db.String(100))
 
+    update_failed = db.Column(db.Boolean, default=False)
+
     def __repr__(self):
-        return f"PageStatus {self.id}, exists: {self.exists}, updating:{self.updating}, last modified: {self.last_modified}"
+        return f"PageStatus {self.id}| exists: {self.exists}"
 
 
 

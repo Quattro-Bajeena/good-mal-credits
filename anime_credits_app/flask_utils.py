@@ -7,7 +7,7 @@ import locale
 import json
 
 import anime_credits_app
-from anime_credits_app import app
+from anime_credits_app import app, log_n_cache
 
 locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
@@ -22,7 +22,11 @@ def inject_python_functions():
             return "-"
         
 
-    return {'len' : len, 'staff_age' : staff_age}
+    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name}
+
+@app.template_filter('format_percentage')
+def format_percentage(percentage:float):
+    return "{:.1f}".format(percentage)
 
 @app.template_filter('format_year')
 def format_datetime(value):
