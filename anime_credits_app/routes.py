@@ -62,17 +62,22 @@ def quick_search(category, query):
         results = models.Person.query.filter(models.Person.name.contains(query)).all()
         results += models.Person.query.filter(models.Person.given_name.contains(query)).all()
         results += models.Person.query.filter(models.Person.family_name.contains(query)).all()
+        results.sort(key=lambda person : person.member_favorites, reverse=True)
         response['results'] = [{'identifier':result.name, 'mal_id':result.mal_id} for result in results]
+        
 
     elif category == 'studios':
         results = models.Studio.query.filter(models.Studio.name.contains(query)).all()
         response['results'] = [{'identifier':result.name, 'mal_id':result.mal_id} for result in results]
+        
 
     elif category == 'anime':
         results = models.Anime.query.filter(models.Anime.title.contains(query)).all()
         results += models.Anime.query.filter(models.Anime.title_english.contains(query)).all()
         results += models.Anime.query.filter(models.Anime.title_japanese.contains(query)).all()
+        results.sort(key=lambda anime : anime.members, reverse=True)
         response['results'] = [{'identifier':result.title, 'mal_id':result.mal_id} for result in results]
+        
 
     else:
         response = []

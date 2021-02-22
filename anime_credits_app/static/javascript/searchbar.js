@@ -13,7 +13,7 @@ const validateSearch = function(){
 }
 
 const savePickedCategory = function(){
-    const button = document.querySelector('#searchBox input[type="radio"]:checked');
+    const button = document.querySelector('#searchForm input[type="radio"]:checked');
     window.localStorage.setItem("picked_category_button_id", button.id);
     //console.log(button.id);
 }
@@ -66,7 +66,7 @@ const autocompleteEntry = searchAutocomplete.querySelector('#autocompleteEntryBa
 
 const dynamicSearch = function(event){
     const query = searchBarInput.value;
-    if(query.trim() != '' && query.trim().length > 2){
+    if(query.trim() != '' && query.trim().length >= 3){
 
         const button_id = window.localStorage.getItem("picked_category_button_id");
         const category = document.getElementById(button_id).value;
@@ -118,7 +118,7 @@ const dynamicSearch = function(event){
 
 
 // Event listenrs
-document.querySelectorAll('#searchBox input[type="radio"]').forEach(
+document.querySelectorAll('#searchForm input[type="radio"]').forEach(
     button => button.addEventListener('click', savePickedCategory
     ));
 searchButton.addEventListener('click', send_search_request);

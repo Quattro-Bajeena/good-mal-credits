@@ -26,7 +26,7 @@ def inject_python_functions():
 
 @app.template_filter('format_percentage')
 def format_percentage(percentage:float):
-    return "{:.1f}".format(percentage)
+    return "{:.1f}%".format(percentage)
 
 @app.template_filter('format_year')
 def format_datetime(value):

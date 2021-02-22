@@ -21,7 +21,7 @@
 </div>
 
 {% block header %}
-<form id="searchForm" name="search_form" action="{{url_for('search')}}" method="POST"></form>
+<form id="searchForm" name="search_form" action="{{url_for('search')}}" method="POST">
     <header>   
         
         <div id="linkToMain">
@@ -76,7 +76,7 @@
         <a href="https://github.com/Quattro-Bajeena" target="_blank">Quattro-Bajeena</a>
     </div>
     <div>Powered by: <a href="https://jikan.moe/" target="_blank">Jikan, unoficiall MAL API</a></div>
-    <div><a href="{{url_for('download_statistics')}}">downloads panel</a></div>
+    <div><a href="{{url_for('download_statistics')}}">Downloads Panel</a></div>
 </footer>
 {%endblock%}
 

@@ -8,10 +8,10 @@
 - making sure logs from celery nginx and others are allright, logrotate is working corecntly
 - clean up git more
 - writing more unit tests, for database, celery and stuff
-- inforamtion what anime is downalding right now
-- like a admin panel to see what's in the que what's downlading right now, what percantge of all anime is downloaded
-- do the main page so the searchbar will be in the centre
+
 - use some kind of better css (sass?)
+- page "about me"
+- OOPS bug, the qick search only shows anime even though people or studios option is selected
 
 
 # DONE:
@@ -49,3 +49,6 @@
 - set up your own logging system (not using app.logger, or celery loggers)
 - weird stuttering of download progress bar at the beggining
 - configuring logging to work well on server on flask itself
+- inforamtion what anime is downalding right now
+- like a admin panel to see what's in the que what's downlading right now, what percantge of all anime is downloaded
+- do the main page so the searchbar will be in the centre

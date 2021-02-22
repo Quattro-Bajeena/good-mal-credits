@@ -90,8 +90,14 @@ function update_bar(){
 
 }
 
+if(progress_url != '/downloading/'){
+    update_bar();
+}
+else{
+    change_bar_fill(0,0, 0);
+    change_bar_description('No task specified');
+}
 
-update_bar()
 
 
 
