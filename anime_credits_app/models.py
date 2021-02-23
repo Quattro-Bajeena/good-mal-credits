@@ -16,6 +16,7 @@ class Anime(db.Model):
     mal_id = db.Column(db.Integer, primary_key = True)
     url = db.Column(db.String(200))
     image_url = db.Column(db.String(200))
+    local_image_url = db.Column(db.String(50))
     title = db.Column(db.String(200), nullable=False)
     title_english = db.Column(db.String(200))
     title_japanese = db.Column(db.String(200))
@@ -51,6 +52,7 @@ class Manga(db.Model):
     title_japanese = db.Column(db.String(200))
 
     image_url = db.Column(db.String(200))
+    local_image_url = db.Column(db.String(50))
     status = db.Column(db.String(50))
     work_type = db.Column(db.String(50))
 
@@ -78,6 +80,7 @@ class Person(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     url = db.Column(db.String(200))
     image_url = db.Column(db.String(200))
+    local_image_url = db.Column(db.String(50))
     name = db.Column(db.String(200), nullable=False)
     given_name = db.Column(db.String(200))
     family_name = db.Column(db.String(200))
@@ -97,6 +100,7 @@ class Character(db.Model):
     mal_id = db.Column(db.Integer, primary_key=True)
     url = db.Column(db.String(200))
     image_url = db.Column(db.String(200))
+    local_image_url = db.Column(db.String(50))
     name = db.Column(db.String(200), nullable=False)
     member_favorites = db.Column(db.Integer)
 

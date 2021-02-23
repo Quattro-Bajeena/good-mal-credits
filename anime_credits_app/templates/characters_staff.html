@@ -17,7 +17,7 @@
 
 
 <div class="animeInfo infoSection" >
-    <img class="mainImage" src={{resource.image_url}}>
+    <img class="mainImage" src={{image_path(resource)}}>
     <p><b>Title:</b> {{resource.title}} </p>
     <p><b>Premiered: </b>{{resource.aired_from | format_date}}</p>
     <p><a href={{resource.url}} target="_blank">MAL link</a></p>
@@ -58,7 +58,7 @@
     <tbody>
         {% for member in resource.staff %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{member.person.image_url}}> </td>
+            <td class="imageCell"><img class="tableImage" src={{image_path(member.person)}}> </td>
             <td><a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
             <td> {{ member.position }} </td>
             <td>{{member.person.member_favorites | format_big_number}}</td>
@@ -111,12 +111,12 @@
 
         {% for role in resource.voice_actors %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{role.character.image_url}} ></td>
+            <td class="imageCell"><img class="tableImage" src={{image_path(role.character)}} ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites | format_big_number}}</td>
             <td>{{role.role}}</td>
 
-            <td class="imageCell"><img class="tableImage" src={{role.person.image_url}} ></td>
+            <td class="imageCell"><img class="tableImage" src={{image_path(role.person)}} ></td>
             <td><a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
             
             <td>{{role.person.member_favorites | format_big_number}}</td>

@@ -1,8 +1,9 @@
-from jikanpy import Jikan, APIException
 from pathlib import Path
-import json
-import time
-import functools
+import json, time, requests, functools
+
+from jikanpy import Jikan, APIException
+from anime_data_collector.anime_db_config import images_folders
+
 
 # this is relative import, it will only work if this module is imported from somewhre else
 #  like import anime_data_collector.mal_api
@@ -56,7 +57,7 @@ def rate_limiter(func_with_api_call):
         
 
         if time.time() - last_request <= 4:
-            time.sleep(6)
+            time.sleep(4)
 
         last_request = time.time()
         return func_with_api_call(*args, **kwargs)
@@ -223,6 +224,14 @@ def save_studio(studio:dict):
 
 #GENERAL
 
+def download_image(category, mal_id, image_url):
+    response = requests.get(image_url)
+
+    with open(images_folders[category] / f'{mal_id}.jpg', 'wb') as file:
+        file.write(response.content)
+    
+    return f"images/{category}/{mal_id}.jpg"
+
 def check_file(resource_type, mal_id : int) -> bool:
     folder = config.resource_types[resource_type]
     files = folder.rglob('*.json')
@@ -288,7 +297,14 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
             else:
                 raise
 
+        
+        
+        if 'image_url' in resource:
+            image_path = download_image(resource_type, mal_id, resource['image_url'])
+            resource['local_image_url'] = image_path
+
         save_functions[resource_type](resource)
+
     return resource
 
 

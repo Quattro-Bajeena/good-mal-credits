@@ -1,3 +1,4 @@
+from flask import url_for
 from pathlib import Path
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
@@ -11,6 +12,13 @@ from anime_credits_app import app, log_n_cache
 
 locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
+def image_path(resource):
+    # static/images/people/123.jpg
+    if resource.local_image_url == None:
+        return resource.image_url
+    else:
+        return url_for('static', filename=resource.local_image_url)
+    
 
 @app.context_processor
 def inject_python_functions():
@@ -22,7 +30,7 @@ def inject_python_functions():
             return "-"
         
 
-    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name}
+    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path}
 
 @app.template_filter('format_percentage')
 def format_percentage(percentage:float):

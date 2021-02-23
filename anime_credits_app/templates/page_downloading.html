@@ -39,7 +39,8 @@
         {% if downloading_right_now %}
         Preparing to download
         {% else %}
-        Download is queued
+        Download is queued <br>
+        <a href="{{url_for('download_statistics')}}" target="blank">Check out download queue here</a>
         {% endif %}
     </div>
 </div>
@@ -51,7 +52,7 @@
 
 {% block javascript %}
 <script type="text/javascript">
-    var progress_url = "{{url_for('page_downloading', task_id=task_id)}}"
+    var progress_url = "{{ url_for('page_downloading', task_id=task_id) }}";
 </script>
 <script type="text/javascript" src="{{url_for('static', filename='javascript/progress_bar.js')}}"></script>
 {% endblock %}

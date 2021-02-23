@@ -11,7 +11,7 @@
 
 - use some kind of better css (sass?)
 - page "about me"
-- OOPS bug, the qick search only shows anime even though people or studios option is selected
+- download images from MAL
 
 
 # DONE:
@@ -52,3 +52,7 @@
 - inforamtion what anime is downalding right now
 - like a admin panel to see what's in the que what's downlading right now, what percantge of all anime is downloaded
 - do the main page so the searchbar will be in the centre
+- OOPS bug, the qick search only shows anime even though people or studios option is selected
+
+
+

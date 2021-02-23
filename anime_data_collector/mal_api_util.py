@@ -4,6 +4,7 @@ from pathlib import Path
 
 
 
+
 def check_resource_exists(resource_type:str, mal_id:int) -> bool:
 
     resource_endpoints = {
@@ -29,6 +30,12 @@ def search_people_fallback(query):
         mal_id = response.url.split('/')[-1]
 
     return int(mal_id) if mal_id.isdigit() else None
+
+
+
+
+
+
 
 
 

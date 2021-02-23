@@ -44,6 +44,7 @@ def add_anime(anime : dict) -> Anime:
             mal_id = anime['mal_id'],
             url = anime['url'],
             image_url = anime['image_url'],
+            local_image_url = anime['local_image_url'],
             title = anime['title'],
             title_english = anime['title_english'],
             title_japanese = anime['title_japanese'],
@@ -70,6 +71,7 @@ def add_anime(anime : dict) -> Anime:
 def update_anime(anime_db : Anime, anime : dict):
     anime_db.url = anime['url']
     anime_db.image_url = anime['image_url']
+    anime_db.local_image_url = anime['local_image_url']
     anime_db.title = anime['title'],
     anime_db.title_english = anime['title_english']
     anime_db.title_japanese = anime['title_japanese']
@@ -96,6 +98,7 @@ def add_manga(manga : dict) -> Manga:
         title_english = manga['title_english'],
         title_japanese = manga['title_japanese'],
         image_url = manga['image_url'],
+        local_image_url = manga['local_image_url'],
         status = manga['status'],
         work_type = manga['type'],
         volumes = manga['volumes'],
@@ -122,6 +125,7 @@ def update_manga(manga_db : Manga, manga : dict):
     manga_db.title_english = manga['title_english']
     manga_db.title_japanese = manga['title_japanese']
     manga_db.image_url = manga['image_url']
+    manga_db.local_image_url = manga['local_image_url']
     manga_db.status = manga['status']
     manga_db.work_type = manga['type']
     manga_db.volumes = manga['volumes']
@@ -160,6 +164,7 @@ def add_person(person : dict) -> Person:
         mal_id = person['mal_id'],
         url = person['url'],
         image_url = person['image_url'],
+        local_image_url = person['local_image_url'],
         name = person['name'],
         given_name = person['given_name'],
         family_name = person['family_name'],
@@ -174,6 +179,7 @@ def add_person(person : dict) -> Person:
 def update_person(person_db : Person, person : dict):
     person_db.url = person['url']
     person_db.image_url = person['image_url']
+    person_db.local_image_url = person['local_image_url']
     person_db.name = person['name']
     person_db.given_name = person['given_name']
     person_db.family_name = person['family_name']
@@ -237,6 +243,7 @@ def add_character(character : dict) -> Character:
         mal_id = character['mal_id'],
         url = character['url'],
         image_url = character['image_url'],
+        local_image_url = character['local_image_url'],
         name = character['name'],
         member_favorites = character['member_favorites']
     )
@@ -248,6 +255,7 @@ def add_character(character : dict) -> Character:
 def update_character(character_db : Character, character : dict):
     character_db.url = character['url']
     character_db.image_url = character['image_url']
+    character_db.local_image_url = character['local_image_url']
     character_db.name = character['name']
     character_db.member_favorites = character['member_favorites']
 

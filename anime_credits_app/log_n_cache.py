@@ -121,8 +121,9 @@ def get_resource_name(resource_type, resource_id):
         'studios' : models.Studio
     }
     
-    print(resource_type, resource_id)
+    #print(resource_type, resource_id)
     resource = resource_models[resource_type].query.get(resource_id)
+    #print(resource)
     if resource:
         if hasattr(resource, 'name'):
             return resource.name
@@ -133,6 +134,6 @@ def get_resource_name(resource_type, resource_id):
         else:
             return resource.id
     else:
-        return "shiet"
+        return "not known"
     
 
