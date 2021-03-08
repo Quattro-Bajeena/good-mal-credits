@@ -12,6 +12,7 @@
 - use some kind of better css (sass?)
 - page "about me"
 - download images from MAL
+- page cleanup when celery service itself hangs down
 
 
 # DONE:

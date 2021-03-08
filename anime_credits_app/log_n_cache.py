@@ -132,7 +132,7 @@ def get_resource_name(resource_type, resource_id):
             return resource.title
 
         else:
-            return resource.id
+            return resource.mal_id
     else:
         return "not known"
     
