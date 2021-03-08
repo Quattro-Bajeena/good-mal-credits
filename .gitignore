@@ -7,6 +7,8 @@ venv/
 anime_database/
 logs/
 
+anime_credits_app/static/images
+
 .flaskenv
 .env
 uwsgi.ini
