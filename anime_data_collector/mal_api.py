@@ -223,6 +223,23 @@ def save_studio(studio:dict):
 
 
 #GENERAL
+get_functions = {
+        'anime' : get_anime_api,
+        'people' : get_person_api,
+        'characters_staff' : get_characters_staff_api,
+        'characters' : get_character_api,
+        'manga' : get_manga_api,
+        'studios' : get_studio_api
+    }
+
+save_functions = {
+    'anime' : save_anime,
+    'people' : save_person,
+    'characters_staff' : save_characters_staff,
+    'characters' : save_character,
+    'manga' : save_manga,
+    'studios' : save_studio
+}
 
 def download_image(category, mal_id, image_url):
     response = requests.get(image_url)
@@ -243,6 +260,13 @@ def check_file(resource_type, mal_id : int) -> bool:
     return False
     
 
+def download_image_to_existing_file(resource, resource_type, mal_id):
+
+    if 'image_url' in resource and 'local_image_url' not in resource:
+        image_path = download_image(resource_type, mal_id, resource['image_url'])
+        resource['local_image_url'] = image_path
+        save_functions[resource](resource)
+        
 
 def get_data_file(resource_type, id: int):
     folder = config.resource_types[resource_type]
@@ -252,7 +276,9 @@ def get_data_file(resource_type, id: int):
         file_id = int(file.stem.split('-')[1])
         if file_id == id:
             with open(file, 'r', encoding='utf-8') as f:
-                return json.load(f)
+                resource = json.load(f)
+                download_image_to_existing_file(resource, resource_type, id)
+                return resource
     return None
 
 
@@ -260,23 +286,7 @@ def get_data_file(resource_type, id: int):
 # if it is, it just loads it from file
 def get_resource(resource_type : str, mal_id : int, use_cached = True):
 
-    get_functions = {
-        'anime' : get_anime_api,
-        'people' : get_person_api,
-        'characters_staff' : get_characters_staff_api,
-        'characters' : get_character_api,
-        'manga' : get_manga_api,
-        'studios' : get_studio_api
-    }
-
-    save_functions = {
-        'anime' : save_anime,
-        'people' : save_person,
-        'characters_staff' : save_characters_staff,
-        'characters' : save_character,
-        'manga' : save_manga,
-        'studios' : save_studio
-    }
+    
 
     
 
