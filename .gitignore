@@ -7,7 +7,11 @@ venv/
 anime_database/
 logs/
 
-anime_credits_app/static/images
+anime_credits_app/static/images/anime/*
+anime_credits_app/static/images/characters/*
+anime_credits_app/static/images/manga/*
+anime_credits_app/static/images/people/*
+
 
 .flaskenv
 .env
