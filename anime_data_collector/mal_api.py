@@ -265,7 +265,7 @@ def download_image_to_existing_file(resource, resource_type, mal_id):
     if 'image_url' in resource and 'local_image_url' not in resource:
         image_path = download_image(resource_type, mal_id, resource['image_url'])
         resource['local_image_url'] = image_path
-        save_functions[resource](resource)
+        save_functions[resource_type](resource)
         
 
 def get_data_file(resource_type, id: int):
