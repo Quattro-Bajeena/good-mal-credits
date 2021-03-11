@@ -14,7 +14,7 @@
 {% block main %}
 
 <div class="personInfo infoSection">
-    <img class="mainImage" src={{image_path(resource)}}>
+    <img class="mainImage" src="{{image_path(resource, use_local_images)}}" >
     <p><b>Name: </b>{{resource.name}} </p>
     <p><b>Birthday: </b>{{resource.birthday | format_date}} </p>
     <p><a href={{resource.url}} target="_blank">MAL link</a></p>
@@ -61,7 +61,7 @@
     <tbody>
         {% for credit in resource.staff_credits %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{image_path(credit.anime)}}></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(credit.anime, use_local_images)}}" ></td>
             <td><a href="{{url_for('content',category='anime', mal_id=credit.anime.mal_id)}}" >{{credit.anime.title}}</a></td>
             <td>{{credit.position}}</td>
 
@@ -137,9 +137,9 @@
         {% for role in resource.voice_acting_roles %}
 
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{image_path(role.anime)}} ></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(role.anime, use_local_images)}}" ></td>
             <td><a href="{{url_for('content',category='anime', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
-            <td class="imageCell"><img class="tableImage" src={{image_path(role.character)}} ></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(role.character, use_local_images)}}" ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites | format_big_number}}</td>
 
@@ -208,7 +208,7 @@
     <tbody>
         {% for credit in resource.published_manga %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{image_path(credit.manga)}}></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(credit.manga, use_local_images)}}"></td>
             <td>{{credit.manga.title}}</td>
             <td>{{credit.position}}</td>
 
@@ -248,5 +248,5 @@
 
 
 {% block javascript %}
-<script type="text/javascript" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+<script src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
 {%endblock%}

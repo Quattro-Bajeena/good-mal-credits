@@ -392,13 +392,13 @@ def get_voice_actor_db(anime, person, character, role, anime_db, person_db, char
 
 # ---------------MAIN FUNCTIONS----------------
 
-def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Task = None):
+def update_characters_staff(anime_mal_id:int, use_cached:bool, download_images:bool, celery_task : Task = None):
     logger.info("update staff start")
     update_function_status("updating anime info", 0, 1, celery_task)
 
     # SETUP
-    anime = adc.mal.get_resource('anime', anime_mal_id, use_cached=use_cached)
-    characters_staff = adc.mal.get_resource('characters_staff', anime_mal_id, use_cached=use_cached) 
+    anime = adc.mal.get_resource('anime', anime_mal_id, use_cached, download_images)
+    characters_staff = adc.mal.get_resource('characters_staff', anime_mal_id, use_cached, download_images) 
     staff = characters_staff['staff']
     characters = characters_staff['characters']
     
@@ -429,7 +429,7 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
 
     # STAFF
     for staff_member in staff:
-        person = adc.mal.get_resource('people', staff_member['mal_id'], use_cached=use_cached)
+        person = adc.mal.get_resource('people', staff_member['mal_id'], use_cached, download_images)
 
         person_db = get_person_db(person, use_cached)
 
@@ -444,7 +444,7 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
 
     # CHARACTERS
     for character_basic_info in characters:
-        character = adc.mal.get_resource('characters', character_basic_info['mal_id'], use_cached=use_cached)
+        character = adc.mal.get_resource('characters', character_basic_info['mal_id'], use_cached, download_images)
         if not character:
             continue
         character_db = get_character_db(character, anime_db, use_cached)
@@ -454,7 +454,7 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
 
         for voice_actor in character_basic_info['voice_actors']:
             
-            person = adc.mal.get_resource('people', voice_actor['mal_id'],use_cached=use_cached)
+            person = adc.mal.get_resource('people', voice_actor['mal_id'],use_cached, download_images)
             person_db = get_person_db(person, use_cached)
     
             voice_actor_db = get_voice_actor_db(anime, person, character, role, anime_db, person_db, character_db, use_cached)
@@ -475,11 +475,11 @@ def update_characters_staff(anime_mal_id:int, use_cached:bool, celery_task : Tas
 
 
 # ------------------------------------------------------------------------------------------
-def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task = None):
+def update_person_credits(person_mal_id : int, use_cached:bool,download_images:bool, celery_task:Task = None):
     logger.info("update person credits start")
     update_function_status("updating person info", 0, 1, celery_task)
 
-    person = adc.mal.get_resource('people', person_mal_id, use_cached=use_cached)
+    person = adc.mal.get_resource('people', person_mal_id, use_cached, download_images)
 
     person_db = get_person_db(person, use_cached)
 
@@ -491,7 +491,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
 
     for role in person['voice_acting_roles']:
         
-        anime = adc.mal.get_resource('anime', role['anime']['mal_id'], use_cached=use_cached)
+        anime = adc.mal.get_resource('anime', role['anime']['mal_id'], use_cached, download_images)
         anime_db = get_anime_db( anime, use_cached)
 
         for studio in anime['studios']:
@@ -500,7 +500,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
         status.update_status(("updating voice acting roles", f"{role['character']['name']} from {anime['title']}"))
 
         
-        character = adc.mal.get_resource('characters', role['character']['mal_id'], use_cached=use_cached)
+        character = adc.mal.get_resource('characters', role['character']['mal_id'], use_cached, download_images)
          # cos it happend that the character was removed(?) from MAL, so even on MAL on person credits it 
          # appeard it didnt have its own page weird, idn if it can happen to other resources
         if not character:
@@ -517,7 +517,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
     status.update_status("updating staff credits", add_progress=False)
 
     for staff_position in person['anime_staff_positions']:
-        anime = adc.mal.get_resource('anime', staff_position['anime']['mal_id'], use_cached=use_cached)
+        anime = adc.mal.get_resource('anime', staff_position['anime']['mal_id'], use_cached, download_images)
         anime_db = get_anime_db(anime, use_cached)
 
         for studio in anime['studios']:
@@ -534,7 +534,7 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
 
     for published_manga in person['published_manga']:
         
-        manga = adc.mal.get_resource('manga', published_manga['manga']['mal_id'], use_cached=use_cached)
+        manga = adc.mal.get_resource('manga', published_manga['manga']['mal_id'], use_cached, download_images)
         manga_db = get_manga_db(manga, use_cached)
 
         position = published_manga['position']
@@ -550,11 +550,11 @@ def update_person_credits(person_mal_id : int, use_cached:bool, celery_task:Task
     db.session.commit()
 
     
-def update_studio_page(mal_id:int, use_cached:bool, celery_task:Task):
+def update_studio_page(mal_id:int, use_cached:bool,download_images:bool, celery_task:Task):
 
     update_function_status("updating studio information", 0, 1, celery_task)
 
-    studio = adc.mal.get_resource('studios', mal_id, use_cached=use_cached)
+    studio = adc.mal.get_resource('studios', mal_id, use_cached, download_images)
     studio_db = Studio.query.get(mal_id)
     logger.info(f"UPDATING STUDIO -------- {studio_db.name} -----------")
 
@@ -569,7 +569,7 @@ def update_studio_page(mal_id:int, use_cached:bool, celery_task:Task):
     logger.info("updated studio info")
 
     for anime_info in studio['anime']:
-        anime = adc.mal.get_resource('anime', anime_info['mal_id'], use_cached)
+        anime = adc.mal.get_resource('anime', anime_info['mal_id'], use_cached, download_images)
 
         anime_db = get_anime_db(anime, use_cached)
         studio_db.anime.append(anime_db)

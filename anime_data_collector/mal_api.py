@@ -57,7 +57,7 @@ def rate_limiter(func_with_api_call):
         
 
         if time.time() - last_request <= 4:
-            time.sleep(4)
+            time.sleep(5)
 
         last_request = time.time()
         return func_with_api_call(*args, **kwargs)
@@ -284,11 +284,7 @@ def get_data_file(resource_type, id: int):
 
 # checks if resource is already downloaded, if not downlaods and saves it
 # if it is, it just loads it from file
-def get_resource(resource_type : str, mal_id : int, use_cached = True):
-
-    
-
-    
+def get_resource(resource_type : str, mal_id : int, use_cached = True, download_image = False):
 
     if use_cached and check_file( resource_type, mal_id):
         resource = get_data_file(resource_type, mal_id)
@@ -299,7 +295,7 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
             print(e)
             if e.status_code == 429:
                 print("WE ARE BEING RATE LIMITED!")
-                time.sleep(30)
+                time.sleep(60)
                 return get_resource(resource_type, mal_id, use_cached)
             elif e.status_code == 404:
                 print("RESOURCE COULDN'T BE FOUND FROM MAL")
@@ -310,8 +306,11 @@ def get_resource(resource_type : str, mal_id : int, use_cached = True):
         
         
         if 'image_url' in resource:
-            image_path = download_image(resource_type, mal_id, resource['image_url'])
-            resource['local_image_url'] = image_path
+            if download_image:
+                image_path = download_image(resource_type, mal_id, resource['image_url'])
+                resource['local_image_url'] = image_path
+            else:
+                resource['local_image_url'] = None
 
         save_functions[resource_type](resource)
 

@@ -14,7 +14,7 @@ def on_celery_setup_logging(**kwargs):
 
 
 @celery.task(bind=True)
-def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
+def update_resources_async(self, resource_type, mal_id:int, first_time:bool, download_images:bool):
     # it looks like when page is created in main flask app 
     # even after its commited to databse
     # the log and cache check page update tries to get it but its not there
@@ -35,7 +35,7 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
             "people" : mal_db.update_person_credits,
             "studios" : mal_db.update_studio_page
         }
-        resource_functions[resource_type](mal_id, use_cached=first_time, celery_task=self)
+        resource_functions[resource_type](mal_id, use_cached=first_time, download_images=download_images, celery_task=self)
         log_n_cache.register_page_update_complete(resource_type,mal_id)
         
         return f'Page Updated - {resource_type}/{mal_id}'

@@ -134,18 +134,23 @@ def content(category, mal_id : int):
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
-        task = tasks.update_resources_async.delay(category, mal_id, first_time=True)
+        task = tasks.update_resources_async.delay(category, mal_id,
+            first_time=True,
+            download_images=app.config.get('DOWNLOAD_IMAGES'))
+
         lnc.register_page_update_scheduled(category, mal_id, task.id)
         return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
         resource = resource_models[category].query.get_or_404(mal_id)
-        task = tasks.update_resources_async.delay(category, mal_id, first_time=False)
+        task = tasks.update_resources_async.delay(category, mal_id, 
+            first_time=False,
+            download_images=app.config.get('DOWNLOAD_IMAGES'))
 
-        return render_template(templates[category], resource = resource)
+        return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
     else:
         resource = resource_models[category].query.get_or_404(mal_id)
-        return render_template(templates[category], resource = resource)
+        return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
 
 
 @app.route('/download-statistics')

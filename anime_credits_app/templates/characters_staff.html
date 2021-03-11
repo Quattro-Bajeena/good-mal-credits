@@ -16,7 +16,7 @@
 
 
 <div class="animeInfo infoSection" >
-    <img class="mainImage" src={{image_path(resource)}}>
+    <img class="mainImage" src="{{image_path(resource, use_local_images)}}">
     <p><b>Title:</b> {{resource.title}} </p>
     <p><b>Premiered: </b>{{resource.aired_from | format_date}}</p>
     <p><a href={{resource.url}} target="_blank">MAL link</a></p>
@@ -57,7 +57,7 @@
     <tbody>
         {% for member in resource.staff %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{image_path(member.person)}}> </td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(member.person, use_local_images)}}"> </td>
             <td><a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
             <td> {{ member.position }} </td>
             <td>{{member.person.member_favorites | format_big_number}}</td>
@@ -110,12 +110,12 @@
 
         {% for role in resource.voice_actors %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src={{image_path(role.character)}} ></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(role.character, use_local_images)}}" ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites | format_big_number}}</td>
             <td>{{role.role}}</td>
 
-            <td class="imageCell"><img class="tableImage" src={{image_path(role.person)}} ></td>
+            <td class="imageCell"><img class="tableImage" src="{{image_path(role.person, use_local_images)}}" ></td>
             <td><a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
             
             <td>{{role.person.member_favorites | format_big_number}}</td>
@@ -137,5 +137,5 @@
 {% endblock %}
 
 {% block javascript %}
-<script type="text/javascript" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+<script src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
 {%endblock%}

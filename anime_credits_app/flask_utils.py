@@ -12,9 +12,10 @@ from anime_credits_app import app, log_n_cache
 
 locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
-def image_path(resource):
+def image_path(resource, use_local_images:bool):
     # static/images/people/123.jpg
-    if resource.local_image_url == None:
+
+    if (not use_local_images) or (resource.local_image_url == None):
         return resource.image_url
     else:
         return url_for('static', filename=resource.local_image_url)

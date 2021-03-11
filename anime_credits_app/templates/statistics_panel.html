@@ -121,8 +121,8 @@
 {%endblock%}
 
 {% block javascript %}
-<script type="text/javascript">
+<script >
     const progress_url = "{{url_for('page_downloading', task_id=currently_updating.task_id)}}"
 </script>
-<script type="text/javascript" src="{{url_for('static', filename='javascript/progress_bar.js')}}"></script>
+<script src="{{url_for('static', filename='javascript/progress_bar.js')}}"></script>
 {% endblock %}
