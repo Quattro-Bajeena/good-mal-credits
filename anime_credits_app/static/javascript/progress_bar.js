@@ -75,7 +75,7 @@ function update_bar(){
             setTimeout(update_bar, 10000);
         }
         else{
-
+            //Is Pending or sth
             setTimeout(update_bar, interval_time * 4);
         }
     })
@@ -91,7 +91,7 @@ function update_bar(){
 }
 
 if(progress_url != '/downloading/'){
-    update_bar();
+    setTimeout(update_bar, 1000);
 }
 else{
     change_bar_fill(0,0, 0);

@@ -18,12 +18,12 @@ def index():
 
 @app.errorhandler(404)
 def page_not_found(e):
-    logger.info(e)
+    logger.info(f"404 Page not found: {request.url}")
     return render_template('404.html'), 404
 
 @app.errorhandler(500)
 def internal_server_error(e):
-    logger.warning(e)
+    logger.warning(f"505 Server error: {request.url}")
     return render_template('500.html'), 500
 
 
