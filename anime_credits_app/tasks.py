@@ -38,7 +38,7 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool):
         resource_functions[resource_type](mal_id, use_cached=first_time, celery_task=self)
         log_n_cache.register_page_update_complete(resource_type,mal_id)
         
-        return 'Page Updated'
+        return f'Page Updated - {resource_type}/{mal_id}'
 
     except Exception as e:
         log_n_cache.failed_page_update_cleanup(resource_type,mal_id)
