@@ -12,4 +12,4 @@ def trigger_page_downloads(category, mal_ids):
         print(f"{i+1}/{length} | {mal_id}:{resp.status_code}")
 
 
-trigger_page_downloads("people", range(1, 1000))
+trigger_page_downloads("studios", range(10, 100))

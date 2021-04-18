@@ -15,6 +15,7 @@
 - page cleanup when celery service itself hangs down
 - cleanup of currently updating page when celery itselfs hangs
 - making downlading images to drive optional to linking MAL images themselves.
+- When anime is downloaded again because it's updating after x days it doesnt show in the downloading tab
 
 
 # DONE:

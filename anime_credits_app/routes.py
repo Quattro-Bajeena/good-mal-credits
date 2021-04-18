@@ -147,7 +147,8 @@ def content(category, mal_id : int):
             first_time=False,
             download_images=app.config.get('DOWNLOAD_IMAGES'))
 
-        return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
+        lnc.register_page_update_scheduled(category, mal_id, task.id)
+        return render_template(templates[category], resource = resource,task_id = task.id, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
     else:
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
