@@ -291,7 +291,7 @@ footer a{
     
 
     #searchAutocomplete{
-        top: 35px;
+        top: 40px;
         border-radius: 10px;
         padding: 10px 0;
         max-height: 90vh;
@@ -299,8 +299,8 @@ footer a{
     }
     
     .autocompleteEntry{
-        font-size: 1.7em;
-        padding: 30px 10px;  
+        font-size: 1.2em;
+        padding: 20px 10px;  
     }
 
     footer div{
