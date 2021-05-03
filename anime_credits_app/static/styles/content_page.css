@@ -1,16 +1,14 @@
 
 
-
-
-
 #mainBlock{
     display: grid;
-    grid-template-columns: max-content auto;
-    grid-auto-flow: column;
+    grid-template-areas: 
+        "info table";
 
 }
 
 .infoSection{
+    grid-area: info;
     margin-top: 50px;
     margin-right: 10px;
 
@@ -20,11 +18,40 @@
     color: brown;
 }
 
-.tableSection{
 
+.tableSection{
+    grid-area: table;
+}
+
+.tableSection h1{
+    text-align: center;
+    color: rgb(94, 15, 15);
+    margin: 25px 0 10px 0;
 }
 
 .mainImage{
     display: block;
-    width: auto;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width:1600px){
+    #mainBlock{
+        grid-template-areas: 
+        "table"
+        "info";
+    }
+    .infoSection{
+        justify-self: center;
+        margin-top: 10px;
+        margin-right: 10px;
+    
+    }
+    .tableSection{
+        width: min-content;
+        justify-self: center;
+    }
+    .mainImage{
+        width: 200px;
+    }
 }

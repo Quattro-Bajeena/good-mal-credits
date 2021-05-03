@@ -49,7 +49,7 @@
                     <td>{{status.id}}</td>
                     <td>{{resource_name(status.category, status.mal_id)}}</td>
                     <td>{{status.scheduled_time}}</td>
-                    <td>{{status.task_id}}</td>
+                    <td>{{truncate(status.task_id, 10)}}</td>
                 </tr>
                 {% endfor %}
             </tbody>

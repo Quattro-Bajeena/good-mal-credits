@@ -20,6 +20,8 @@ def image_path(resource, use_local_images:bool):
     else:
         return url_for('static', filename=resource.local_image_url)
     
+def truncate(string, length) -> str:
+    return (string[:length] + '...') if len(string) > length else string
 
 @app.context_processor
 def inject_python_functions():
@@ -31,7 +33,7 @@ def inject_python_functions():
             return "-"
         
 
-    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path}
+    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path, 'truncate' : truncate}
 
 @app.template_filter('format_percentage')
 def format_percentage(percentage:float):

@@ -23,7 +23,7 @@
 
 <div class="tableSection">
 {% if len(resource.staff_credits) > 0 %}
-
+<h1>Staff credits</h1>
 <table id="personCreditsTable" class="contentTable">
     <thead>
         <tr class="mainHeader">
@@ -89,13 +89,13 @@
 
 
 {% else %}
-<p><b>No anime staff credits</b></p>
+<h1>No anime staff credits</h1>
 {% endif %}
 
 
 
 {% if len(resource.voice_acting_roles) > 0 %}
-
+<h1>Voice acting roles</h1>
 <table id="personVoiceActingTable" class="contentTable">
     <thead class="contentTableHead">
         <tr class="mainHeader">
@@ -159,12 +159,12 @@
 </table>
 
 {% else %}
-<p><b>No acting roles</b></p>
+<h1>No acting roles</h1>
 {% endif %}
 
 
 {% if len(resource.published_manga) > 0 %}
-
+<h1>Published manga</h1>
 <table id="personMangaTable" class="contentTable">
     <thead>
         <tr class="mainHeader">
@@ -238,7 +238,7 @@
 </table>
 
 {% else %}
-<p><b>No published manga</b></p>
+<h1>No published manga</h1>
 {% endif %}
 
 

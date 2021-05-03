@@ -2,7 +2,8 @@
 
 .contentTable{
     border-collapse: collapse;
-    margin: 25px 0;
+    margin-top: 0px;
+    margin-bottom: 25px;
     
     
     min-width: 400px;
@@ -112,5 +113,26 @@
     border: 0;
     width: 90%;
     
+}
+
+@media (max-width:1600px){
+    .contentTable{
+        min-width: 0px;
+    }
+
+    .contentTable thead th.fixedWidth{
+        width: min-content;
+    }
+
+    .contentTable thead {
+        width: min-content;
+    }
+    .contentTable thead th.pictureCol{
+        min-width: 0;
+    }
+
+    .contentTable .mainHeader th{
+        padding: 5px 5px 5px 2px;
+    }
 }
 
