@@ -282,6 +282,20 @@ footer a{
         margin-left: 5px;
     }
 
+    #searchAutocomplete{
+
+        top: 35px;
+        left: 0px;
+        border-radius: 10px;
+        padding: 10px 0;
+        box-sizing: border-box;
+    }
+    
+    .autocompleteEntry{
+        font-size: 1em;
+        padding: 5px 10px;  
+    }
+
     footer div{
         font-size: 1em;
         padding: 10px;

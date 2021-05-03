@@ -91,6 +91,47 @@
 }
 
 @media (max-width:1600px){
+
+    #mainBlock > p{
+        font-size: 3em;
+        margin-bottom: 5px;
     
+    }
+
+    
+    .categoryButton span{
+
+        font-size: 1.5em;
+        padding: 5px;
+        margin: 3px 3px;
+
+        border-radius: 10px;
+
+    }
+
+    #searchForm{
+        border-radius: 20px;
+        height: auto;
+        width: auto;
+        padding: 10px 30px;
+    }
+
+    #searchBar{
+        height: 40px;
+        width: auto;
+    }
+
+    #searchBar button{
+        background-size: 35px;
+        width: 40px;
+        height: 40px;
+        
+    }
+    #searchAutocomplete{
+        top: 50px;
+    }
+    .autocompleteEntry{
+        font-size: 1.2em;
+    }
 }
 
