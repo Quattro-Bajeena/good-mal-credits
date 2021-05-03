@@ -87,14 +87,12 @@
 
 #searchAutocomplete{
     top: 100px;
+    max-height: 40vh;
     
 }
 
 .autocompleteEntry{
-
-    font-size: 1.5em;
-
-
+    font-size: 2em;
 }
 
 @media (max-width:1600px){
@@ -112,7 +110,7 @@
     }
 
     #searchForm{
-        border-radius: 20px;
+        
         height: auto;
         width: 70%;
         max-width: 1000px;
@@ -120,7 +118,9 @@
     }
 
     
-
+    #searchBarAndAutocomplete{
+        max-width:1000px;
+    }
     #searchBar{
         height: 60px;
         width: 100%;
@@ -136,7 +136,7 @@
         top: 60px;
     }
     .autocompleteEntry{
-        /* font-size: 1.2em; */
+        /* font-size: 2.5em; */
     }
 }
 

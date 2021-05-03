@@ -47,6 +47,8 @@ header{
     
 }
 
+
+
 .categoryButton {
     display: flex;
     align-items: center;
@@ -86,6 +88,7 @@ header{
 #searchBarAndAutocomplete{
     position: relative;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 #searchBar{
@@ -165,10 +168,13 @@ header{
 }
 
 
-
+#linkToMain{
+    margin: 10px;
+    text-align: center;
+}
 
 #linkToMain a, #linkToMain a:visited{
-    padding: 20px;
+    
     color: rgb(238, 232, 224);
     font-size: 1.2em;
     font-weight: bold;
@@ -251,49 +257,50 @@ footer a{
         max-width: 1500px;
     }
 
-    #linkToMain a, #linkToMain a:visited{
-        padding: 5px;
-
-    }
 
     .categoryButton span{
         padding: 10px;
+    }
+
+    #searchBarAndAutocomplete{
+        margin-left: 5px;
+        flex-grow: 2;
+        max-width: 500px;
     }
 
     #searchBar{
         
         min-width: 100px;
         border-radius: 5px;
+        width: 100%;
+        
     }
 
     #searchBar input{
-        height: 30px;
+        height: 40px;
         width: 100%;
 
     }
 
     #searchBar button{
-        width: 30px;
-        height: 30px;
-        background-size: 20px;
+        width: 40px;
+        height: 40px;
+        background-size: 30px;
     }
 
-    #searchBarAndAutocomplete{
-        margin-left: 5px;
-    }
+    
 
     #searchAutocomplete{
-
         top: 35px;
-        left: 0px;
         border-radius: 10px;
         padding: 10px 0;
-        box-sizing: border-box;
+        max-height: 90vh;
+        overflow-y: scroll;
     }
     
     .autocompleteEntry{
-        font-size: 1em;
-        padding: 5px 10px;  
+        font-size: 1.7em;
+        padding: 30px 10px;  
     }
 
     footer div{
