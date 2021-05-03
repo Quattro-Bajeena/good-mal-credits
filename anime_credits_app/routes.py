@@ -87,7 +87,7 @@ def quick_search(category, query):
         if result not in results:
             results.append(result)
 
-    response['results'] = results[:6]
+    response['results'] = results[:app.config.get('QUICK_SEARCH_RESULTS')]
     return response
 
     

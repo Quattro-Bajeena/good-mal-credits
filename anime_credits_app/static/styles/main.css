@@ -299,8 +299,8 @@ footer a{
     }
     
     .autocompleteEntry{
-        font-size: 1.2em;
-        padding: 20px 10px;  
+        /* font-size: 1.2em; */
+        padding: 10px 10px;  
     }
 
     footer div{
