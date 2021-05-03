@@ -59,8 +59,13 @@
 
 }
 
+#searchBarAndAutocomplete{
+    width: 100%;
+    margin: 10px;
+}
+
 #searchBar{
-    width: 1000px;
+    
 }
 
 #searchBar input{
@@ -81,7 +86,6 @@
 
 
 #searchAutocomplete{
-
     top: 100px;
     
 }
@@ -110,13 +114,16 @@
     #searchForm{
         border-radius: 20px;
         height: auto;
-        width: auto;
-        padding: 10px 30px;
+        width: 70%;
+        max-width: 1000px;
+        padding: 20px 50px;
     }
+
+    
 
     #searchBar{
         height: 60px;
-        width: auto;
+        width: 100%;
     }
 
     #searchBar button{
