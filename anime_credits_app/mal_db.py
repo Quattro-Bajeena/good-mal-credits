@@ -306,7 +306,7 @@ def get_manga_db(manga:dict, use_cached:bool):
         update_manga(manga_db, manga)
     return manga_db
 
-def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
+def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool) -> Studio:
     #logger.debug(f"get studio db - {studio['name']} - {studio['mal_id']} - {anime_db}")
     mal_id = studio['mal_id']
     studio_db = Studio.query.get(mal_id)
@@ -327,7 +327,7 @@ def get_studio_db(studio:dict,  anime_db:Anime, use_cached:bool):
     return studio_db
 
 
-def get_person_db(person:dict, use_cached:bool):
+def get_person_db(person:dict, use_cached:bool) -> Person:
     mal_id = person['mal_id']
     person_db = Person.query.get(mal_id)
     if not person_db:
@@ -336,7 +336,7 @@ def get_person_db(person:dict, use_cached:bool):
         update_person(person_db, person)
     return person_db
 
-def get_character_db(character:dict, anime_db:Anime, use_cached:bool):
+def get_character_db(character:dict, anime_db:Anime, use_cached:bool) -> Character:
     mal_id = character['mal_id']
     character_db = Character.query.get(mal_id)
     if not character_db:
@@ -384,8 +384,6 @@ def get_voice_actor_db(anime, person, character, role, anime_db, person_db, char
     elif not use_cached:
         update_voice_actor(voice_actor_db, anime, person, character, role)
     return voice_actor_db
-
-
 
 
 
@@ -555,7 +553,13 @@ def update_studio_page(mal_id:int, use_cached:bool,download_images:bool, celery_
     update_function_status("updating studio information", 0, 1, celery_task)
 
     studio = adc.mal.get_resource('studios', mal_id, use_cached, download_images)
+
     studio_db = Studio.query.get(mal_id)
+    if not studio_db:
+        studio_db = add_studio(studio)
+    elif not use_cached:
+        update_studio(studio_db, studio)
+
     logger.info(f"UPDATING STUDIO -------- {studio_db.name} -----------")
 
     if not studio_db:
