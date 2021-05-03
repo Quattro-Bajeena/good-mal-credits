@@ -61,7 +61,11 @@
     <tbody>
         {% for credit in resource.staff_credits %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src="{{image_path(credit.anime, use_local_images)}}" ></td>
+            <td class="imageCell">
+                <a href="{{url_for('content',category='anime', mal_id=credit.anime.mal_id)}}" >
+                    <img class="tableImage" src="{{image_path(credit.anime, use_local_images)}}" >
+                </a>
+            </td>
             <td><a href="{{url_for('content',category='anime', mal_id=credit.anime.mal_id)}}" >{{credit.anime.title}}</a></td>
             <td>{{credit.position}}</td>
 
@@ -89,7 +93,7 @@
 
 
 {% else %}
-<h1>No anime staff credits</h1>
+<!-- <h1 class="no-entries">No anime staff credits</h1> -->
 {% endif %}
 
 
@@ -137,8 +141,14 @@
         {% for role in resource.voice_acting_roles %}
 
         <tr>
-            <td class="imageCell"><img class="tableImage" src="{{image_path(role.anime, use_local_images)}}" ></td>
-            <td><a href="{{url_for('content',category='anime', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a></td>
+            <td class="imageCell">
+                <a href="{{url_for('content',category='anime', mal_id=role.anime.mal_id)}}" >
+                    <img class="tableImage" src="{{image_path(role.anime, use_local_images)}}" >
+                </a>
+            </td>
+            <td>
+                <a href="{{url_for('content',category='anime', mal_id=role.anime.mal_id)}}" >{{role.anime.title}}</a>
+            </td>
             <td class="imageCell"><img class="tableImage" src="{{image_path(role.character, use_local_images)}}" ></td>
             <td>{{role.character.name}}</td>
             <td>{{role.character.member_favorites | format_big_number}}</td>
@@ -159,7 +169,7 @@
 </table>
 
 {% else %}
-<h1>No acting roles</h1>
+<!-- <h1 class="no-entries">No acting roles</h1> -->
 {% endif %}
 
 
@@ -238,7 +248,7 @@
 </table>
 
 {% else %}
-<h1>No published manga</h1>
+<!-- <h1 class="no-entries">No published manga</h1> -->
 {% endif %}
 
 

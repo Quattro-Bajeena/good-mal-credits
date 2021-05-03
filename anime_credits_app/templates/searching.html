@@ -14,11 +14,15 @@
 {% for result in results %}
     <li>
         
+        <a href='{{url_for("content",category=category, mal_id = result.mal_id)}}'>
         <img src={{result.image_url}}> 
+        </a>
 
         <a href='{{url_for("content",category=category, mal_id = result.mal_id)}}'>
+            <span>
             {{result.title}}
             {{result.name}}
+            </span>
         </a>
 
     </li>

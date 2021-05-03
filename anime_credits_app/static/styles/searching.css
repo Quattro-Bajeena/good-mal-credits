@@ -1,13 +1,16 @@
 
 p{
     font-weight: bold;
-    font-size: 1.5em;
-    color: rgb(37, 5, 5);
+    font-size: 2em;
+    color: rgb(78, 11, 11);
     margin: 30px;
 }
 
 #searchResults{
-
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
 }
 
 #searchResults li{
@@ -25,7 +28,10 @@ p{
 }
 
 #searchResults a{
+    color: brown;
+}
+
+#searchResults a span{
     margin: 20px;
     font-size: 1.5em;
-    color: brown;
 }

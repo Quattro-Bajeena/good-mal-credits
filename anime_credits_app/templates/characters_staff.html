@@ -57,8 +57,14 @@
     <tbody>
         {% for member in resource.staff %}
         <tr>
-            <td class="imageCell"><img class="tableImage" src="{{image_path(member.person, use_local_images)}}"> </td>
-            <td><a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a></td>
+            <td class="imageCell">
+                <a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">
+                    <img class="tableImage" src="{{image_path(member.person, use_local_images)}}"> 
+                </a>
+            </td>
+            <td>
+                <a href="{{url_for('content',category='people', mal_id=member.person.mal_id)}}">{{ member.person.name }} </a>
+            </td>
             <td> {{ member.position }} </td>
             <td>{{member.person.member_favorites | format_big_number}}</td>
             <td>{{ member.person.birthday | format_date}}</td>
@@ -115,7 +121,11 @@
             <td>{{role.character.member_favorites | format_big_number}}</td>
             <td>{{role.role}}</td>
 
-            <td class="imageCell"><img class="tableImage" src="{{image_path(role.person, use_local_images)}}" ></td>
+            <td class="imageCell">
+                <a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >
+                    <img class="tableImage" src="{{image_path(role.person, use_local_images)}}" >
+                </a>
+            </td>
             <td><a href="{{url_for('content',category='people', mal_id=role.person.mal_id)}}" >{{role.person.name}}</a></td>
             
             <td>{{role.person.member_favorites | format_big_number}}</td>

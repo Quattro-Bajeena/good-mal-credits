@@ -45,6 +45,9 @@
     flex-direction: row;
 }
 
+.categoryButton{
+    margin: 5px;
+}
 
 .categoryButton span{
 
@@ -93,20 +96,15 @@
 @media (max-width:1600px){
 
     #mainBlock > p{
-        font-size: 3em;
-        margin-bottom: 5px;
-    
+        /* margin-bottom: 5px; */
     }
 
     
     .categoryButton span{
-
-        font-size: 1.5em;
-        padding: 5px;
+        /* padding: 5px;
         margin: 3px 3px;
 
-        border-radius: 10px;
-
+        border-radius: 10px; */
     }
 
     #searchForm{
@@ -117,21 +115,21 @@
     }
 
     #searchBar{
-        height: 40px;
+        height: 60px;
         width: auto;
     }
 
     #searchBar button{
-        background-size: 35px;
-        width: 40px;
-        height: 40px;
+        background-size: 50px;
+        width: 60px;
+        height: 60px;
         
     }
     #searchAutocomplete{
-        top: 50px;
+        top: 60px;
     }
     .autocompleteEntry{
-        font-size: 1.2em;
+        /* font-size: 1.2em; */
     }
 }
 
