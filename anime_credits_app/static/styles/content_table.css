@@ -2,8 +2,7 @@
 
 .contentTable{
     border-collapse: collapse;
-    margin-top: 0px;
-    margin-bottom: 25px;
+    
     
     
     min-width: 400px;
@@ -11,7 +10,9 @@
 
     overflow: hidden;
     /* table-layout: fixed; */
-    
+
+    margin: 0 auto;
+    margin-bottom: 25px;
     
   
 }

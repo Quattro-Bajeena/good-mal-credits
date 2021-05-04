@@ -21,6 +21,7 @@
 
 .tableSection{
     grid-area: table;
+    
 }
 
 .tableSection h1{
@@ -46,6 +47,8 @@
         grid-template-areas: 
         "table"
         "info";
+
+        grid-template-rows:max-content max-content;
     }
     .infoSection{
         justify-self: center;
