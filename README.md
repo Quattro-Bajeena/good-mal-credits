@@ -16,6 +16,7 @@ MAL - My Anime List. A IMDb style website for anime (japanese animation)
 - no frontend frameworks
   - few javascript files for implementing table sorting and filtering, dynamic searching.
   - no html/css libraries like bootstrap, visual and layout is created using css files.
+  - although designed with desktop first, css files use media queries to made site responsive on mobile devices
 
 ## Hosting
 Website is hosted on a VPS with Debian 10 installed. Everything was set up manually.

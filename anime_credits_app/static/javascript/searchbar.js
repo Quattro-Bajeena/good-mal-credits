@@ -15,14 +15,17 @@ const validateSearch = function(){
 const savePickedCategory = function(){
     const button = document.querySelector('#searchForm input[type="radio"]:checked');
     window.localStorage.setItem("picked_category_button_id", button.id);
-    //console.log(button.id);
+    searchBarInput.setAttribute("placeholder", button.value.toUpperCase());
 }
 
 const setPickedCategory = function(){
     button_id = window.localStorage.getItem("picked_category_button_id");
 
-    if(button_id)
+    if(button_id){
         document.getElementById(button_id).checked = true;
+        
+    }
+        
 }
 
 const send_search_request = function(event){
@@ -127,6 +130,7 @@ searchBarInput.addEventListener('input', debounce(dynamicSearch, 450));
 
 
 // things that co once page is loaded
+savePickedCategory();
 setPickedCategory();
 
 

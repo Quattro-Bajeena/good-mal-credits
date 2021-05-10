@@ -14,7 +14,7 @@
 
 {% block main %}
 
-<p>
+<p id="title">
     BETTER MAL CREDITS
 </p>
 
@@ -52,6 +52,32 @@
         </div>
 
     </div>
-      
 </form>
+
+<div id="sample">
+    <p>If you don't know where to start, check out some of my favourites</p>
+    <div id="samplePages">
+        <ul id="sampleAnime">
+            <h1>Anime</h1>
+            <li><a href="{{url_for('content',category='anime', mal_id=30)}}">Evangelion</a></li>
+            <li><a href="{{url_for('content',category='anime', mal_id=572)}}">Nausicaä of the Valley of the Wind</a></li>
+            <li><a href="{{url_for('content',category='anime', mal_id=7791)}}">K-On</a></li>
+        </ul>
+        <ul id="samplePeople">
+            <h1>People</h1>
+            <li><a href="{{url_for('content',category='people', mal_id=511)}}">Hideaki Anno</a></li>
+            <li><a href="{{url_for('content',category='people', mal_id=2000)}}">Tsutomu Nihei</a></li>
+            <li><a href="{{url_for('content',category='people', mal_id=598)}}">Shuuichi Ikeda</a></li>
+            
+        </ul>
+        <ul id="sampleStudios">
+            <h1>Studios</h1>
+            <li><a href="{{url_for('content',category='studio', mal_id=30)}}">Gainax</a></li>
+            <li><a href="{{url_for('content',category='studio', mal_id=803)}}">Trigger</a></li>
+            <li><a href="{{url_for('content',category='studio', mal_id=1023)}}">Polygon Pictures</a></li>
+        </ul>
+    </div>
+</div>
+
+
 {%endblock%}
