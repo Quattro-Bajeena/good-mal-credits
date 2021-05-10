@@ -112,6 +112,9 @@ def page_downloading(task_id):
 @app.route('/<category>/<int:mal_id>')
 def content(category, mal_id : int):
 
+    if category not in ['anime', 'people', 'studios']:
+        abort(404)
+
     if not adc.util.check_resource_exists(category, mal_id):
         abort(404)
 
