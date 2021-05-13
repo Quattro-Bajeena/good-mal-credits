@@ -1,2 +1,5 @@
 User-agent: * 
-Crawl-Delay: 100
+Crawl-Delay: 120
+Disallow: /anime/
+Disallow: /people/
+Disallow: /studios/

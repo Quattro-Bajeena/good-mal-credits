@@ -5,17 +5,14 @@
 
 - long term: pull data from other sites
 
-- making sure logs from celery nginx and others are allright, logrotate is working corecntly
 - clean up git more
 - writing more unit tests, for database, celery and stuff
-
 - use some kind of better css (sass?)
 - page "about me"
-- download images from MAL
+
 - page cleanup when celery service itself hangs down
-- cleanup of currently updating page when celery itselfs hangs
-- making downlading images to drive optional to linking MAL images themselves.
-- When anime is downloaded again because it's updating after x days it doesnt show in the downloading tab
+
+- configuring nginx to cache sites but not when they are downloading. (because then they have the same link, be they cant be cashed). only cashe when page is downloaded
 
 
 # DONE:
@@ -57,6 +54,11 @@
 - like a admin panel to see what's in the que what's downlading right now, what percantge of all anime is downloaded
 - do the main page so the searchbar will be in the centre
 - OOPS bug, the qick search only shows anime even though people or studios option is selected
+- download images from MAL
+- cleanup of currently updating page when celery itselfs hangs
+- making downlading images to drive optional to linking MAL images themselves.
+- When anime is downloaded again because it's updating after x days it doesnt show in the downloading tab
+- making sure logs from celery nginx and others are allright, logrotate is working corecntly
 
 
 
