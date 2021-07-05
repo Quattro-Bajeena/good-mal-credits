@@ -1,5 +1,6 @@
 from time import sleep
 import logging
+from celery.app.task import Task
 from celery.signals import after_setup_logger
 
 from anime_credits_app import celery,logger,  mal_db, log_n_cache
@@ -12,7 +13,6 @@ def on_celery_setup_logging(**kwargs):
     logging.getLogger('celery').handlers = logging.getLogger('celery_logger').handlers
     
 
-
 @celery.task(bind=True)
 def update_resources_async(self, resource_type, mal_id:int, first_time:bool, download_images:bool):
     # it looks like when page is created in main flask app 
@@ -22,13 +22,14 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool, dow
     sleep(1)
     #task_id = str(self.request.id)
     try:
+        
         page_status = log_n_cache.check_page_update(resource_type, mal_id)
 
         if first_time and page_status['exists']:
             return "Page was already created in the meantime"
 
         log_n_cache.register_page_update_start(resource_type, mal_id)
-
+        
         # staff -> characters_staff
         resource_functions = {
             "anime" : mal_db.update_characters_staff,

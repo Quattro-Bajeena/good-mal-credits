@@ -1,12 +1,10 @@
 import os, yaml, logging, logging.config
 import collections
 from pathlib import Path
-from dotenv import load_dotenv
 from datetime import time, timedelta
 from yaml.loader import SafeLoader
 from typing import Tuple
 
-# load_dotenv()
 
 basedir = Path(__file__).resolve().parent
 

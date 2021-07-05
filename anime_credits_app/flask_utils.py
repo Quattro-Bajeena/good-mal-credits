@@ -2,13 +2,14 @@ from flask import url_for
 from pathlib import Path
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
+from itertools import accumulate
 import unicodedata
 import locale
 
 import json
 
 import anime_credits_app
-from anime_credits_app import app, log_n_cache
+from anime_credits_app import app, log_n_cache, models
 
 locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
@@ -23,6 +24,33 @@ def image_path(resource, use_local_images:bool):
 def truncate(string, length) -> str:
     return (string[:length] + '...') if len(string) > length else string
 
+def average_studio_score(studio : models.Studio):
+    score_sum = 0
+    quantity = 0
+    for anime in studio.anime:
+        if anime.score is not None:
+            score_sum += anime.score
+            quantity += 1
+    return round(score_sum / quantity ,2 )
+
+def average_studio_favorites(studio : models.Studio):
+    favorites_sum = 0
+    quantity = 0
+    for anime in studio.anime:
+        if anime.favorites is not None:
+            favorites_sum += anime.favorites
+            quantity += 1
+    return round(favorites_sum / quantity)
+
+def average_studio_members(studio : models.Studio):
+    members_sum = 0
+    quantity = 0
+    for anime in studio.anime:
+        if anime.members is not None:
+            members_sum += anime.members
+            quantity += 1
+    return round(members_sum / quantity)
+
 @app.context_processor
 def inject_python_functions():
 
@@ -33,7 +61,10 @@ def inject_python_functions():
             return "-"
         
 
-    return {'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path, 'truncate' : truncate}
+    return {
+        'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path, 'truncate' : truncate,
+        'average_studio_score' : average_studio_score, 'average_studio_favorites' : average_studio_favorites, 'average_studio_members' : average_studio_members
+    }
 
 @app.template_filter('format_percentage')
 def format_percentage(percentage:float):

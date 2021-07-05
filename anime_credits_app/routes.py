@@ -2,7 +2,6 @@ import time, sys, logging
 
 from flask import render_template, request, redirect, url_for, flash, session, abort
 import celery.states
-from celery.app.control import Inspect
 
 from anime_credits_app import app, adc, tasks, models, logger
 import anime_credits_app.log_n_cache as lnc
@@ -118,6 +117,7 @@ def content(category, mal_id : int):
     if not adc.util.check_resource_exists(category, mal_id):
         abort(404)
 
+    
     templates = {
         'anime' : "characters_staff.html",
         'people' : "person.html",
@@ -131,20 +131,23 @@ def content(category, mal_id : int):
     }
 
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
-
+    
 
     if page_status['being_created'] or page_status['scheduled_to_update']:
+        
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
     elif not page_status['exists']:
+        
         task = tasks.update_resources_async.delay(category, mal_id,
             first_time=True,
             download_images=app.config.get('DOWNLOAD_IMAGES'))
-
+        
         lnc.register_page_update_scheduled(category, mal_id, task.id)
         return render_template('page_downloading.html', category=category, task_id = task.id, downloading_right_now = False)
 
     elif page_status['needs_update']:
+          
         resource = resource_models[category].query.get_or_404(mal_id)
         task = tasks.update_resources_async.delay(category, mal_id, 
             first_time=False,
@@ -153,6 +156,7 @@ def content(category, mal_id : int):
         lnc.register_page_update_scheduled(category, mal_id, task.id)
         return render_template(templates[category], resource = resource,task_id = task.id, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
     else:
+          
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
 
@@ -162,9 +166,9 @@ def download_statistics():
     currently_updating = models.PageStatus.query.filter_by(updating=True).first()
     update_queue = models.PageStatus.query.filter_by(scheduled_to_update=True).order_by(models.PageStatus.scheduled_time).all()
 
-    pages_not_existing = models.PageStatus.query.\
-        filter_by(exists=False).\
-        filter_by(task_id='').all()
+    # pages_not_existing = models.PageStatus.query.\
+    #     filter_by(exists=False).\
+    #     filter_by(task_id='').all()
 
     pages_update_failed = models.PageStatus.query.filter_by(update_failed=True).all()
 
