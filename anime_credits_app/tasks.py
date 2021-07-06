@@ -43,6 +43,8 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool, dow
 
     except Exception as e:
         log_n_cache.failed_page_update_cleanup(resource_type,mal_id)
+        
+        print(e)
         self.update_state(state='FAILURE', meta={'exc' : e})
         raise
 

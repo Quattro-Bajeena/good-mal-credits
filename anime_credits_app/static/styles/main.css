@@ -242,7 +242,13 @@ footer div{
 }
 
 footer a{
-    color: antiquewhite;
+    color: whitesmoke;
+}
+
+footer a img{
+    
+    height: 32px;
+    vertical-align: middle;
 }
 
 

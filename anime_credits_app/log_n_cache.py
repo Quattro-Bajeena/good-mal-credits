@@ -87,7 +87,8 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     # -not yet in database                                      -> exists:False, updating:False, task_id : None (crash)
     # -in database but not created and updating at the moment   -> exists:False, updating:True, task_id : xxx
     # -in databse but not created and not updating              -> exists:False, updating:False, task_id : None
-    # -in database and created                                  -> exists: True, updating:False, task_id  : NOne
+    # -in database and created                                  -> exists: True, updating:False, task_id  : None
+    # -in databse and created and scheduled to update           -> exists: Truye,udpating: False, task_id : xxxx
     page_id = page_id_maker(category, mal_id)
     log = PageStatus.query.get(page_id)
     # logger.info(f"check_page_update - log: {log} ")

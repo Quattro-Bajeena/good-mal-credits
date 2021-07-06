@@ -133,7 +133,7 @@ def content(category, mal_id : int):
     page_status = lnc.check_page_update(category, mal_id, time_limit=app.config.get('DATA_EXPIRY_DAYS'))
     
 
-    if page_status['being_created'] or page_status['scheduled_to_update']:
+    if page_status['being_created']:
         
         return render_template('page_downloading.html', category=category, task_id = page_status['task_id'], downloading_right_now = page_status['being_created'])
 
