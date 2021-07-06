@@ -131,8 +131,8 @@ def update_manga(manga_db : Manga, manga : dict):
     manga_db.volumes = manga['volumes']
     manga_db.chapters = manga['chapters']
     manga_db.publishing = manga['publishing']
-    published_from = datetime.datetime.strptime(manga['published']['from'][:10],'%Y-%m-%d') if manga['published']['from'] else None
-    manga_db.published_to =  published_to = datetime.datetime.strptime(manga['published']['to'][:10],'%Y-%m-%d') if manga['published']['to'] else None
+    manga_db.published_from = datetime.datetime.strptime(manga['published']['from'][:10],'%Y-%m-%d') if manga['published']['from'] else None
+    manga_db.published_to = datetime.datetime.strptime(manga['published']['to'][:10],'%Y-%m-%d') if manga['published']['to'] else None
     manga_db.rank = manga['rank']
     manga_db.score = manga['score']
     manga_db.scored_by = manga['scored_by']
