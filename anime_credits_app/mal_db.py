@@ -139,7 +139,7 @@ def update_manga(manga_db : Manga, manga : dict):
     manga_db.popularity = manga['popularity']
     manga_db.members = manga['members']
     manga_db.favorites = manga['favorites']
-    manga_db.serialization = manga['serializations'][0] if len(manga['serializations'])>0 else None
+    manga_db.serialization = manga['serializations'][0]['name'] if len(manga['serializations'])>0 else None
 
 
 def add_studio(studio : dict) -> Studio:

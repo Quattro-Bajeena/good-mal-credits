@@ -5,6 +5,15 @@
 
 
 {% block main %}
+
+
+{% if category == 'studios' %}
+<p>
+    MAL doesn't support searching for studios
+</p>
+
+{% else %}
+
 <p>
     Search results:
 </p>
@@ -28,5 +37,7 @@
     </li>
 {% endfor %}
 </ol>
+
+{% endif %}
 
 {%endblock%}

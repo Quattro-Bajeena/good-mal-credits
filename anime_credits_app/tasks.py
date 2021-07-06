@@ -23,6 +23,9 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool, dow
     #task_id = str(self.request.id)
     try:
         
+        if not first_time: 
+            print("Not first time")
+
         page_status = log_n_cache.check_page_update(resource_type, mal_id)
 
         if first_time and page_status['exists']:
@@ -43,8 +46,8 @@ def update_resources_async(self, resource_type, mal_id:int, first_time:bool, dow
 
     except Exception as e:
         log_n_cache.failed_page_update_cleanup(resource_type,mal_id)
-        
-        print(e)
+        logger.error("Error While updating")
+        logger.error(e)
         self.update_state(state='FAILURE', meta={'exc' : e})
-        raise
+        
 

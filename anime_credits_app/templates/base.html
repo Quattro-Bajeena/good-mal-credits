@@ -72,14 +72,15 @@
 {% block footer %}
 <footer>
     <div>
-        You can find me on:
+        Find me on:
         <a href="https://www.youtube.com/channel/UCINPzzjxRzGOq4Pex5r3EKg" target="_blank"><img src="{{url_for('static', filename='icons/YouTube.png')}}"></a>/
         <a href="https://twitter.com/turtle_guy_" target="_blank"><img src="{{url_for('static', filename='icons/Twitter.png')}}"></a>/
-        <a href="https://github.com/Quattro-Bajeena" target="_blank"><img src="{{url_for('static', filename='icons/GitHub.png')}}"></a>/
+        <a href="https://github.com/Quattro-Bajeena/good-mal-credits" target="_blank"><img src="{{url_for('static', filename='icons/GitHub.png')}}"></a>/
         <a href="https://myanimelist.net/profile/Paraon" target="_blank"><img src="{{url_for('static', filename='icons/MAL.png')}}"></a>
     </div>
     <div>Powered by: <a href="https://jikan.moe/" target="_blank">Jikan, unoficiall MAL API</a></div>
-    <div><a href="{{url_for('download_statistics')}}">Downloads Panel</a></div>
+    <div><a href="{{url_for('download_statistics')}}">Downloads</a></div>
+    <div><a href="{{url_for('updates')}}">Updates</a></div>
 </footer>
 {%endblock%}
 

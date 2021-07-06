@@ -25,6 +25,9 @@ def internal_server_error(e):
     logger.warning(f"505 Server error: {request.url}")
     return render_template('500.html'), 500
 
+@app.route("/updates")
+def updates():
+    return render_template("updates.html")
 
 @app.route('/search', methods=['POST'])
 def search():
