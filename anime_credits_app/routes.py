@@ -163,6 +163,23 @@ def content(category, mal_id : int):
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
 
+@app.route('/download-statistics/data')
+def download_statistics_data():
+    currently_updating =[page.id for page in models.PageStatus.query.filter_by(updating=True).all()]
+    update_que = [page.id for page in models.PageStatus.query.filter_by(scheduled_to_update=True).order_by(models.PageStatus.scheduled_time).all()]
+    pages_update_failed = [page.id for page in models.PageStatus.query.filter_by(update_failed=True).all()]
+    with_task_id = [page.id for page in models.PageStatus.query.filter(models.PageStatus.task_id != None).all()]
+
+    content = {
+        'Currently Updating' : currently_updating,
+        "Update Que" : update_que,
+        "Update failed" : pages_update_failed,
+        "With Task id" : with_task_id
+    }
+    return content
+
+    
+
 
 @app.route('/download-statistics')
 def download_statistics():
