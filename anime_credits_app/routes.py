@@ -168,7 +168,7 @@ def download_statistics_data():
     currently_updating =[page.id for page in models.PageStatus.query.filter_by(updating=True).all()]
     update_que = [page.id for page in models.PageStatus.query.filter_by(scheduled_to_update=True).order_by(models.PageStatus.scheduled_time).all()]
     pages_update_failed = [page.id for page in models.PageStatus.query.filter_by(update_failed=True).all()]
-    with_task_id = [page.id for page in models.PageStatus.query.filter(models.PageStatus.task_id != None).all()]
+    with_task_id = [page.id for page in models.PageStatus.query.filter(models.PageStatus.task_id != '').all()]
     anime_count = models.Anime.query.count()
     people_count = models.Person.query.count()
     studios_count = models.Studio.query.count()

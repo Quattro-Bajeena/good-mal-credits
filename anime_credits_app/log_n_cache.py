@@ -61,7 +61,7 @@ def register_page_update_complete(category, mal_id):
     log = PageStatus.query.get(page_id)
     log.updating = False
     log.exists = True
-    log.task_id = None
+    log.task_id = ''
     log.last_modified = datetime.now()
     db.session.commit()
     logger.info(f"Page update completed - {page_id}")
@@ -74,7 +74,7 @@ def failed_page_update_cleanup(category, mal_id):
     log.updating = False
     log.scheduled_to_update = False
     log.scheduled_time = None
-    log.task_id = None
+    log.task_id = ''
     log.update_failed = True
     db.session.commit()
     logger.error(f"Failed Page Update - {page_id}. Cleaned up")
