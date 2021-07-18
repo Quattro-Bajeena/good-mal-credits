@@ -44,11 +44,17 @@
 
 }
 
+#currentDownload h1 a{
+    font-size: 0.8em;
+}
+
+
 #downloadQue{
     grid-area: queue;
     background-color: blanchedalmond;
 
 }
+
 
 #downloadQue h1, h2{
     flex-grow: 0;

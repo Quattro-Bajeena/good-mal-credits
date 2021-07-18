@@ -14,7 +14,7 @@
 
 
 <div id="currentDownload">
-    <h1>Current Download</h1>
+    <h1>Current Download <a href="{{url_for('download_statistics_data')}}">Raw data</a></h1> 
     <h2 id="name">Name: 
     {% if currently_updating %}
         <a href="{{url_for('content', category=currently_updating.category, mal_id=currently_updating.mal_id)}}" target="_blank">
