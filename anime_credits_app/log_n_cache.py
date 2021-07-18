@@ -99,7 +99,7 @@ def check_page_update(category, mal_id, time_limit : timedelta = None):
     scheduled_to_update = in_db and log.scheduled_to_update
     scheduled_time = scheduled_to_update and log.scheduled_time
     task_id =  (updating or scheduled_to_update) and log.task_id
-    update_failed = log.update_failed
+    update_failed = in_db and log.update_failed
 
     needs_update = exists and (not updating) and (time_limit and ( (datetime.now() - log.last_modified) > time_limit) )
 
