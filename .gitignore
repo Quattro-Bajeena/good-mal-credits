@@ -28,4 +28,4 @@ config.yaml
 celery_config.yaml
 logging_config.yaml
 
-
+enter_mysql.sh
