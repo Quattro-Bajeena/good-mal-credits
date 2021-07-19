@@ -45,15 +45,15 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterCol"><input type="text"> </th>
-            <th class="filterCol"><input type="text"> </th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
             <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><select class="filterList"><option value="">ALL</option></select></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th class="filterCol"><select class="filterList"><option value="">ALL</option></select></th>
         </tr>
     </thead>
 
@@ -72,7 +72,7 @@
             <td>{{credit.anime.members | format_big_number}}</td>
             <td>{{credit.anime.popularity | format_big_number}}</td>
 
-            <td>{{credit.anime.score}}</td>
+            <td>{{credit.anime.score | format_score}}</td>
             <td>{{credit.anime.rank | format_big_number}}</td>
             
             <td>{{credit.anime.aired_from | format_year}}</td>
@@ -108,6 +108,7 @@
 
             <th class="pictureCol"></th>
             <th class="sortableColHeader">CHARACTER</th>
+            <th class="sortableColHeader">ROLE</th>
             <th class="sortableColHeader">CHARACTER FAVOURITES</th>
 
             <th class="sortableColHeader">ANIME MEMBERS</th>
@@ -123,9 +124,10 @@
 
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
-            <th class="filterCol"><input type="text"> </th>
+            <th class="filterCol"><input type="text"></th>
             <th></th>
-            <th class="filterCol"><input type="text"> </th>
+            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><select class="filterList"><option value="">ALL</option></select></th>
             <th></th>
             <th></th>
             <th></th>
@@ -151,12 +153,14 @@
             </td>
             <td class="imageCell"><img class="tableImage" src="{{image_path(role.character, use_local_images)}}" ></td>
             <td>{{role.character.name}}</td>
-            <td>{{role.character.member_favorites | format_big_number}}</td>
+            <td>{{role.role}}</td>
+            <td>{{role.character.member_favorites | format_big_number }}</td>
+            
 
             <td>{{role.anime.members | format_big_number}}</td>
             <td>{{role.anime.popularity | format_big_number}}</td>
 
-            <td>{{role.anime.score}}</td>
+            <td>{{role.anime.score | format_score}}</td>
             <td>{{role.anime.rank | format_big_number}}</td>
             
             <td>{{role.anime.aired_from | format_year}}</td>
@@ -201,7 +205,7 @@
         <tr class="filterHeader">
             <th class="clearFilter">CLEAR</th>
             <th class="filterCol"><input type="text"></th>
-            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><select class="filterList"><option value="">ALL</option></select></th>
             <th></th>
             <th></th>
             <th></th>
@@ -210,7 +214,7 @@
             <th></th>
             <th></th>
             <th></th>
-            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><select class="filterList"><option value="">ALL</option></select></th>
         </tr>
     </thead>
 
@@ -225,7 +229,7 @@
             <td>{{credit.manga.members | format_big_number}}</td>
             <td>{{credit.manga.popularity | format_big_number}}</td>
 
-            <td>{{credit.manga.score}}</td>
+            <td>{{credit.manga.score | format_score}}</td>
             <td>{{credit.manga.rank | format_big_number}}</td>
             
             <td>{{credit.manga.published_from| format_year}}</td>

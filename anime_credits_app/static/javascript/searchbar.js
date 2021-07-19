@@ -1,8 +1,11 @@
+'use strict';
 {
 
 const searchBarInput = document.getElementById('searchBarInput');
 const invalidSearchSlider = document.getElementById('invalidSearchSlider');
 const searchButton = document.getElementById('searchButton');
+let button_id = window.localStorage.getItem("picked_category_button_id");
+
 
 const validInput = function(input){
     return input.trim() != '' && input.trim().length >= 3;
@@ -71,7 +74,7 @@ const dynamicSearch = function(event){
     const query = searchBarInput.value;
     if(query.trim() != '' && query.trim().length >= 3){
 
-        const button_id = window.localStorage.getItem("picked_category_button_id");
+        button_id = window.localStorage.getItem("picked_category_button_id");
         const category = document.getElementById(button_id).value;
         const search_url = `/quick_search/${category}/${query}`;
 

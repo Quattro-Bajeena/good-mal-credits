@@ -1,3 +1,4 @@
+'use strict';
 {
 
 const getCellValue = function  (tr, idx) {
@@ -20,7 +21,7 @@ const comparer = function(idx, asc){
         function comparison_value( v1, v2) {
 
             const delimiters = [',', '-', ' '];
-            for(delimiter of delimiters){
+            for(const delimiter of delimiters){
                 v1 = v1.replaceAll(delimiter, '');
                 v2 = v2.replaceAll(delimiter, '');
             }
@@ -108,7 +109,7 @@ document.querySelectorAll('.hideTableButton').forEach(button => button.addEventL
 const column_filter = function(idx, searched_value){
 
     function column_filter_idx(tr){
-        cell_value = getCellValue(tr, idx);
+        const cell_value = getCellValue(tr, idx);
         return cell_value.toLowerCase().includes(searched_value.toLowerCase());
     }
     return column_filter_idx;
@@ -128,7 +129,7 @@ const filterTable = function(event){
     for(const input of inputs){
         const value = input.value;
         const this_th = input.closest('th');
-        index = Array.from(this_th.parentNode.children).indexOf(this_th);
+        const index = Array.from(this_th.parentNode.children).indexOf(this_th);
         included = included.filter(column_filter(index, value));
     }
 
@@ -154,6 +155,11 @@ const clearFilters = function(event){
         input.value = "";
     }
 
+    const filterLists = Array.from(th.closest('table').querySelectorAll('.filterCol select'));
+    for(const list of filterLists){
+        list.value = '';
+    }
+
     const fake_event = {target : th };
     filterTable(fake_event);
 
@@ -164,7 +170,7 @@ document.querySelectorAll('.clearFilter').forEach(header => header.addEventListe
 // Update filter list with all options available
 document.querySelectorAll('.filterList').forEach(
     select => {
-        th = select.parentNode;
+        const  th = select.parentNode;
         const body_rows = Array.from(select.closest('table').querySelector('tbody').querySelectorAll('tr'));
         const index = Array.from(select.closest('tr').children).indexOf(th);
         const values = new Set(body_rows.map(tr => getCellValue(tr, index)));
@@ -179,7 +185,7 @@ document.querySelectorAll('.filterList').forEach(
 // Set languge to japanese by deafult
 document.querySelectorAll('.languageFilter').forEach(
     select => {
-        japanese = Array.from(select.children).filter(option => option.value == "Japanese");
+        const japanese = Array.from(select.children).filter(option => option.value == "Japanese");
         if(japanese){
             select.value = "Japanese";
         }

@@ -96,6 +96,15 @@ def format_big_number(value):
         return "-"
 
 
+@app.template_filter('format_score')
+def format_score(value):
+    if not value or  value == 'None':
+        return '-'
+    else:
+        return value
+    
+
+
 
 
 

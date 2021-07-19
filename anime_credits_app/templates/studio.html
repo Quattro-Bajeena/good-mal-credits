@@ -80,7 +80,7 @@
             <td>{{anime.popularity | format_big_number}}</td>
             <td>{{anime.favorites | format_big_number}}</td>
 
-            <td>{{anime.score}}</td>
+            <td>{{anime.score | format_score}}</td>
             <td>{{anime.rank | format_big_number}}</td>
 
             <td>{{anime.aired_from | format_year}}</td>
@@ -103,5 +103,5 @@
 
 
 {% block javascript %}
-<script  src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+<script type="module" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
 {%endblock%}
