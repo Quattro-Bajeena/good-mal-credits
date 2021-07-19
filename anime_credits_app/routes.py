@@ -198,7 +198,11 @@ def download_statistics_data():
 
 @app.route('/download-statistics')
 def download_statistics():
-    currently_updating = models.PageStatus.query.filter_by(updating=True).first()
+    currently_updating = models.PageStatus.query.filter_by(updating=True).all()
+    
+    if len(currently_updating) > 1:
+        currently_updating = None
+
     update_queue = models.PageStatus.query.filter_by(scheduled_to_update=True).order_by(models.PageStatus.scheduled_time).all()
 
     # pages_not_existing = models.PageStatus.query.\

@@ -14,7 +14,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 5em;
-    margin-top: auto;
+    
     margin-bottom: 10px;
 
 }
@@ -147,6 +147,7 @@
     display: flex;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: auto;
     
 }
 
