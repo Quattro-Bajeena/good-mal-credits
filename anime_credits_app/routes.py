@@ -165,7 +165,14 @@ def content(category, mal_id : int):
 
 @app.route('/studio-ranking')
 def studio_ranking():
-    studios = models.Studio.query.all()
+    threshold = request.args.get('threshold')
+
+    if not threshold:
+        threshold = 0
+    else:
+        threshold = int(threshold)
+
+    studios =[studio for studio in models.Studio.query.all() if len(studio.anime) > threshold]
     return render_template('studio_ranking.html', studios = studios)
 
 @app.route('/download-statistics/data')

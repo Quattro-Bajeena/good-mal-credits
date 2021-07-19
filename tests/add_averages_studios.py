@@ -39,11 +39,10 @@ def update_studios_averages():
                 member_count += 1
 
 
-        average_score = score_sum / score_count
-        average_members = members_sum / member_count
+        studio_db.average_score = score_sum / score_count
+        studio_db.average_members = members_sum / member_count
+        studio_db.sum_members = members_sum
 
-        studio_db.average_score = average_score
-        studio_db.average_members = average_members
         adc.mal.save_studio(studio_mal)
         db.session.commit()
 

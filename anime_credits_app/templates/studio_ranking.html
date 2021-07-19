@@ -14,7 +14,20 @@
 {% block main %}
 
 
+
 <div class="tableSection">
+<h1>Studio ranking</h1>
+
+<form action="{{url_for('studio_ranking')}}">
+    <label for="threshold"><h3>Minimum amount of anime studio made</h3></label>
+    <div>
+        <input id="thresholdSlider"  type="range" min="0" max="100" value="0">
+        <input id="numberDisplay" type="text" name="threshold" value="0">
+        <button>Filter</button>
+    </div>
+    
+    
+</form>
 
 <table id="studioAnimeTable" class="contentTable">
     <thead>
@@ -22,9 +35,11 @@
             <th class="sortableColHeader fixedWidth">NAME</th>
             <th class="sortableColHeader">TYPE</th>
 
-            <th class="sortableColHeader">SCORE</th>
-            <th class="sortableColHeader">POPULARITY</th>
-            <th class="sortableColHeader">FAVOURITES</th>
+            <th class="sortableColHeader">AVG. SCORE</th>
+            <th class="sortableColHeader">AVG. MEMBERS</th>
+            <th class="sortableColHeader">AVG. FAVOURITES</th>
+            <th class="sortableColHeader">SUM MEMBERS</th>
+            <th class="sortableColHeader">SUM FAVOURITES</th>
  
         </tr>
 
@@ -35,6 +50,8 @@
             <th></th>
             <th></th>
             <th></th>    
+            <th></th>  
+            <th></th>  
         </tr>
     </thead>
 
@@ -48,6 +65,8 @@
             <td>{{average_studio_score(studio)}}</td>
             <td>{{average_studio_members(studio) | format_big_number}}</td>
             <td>{{average_studio_favorites(studio) | format_big_number}}</td>
+            <td>{{sum_studio_members(studio) | format_big_number}}</td>
+            <td>{{sum_studio_favorites(studio) | format_big_number}}</td>
             
             
             
@@ -66,4 +85,5 @@
 
 {% block javascript %}
 <script type="module" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+<script type="module" src="{{url_for('static', filename='javascript/studio_ranking.js')}}"></script>
 {%endblock%}

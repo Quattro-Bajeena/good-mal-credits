@@ -21,3 +21,18 @@
     }
 
 }
+
+.tableSection form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#numberDisplay{
+    width: 3em;
+}
+
+.tableSection button{
+    padding: 3px;
+    font-size: 1em;
+}

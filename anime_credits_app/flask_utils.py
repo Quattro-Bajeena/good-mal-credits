@@ -69,6 +69,27 @@ def average_studio_members(studio : models.Studio):
         else:
             return '-'
 
+def sum_studio_members(studio : models.Studio):
+    if studio.sum_members:
+        return studio.sum_members
+    else:
+        members_sum = 0
+        for anime in studio.anime:
+            if anime.members is not None:
+                members_sum += anime.members
+        return members_sum 
+
+def sum_studio_favorites(studio : models.Studio):
+    if studio.sum_favourites:
+        return studio.sum_favourites
+    else:
+        favorites_sum = 0
+        for anime in studio.anime:
+            if anime.favorites is not None:
+                favorites_sum += anime.favorites
+        return favorites_sum 
+
+
 @app.context_processor
 def inject_python_functions():
 
@@ -81,7 +102,8 @@ def inject_python_functions():
 
     return {
         'len' : len, 'staff_age' : staff_age, 'resource_name' : log_n_cache.get_resource_name, 'image_path' : image_path, 'truncate' : truncate,
-        'average_studio_score' : average_studio_score, 'average_studio_favorites' : average_studio_favorites, 'average_studio_members' : average_studio_members
+        'average_studio_score' : average_studio_score, 'average_studio_favorites' : average_studio_favorites, 'average_studio_members' : average_studio_members,
+        'sum_studio_members' : sum_studio_members, 'sum_studio_favorites' : sum_studio_favorites
     }
 
 @app.template_filter('format_percentage')

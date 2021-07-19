@@ -153,6 +153,8 @@ class Studio(db.Model):
     average_score = db.Column(db.Float)
     average_members = db.Column(db.Float)
     average_favourites = db.Column(db.Float)
+    sum_members = db.Column(db.Integer)
+    sum_favourites = db.Column(db.Integer)
 
     
     anime = db.relationship('Anime', secondary=studios, lazy=True, backref=db.backref('studios', lazy=True))
