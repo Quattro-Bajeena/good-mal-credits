@@ -25,31 +25,49 @@ def truncate(string, length) -> str:
     return (string[:length] + '...') if len(string) > length else string
 
 def average_studio_score(studio : models.Studio):
-    score_sum = 0
-    quantity = 0
-    for anime in studio.anime:
-        if anime.score is not None:
-            score_sum += anime.score
-            quantity += 1
-    return round(score_sum / quantity ,2 )
+    if studio.average_score:
+        return round(studio.average_score,2)
+    else:
+        score_sum = 0
+        quantity = 0
+        for anime in studio.anime:
+            if anime.score is not None:
+                score_sum += anime.score
+                quantity += 1
+        if quantity != 0:
+            return round(score_sum / quantity ,2 )
+        else:
+            return '-'
 
 def average_studio_favorites(studio : models.Studio):
-    favorites_sum = 0
-    quantity = 0
-    for anime in studio.anime:
-        if anime.favorites is not None:
-            favorites_sum += anime.favorites
-            quantity += 1
-    return round(favorites_sum / quantity)
+    if studio.average_favourites:
+        return round(studio.average_favourites)
+    else:
+        favorites_sum = 0
+        quantity = 0
+        for anime in studio.anime:
+            if anime.favorites is not None:
+                favorites_sum += anime.favorites
+                quantity += 1
+        if quantity != 0:
+            return round(favorites_sum / quantity )
+        else:
+            return '-'
 
 def average_studio_members(studio : models.Studio):
-    members_sum = 0
-    quantity = 0
-    for anime in studio.anime:
-        if anime.members is not None:
-            members_sum += anime.members
-            quantity += 1
-    return round(members_sum / quantity)
+    if studio.average_members:
+        return round(studio.average_members)
+    else:
+        members_sum = 0
+        quantity = 0
+        for anime in studio.anime:
+            if anime.members is not None:
+                members_sum += anime.members
+                quantity += 1
+        if quantity != 0:
+            return round(members_sum / quantity )
+        else:
+            return '-'
 
 @app.context_processor
 def inject_python_functions():

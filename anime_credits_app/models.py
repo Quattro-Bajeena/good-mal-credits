@@ -150,6 +150,9 @@ class Studio(db.Model):
     work_type = db.Column(db.String(100))
     name = db.Column(db.String(100), nullable=False)
     url = db.Column(db.String(200))
+    average_score = db.Column(db.Float)
+    average_members = db.Column(db.Float)
+    average_favourites = db.Column(db.Float)
 
     
     anime = db.relationship('Anime', secondary=studios, lazy=True, backref=db.backref('studios', lazy=True))

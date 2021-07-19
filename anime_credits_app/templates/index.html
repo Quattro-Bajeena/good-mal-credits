@@ -54,9 +54,11 @@
     </div>
 </form>
 
-<div id="sample">
+
+
+<div id="sample" class="indexSection">
     <p>If you don't know where to start, check out some of my favourites</p>
-    <div id="samplePages">
+    <div id="samplePages" class="indexLists">
         <ul id="sampleAnime">
             <h1>Anime</h1>
             <li><a href="{{url_for('content',category='anime', mal_id=30)}}">Evangelion</a></li>
@@ -77,6 +79,13 @@
             <li><a href="{{url_for('content',category='studios', mal_id=2)}}">Kyoto Animation</a></li>
         </ul>
     </div>
+</div>
+
+<div id="rankingPages" class="indexLists">
+    <h1>Rankings:</h1>
+    <ul id="rankingList">
+        <li><a href="{{url_for('studio_ranking')}}"><h2>Studios</h2></a></li>
+    </ul>
 </div>
 
 

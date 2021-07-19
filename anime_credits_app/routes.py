@@ -163,6 +163,11 @@ def content(category, mal_id : int):
         resource = resource_models[category].query.get_or_404(mal_id)
         return render_template(templates[category], resource = resource, use_local_images=app.config.get('USE_LOCAL_IMAGES'))
 
+@app.route('/studio-ranking')
+def studio_ranking():
+    studios = models.Studio.query.all()
+    return render_template('studio_ranking.html', studios = studios)
+
 @app.route('/download-statistics/data')
 def download_statistics_data():
     currently_updating =[page.id for page in models.PageStatus.query.filter_by(updating=True).all()]

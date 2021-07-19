@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Studio Ranking</title>
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_table.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/content_page.css')}}">
+<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/studio_ranking.css')}}">
+{% endblock %}
+
+
+{% block main %}
+
+
+<div class="tableSection">
+
+<table id="studioAnimeTable" class="contentTable">
+    <thead>
+        <tr class="mainHeader">
+            <th class="sortableColHeader fixedWidth">NAME</th>
+            <th class="sortableColHeader">TYPE</th>
+
+            <th class="sortableColHeader">SCORE</th>
+            <th class="sortableColHeader">POPULARITY</th>
+            <th class="sortableColHeader">FAVOURITES</th>
+ 
+        </tr>
+
+        <tr class="filterHeader">
+            <th class="filterCol"><input type="text"></th>
+            <th class="filterCol"><select class="filterList"> <option value="" selected>ALL</option></select></th>
+
+            <th></th>
+            <th></th>
+            <th></th>    
+        </tr>
+    </thead>
+
+
+    <tbody>
+        {% for studio in studios %}
+        <tr>
+            <td><a href="{{url_for('content',category='studios', mal_id=studio.mal_id)}}" >{{studio.name}}</a></td>
+            <td>{{studio.work_type}}</td>
+
+            <td>{{average_studio_score(studio)}}</td>
+            <td>{{average_studio_members(studio) | format_big_number}}</td>
+            <td>{{average_studio_favorites(studio) | format_big_number}}</td>
+            
+            
+            
+        </tr>
+        {% endfor %}
+    </tbody>
+    
+</table>
+
+</div>
+
+{%endblock%}
+
+
+
+
+{% block javascript %}
+<script type="module" src="{{url_for('static', filename='javascript/content_table.js')}}"></script>
+{%endblock%}

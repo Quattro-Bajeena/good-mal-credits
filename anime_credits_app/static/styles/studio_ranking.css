@@ -1,0 +1,23 @@
+#mainBlock{
+    display: block;
+}
+
+#studioAnimeTable{
+    margin-top: 50px;
+}
+
+.tableSection{
+    
+}
+
+.contentTable tbody td{
+    padding: 5px;
+}
+
+@media (max-width:1600px){
+    .tableSection{
+        width: auto;
+        justify-self: center;
+    }
+
+}
