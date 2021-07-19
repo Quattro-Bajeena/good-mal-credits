@@ -174,13 +174,17 @@ def download_statistics_data():
     studios_count = models.Studio.query.count()
 
     content = {
-        'Currently Updating' : currently_updating,
-        "Update Que" : update_que,
-        "Update failed" : pages_update_failed,
-        "With Task id" : with_task_id,
-        "Anime Count" : anime_count,
-        "People Count" : people_count,
-        "Studios Count" : studios_count
+        'Counts':{
+            "Anime Count" : anime_count,
+            "People Count" : people_count,
+            "Studios Count" : studios_count
+        },
+        "Downloads" : {
+            'Currently Updating' : currently_updating,
+            "Update Que" : update_que,
+            "Update failed" : pages_update_failed,
+            "With Task id" : with_task_id
+        }     
     }
     return content
 
